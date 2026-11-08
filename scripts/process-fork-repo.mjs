@@ -1,6 +1,8 @@
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
+import {materializeLfsAssets} from './materialize-lfs-assets.mjs';
+import {assertStartupFiles} from './static-game-validation.mjs';
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -98,6 +100,7 @@ async function run() {
   const tree = await githubRequest(
     `/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/trees/${headCommit.tree.sha}?recursive=1`,
   );
+  if (tree.truncated) throw new Error('GitHub returned a truncated tree; publication requires a complete file inventory');
 
   const files = tree.tree.filter((item) => item.type === "blob");
   const discoveredHtmlFiles = files
@@ -149,6 +152,18 @@ async function run() {
   let currentTree = tree;
   let currentFiles = files;
 
+  const pluginFile = files.find(file => file.path === `${detection.projectRoot}js/plugins.js`);
+  if (!pluginFile) throw new Error('Missing js/plugins.js');
+  const pluginBlob = await githubRequest(`/repos/${targetOrg}/${repoName}/git/blobs/${pluginFile.sha}`);
+  const mainFile=files.find(file=>file.path===`${detection.projectRoot}js/main.js`);
+  if(!mainFile)throw new Error('Missing js/main.js');
+  const mainBlob=await githubRequest(`/repos/${targetOrg}/${repoName}/git/blobs/${mainFile.sha}`);
+  result.startupFilesChecked = assertStartupFiles(files, htmlByPath.get(detection.entryPath), detection.entryPath,
+    Buffer.from(pluginBlob.content, pluginBlob.encoding).toString('utf8'), detection.projectRoot,
+    Buffer.from(mainBlob.content,mainBlob.encoding).toString('utf8'));
+  result.staticBytes = files.filter(file => file.path.startsWith(detection.projectRoot)).reduce((sum,file)=>sum+(file.size||0),0);
+  if (result.staticBytes > 900*1024*1024) throw new Error('Static game exceeds the 900 MiB Pages publication budget');
+
   if (detection.projectRoot && !dryRun) {
     const flat = await flattenProjectToRoot(branch, currentHeadSha, currentTree, detection.projectRoot);
     if (flat) {
@@ -156,6 +171,7 @@ async function run() {
       // Re-fetch tree after flattening
       const newCommit = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/commits/${currentHeadSha}`);
       currentTree = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/trees/${newCommit.tree.sha}?recursive=1`);
+      if (currentTree.truncated) throw new Error('Truncated flattened tree');
       currentFiles = currentTree.tree.filter((item) => item.type === "blob");
 
       // Update detection paths — projectRoot is now empty
@@ -179,6 +195,8 @@ async function run() {
   result.dataSize = dataSize;
 
   const updates = new Map();
+  if (!currentFiles.some(file => file.path === '.nojekyll')) updates.set('.nojekyll','');
+  if (currentFiles.some(file => file.path === 'CNAME')) updates.set('CNAME',null);
 
   // Check if a cover image already exists in the repo root
   const existingCoverFile = currentTree.tree.find(
@@ -296,6 +314,23 @@ async function run() {
     console.log(`[skip] HTML already prepared in ${targetOrg}/${repoName}`);
   }
 
+  let lfsDetected = false;
+  const attrs = currentFiles.filter(file => path.posix.basename(file.path) === '.gitattributes');
+  for (const file of attrs) {
+    const blob=await githubRequest(`/repos/${targetOrg}/${repoName}/git/blobs/${file.sha}`);
+    if (/filter=lfs/.test(Buffer.from(blob.content,blob.encoding).toString('utf8'))) lfsDetected=true;
+  }
+  // Pointer files may survive even if the source forgot .gitattributes.
+  if (!lfsDetected) {
+    for (const file of currentFiles.filter(file => /(?:^|\/)Window\.png$|^cover\./i.test(file.path) && file.size < 1024)) {
+      const blob=await githubRequest(`/repos/${targetOrg}/${repoName}/git/blobs/${file.sha}`);
+      if (Buffer.from(blob.content,blob.encoding).toString('utf8').startsWith('version https://git-lfs.github.com/spec/v1')) lfsDetected=true;
+    }
+  }
+  if (lfsDetected) {
+    result.lfs = await materializeLfsAssets({repository:`${targetOrg}/${repoName}`,token});
+    console.log(`[lfs] Materialized ${result.lfs.files} files (${result.lfs.bytes} bytes)`);
+  }
   await ensurePages(branch, "/");
   result.htmlFilesUpdated = updates.size;
   result.pagesEnabled = true;
@@ -620,6 +655,11 @@ async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
   if (coverEntry) {
     blobEntries.push({ path: coverEntry.path, sha: coverEntry.sha, mode: "100644", type: "blob" });
   }
+  // Preserve attribution outside the selected Web export when flattening it.
+  const movedPaths=new Set(blobEntries.map(item=>item.path.toLowerCase()));
+  for (const item of tree.tree.filter(item=>item.type==='blob' && (/^(?:licen[cs]e|copying|notice|authors|copyright)(?:[._-].*)?$/i.test(item.path) || item.path==='.gitattributes'))) {
+    if (!movedPaths.has(item.path.toLowerCase())) blobEntries.push({path:item.path,sha:item.sha,mode:'100644',type:'blob'});
+  }
 
   if (blobEntries.length === 0) {
     console.log(`[flatten] No blobs found under ${projectRoot}, skipping`);
@@ -628,34 +668,11 @@ async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
 
   console.log(`[flatten] Moving ${blobEntries.length} files from ${projectRoot} to root`);
 
-  // Group by top-level directory for nested tree creation
-  const dirGroups = new Map();
-  const rootBlobs = [];
-
-  for (const entry of blobEntries) {
-    const slash = entry.path.indexOf("/");
-    if (slash === -1) {
-      rootBlobs.push(entry);
-    } else {
-      const dir = entry.path.slice(0, slash);
-      if (!dirGroups.has(dir)) dirGroups.set(dir, []);
-      dirGroups.get(dir).push(entry);
-    }
-  }
-
-  // Recursively create subtrees for each directory
-  const rootEntries = [...rootBlobs];
-
-  for (const [dirName, dirEntries] of dirGroups) {
-    const subtreeSha = await createSubtree(dirName + "/", dirEntries);
-    rootEntries.push({ path: dirName, sha: subtreeSha, mode: "040000", type: "tree" });
-    console.log(`[flatten] Created subtree for ${dirName}/`);
-  }
-
-  // Create root tree
+  // GitHub accepts nested paths in one tree request. Avoid one mutating
+  // request per asset directory when processing a large game export.
   const rootTree = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/trees`, {
     method: "POST",
-    body: { tree: rootEntries },
+    body: { tree: blobEntries },
     ok: [201],
   });
 
@@ -731,6 +748,10 @@ async function commitHtmlUpdates({ branch, baseCommitSha, baseTreeSha, updates }
   const treeEntries = [];
 
   for (const [filePath, content] of updates) {
+    if (content === null) {
+      treeEntries.push({path:filePath,mode:'100644',type:'blob',sha:null});
+      continue;
+    }
     // content can be a string (HTML) or a Buffer (binary, e.g. cover.png)
     const base64Content = Buffer.isBuffer(content)
       ? content.toString("base64")
@@ -863,6 +884,7 @@ async function ensurePages(branch, sourcePath) {
 }
 
 async function githubRequest(apiPath, options = {}) {
+  if (options.method && options.method !== 'GET') await new Promise(resolve=>setTimeout(resolve,1100));
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), githubApiTimeoutMs);
   let response;

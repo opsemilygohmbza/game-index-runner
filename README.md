@@ -2,6 +2,29 @@
 
 > 2026-11-08 新账号恢复：`list.json` 是唯一目录真源，旧账号的部署状态不作为新账号可玩证明。索引使用仓库内置 `GITHUB_TOKEN`，可独立运行。Fork/Pages 还需给新账号安装 GitHub App，配置 `WEBRPG_APP_CLIENT_ID` Variable、`WEBRPG_APP_PRIVATE_KEY` Secret，最后把 `WEBRPG_AUTOMATION_ENABLED` Variable 设置为 `true`。未满足时 Fork 会显示待配置并跳过，绝不表示游戏迁移成功。密钥仅在 GitHub Secrets 中填写。
 
+## 全量恢复队列
+
+一次任务覆盖整个真源目录，而不是固定处理五款后退出。执行前确认 GitHub CLI 当前登录的是目标账号；脚本只在内存读取已有登录，凭据不会写入目录、结果或 Actions Secret。
+
+```bash
+node scripts/migrate-all-games.mjs
+DRY_RUN=false node scripts/migrate-all-games.mjs
+```
+
+首条命令只规划。恢复实际运行时仍执行第二条，已完成项会跳过。失败项逐项保存在被 Git 忽略的 `migration-state/progress.json`；修复具体故障后再执行：
+
+```bash
+DRY_RUN=false RETRY_BLOCKED=true node scripts/migrate-all-games.mjs
+```
+
+当前全量队列采用串行准备，Fork 间隔至少八秒；检查启用插件与入口脚本的大小写精确路径，保留扁平化前的根部署名文件，添加 `.nojekyll`，移除游戏 Fork 自带的 `CNAME`。LFS 文件先校验长度与 SHA-256，再保存成真实静态资源；单文件上限 95 MiB、静态站点预算 900 MiB。每个游戏单独占用临时目录并在结束后清理，不将全量游戏下载到本机或 VPS。
+
+等待对应提交的 Pages 构建成功与 HTML 入口返回后，才使用并发安全的合并写入唯一 `list.json`；每十项变更触发一次门户部署，队列正常结束时补发剩余变更。`publication` 只表示构建和入口检查，`runtime.status=passed` 需要另外的浏览器实际操作证据，二者并不等价。队列不会伪造 `runtime`，新版提交也不会继承旧版的运行验证。
+
+GitHub 返回 401、403 或 429 时保存进度并暂停新增操作，不循环绕开限制。恢复前先排查响应原因与账户额度。`hidden` 和原有 `invalid_structure` 保持原状态，不把非游戏仓库凑作可玩数量。此队列是本机显式启动的恢复进程，**不是已经配置完成的云端定时器**；长期 Actions 仍依赖上面的 App 配置。
+
+参考：[GitHub REST API 最佳实践](https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api)、[Pages 使用限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)、[Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)。
+
 ## Scheduling
 
 The only scheduled entry point is `index-github-rpgmaker-repos.yml`, using native cron `17 2 1,6,11,16,21,26 * *`: 10:17 Beijing on the 1st, 6th, 11th, 16th, 21st and 26th each month. There is no daily checker, no daily guard workflow and no sleeping/self-renewal chain. Most intervals are five days; month-end intervals are 3–6 days. This is a calendar-based low-frequency cadence, not a claim of exact 120-hour execution.

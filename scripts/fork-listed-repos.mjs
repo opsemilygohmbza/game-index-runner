@@ -136,9 +136,9 @@ if (failed > 0) {
 
 function getUniqueSources(entries) {
   const bySource = new Map();
-  const seenRepoNames = new Set();
 
   for (const entry of entries) {
+    if (entry.status === 'hidden') continue;
     if (!includeInvalid && isInvalidEntry(entry)) {
       continue;
     }
@@ -155,13 +155,6 @@ function getUniqueSources(entries) {
 
     const source = `${entry.owner}/${entry.name}`;
     const sourceKey = source.toLowerCase();
-    const repoNameKey = String(entry.name).toLowerCase();
-
-    if (seenRepoNames.has(repoNameKey)) {
-      continue;
-    }
-    seenRepoNames.add(repoNameKey);
-
     if (!bySource.has(sourceKey)) {
       bySource.set(sourceKey, {
         source,

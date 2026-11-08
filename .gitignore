@@ -1,4 +1,6 @@
 .catalog-base.json
 workflow-results/
+workflow-results-live/
+migration-state/
 node_modules/
 .DS_Store

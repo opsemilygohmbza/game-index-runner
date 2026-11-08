@@ -66,7 +66,6 @@ async function loadOrgRepos(org) {
 
 function getUniqueSources(entries) {
   const bySource = new Map();
-  const seenRepoNames = new Set();
 
   for (const entry of entries) {
     if (isSkippedEntry(entry)) {
@@ -75,13 +74,6 @@ function getUniqueSources(entries) {
 
     const source = `${entry.owner}/${entry.name}`;
     const sourceKey = source.toLowerCase();
-    const repoNameKey = String(entry.name).toLowerCase();
-
-    if (seenRepoNames.has(repoNameKey)) {
-      continue;
-    }
-    seenRepoNames.add(repoNameKey);
-
     if (!bySource.has(sourceKey)) {
       bySource.set(sourceKey, {
         source,
