@@ -5406,14 +5406,14 @@
     "owner": "Beeveelutions",
     "name": "Project-Starmans",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-03T15:50:07.720Z",
     "source": "github-code-search",
     "sourcePath": "Project Starman/index.html",
-    "checkedAt": "2026-11-01T04:42:03.389Z",
+    "checkedAt": "2026-11-08T20:31:27.725Z",
     "forkName": "Beeveelutions-Project-Starmans",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 405745,
     "dataSize": 669102,
     "sourceRepo": "Beeveelutions/Project-Starmans",
@@ -5432,7 +5432,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Beeveelutions-Project-Starmans/",
     "upstreamCover": "https://webrpg.org/Beeveelutions-Project-Starmans/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Beeveelutions-Project-Starmans/index.html",
+    "cover": "https://yx.ecy.al/Beeveelutions-Project-Starmans/cover.png",
+    "publication": {
+      "commit": "e71a0af53fef6074781828fb05f1f63243f8d3d0",
+      "checkedAt": "2026-11-08T20:36:28.481Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "benjaminpants-benjaminpants-github-io",
