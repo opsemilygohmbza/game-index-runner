@@ -29441,12 +29441,12 @@
     "owner": "pieworkplace",
     "name": "Tower-of-Sorcerer-2018",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:07.299Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:25:48.193Z",
     "forkName": "pieworkplace-Tower-of-Sorcerer-2018",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 474339,
+    "totalSize": 474378,
     "dataSize": 1025668,
     "sourceRepo": "pieworkplace/Tower-of-Sorcerer-2018",
     "sourceDefaultBranch": "master",
@@ -29472,7 +29472,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/pieworkplace-Tower-of-Sorcerer-2018/",
     "upstreamCover": "https://webrpg.org/pieworkplace-Tower-of-Sorcerer-2018/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/pieworkplace-Tower-of-Sorcerer-2018/index.html",
+    "cover": "https://yx.ecy.al/pieworkplace-Tower-of-Sorcerer-2018/cover.png",
+    "publication": {
+      "commit": "1f9ea23bcc709a3b3b1d69c1d5739c739a053329",
+      "checkedAt": "2026-11-08T12:28:01.508Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pigg0bot-s-rpgmaker-proj",
@@ -30356,13 +30364,13 @@
     "owner": "RabiMew",
     "name": "RabiMew.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:16.639Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:26:53.318Z",
     "forkName": "RabiMew-RabiMew.github.io",
-    "entryPath": "killNyakoGame/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 77672,
-    "dataSize": 0,
+    "totalSize": 77667,
+    "dataSize": 686766,
     "sourceRepo": "RabiMew/RabiMew.github.io",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "ed263ec8f17674225f069160180e6336c0e73541",
@@ -30384,7 +30392,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/RabiMew-RabiMew.github.io/",
     "upstreamCover": "https://webrpg.org/RabiMew-RabiMew.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/RabiMew-RabiMew.github.io/index.html",
+    "cover": "https://yx.ecy.al/RabiMew-RabiMew.github.io/cover.png",
+    "publication": {
+      "commit": "4ea8b52d8d0af24dc31f88782a1ca39627d89404",
+      "checkedAt": "2026-11-08T12:30:07.202Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "raeptor-studio-raeptor",
@@ -30657,12 +30673,12 @@
     "owner": "realquantumcookie",
     "name": "WulinWaiZhuan",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:21.048Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:27:13.494Z",
     "forkName": "realquantumcookie-WulinWaiZhuan",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 408339,
+    "totalSize": 408337,
     "dataSize": 707207,
     "sourceRepo": "realquantumcookie/WulinWaiZhuan",
     "sourceDefaultBranch": "master",
@@ -30688,7 +30704,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/realquantumcookie-WulinWaiZhuan/",
     "upstreamCover": "https://webrpg.org/realquantumcookie-WulinWaiZhuan/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/realquantumcookie-WulinWaiZhuan/index.html",
+    "cover": "https://yx.ecy.al/realquantumcookie-WulinWaiZhuan/cover.png",
+    "publication": {
+      "commit": "7146412ac0e23185ce3955dd974b1ffe7270d57f",
+      "checkedAt": "2026-11-08T12:30:48.572Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "redhawkphyre-killer-nights",
@@ -30901,12 +30925,12 @@
     "owner": "rem5462",
     "name": "gition",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:25.462Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:30:00.818Z",
     "forkName": "rem5462-gition",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 456038,
+    "totalSize": 456036,
     "dataSize": 1441365,
     "sourceRepo": "rem5462/gition",
     "sourceDefaultBranch": "master",
@@ -30931,7 +30955,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/rem5462-gition/",
     "upstreamCover": "https://webrpg.org/rem5462-gition/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/rem5462-gition/index.html",
+    "cover": "https://yx.ecy.al/rem5462-gition/cover.png",
+    "publication": {
+      "commit": "013bc35a6400892cb527e9695710bc6e7d835f23",
+      "checkedAt": "2026-11-08T12:32:42.576Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "remento-pennycode",
@@ -31023,8 +31055,8 @@
     "owner": "renrender0209",
     "name": "aooni",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:27.325Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:30:10.412Z",
     "forkName": "renrender0209-aooni",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -31060,7 +31092,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/renrender0209-aooni/",
     "upstreamCover": "https://webrpg.org/renrender0209-aooni/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/renrender0209-aooni/index.html",
+    "cover": "https://yx.ecy.al/renrender0209-aooni/cover.png",
+    "publication": {
+      "commit": "6aeb15d11213e44e2c147479081c7cd916cf10e5",
+      "checkedAt": "2026-11-08T12:32:20.426Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "renrender0209-kankin",
