@@ -6,15 +6,15 @@
     "owner": "00due",
     "name": "rupuauto-game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T00:26:40.128Z",
+    "checkedAt": "2026-11-08T15:16:40.004Z",
     "forkName": "00due-rupuauto-game",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 41039,
     "dataSize": 7383179,
     "sourceRepo": "00due/rupuauto-game",
@@ -25,7 +25,15 @@
     "reachabilityDetail": "https://webrpg.org/00due-rupuauto-game/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/00due-rupuauto-game/",
     "upstreamCover": "https://webrpg.org/00due-rupuauto-game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/00due-rupuauto-game/index.html",
+    "cover": "https://yx.ecy.al/00due-rupuauto-game/cover.png",
+    "publication": {
+      "commit": "863595acc08cc70422d9a5ea6f24a785ab82558e",
+      "checkedAt": "2026-11-08T15:18:39.746Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "0mnipr3z-hitcraft-php-js",
@@ -94,16 +102,16 @@
     "owner": "0ui0",
     "name": "owo_terminal_public",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "server/apps/aiRpg/rmmz/index.html",
-    "checkedAt": "2026-11-01T12:52:24.037Z",
+    "checkedAt": "2026-11-08T15:16:49.833Z",
     "forkName": "0ui0-owo_terminal_public",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
-    "totalSize": 202992,
+    "validationScore": 90,
+    "totalSize": 204317,
     "dataSize": 545138,
     "sourceRepo": "0ui0/owo_terminal_public",
     "sourceDefaultBranch": "main",
@@ -123,7 +131,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/0ui0-owo_terminal_public/",
     "upstreamCover": "https://webrpg.org/0ui0-owo_terminal_public/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/0ui0-owo_terminal_public/index.html",
+    "cover": "https://yx.ecy.al/0ui0-owo_terminal_public/cover.png",
+    "publication": {
+      "commit": "0e80b7c14853ac36186eb84cd33331442ac40693",
+      "checkedAt": "2026-11-08T15:19:45.696Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "0x416c616e-2drpggamengine",
@@ -372,15 +388,15 @@
     "owner": "27DAnderson",
     "name": "MythologyRPGM",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:31:10.297Z",
+    "checkedAt": "2026-11-08T15:19:38.354Z",
     "forkName": "27DAnderson-MythologyRPGM",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 16906,
     "dataSize": 565425,
     "sourceRepo": "27DAnderson/MythologyRPGM",
@@ -405,7 +421,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/27DAnderson-MythologyRPGM/",
     "upstreamCover": "https://webrpg.org/27DAnderson-MythologyRPGM/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/27DAnderson-MythologyRPGM/index.html",
+    "cover": "https://yx.ecy.al/27DAnderson-MythologyRPGM/cover.png",
+    "publication": {
+      "commit": "e829bb75ae063e6bab588ad9a6027fc1bfa831f7",
+      "checkedAt": "2026-11-08T15:22:05.337Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "27danderson-pogipediaportfolio",
@@ -42211,8 +42235,8 @@
     "owner": "YuukiOgino",
     "name": "ProjectTogebuTraial",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T01:47:00.923Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T15:14:18.385Z",
     "forkName": "YuukiOgino-ProjectTogebuTraial",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -42242,7 +42266,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/YuukiOgino-ProjectTogebuTraial/",
     "upstreamCover": "https://webrpg.org/YuukiOgino-ProjectTogebuTraial/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/YuukiOgino-ProjectTogebuTraial/index.html",
+    "cover": "https://yx.ecy.al/YuukiOgino-ProjectTogebuTraial/cover.png",
+    "publication": {
+      "commit": "e5783cfc2213a2ee1d8594bf515677afafb22b5b",
+      "checkedAt": "2026-11-08T15:16:37.255Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "z9z9z9z9z9z9-tt",
@@ -42328,8 +42360,8 @@
     "owner": "zenhanyin",
     "name": "RPGmakerdemo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T01:46:57.513Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T15:14:26.909Z",
     "forkName": "zenhanyin-RPGmakerdemo",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -42359,7 +42391,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/zenhanyin-RPGmakerdemo/",
     "upstreamCover": "https://webrpg.org/zenhanyin-RPGmakerdemo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/zenhanyin-RPGmakerdemo/index.html",
+    "cover": "https://yx.ecy.al/zenhanyin-RPGmakerdemo/cover.png",
+    "publication": {
+      "commit": "a4686ca7c2ec9f3fa5f2e3bfea4afb8e9296c1e9",
+      "checkedAt": "2026-11-08T15:16:47.107Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "zenux6999-rpocket-team-rpgmdec",
