@@ -22724,8 +22724,8 @@
     "owner": "lisachouHC",
     "name": "drdresapre",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:37:02.452Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T10:28:35.080Z",
     "forkName": "lisachouHC-drdresapre",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -22760,6 +22760,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/lisachouHC-drdresapre/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/lisachouHC-drdresapre/index.html",
+    "cover": "https://yx.ecy.al/lisachouHC-drdresapre/cover.png",
+    "publication": {
+      "commit": "e1cf1e0dc56104090e6c38483b677b8364c14d11",
+      "checkedAt": "2026-11-08T10:31:35.120Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -22769,8 +22777,8 @@
     "owner": "lisachouHC",
     "name": "drdrescape_V2",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:37:03.636Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T10:28:54.517Z",
     "forkName": "lisachouHC-drdrescape_V2",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -22805,6 +22813,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/lisachouHC-drdrescape_V2/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/lisachouHC-drdrescape_V2/index.html",
+    "cover": "https://yx.ecy.al/lisachouHC-drdrescape_V2/cover.png",
+    "publication": {
+      "commit": "4bdb8c7134f759f9dfb6ee788935ee978132ac9e",
+      "checkedAt": "2026-11-08T10:31:44.232Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
