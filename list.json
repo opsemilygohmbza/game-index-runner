@@ -1789,11 +1789,11 @@
     "owner": "AAK581",
     "name": "rpg-game-sepolia-cats",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:34:24.636Z",
+    "checkedAt": "2026-11-08T17:26:59.579Z",
     "forkName": "AAK581-rpg-game-sepolia-cats",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -1824,6 +1824,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AAK581-rpg-game-sepolia-cats/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AAK581-rpg-game-sepolia-cats/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "b92b60d02db87c8eabb05301059fab882f50211d",
+      "checkedAt": "2026-11-08T17:28:39.254Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -1833,15 +1841,15 @@
     "owner": "AAK581",
     "name": "testnet-cats-dapp",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "sepolia-cats-game/index.html",
-    "checkedAt": "2026-11-06T10:34:49.874Z",
+    "checkedAt": "2026-11-08T17:27:07.770Z",
     "forkName": "AAK581-testnet-cats-dapp",
     "entryPath": "index.html",
-    "validationScore": 118,
-    "totalSize": 27335,
+    "validationScore": 115,
+    "totalSize": 27336,
     "dataSize": 653995,
     "sourceRepo": "AAK581/testnet-cats-dapp",
     "sourceDefaultBranch": "main",
@@ -1868,6 +1876,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AAK581-testnet-cats-dapp/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AAK581-testnet-cats-dapp/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "b2d503438835c82263681073f308c24147b4b278",
+      "checkedAt": "2026-11-08T17:29:34.597Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -1877,15 +1893,15 @@
     "owner": "aaron1299",
     "name": "muurien-valissa",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:45:36.810Z",
+    "checkedAt": "2026-11-08T17:28:57.933Z",
     "forkName": "aaron1299-muurien-valissa",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 93709,
     "dataSize": 803525,
     "sourceRepo": "aaron1299/muurien-valissa",
@@ -1914,7 +1930,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/aaron1299-muurien-valissa/",
     "upstreamCover": "https://webrpg.org/aaron1299-muurien-valissa/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/aaron1299-muurien-valissa/index.html",
+    "cover": "https://yx.ecy.al/aaron1299-muurien-valissa/cover.png",
+    "publication": {
+      "commit": "208f3bec8929a984c3ac1e1360571476adf61370",
+      "checkedAt": "2026-11-08T17:31:34.052Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "abdullahtrees-omori-pmjs",
@@ -1934,15 +1958,15 @@
     "owner": "Abner1710",
     "name": "Goty-rpg",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:46:46.750Z",
+    "checkedAt": "2026-11-08T17:29:17.922Z",
     "forkName": "Abner1710-Goty-rpg",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 391386,
+    "totalSize": 391385,
     "dataSize": 708603,
     "sourceRepo": "Abner1710/Goty-rpg",
     "sourceDefaultBranch": "main",
@@ -1958,6 +1982,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Abner1710-Goty-rpg/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Abner1710-Goty-rpg/index.html",
+    "cover": "https://yx.ecy.al/Abner1710-Goty-rpg/cover.png",
+    "publication": {
+      "commit": "75cf3b8ada60590b6dfb118886aaf08cbf256994",
+      "checkedAt": "2026-11-08T17:31:59.509Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -2101,15 +2133,15 @@
     "owner": "aewol09",
     "name": "wcn",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:31:08.886Z",
+    "checkedAt": "2026-11-08T17:31:20.515Z",
     "forkName": "aewol09-wcn",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 18408,
     "dataSize": 1262010,
     "sourceRepo": "aewol09/wcn",
@@ -2120,7 +2152,15 @@
     "reachabilityDetail": "https://webrpg.org/aewol09-wcn/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/aewol09-wcn/",
     "upstreamCover": "https://webrpg.org/aewol09-wcn/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/aewol09-wcn/index.html",
+    "cover": "https://yx.ecy.al/aewol09-wcn/cover.png",
+    "publication": {
+      "commit": "61bd686c3aeceb746228c760b1a6bd1ef69b8f86",
+      "checkedAt": "2026-11-08T17:33:39.598Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "affonsoamendola-oldprojects",
