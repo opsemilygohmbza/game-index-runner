@@ -36695,15 +36695,15 @@
     "owner": "teritaris",
     "name": "tenchou",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "teritaris-tenchou",
-    "checkedAt": "2026-11-04T10:41:08.103Z",
+    "checkedAt": "2026-11-08T13:49:22.329Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 125146,
     "dataSize": 1023264,
     "sourceRepo": "teritaris/tenchou",
@@ -36728,7 +36728,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/teritaris-tenchou/",
     "upstreamCover": "https://webrpg.org/teritaris-tenchou/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/teritaris-tenchou/index.html",
+    "cover": "https://yx.ecy.al/teritaris-tenchou/cover.png",
+    "publication": {
+      "commit": "103adadaa940fef29be00409e9ba3e0f8f896313",
+      "checkedAt": "2026-11-08T13:51:44.789Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "teritaris-tenxym",
@@ -36737,15 +36745,15 @@
     "owner": "teritaris",
     "name": "tenxym",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "teritaris-tenxym",
-    "checkedAt": "2026-11-04T10:41:12.255Z",
+    "checkedAt": "2026-11-08T13:49:32.617Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 152078,
     "dataSize": 5087312,
     "sourceRepo": "teritaris/tenxym",
@@ -36766,7 +36774,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/teritaris-tenxym/",
     "upstreamCover": "https://webrpg.org/teritaris-tenxym/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/teritaris-tenxym/index.html",
+    "cover": "https://yx.ecy.al/teritaris-tenxym/cover.png",
+    "publication": {
+      "commit": "5e7c141eea9f65a58812b6b85d0351c296f8b729",
+      "checkedAt": "2026-11-08T13:51:54.688Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "teritaris-tenxym-en",
@@ -37351,12 +37367,12 @@
     "owner": "thomazli",
     "name": "shanghai",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:11:03.276Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:51:37.342Z",
     "forkName": "thomazli-shanghai",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 349910,
+    "totalSize": 349792,
     "dataSize": 1002752,
     "sourceRepo": "thomazli/shanghai",
     "sourceDefaultBranch": "main",
@@ -37383,7 +37399,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/thomazli-shanghai/",
     "upstreamCover": "https://webrpg.org/thomazli-shanghai/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/thomazli-shanghai/index.html",
+    "cover": "https://yx.ecy.al/thomazli-shanghai/cover.png",
+    "publication": {
+      "commit": "e18bacdbb7bf8e6ef3d536de628ae46bedc81eb1",
+      "checkedAt": "2026-11-08T13:54:21.222Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "timirlankenji-phantasma",
@@ -37824,12 +37848,12 @@
     "owner": "tomoshibi06",
     "name": "divirtualdemo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:11:24.433Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:51:55.672Z",
     "forkName": "tomoshibi06-divirtualdemo",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 209616,
+    "totalSize": 209614,
     "dataSize": 5042526,
     "sourceRepo": "tomoshibi06/divirtualdemo",
     "sourceDefaultBranch": "master",
@@ -37856,7 +37880,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tomoshibi06-divirtualdemo/",
     "upstreamCover": "https://webrpg.org/tomoshibi06-divirtualdemo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tomoshibi06-divirtualdemo/index.html",
+    "cover": "https://yx.ecy.al/tomoshibi06-divirtualdemo/cover.png",
+    "publication": {
+      "commit": "5c9cb5b35b0612345a71398389587e35d0d0f68f",
+      "checkedAt": "2026-11-08T13:54:31.667Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tomoshibi06-fairymaze",
@@ -37865,12 +37897,12 @@
     "owner": "tomoshibi06",
     "name": "FairyMaze",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:11:26.703Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:53:58.474Z",
     "forkName": "tomoshibi06-FairyMaze",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 436330,
+    "totalSize": 436328,
     "dataSize": 3469933,
     "sourceRepo": "tomoshibi06/FairyMaze",
     "sourceDefaultBranch": "master",
@@ -37896,7 +37928,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tomoshibi06-FairyMaze/",
     "upstreamCover": "https://webrpg.org/tomoshibi06-FairyMaze/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tomoshibi06-FairyMaze/index.html",
+    "cover": "https://yx.ecy.al/tomoshibi06-FairyMaze/cover.png",
+    "publication": {
+      "commit": "19da32e8181957f0c844ac83e4693d87f72327b4",
+      "checkedAt": "2026-11-08T13:56:33.200Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tomoshibi06-fairymaze2",
