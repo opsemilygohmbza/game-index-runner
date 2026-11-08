@@ -15485,14 +15485,14 @@
     "owner": "GuilhermeLemos14",
     "name": "FabulousBeasts",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "FLC Game/FLC Chapter 1+2/www/index.html",
     "forkName": "GuilhermeLemos14-FabulousBeasts",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 553458,
+    "totalSize": 575661,
     "dataSize": 6482078,
     "sourceRepo": "GuilhermeLemos14/FabulousBeasts",
     "upstreamPagesUrl": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/",
@@ -15502,6 +15502,15 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/GuilhermeLemos14-FabulousBeasts/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "checkedAt": "2026-11-08T09:01:47.998Z",
+    "pagesUrl": "https://yx.ecy.al/GuilhermeLemos14-FabulousBeasts/index.html",
+    "cover": "https://yx.ecy.al/GuilhermeLemos14-FabulousBeasts/cover.png",
+    "publication": {
+      "commit": "e4b31ed7cf7f0d884d7a4a5c677348389be152be",
+      "checkedAt": "2026-11-08T09:03:14.630Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
