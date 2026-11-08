@@ -4011,8 +4011,8 @@
     "owner": "arisuYurika",
     "name": "threenights2",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:42:30.479Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:11:07.356Z",
     "forkName": "arisuYurika-threenights2",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -4047,6 +4047,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/arisuYurika-threenights2/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/arisuYurika-threenights2/index.html",
+    "cover": "https://yx.ecy.al/arisuYurika-threenights2/cover.png",
+    "publication": {
+      "commit": "bc8734465ae6e86cabb6b75fd79edba9f8bfbb2a",
+      "checkedAt": "2026-11-08T06:12:15.948Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
