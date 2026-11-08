@@ -17931,15 +17931,15 @@
     "owner": "immortal3180",
     "name": "Project_RPG",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:30.032Z",
+    "checkedAt": "2026-11-08T09:07:07.226Z",
     "forkName": "immortal3180-Project_RPG",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 21834,
     "dataSize": 939427,
     "sourceRepo": "immortal3180/Project_RPG",
@@ -17963,7 +17963,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/immortal3180-Project_RPG/",
     "upstreamCover": "https://webrpg.org/immortal3180-Project_RPG/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/immortal3180-Project_RPG/index.html",
+    "cover": "https://yx.ecy.al/immortal3180-Project_RPG/cover.png",
+    "publication": {
+      "commit": "e2a1dbf739b40206269631a61e40e5a0848b4247",
+      "checkedAt": "2026-11-08T09:08:09.259Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "impeccablen-unigame-rpgmaker",
