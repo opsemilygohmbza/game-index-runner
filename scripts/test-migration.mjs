@@ -11,6 +11,7 @@ import {parseLfsPointer,readVerifiedLfsObject} from './materialize-lfs-assets.mj
 import {enabledPluginPaths,assertStartupFiles} from './static-game-validation.mjs';
 import {planFullMigration,makeForkName,migrationFinished} from './full-migration-plan.mjs';
 import {checkPagesEntry} from './check-pages-entry.mjs';
+import {cooldownUntil} from './rate-limit-backoff.mjs';
 
 test('LFS pointer recognition and size/hash validation do not trust HTTP 200',async()=>{
   const body=Buffer.from('real image fixture');
@@ -77,4 +78,13 @@ test('MZ main.js-only HTML passes startup verification while blank HTML and miss
   const plugins='var $plugins = [];';
   const files=['data/System.json','js/plugins.js','js/main.js'].map(path=>({path}));
   assert.throws(()=>assertStartupFiles(files,html,'index.html',plugins,'','const scriptUrls = ["js/rmmz_core.js"];'),/Missing startup/);
+});
+
+test('Rate-limit cooldown respects Retry-After and primary reset instead of increasing request rate',()=>{
+  const now=1794116000000;
+  assert.equal(cooldownUntil({},0,now),now+120000);
+  assert.equal(cooldownUntil({},2,now),now+480000);
+  assert.equal(cooldownUntil({pauseRetryAfter:'600'},0,now),now+600000);
+  assert.equal(cooldownUntil({pauseRemaining:'0',pauseResetAt:String(now/1000+3600)},0,now),now+3601000);
+  assert.equal(cooldownUntil({},10,now),now+1800000);
 });

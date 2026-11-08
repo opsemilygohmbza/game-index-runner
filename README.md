@@ -8,20 +8,20 @@
 
 ```bash
 node scripts/migrate-all-games.mjs
-DRY_RUN=false node scripts/migrate-all-games.mjs
+DRY_RUN=false node scripts/run-full-migration.mjs
 ```
 
 首条命令只规划。恢复实际运行时仍执行第二条，已完成项会跳过。失败项逐项保存在被 Git 忽略的 `migration-state/progress.json`；修复具体故障后再执行：
 
 ```bash
-DRY_RUN=false RETRY_BLOCKED=true node scripts/migrate-all-games.mjs
+DRY_RUN=false RETRY_BLOCKED=true node scripts/run-full-migration.mjs
 ```
 
 当前全量队列采用串行准备，Fork 间隔至少八秒；检查启用插件与入口脚本的大小写精确路径，保留扁平化前的根部署名文件，添加 `.nojekyll`，移除游戏 Fork 自带的 `CNAME`。LFS 文件先校验长度与 SHA-256，再保存成真实静态资源；单文件上限 95 MiB、静态站点预算 900 MiB。每个游戏单独占用临时目录并在结束后清理，不将全量游戏下载到本机或 VPS。
 
 等待对应提交的 Pages 构建成功与 HTML 入口返回后，才使用并发安全的合并写入唯一 `list.json`；每十项变更触发一次门户部署，队列正常结束时补发剩余变更。`publication` 只表示构建和入口检查，`runtime.status=passed` 需要另外的浏览器实际操作证据，二者并不等价。队列不会伪造 `runtime`，新版提交也不会继承旧版的运行验证。
 
-GitHub 返回 401、403 或 429 时保存进度并暂停新增操作，不循环绕开限制。恢复前先排查响应原因与账户额度。`hidden` 和原有 `invalid_structure` 保持原状态，不把非游戏仓库凑作可玩数量。此队列是本机显式启动的恢复进程，**不是已经配置完成的云端定时器**；长期 Actions 仍依赖上面的 App 配置。
+GitHub 返回 401、403 或 429 时保存进度并暂停新增操作。恢复入口仅对明确的次级限速或 429 做有界退避：优先遵守 `Retry-After`，没有该头时从两分钟开始指数增长，同一项最多重试五次；权限错误直接停下。等待期间不创建请求，不切账号或代理。持续失败则保留检查点并等待排查。`hidden` 和原有 `invalid_structure` 保持原状态，不把非游戏仓库凑作可玩数量。此队列是本机显式启动的恢复进程，**不是已经配置完成的云端定时器**；长期 Actions 仍依赖上面的 App 配置。
 
 参考：[GitHub REST API 最佳实践](https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api)、[Pages 使用限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)、[Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)。
 

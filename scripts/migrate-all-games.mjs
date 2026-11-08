@@ -35,6 +35,7 @@ async function api(endpoint,{method='GET',body,ok=[200]}={}) {
   error.pause=[401,403,429].includes(response.status);
   error.retryAfter=response.headers.get('retry-after');
   error.resetAt=response.headers.get('x-ratelimit-reset');
+  error.remaining=response.headers.get('x-ratelimit-remaining');
   throw error;
 }
 
@@ -130,6 +131,11 @@ if(dryRun){
         await ensureFork(item);entry.phase='preparing';await save(state);
         const result=await prepare(item);
         if(result.status==='invalid_structure'){
+          const current=await readCatalog();
+          const generated=current.content.map(game=>game.id!==item.id?game:{...game,status:'invalid_structure',
+            checkedAt:result.checkedAt,invalidReason:result.invalidReason,pagesUrl:undefined,cover:undefined,
+            runtime:undefined,publication:undefined});
+          await publish(current.content,generated);
           entry.phase='invalid_structure';entry.error=result.invalidReason;await save(state);continue;
         }
         if(result.status!=='verified'||!result.pagesEnabled)throw new Error(`Unexpected preparation status: ${result.status}`);
@@ -153,7 +159,13 @@ if(dryRun){
       }catch(error){
         entry.phase=error.pause?'paused':'blocked';entry.error=error.message;entry.checkedAt=new Date().toISOString();
         await save(state);console.log(`[${entry.phase}] ${item.source}: ${error.message}`);
-        if(error.pause){state.phase='paused';state.pauseReason=error.message;await save(state);throw error}
+        if(error.pause){
+          state.phase='paused';state.pauseReason=error.message;
+          state.pauseRetryable=error.status===429 || /submitted too quickly|secondary rate|rate limit exceeded/i.test(error.message);
+          state.pauseRetryAfter=error.retryAfter||null;state.pauseResetAt=error.resetAt||null;state.pauseRemaining=error.remaining||null;
+          state.pausedItem=item.id;
+          await save(state);throw error;
+        }
       }
     }
     if(changedSinceDeploy)await api(`/repos/${portal}/actions/workflows/deploy-pages.yml/dispatches`,{method:'POST',ok:[204],body:{ref:'main'}});
