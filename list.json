@@ -7674,8 +7674,8 @@
     "owner": "CNFrestone",
     "name": "RPGTCYX",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:27.359Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:49:45.922Z",
     "forkName": "CNFrestone-RPGTCYX",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -7710,6 +7710,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CNFrestone-RPGTCYX/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CNFrestone-RPGTCYX/index.html",
+    "cover": "https://yx.ecy.al/CNFrestone-RPGTCYX/cover.png",
+    "publication": {
+      "commit": "c0c29d91f68ae1a1487c635d837c3d4b4e94d308",
+      "checkedAt": "2026-11-08T06:51:09.009Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
