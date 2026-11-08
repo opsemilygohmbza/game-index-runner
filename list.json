@@ -38758,12 +38758,12 @@
     "owner": "tychouhaha",
     "name": "ZK-game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:12:17.439Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T14:33:17.141Z",
     "forkName": "tychouhaha-ZK-game",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 114432,
+    "totalSize": 114430,
     "dataSize": 465764,
     "sourceRepo": "tychouhaha/ZK-game",
     "sourceDefaultBranch": "main",
@@ -38789,7 +38789,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tychouhaha-ZK-game/",
     "upstreamCover": "https://webrpg.org/tychouhaha-ZK-game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tychouhaha-ZK-game/index.html",
+    "cover": "https://yx.ecy.al/tychouhaha-ZK-game/cover.png",
+    "publication": {
+      "commit": "730e80f762e1d70d4b0b4b49298a644521ffdf2c",
+      "checkedAt": "2026-11-08T14:35:52.850Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tychouhaha-zk-restaurant",
@@ -38798,12 +38806,12 @@
     "owner": "tychouhaha",
     "name": "ZK_restaurant",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:12:13.399Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T14:33:07.235Z",
     "forkName": "tychouhaha-ZK_restaurant",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 91600,
+    "totalSize": 91598,
     "dataSize": 738641,
     "sourceRepo": "tychouhaha/ZK_restaurant",
     "sourceDefaultBranch": "main",
@@ -38829,7 +38837,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tychouhaha-ZK_restaurant/",
     "upstreamCover": "https://webrpg.org/tychouhaha-ZK_restaurant/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tychouhaha-ZK_restaurant/index.html",
+    "cover": "https://yx.ecy.al/tychouhaha-ZK_restaurant/cover.png",
+    "publication": {
+      "commit": "32ccf369c98a5144d5e74d9b6da2e39b60f2a2a3",
+      "checkedAt": "2026-11-08T14:35:59.509Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tylike-ai-labs",
@@ -38838,14 +38854,14 @@
     "owner": "tylike",
     "name": "AI.Labs",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GameUI/Rmmz.CN/index.html",
     "forkName": "tylike-AI.Labs",
-    "checkedAt": "2026-11-04T10:41:57.445Z",
+    "checkedAt": "2026-11-08T14:35:19.945Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 231482,
     "dataSize": 161792,
     "sourceRepo": "tylike/AI.Labs",
@@ -38863,7 +38879,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/tylike-AI.Labs/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tylike-AI.Labs/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "5e3ab80f43b4304cbe85ad1a2d3a7184a0906cd6",
+      "checkedAt": "2026-11-08T14:38:06.254Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tyllastarr-ld46",
@@ -40435,15 +40459,15 @@
     "owner": "watatarutaru",
     "name": "Kochobus",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "watatarutaru-Kochobus",
-    "checkedAt": "2026-11-04T10:42:31.117Z",
+    "checkedAt": "2026-11-08T14:35:30.364Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 64076,
     "dataSize": 2394862,
     "sourceRepo": "watatarutaru/Kochobus",
@@ -40454,7 +40478,15 @@
     "reachabilityDetail": "https://webrpg.org/watatarutaru-Kochobus/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/watatarutaru-Kochobus/",
     "upstreamCover": "https://webrpg.org/watatarutaru-Kochobus/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/watatarutaru-Kochobus/index.html",
+    "cover": "https://yx.ecy.al/watatarutaru-Kochobus/cover.png",
+    "publication": {
+      "commit": "3fcd1437fd6e43fccb8e1578cec2cd858a2c8da3",
+      "checkedAt": "2026-11-08T14:37:57.007Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "watatarutaru-ticklefantasia",
@@ -40796,11 +40828,11 @@
     "owner": "whiterrabbit3672",
     "name": "touhou-GhostFairy-do-people",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:46:38.210Z",
+    "checkedAt": "2026-11-08T14:37:49.349Z",
     "forkName": "whiterrabbit3672-touhou-GhostFairy-do-people",
-    "status": "indexed",
+    "status": "verified",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 395630,
     "dataSize": 2421721,
     "sourceRepo": "whiterrabbit3672/touhou-GhostFairy-do-people",
@@ -40828,7 +40860,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/",
     "upstreamCover": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/whiterrabbit3672-touhou-GhostFairy-do-people/index.html",
+    "cover": "https://yx.ecy.al/whiterrabbit3672-touhou-GhostFairy-do-people/cover.png",
+    "publication": {
+      "commit": "ac9f0911c5e37a9bc35a6cae6758a77843c7da32",
+      "checkedAt": "2026-11-08T14:41:09.989Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "whosrogo-kronos-v1",
