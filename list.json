@@ -347,17 +347,17 @@
     "owner": "27DAnderson",
     "name": "GameBarPortfolio",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "27DAnderson.github.io/game/index.html",
-    "checkedAt": "2026-11-03T13:52:55.932Z",
+    "checkedAt": "2026-11-08T15:19:28.251Z",
     "forkName": "27DAnderson-GameBarPortfolio",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 137100,
-    "dataSize": 1335853,
+    "dataSize": 1533397,
     "sourceRepo": "27DAnderson/GameBarPortfolio",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "f55ea38a274228ce80a90187878d9c3060f141c0",
@@ -379,7 +379,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/27DAnderson-GameBarPortfolio/",
     "upstreamCover": "https://webrpg.org/27DAnderson-GameBarPortfolio/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/27DAnderson-GameBarPortfolio/index.html",
+    "cover": "https://yx.ecy.al/27DAnderson-GameBarPortfolio/cover.png",
+    "publication": {
+      "commit": "0bfa975e7a6c6ff112c712f2b9426696a5b0c69c",
+      "checkedAt": "2026-11-08T15:22:14.448Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "27danderson-mythologyrpgm",
