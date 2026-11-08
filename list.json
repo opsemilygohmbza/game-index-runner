@@ -22301,11 +22301,11 @@
     "owner": "Laplace321",
     "name": "FFXIVFanGame",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-19T06:26:58.426Z",
+    "checkedAt": "2026-11-08T10:26:22.247Z",
     "forkName": "Laplace321-FFXIVFanGame",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -22331,7 +22331,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Laplace321-FFXIVFanGame/",
     "upstreamCover": "https://webrpg.org/Laplace321-FFXIVFanGame/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Laplace321-FFXIVFanGame/index.html",
+    "cover": "https://yx.ecy.al/Laplace321-FFXIVFanGame/cover.png",
+    "publication": {
+      "commit": "dff106f022a8da760bf888d1753e5ee60aac236d",
+      "checkedAt": "2026-11-08T10:29:27.425Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "lauglitch-pokemonpink",
