@@ -8316,14 +8316,14 @@
     "owner": "CJTan0503",
     "name": "RPGFantasy",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-10-30T22:05:54.012Z",
+    "checkedAt": "2026-11-08T23:22:34.257Z",
     "forkName": "CJTan0503-RPGFantasy",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 389488,
     "dataSize": 713365,
     "sourceRepo": "CJTan0503/RPGFantasy",
@@ -8350,6 +8350,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CJTan0503-RPGFantasy/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CJTan0503-RPGFantasy/index.html",
+    "cover": "https://yx.ecy.al/CJTan0503-RPGFantasy/cover.png",
+    "publication": {
+      "commit": "9d210121ee3cc2168fe42421f592822388e304da",
+      "checkedAt": "2026-11-08T23:25:54.353Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -8359,16 +8367,16 @@
     "owner": "ckeiser2",
     "name": "ckeiser2.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "assets/games/rpgmaker/Project1/index.html",
-    "checkedAt": "2026-11-06T19:04:49.816Z",
+    "checkedAt": "2026-11-08T23:24:46.123Z",
     "forkName": "ckeiser2-ckeiser2.github.io",
-    "entryPath": "assets/games/rpgmaker/Project1/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 191121,
-    "dataSize": 0,
+    "dataSize": 999755,
     "sourceRepo": "ckeiser2/ckeiser2.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "8cccd1dca6adad2d0e6c353cbd12426539bdd0f7",
@@ -8396,6 +8404,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/ckeiser2-ckeiser2.github.io/assets/games/rpgmaker/Project1/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/ckeiser2-ckeiser2.github.io/index.html",
+    "cover": "https://yx.ecy.al/ckeiser2-ckeiser2.github.io/cover.png",
+    "publication": {
+      "commit": "0ed5741d0680758f8eea52ddfa49001fb96b31a5",
+      "checkedAt": "2026-11-08T23:28:23.930Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -8434,11 +8450,11 @@
     "owner": "clone1018",
     "name": "mv-mmo-test",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:42:59.655Z",
+    "checkedAt": "2026-11-08T23:25:06.733Z",
     "forkName": "clone1018-mv-mmo-test",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -8466,7 +8482,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/clone1018-mv-mmo-test/",
-    "upstreamCover": "https://webrpg.org/clone1018-mv-mmo-test/cover.png"
+    "upstreamCover": "https://webrpg.org/clone1018-mv-mmo-test/cover.png",
+    "pagesUrl": "https://yx.ecy.al/clone1018-mv-mmo-test/index.html",
+    "cover": "https://yx.ecy.al/clone1018-mv-mmo-test/cover.png",
+    "publication": {
+      "commit": "8549c12a5c1e763e20a15f5bdd16b1e050fa51b3",
+      "checkedAt": "2026-11-08T23:27:48.763Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cloudxtreme-the-nights-watch",
@@ -8475,15 +8499,15 @@
     "owner": "Cloudxtreme",
     "name": "The-Nights-Watch",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:21:44.200Z",
+    "checkedAt": "2026-11-08T23:27:47.337Z",
     "forkName": "Cloudxtreme-The-Nights-Watch",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 68288,
+    "totalSize": 68287,
     "dataSize": 770868,
     "sourceRepo": "Cloudxtreme/The-Nights-Watch",
     "sourceDefaultBranch": "master",
@@ -8499,6 +8523,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Cloudxtreme-The-Nights-Watch/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Cloudxtreme-The-Nights-Watch/index.html",
+    "cover": "https://yx.ecy.al/Cloudxtreme-The-Nights-Watch/cover.png",
+    "publication": {
+      "commit": "ac88bbc2e903c47e9a73a929af6e6bdd234c6703",
+      "checkedAt": "2026-11-08T23:29:56.867Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
