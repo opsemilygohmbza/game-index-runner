@@ -21221,17 +21221,17 @@
     "owner": "KokitaPC",
     "name": "kokitapc.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/rock/index.html",
-    "checkedAt": "2026-11-03T20:57:50.624Z",
+    "checkedAt": "2026-11-08T09:47:40.506Z",
     "forkName": "KokitaPC-kokitapc.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 23179,
-    "dataSize": 1222859,
+    "dataSize": 1231344,
     "sourceRepo": "KokitaPC/kokitapc.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "c54c9f1b083da975c068319e20305c467f474236",
@@ -21253,7 +21253,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/KokitaPC-kokitapc.github.io/",
     "upstreamCover": "https://webrpg.org/KokitaPC-kokitapc.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/KokitaPC-kokitapc.github.io/index.html",
+    "cover": "https://yx.ecy.al/KokitaPC-kokitapc.github.io/cover.png",
+    "publication": {
+      "commit": "166b8f9559f020d88568e3834dccc65535166702",
+      "checkedAt": "2026-11-08T09:52:31.262Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kokoroou-makerlens",
