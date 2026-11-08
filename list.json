@@ -3460,11 +3460,11 @@
     "owner": "Andaroth",
     "name": "anda.ninja",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/pacpoule/index.html",
-    "checkedAt": "2026-10-30T09:47:26.056Z",
+    "checkedAt": "2026-11-08T19:00:27.942Z",
     "forkName": "Andaroth-anda.ninja",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -3497,6 +3497,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Andaroth-anda.ninja/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Andaroth-anda.ninja/index.html",
+    "cover": "https://yx.ecy.al/Andaroth-anda.ninja/cover.png",
+    "publication": {
+      "commit": "0971886af628444e2ae747b23c91ac4524067fe5",
+      "checkedAt": "2026-11-08T19:04:17.212Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -3506,11 +3514,11 @@
     "owner": "andredarcie",
     "name": "zero-to-one",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:47:47.394Z",
+    "checkedAt": "2026-11-08T19:00:38.241Z",
     "forkName": "andredarcie-zero-to-one",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -3530,6 +3538,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/andredarcie-zero-to-one/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/andredarcie-zero-to-one/index.html",
+    "cover": "https://yx.ecy.al/andredarcie-zero-to-one/cover.png",
+    "publication": {
+      "commit": "d44d66586293702414dd2778c780e96c11c7dbca",
+      "checkedAt": "2026-11-08T19:03:11.503Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -3539,11 +3555,11 @@
     "owner": "andrewharn",
     "name": "Dwellers-Empty-Path-Plus",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-30T09:47:49.647Z",
+    "checkedAt": "2026-11-08T19:03:09.181Z",
     "forkName": "andrewharn-Dwellers-Empty-Path-Plus",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -3574,6 +3590,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/andrewharn-Dwellers-Empty-Path-Plus/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/andrewharn-Dwellers-Empty-Path-Plus/index.html",
+    "cover": "https://yx.ecy.al/andrewharn-Dwellers-Empty-Path-Plus/cover.png",
+    "publication": {
+      "commit": "7199bc6cef3db6804348017413b731791e952285",
+      "checkedAt": "2026-11-08T19:05:17.934Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
