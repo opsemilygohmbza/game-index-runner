@@ -27952,8 +27952,8 @@
     "owner": "oden",
     "name": "Bremen",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:37:30.450Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:49:41.754Z",
     "forkName": "oden-Bremen",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -27974,6 +27974,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/oden-Bremen/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/oden-Bremen/index.html",
+    "cover": "https://yx.ecy.al/oden-Bremen/cover.png",
+    "publication": {
+      "commit": "3277e99fc56a2718e797b036f42bf10e16863e1e",
+      "checkedAt": "2026-11-08T11:52:06.889Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -29301,12 +29309,12 @@
     "owner": "pieworkplace",
     "name": "mota-mv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:08:50.929Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:49:51.120Z",
     "forkName": "pieworkplace-mota-mv",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 397680,
+    "totalSize": 398341,
     "dataSize": 2488141,
     "sourceRepo": "pieworkplace/mota-mv",
     "sourceDefaultBranch": "master",
@@ -29332,7 +29340,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/pieworkplace-mota-mv/",
     "upstreamCover": "https://webrpg.org/pieworkplace-mota-mv/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/pieworkplace-mota-mv/index.html",
+    "cover": "https://yx.ecy.al/pieworkplace-mota-mv/cover.png",
+    "publication": {
+      "commit": "085679934c4873a4bfac05a046bddcafb2cf794e",
+      "checkedAt": "2026-11-08T11:52:56.182Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pieworkplace-mota-mv-2",
