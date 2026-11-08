@@ -4778,15 +4778,15 @@
     "owner": "athillaazka",
     "name": "What-A-Roll",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "What A Roll!/index.html",
-    "checkedAt": "2026-11-03T05:39:16.642Z",
+    "checkedAt": "2026-11-08T20:23:06.289Z",
     "forkName": "athillaazka-What-A-Roll",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 95582,
     "dataSize": 585570,
     "sourceRepo": "athillaazka/What-A-Roll",
@@ -4797,7 +4797,15 @@
     "reachabilityDetail": "https://webrpg.org/athillaazka-What-A-Roll/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/athillaazka-What-A-Roll/",
     "upstreamCover": "https://webrpg.org/athillaazka-What-A-Roll/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/athillaazka-What-A-Roll/index.html",
+    "cover": "https://yx.ecy.al/athillaazka-What-A-Roll/cover.png",
+    "publication": {
+      "commit": "91f0066d949d473c91d57e7debbdcc841a994217",
+      "checkedAt": "2026-11-08T20:24:10.113Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "aukak-fyinx",
@@ -4824,16 +4832,16 @@
     "owner": "avery-pierce",
     "name": "averypierce.me",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/BasicRPG/www/index.html",
-    "checkedAt": "2026-10-30T09:48:12.360Z",
+    "checkedAt": "2026-11-08T20:23:14.263Z",
     "forkName": "avery-pierce-averypierce.me",
-    "entryPath": "games/BasicRPG/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 425748,
-    "dataSize": 0,
+    "dataSize": 886645,
     "sourceRepo": "avery-pierce/averypierce.me",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "090f51036937eb61a6df08814890f0f12f84738d",
@@ -4861,6 +4869,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/avery-pierce-averypierce.me/games/BasicRPG/www/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/avery-pierce-averypierce.me/index.html",
+    "cover": "https://yx.ecy.al/avery-pierce-averypierce.me/cover.png",
+    "publication": {
+      "commit": "44844031e5764338fa066421267a9bccfd020ca8",
+      "checkedAt": "2026-11-08T20:26:35.317Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4870,14 +4886,14 @@
     "owner": "AvianJay",
     "name": "Discord-Bot-Explore-Game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:30:51.990Z",
+    "checkedAt": "2026-11-08T20:23:37.244Z",
     "forkName": "AvianJay-Discord-Bot-Explore-Game",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 90777,
     "dataSize": 777781,
     "sourceRepo": "AvianJay/Discord-Bot-Explore-Game",
@@ -4887,7 +4903,15 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AvianJay-Discord-Bot-Explore-Game/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/AvianJay-Discord-Bot-Explore-Game/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/AvianJay-Discord-Bot-Explore-Game/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "ca2dcb3d39cfe333d8890c77f4eb7bf0ea766380",
+      "checkedAt": "2026-11-08T20:25:54.869Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "axk-coder-cool-maths",
@@ -4949,14 +4973,14 @@
     "owner": "AzelMe",
     "name": "Star-Destiny",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-27T03:50:22.274Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:06:45.267Z",
+    "checkedAt": "2026-11-08T20:25:47.150Z",
     "forkName": "AzelMe-Star-Destiny",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 4168,
     "dataSize": 67168,
     "sourceRepo": "AzelMe/Star-Destiny",
@@ -4977,7 +5001,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/AzelMe-Star-Destiny/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/AzelMe-Star-Destiny/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "d0e5b7c4a5d8a0aebaf727e0383df8af0c97b523",
+      "checkedAt": "2026-11-08T20:27:56.109Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "azunyuuuuuuu-das-auge-des-sturms",
@@ -4986,15 +5018,15 @@
     "owner": "azunyuuuuuuu",
     "name": "Das-Auge-des-Sturms",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:45:39.569Z",
+    "checkedAt": "2026-11-08T20:25:56.328Z",
     "forkName": "azunyuuuuuuu-Das-Auge-des-Sturms",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 80588,
     "dataSize": 2740224,
     "sourceRepo": "azunyuuuuuuu/Das-Auge-des-Sturms",
@@ -5019,7 +5051,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/azunyuuuuuuu-Das-Auge-des-Sturms/",
     "upstreamCover": "https://webrpg.org/azunyuuuuuuu-Das-Auge-des-Sturms/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/azunyuuuuuuu-Das-Auge-des-Sturms/index.html",
+    "cover": "https://yx.ecy.al/azunyuuuuuuu-Das-Auge-des-Sturms/cover.png",
+    "publication": {
+      "commit": "6e48737117cced605117cae4c33ef3f43aed1e23",
+      "checkedAt": "2026-11-08T20:28:05.407Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "azurealexis-animasola-bb",
