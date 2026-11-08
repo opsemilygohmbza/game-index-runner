@@ -789,15 +789,15 @@
     "owner": "28hershey",
     "name": "28hershey.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/gettoschool6/index.html",
-    "checkedAt": "2026-11-03T05:38:58.259Z",
+    "checkedAt": "2026-11-08T16:01:52.002Z",
     "forkName": "28hershey-28hershey.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 98308,
     "dataSize": 1254339,
     "sourceRepo": "28hershey/28hershey.github.io",
@@ -821,7 +821,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/28hershey-28hershey.github.io/",
     "upstreamCover": "https://webrpg.org/28hershey-28hershey.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/28hershey-28hershey.github.io/index.html",
+    "cover": "https://yx.ecy.al/28hershey-28hershey.github.io/cover.png",
+    "publication": {
+      "commit": "e8ebf4f71f40feef69050aa62828d9c87877a26c",
+      "checkedAt": "2026-11-08T16:04:47.562Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "28lharnish-28lharnish-github-io",
