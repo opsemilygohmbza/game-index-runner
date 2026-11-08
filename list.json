@@ -36560,12 +36560,12 @@
     "owner": "tensaiando",
     "name": "remonaquest",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:10:58.155Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:15:24.078Z",
     "forkName": "tensaiando-remonaquest",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 416629,
+    "totalSize": 416820,
     "dataSize": 1745087,
     "sourceRepo": "tensaiando/remonaquest",
     "sourceDefaultBranch": "main",
@@ -36591,7 +36591,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tensaiando-remonaquest/",
     "upstreamCover": "https://webrpg.org/tensaiando-remonaquest/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tensaiando-remonaquest/index.html",
+    "cover": "https://yx.ecy.al/tensaiando-remonaquest/cover.png",
+    "publication": {
+      "commit": "f1242d59d7453c5e1d033089a6316ec2a10ce22e",
+      "checkedAt": "2026-11-08T13:20:31.930Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "teritaris-cryptocasino",
@@ -36641,15 +36649,15 @@
     "owner": "teritaris",
     "name": "kakeyokonnectMZ",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "teritaris-kakeyokonnectMZ",
-    "checkedAt": "2026-11-04T10:40:53.823Z",
+    "checkedAt": "2026-11-08T13:15:44.014Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 167799,
     "dataSize": 5084493,
     "sourceRepo": "teritaris/kakeyokonnectMZ",
@@ -36670,7 +36678,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/teritaris-kakeyokonnectMZ/",
     "upstreamCover": "https://webrpg.org/teritaris-kakeyokonnectMZ/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/teritaris-kakeyokonnectMZ/index.html",
+    "cover": "https://yx.ecy.al/teritaris-kakeyokonnectMZ/cover.png",
+    "publication": {
+      "commit": "767a47eb500f1e8681a40f5ee3d9a8b8bab0dd17",
+      "checkedAt": "2026-11-08T13:20:32.680Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "teritaris-tenchou",
