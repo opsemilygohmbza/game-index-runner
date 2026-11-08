@@ -4,10 +4,9 @@
 
 ## Scheduling
 
-The only automatic entry points are the native GitHub schedules in these two workflows:
+The only scheduled entry point is `index-github-rpgmaker-repos.yml`, using native cron `17 2 1,6,11,16,21,26 * *`: 10:17 Beijing on the 1st, 6th, 11th, 16th, 21st and 26th each month. There is no daily checker, no daily guard workflow and no sleeping/self-renewal chain. Most intervals are five days; month-end intervals are 3–6 days. This is a calendar-based low-frequency cadence, not a claim of exact 120-hour execution.
 
-- `index-github-rpgmaker-repos.yml`: hourly at minute 17.
-- `fork-listed-repos.yml`: every 30 minutes.
+The index can also be run manually. Successful index completion triggers Fork (up to 40, eight-second spacing), then Prepare/Pages (up to 40, parallelism five), then canonical publication and a portal event. The portal has no polling cron. GitHub scheduling delays still apply; a failed/missed scheduled run does not create a daily retry. Failures are visible in Actions and may require a manual rerun.
 
 `continuous-*.yml` are retained only for one-off manual recovery and no longer self-dispatch. `bulk-drain-pending.yml` processes one manually requested batch and no longer creates recursive batches. This prevents the index, fork, and validation workers from recursively consuming the same GitHub App API budget.
 
@@ -17,13 +16,13 @@ Data file:
 
 - `list.json`
 
-The list is sorted by `title`. Language metadata is intentionally omitted until it can be verified reliably.
+The canonical publisher sorts by stable `id`; the portal applies its presentation ordering separately. Language metadata is intentionally omitted until it can be verified reliably.
 
 ## Fork Workflow
 
-The index workflow runs hourly at minute 17. It syncs upstream metadata and performs bounded repository search for RPG Maker candidates using the built-in repository token. Code search is preserved as a separate script but is not used by the default workflow. Repository search is discovery only, not proof of a playable export.
+The index workflow runs on that low-frequency calendar or on manual request. It syncs upstream metadata and performs bounded repository search for RPG Maker candidates using the built-in repository token. Code search is preserved as a separate script but is not used by the default workflow. Repository search is discovery only, not proof of a playable export.
 
-The `Fork listed repositories` workflow runs every 30 minutes. It reads `list.json`, deduplicates source repositories, and forks up to 40 missing repositories into `opsemilygohmbza` with an eight-second creation interval.
+The `Fork listed repositories` workflow follows successful index completion or a manual request. It reads `list.json`, deduplicates source repositories, and forks up to 40 missing repositories into `opsemilygohmbza` with an eight-second creation interval. It does not recursively drain the queue.
 
 The built-in token publishes catalog changes through a compare-and-swap Contents API update. A GitHub App is needed separately for cross-repository Fork/Pages operations. This recovery target is a personal account, not an organization.
 
@@ -61,7 +60,7 @@ Each matrix job has a 20-minute hard timeout. Repository HTML inspection priorit
 The public Pages URL path is determined by the repository name. For example, `opsemilygohmbza/example-game` is published at:
 
 ```text
-https://opsemilygohmbza.github.io/example-game/
+https://yx.ecy.al/example-game/
 ```
 
 This workflow uses a GitHub App token. Create and install a GitHub App on `opsemilygohmbza`, then add these Actions settings to this repository or to the organization with access granted to this repository:
@@ -76,7 +75,9 @@ Recommended GitHub App repository permissions:
 - `Pages`: read and write
 - `Metadata`: read-only
 
-Install the App on all repositories in `opsemilygohmbza`. This matters because new fork repositories will be added over time; a selected-repositories installation will not automatically include new forks.
+Install the App on the runner, the portal and games explicitly in scope. Selected-repositories installation does not automatically include new forks; add access before processing them. Fully unattended access to future forks requires a separately approved broader installation. Existing unrelated repositories are not implicitly in scope. Administration write is a broad permission; keeping deletion disabled in the scripts does not remove that permission's power.
+
+After a changed canonical publication, the workflow requests a portal-only Contents write App token to send `catalog-updated`. It never copies the catalog into a second source. A notification failure fails the step; the saved canonical file remains intact and the portal deployment can be run manually. The new account's App credentials and selected repository installation are still external setup prerequisites.
 
 After credentials are configured, the workflow runs without dry-run mode. Before that, the cross-repository phase is explicitly paused. Native GitHub schedules may be delayed or dropped; they are not an exact-time service guarantee.
 

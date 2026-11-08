@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-import { normalizeCatalog } from './catalog-normalization.mjs';
+import { normalizeCatalog, isOwnPagesUrl } from './catalog-normalization.mjs';
 
 const upstreamUrl = process.env.UPSTREAM_LIST_URL || "https://raw.githubusercontent.com/WebRPG-org/index/main/list.json";
 const listPath = process.env.LIST_PATH || "list.json";
@@ -52,7 +52,7 @@ function mergeUpstream(remote, localEntry) {
   if (!localEntry) return clean(entry);
 
   const localPagesUrl = localEntry.pagesUrl;
-  if (isOurPagesUrl(localPagesUrl)) {
+  if (isOwnPagesUrl(localPagesUrl)) {
     entry.pagesUrl = localPagesUrl;
     entry.cover = localEntry.cover;
     entry.status = localEntry.status || "verified";
@@ -75,14 +75,6 @@ function mergeUpstream(remote, localEntry) {
 
 function key(entry) {
   return `${entry.owner || ""}/${entry.name || ""}`.toLowerCase();
-}
-
-function isOurPagesUrl(value) {
-  try {
-    return new URL(value).hostname === "opsemilygohmbza.github.io";
-  } catch {
-    return false;
-  }
 }
 
 function clean(value) {

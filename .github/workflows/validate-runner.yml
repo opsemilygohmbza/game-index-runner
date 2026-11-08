@@ -26,4 +26,4 @@ jobs:
         run: |
           for file in scripts/*.mjs; do node --check "$file"; done
           node scripts/validate-runner-config.mjs
-          node --test scripts/test-generated-file-publisher.mjs
+          node --test scripts/test-*.mjs

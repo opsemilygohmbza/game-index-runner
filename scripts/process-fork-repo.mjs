@@ -9,7 +9,7 @@ const repoName = process.env.REPO_NAME || "";
 const dryRun = parseBoolean(process.env.DRY_RUN, true);
 const deleteInvalidRepos = parseBoolean(process.env.DELETE_INVALID_REPOS, false);
 const pagesPath = process.env.PAGES_SOURCE_PATH || "/";
-const siteOrigin = (process.env.SITE_ORIGIN || "https://opsemilygohmbza.github.io").replace(/\/+$/, "");
+const siteOrigin = (process.env.SITE_ORIGIN || "https://yx.ecy.al").replace(/\/+$/, "");
 const resultDir = process.env.RESULT_DIR || "workflow-results";
 // Never inject analytics or other third-party scripts into game forks.
 const scriptTag = "";

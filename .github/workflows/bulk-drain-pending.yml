@@ -111,7 +111,7 @@ jobs:
           DRY_RUN: "false"
           DELETE_INVALID_REPOS: "false"
           PAGES_SOURCE_PATH: /
-          SITE_ORIGIN: https://opsemilygohmbza.github.io
+          SITE_ORIGIN: https://yx.ecy.al
           RESULT_DIR: workflow-results
           HTML_MAX_FILES: "120"
           HTML_FETCH_CONCURRENCY: "5"
@@ -156,6 +156,25 @@ jobs:
           cp list.json .catalog-base.json
           node scripts/update-list-from-results.mjs
       - name: Commit list metadata
+        id: publish
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/publish-generated-file.mjs
+
+      - name: Create portal notification token
+        if: steps.publish.outputs.changed == 'true'
+        id: portal-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+          repositories: opsemilygohmbza.github.io
+          permission-contents: write
+
+      - name: Notify portal after canonical publication
+        if: steps.publish.outputs.changed == 'true'
+        env:
+          PORTAL_TOKEN: ${{ steps.portal-token.outputs.token }}
+          PORTAL_REPOSITORY: opsemilygohmbza/opsemilygohmbza.github.io
+        run: node scripts/notify-portal.mjs

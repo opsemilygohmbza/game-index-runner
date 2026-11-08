@@ -26,3 +26,4 @@ const result = await publishCatalog({base,generated,
   }
 });
 console.log(JSON.stringify(result));
+if (process.env.GITHUB_OUTPUT) await fs.appendFile(process.env.GITHUB_OUTPUT, `changed=${result.changed}\n`);

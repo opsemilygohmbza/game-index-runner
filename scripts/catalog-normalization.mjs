@@ -1,4 +1,11 @@
 import crypto from 'node:crypto';
+export function isOwnPagesUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' && !url.username && !url.password && ['opsemilygohmbza.github.io', 'yx.ecy.al'].includes(url.hostname);
+  } catch { return false; }
+}
+
 export function normalizeCatalog(entries) {
   const bySource = new Map();
   for (const game of entries) {

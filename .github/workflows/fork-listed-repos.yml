@@ -2,8 +2,9 @@ name: Fork listed repositories
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
+  workflow_run:
+    workflows: [Index GitHub RPG Maker repositories]
+    types: [completed]
 
 permissions:
   contents: read
@@ -14,6 +15,7 @@ concurrency:
 
 jobs:
   prerequisites:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     outputs:
       ready: ${{ steps.check.outputs.ready }}
