@@ -26265,15 +26265,15 @@
     "owner": "MrXiyi666",
     "name": "DestroyGame",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "app/src/main/assets/game/index.html",
-    "checkedAt": "2026-11-03T05:37:54.054Z",
+    "checkedAt": "2026-11-08T11:44:23.027Z",
     "forkName": "MrXiyi666-DestroyGame",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 279455,
     "dataSize": 988501,
     "sourceRepo": "MrXiyi666/DestroyGame",
@@ -26298,7 +26298,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/MrXiyi666-DestroyGame/",
     "upstreamCover": "https://webrpg.org/MrXiyi666-DestroyGame/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MrXiyi666-DestroyGame/index.html",
+    "cover": "https://yx.ecy.al/MrXiyi666-DestroyGame/cover.png",
+    "publication": {
+      "commit": "05d06fef706728792efd449659ea67f85cf4f06a",
+      "checkedAt": "2026-11-08T11:45:08.210Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mrxiyi666-wanshenjiegame",
@@ -26307,15 +26315,15 @@
     "owner": "MrXiyi666",
     "name": "WanShenjieGame",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "app/src/main/assets/index.html",
-    "checkedAt": "2026-11-02T00:25:52.462Z",
+    "checkedAt": "2026-11-08T11:44:31.098Z",
     "forkName": "MrXiyi666-WanShenjieGame",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 55214,
     "dataSize": 1171747,
     "sourceRepo": "MrXiyi666/WanShenjieGame",
@@ -26340,7 +26348,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/MrXiyi666-WanShenjieGame/",
     "upstreamCover": "https://webrpg.org/MrXiyi666-WanShenjieGame/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MrXiyi666-WanShenjieGame/index.html",
+    "cover": "https://yx.ecy.al/MrXiyi666-WanShenjieGame/cover.png",
+    "publication": {
+      "commit": "98f665109e89d37fcc2a47ef3f883291162bb60e",
+      "checkedAt": "2026-11-08T11:47:18.158Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "msc-cqu-cba",
@@ -26488,12 +26504,12 @@
     "owner": "munokura",
     "name": "Sword-Floor-MV-sample",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-07-20T06:21:54.384Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:45:18.710Z",
     "forkName": "munokura-Sword-Floor-MV-sample",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 2858,
+    "totalSize": 2857,
     "dataSize": 100516,
     "sourceRepo": "munokura/Sword-Floor-MV-sample",
     "sourceDefaultBranch": "main",
@@ -26511,7 +26527,15 @@
     },
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/munokura-Sword-Floor-MV-sample/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/munokura-Sword-Floor-MV-sample/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "a061549a2369528b5d5252869b0c7f401f91bd91",
+      "checkedAt": "2026-11-08T11:47:27.362Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mynamescrax-aetheris",
@@ -26641,14 +26665,14 @@
     "owner": "myueqf",
     "name": "myueqf.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "app/归还/index.html",
-    "checkedAt": "2026-11-02T00:25:51.700Z",
+    "checkedAt": "2026-11-08T11:47:10.233Z",
     "forkName": "myueqf-myueqf.github.io",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 1229332,
     "dataSize": 940822,
     "sourceRepo": "myueqf/myueqf.github.io",
@@ -26672,7 +26696,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/myueqf-myueqf.github.io/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/myueqf-myueqf.github.io/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "371609bf2e61858c2725ce367dea111fcc56e689",
+      "checkedAt": "2026-11-08T11:49:49.507Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "na-na-ti-game-design",
@@ -27758,8 +27790,8 @@
     "owner": "numanicloud",
     "name": "ImmortalFairy",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-06T10:33:23.075Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:47:48.942Z",
     "forkName": "numanicloud-ImmortalFairy",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -27794,6 +27826,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/numanicloud-ImmortalFairy/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/numanicloud-ImmortalFairy/index.html",
+    "cover": "https://yx.ecy.al/numanicloud-ImmortalFairy/cover.png",
+    "publication": {
+      "commit": "356e5db68a78aaa5a2f923f59dde6bce1198c741",
+      "checkedAt": "2026-11-08T11:50:15.105Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
