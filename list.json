@@ -16470,7 +16470,7 @@
     "name": "hefsjgaeiK.github.io",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-11-08T05:19:17.725Z",
+    "checkedAt": "2026-11-08T05:24:58.757Z",
     "forkName": "hefsjgaeiK-hefsjgaeiK.github.io",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -16509,16 +16509,10 @@
     "pagesUrl": "https://yx.ecy.al/hefsjgaeiK-hefsjgaeiK.github.io/index.html",
     "cover": "https://yx.ecy.al/hefsjgaeiK-hefsjgaeiK.github.io/cover.png",
     "publication": {
-      "commit": "e09230e05bb9e4c296b3dd87fba637534007c44f",
-      "checkedAt": "2026-11-08T05:19:17.725Z",
-      "check": "Built Pages entry"
-    },
-    "runtime": {
-      "status": "passed",
-      "checkedAt": "2026-11-08T05:19:17.725Z",
-      "commit": "e09230e05bb9e4c296b3dd87fba637534007c44f",
-      "scope": "Title screen and new-game scene verified in browser; not full playthrough",
-      "evidence": "开始进入中文剧情确认画面"
+      "commit": "c36f965dc194795619a59034cfef6f4ca70a8919",
+      "checkedAt": "2026-11-08T05:25:44.483Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
