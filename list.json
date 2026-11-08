@@ -31156,12 +31156,12 @@
     "owner": "renrender0209",
     "name": "kawaiihakowaseru",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:34.928Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:32:03.733Z",
     "forkName": "renrender0209-kawaiihakowaseru",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 69824,
+    "totalSize": 69822,
     "dataSize": 1537084,
     "sourceRepo": "renrender0209/kawaiihakowaseru",
     "sourceDefaultBranch": "main",
@@ -31173,7 +31173,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/renrender0209-kawaiihakowaseru/",
     "upstreamCover": "https://webrpg.org/renrender0209-kawaiihakowaseru/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/renrender0209-kawaiihakowaseru/index.html",
+    "cover": "https://yx.ecy.al/renrender0209-kawaiihakowaseru/cover.png",
+    "publication": {
+      "commit": "8697d488f76f61045ade5217bb9a2161f66f9a22",
+      "checkedAt": "2026-11-08T12:34:26.380Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "renrender0209-kinokonun",
@@ -33077,12 +33085,12 @@
     "owner": "SaveSub",
     "name": "Elise_Tickleland_EN",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:10:15.231Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T12:32:42.100Z",
     "forkName": "SaveSub-Elise_Tickleland_EN",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 443817,
+    "totalSize": 443805,
     "dataSize": 2473440,
     "sourceRepo": "SaveSub/Elise_Tickleland_EN",
     "sourceDefaultBranch": "main",
@@ -33094,7 +33102,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/SaveSub-Elise_Tickleland_EN/",
     "upstreamCover": "https://webrpg.org/SaveSub-Elise_Tickleland_EN/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SaveSub-Elise_Tickleland_EN/index.html",
+    "cover": "https://yx.ecy.al/SaveSub-Elise_Tickleland_EN/cover.png",
+    "publication": {
+      "commit": "3cb2e773cdab29137191fea2e32cb4d24a103d3e",
+      "checkedAt": "2026-11-08T12:36:03.663Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "savesub-fairymaze-en",
