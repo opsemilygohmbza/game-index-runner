@@ -19261,9 +19261,9 @@
     "owner": "john-smith",
     "name": "rpg-kuso",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-11-05T19:43:30.356Z",
+    "checkedAt": "2026-11-08T09:39:20.420Z",
     "forkName": "john-smith-rpg-kuso",
-    "status": "indexed",
+    "status": "verified",
     "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 84508,
@@ -19283,7 +19283,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/john-smith-rpg-kuso/",
     "upstreamCover": "https://webrpg.org/john-smith-rpg-kuso/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/john-smith-rpg-kuso/index.html",
+    "cover": "https://yx.ecy.al/john-smith-rpg-kuso/cover.png",
+    "publication": {
+      "commit": "ca3c3ee25d492066d7df85f5a8666427ec083791",
+      "checkedAt": "2026-11-08T09:42:13.168Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "johnnypackard-unnamed-rpg",
@@ -19445,8 +19453,8 @@
     "owner": "joshika39",
     "name": "rpg-camp-game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:36:43.140Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T09:39:30.004Z",
     "forkName": "joshika39-rpg-camp-game",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -19483,6 +19491,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/joshika39-rpg-camp-game/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/joshika39-rpg-camp-game/index.html",
+    "cover": "https://yx.ecy.al/joshika39-rpg-camp-game/cover.png",
+    "publication": {
+      "commit": "e288150a6bcad5893e4eb9a63393600750eba766",
+      "checkedAt": "2026-11-08T09:42:38.767Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -19740,13 +19756,13 @@
     "owner": "juridon",
     "name": "juridon.github.io",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-11-05T19:43:12.852Z",
+    "checkedAt": "2026-11-08T09:41:49.581Z",
     "forkName": "juridon-juridon.github.io",
-    "status": "indexed",
-    "entryPath": "docs/gameTest/index.html",
+    "status": "verified",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 87375,
-    "dataSize": 0,
+    "dataSize": 686176,
     "sourceRepo": "juridon/juridon.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "2dd4a3ad4e9d7a8d247375563ba6960b2af56a03",
@@ -19775,7 +19791,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/juridon-juridon.github.io/",
     "upstreamCover": "https://webrpg.org/juridon-juridon.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/juridon-juridon.github.io/index.html",
+    "cover": "https://yx.ecy.al/juridon-juridon.github.io/cover.png",
+    "publication": {
+      "commit": "a41e66b1de9ad4f3758ea0e1fab9cce4477aa8ea",
+      "checkedAt": "2026-11-08T09:44:36.938Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "justjxrdanwasdefinetlytaken-cassets",
@@ -20075,8 +20099,8 @@
     "owner": "kata235",
     "name": "MV01",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:24.032Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T09:41:59.304Z",
     "forkName": "kata235-MV01",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -20111,6 +20135,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/kata235-MV01/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/kata235-MV01/index.html",
+    "cover": "https://yx.ecy.al/kata235-MV01/cover.png",
+    "publication": {
+      "commit": "7d533a192989da6bc131bc3e9ebb6fbd05f6a32b",
+      "checkedAt": "2026-11-08T09:44:27.250Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -20120,8 +20152,8 @@
     "owner": "kata235",
     "name": "MV02",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:32.721Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T09:44:20.001Z",
     "forkName": "kata235-MV02",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -20157,6 +20189,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/kata235-MV02/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/kata235-MV02/index.html",
+    "cover": "https://yx.ecy.al/kata235-MV02/cover.png",
+    "publication": {
+      "commit": "eda52a0af7c52ea028b555f773a9d2fee779ef0c",
+      "checkedAt": "2026-11-08T09:46:20.261Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
