@@ -1735,15 +1735,15 @@
     "owner": "AAK581",
     "name": "Polkadot-Cats-Game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:34:42.580Z",
+    "checkedAt": "2026-11-08T16:54:28.936Z",
     "forkName": "AAK581-Polkadot-Cats-Game",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 25219,
+    "totalSize": 25217,
     "dataSize": 662870,
     "sourceRepo": "AAK581/Polkadot-Cats-Game",
     "sourceDefaultBranch": "main",
@@ -1772,6 +1772,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AAK581-Polkadot-Cats-Game/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AAK581-Polkadot-Cats-Game/index.html",
+    "cover": "https://yx.ecy.al/AAK581-Polkadot-Cats-Game/cover.png",
+    "publication": {
+      "commit": "f4b9a0d0fe07b4fecf5bd4d8ff1943207b2a0591",
+      "checkedAt": "2026-11-08T16:58:14.849Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
