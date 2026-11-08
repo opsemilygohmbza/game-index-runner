@@ -138,7 +138,8 @@ async function githubRequest(path, options = {}) {
   const baseDelayMs = 10_000;
 
   for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
-    const response = await fetch(`${apiBase}${path}`, {
+  const response = await fetch(`${apiBase}${path}`, {
+    signal: AbortSignal.timeout(30000),
       method: options.method || "GET",
       headers: {
         Accept: "application/vnd.github+json",

@@ -285,6 +285,7 @@ async function waitForCreateSlot() {
 
 async function githubRequest(path, options = {}) {
   const response = await fetch(`${apiBase}${path}`, {
+    signal: AbortSignal.timeout(30000),
     method: options.method || "GET",
     headers: {
       Accept: "application/vnd.github+json",
