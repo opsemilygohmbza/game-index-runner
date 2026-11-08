@@ -6909,16 +6909,16 @@
     "owner": "Byvalvin",
     "name": "Sanctuary",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Sanctuary/index.html",
-    "checkedAt": "2026-10-30T09:49:04.842Z",
+    "checkedAt": "2026-11-08T22:34:05.019Z",
     "forkName": "Byvalvin-Sanctuary",
-    "entryPath": "Sanctuary/index.html",
-    "validationScore": 115,
+    "entryPath": "index.html",
+    "validationScore": 118,
     "totalSize": 440018,
-    "dataSize": 0,
+    "dataSize": 1617608,
     "sourceRepo": "Byvalvin/Sanctuary",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "78d319db34743092544bee3ad4b796c8452da188",
@@ -6947,6 +6947,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Byvalvin-Sanctuary/Sanctuary/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Byvalvin-Sanctuary/index.html",
+    "cover": "https://yx.ecy.al/Byvalvin-Sanctuary/cover.png",
+    "publication": {
+      "commit": "3d340798669028e351efbf795800eef7b8a53f72",
+      "checkedAt": "2026-11-08T22:34:49.967Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -6956,14 +6964,14 @@
     "owner": "bywuuu",
     "name": "lecWeb",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "main/static/games/rpg/index.html",
-    "checkedAt": "2026-10-30T09:49:11.420Z",
+    "checkedAt": "2026-11-08T22:34:13.371Z",
     "forkName": "bywuuu-lecWeb",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 258915,
     "dataSize": 672028,
     "sourceRepo": "bywuuu/lecWeb",
@@ -6980,6 +6988,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/bywuuu-lecWeb/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/bywuuu-lecWeb/index.html",
+    "cover": "https://yx.ecy.al/bywuuu-lecWeb/cover.png",
+    "publication": {
+      "commit": "fdcfc73f778c2e5292b53d154b03763939c57a54",
+      "checkedAt": "2026-11-08T22:37:29.610Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -7052,16 +7068,16 @@
     "owner": "cafel176",
     "name": "EventConditionPro",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "ExampleProject_MV/index.html",
-    "checkedAt": "2026-10-30T09:49:29.105Z",
+    "checkedAt": "2026-11-08T22:34:33.473Z",
     "forkName": "cafel176-EventConditionPro",
-    "entryPath": "ExampleProject_MV/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 484456,
-    "dataSize": 0,
+    "dataSize": 750609,
     "sourceRepo": "cafel176/EventConditionPro",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "d526614af2da60f91175d1e7866680796f146527",
@@ -7084,6 +7100,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/cafel176-EventConditionPro/ExampleProject_MV/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/cafel176-EventConditionPro/index.html",
+    "cover": "https://yx.ecy.al/cafel176-EventConditionPro/cover.png",
+    "publication": {
+      "commit": "9bf1da3fa22ca0b262e27879aea25816bfeceb40",
+      "checkedAt": "2026-11-08T22:38:20.147Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -7093,11 +7117,11 @@
     "owner": "caiocpassos",
     "name": "Sorcery-of-Truth",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-01T04:42:21.429Z",
+    "checkedAt": "2026-11-08T22:37:12.680Z",
     "forkName": "caiocpassos-Sorcery-of-Truth",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -7117,7 +7141,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/",
-    "upstreamCover": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/cover.png"
+    "upstreamCover": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/cover.png",
+    "pagesUrl": "https://yx.ecy.al/caiocpassos-Sorcery-of-Truth/index.html",
+    "cover": "https://yx.ecy.al/caiocpassos-Sorcery-of-Truth/cover.png",
+    "publication": {
+      "commit": "2d438a65bf7714b4b0266a67742c835d0d03d8d6",
+      "checkedAt": "2026-11-08T22:40:43.259Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "caiofov-animationgenerator-dataset-propor2024",
@@ -7126,16 +7158,16 @@
     "owner": "caiofov",
     "name": "AnimationGenerator-Dataset-PROPOR2024",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Animations/index.html",
-    "checkedAt": "2026-10-30T22:05:32.131Z",
+    "checkedAt": "2026-11-08T22:37:31.416Z",
     "forkName": "caiofov-AnimationGenerator-Dataset-PROPOR2024",
-    "entryPath": "Animations/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 945608,
-    "dataSize": 0,
+    "dataSize": 1222857,
     "sourceRepo": "caiofov/AnimationGenerator-Dataset-PROPOR2024",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "53f50a4cca57a950a9a94115b2a3b6ceb8062ea2",
@@ -7158,6 +7190,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/caiofov-AnimationGenerator-Dataset-PROPOR2024/Animations/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/caiofov-AnimationGenerator-Dataset-PROPOR2024/index.html",
+    "cover": "https://yx.ecy.al/caiofov-AnimationGenerator-Dataset-PROPOR2024/cover.png",
+    "publication": {
+      "commit": "279d2dc0de60a68323053d4b5508e9afa46a1f47",
+      "checkedAt": "2026-11-08T22:41:08.235Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
