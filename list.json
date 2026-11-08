@@ -6636,11 +6636,11 @@
     "owner": "brunolcarli",
     "name": "yggdrasilMMO",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index2.html",
-    "checkedAt": "2026-11-06T10:36:00.586Z",
+    "checkedAt": "2026-11-08T21:57:17.609Z",
     "forkName": "brunolcarli-yggdrasilMMO",
     "entryPath": "index2.html",
     "validationScore": 110,
@@ -6660,6 +6660,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/brunolcarli-yggdrasilMMO/index2.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/brunolcarli-yggdrasilMMO/index2.html",
+    "cover": "https://yx.ecy.al/brunolcarli-yggdrasilMMO/cover.png",
+    "publication": {
+      "commit": "86a589a82d67563f52e5e52f48b54838909a1e7d",
+      "checkedAt": "2026-11-08T21:59:58.724Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -6763,11 +6771,11 @@
     "owner": "Bundtologist",
     "name": "rpgmaker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T19:04:29.125Z",
+    "checkedAt": "2026-11-08T21:57:27.500Z",
     "forkName": "Bundtologist-rpgmaker",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6800,6 +6808,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Bundtologist-rpgmaker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Bundtologist-rpgmaker/index.html",
+    "cover": "https://yx.ecy.al/Bundtologist-rpgmaker/cover.png",
+    "publication": {
+      "commit": "fbe7380ca5290b1ddb75fdeed5bb5960ab9bf1b9",
+      "checkedAt": "2026-11-08T22:00:42.243Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
