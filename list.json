@@ -7811,14 +7811,14 @@
     "owner": "chibibaku",
     "name": "rmmv-webhost",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-10-30T22:05:52.227Z",
+    "checkedAt": "2026-11-08T23:17:33.581Z",
     "forkName": "chibibaku-rmmv-webhost",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 291866,
     "dataSize": 722277,
     "sourceRepo": "chibibaku/rmmv-webhost",
@@ -7843,6 +7843,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/chibibaku-rmmv-webhost/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/chibibaku-rmmv-webhost/index.html",
+    "cover": "https://yx.ecy.al/chibibaku-rmmv-webhost/cover.png",
+    "publication": {
+      "commit": "874dedf89208cd1373240c00130b52073a4d7d50",
+      "checkedAt": "2026-11-08T23:20:34.158Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -7901,14 +7909,14 @@
     "owner": "chiyungjie",
     "name": "RPG20240811",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-11T10:39:55.721Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:42:22.174Z",
+    "checkedAt": "2026-11-08T23:17:41.534Z",
     "forkName": "chiyungjie-RPG20240811",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388849,
     "dataSize": 953369,
     "sourceRepo": "chiyungjie/RPG20240811",
@@ -7933,7 +7941,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/chiyungjie-RPG20240811/",
     "upstreamCover": "https://webrpg.org/chiyungjie-RPG20240811/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/chiyungjie-RPG20240811/index.html",
+    "cover": "https://yx.ecy.al/chiyungjie-RPG20240811/cover.png",
+    "publication": {
+      "commit": "4d8f3edc33cb6cf741a17473cdda060c0af34415",
+      "checkedAt": "2026-11-08T23:20:40.564Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "chocabloc-adventure-game",
@@ -8041,11 +8057,11 @@
     "owner": "Choyoru",
     "name": "Bunny-and-space-dungeons",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:42:43.970Z",
+    "checkedAt": "2026-11-08T23:20:01.579Z",
     "forkName": "Choyoru-Bunny-and-space-dungeons",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -8079,7 +8095,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/",
-    "upstreamCover": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/cover.png"
+    "upstreamCover": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Choyoru-Bunny-and-space-dungeons/index.html",
+    "cover": "https://yx.ecy.al/Choyoru-Bunny-and-space-dungeons/cover.png",
+    "publication": {
+      "commit": "0581105b31167f0d61aa011c1a4b533824a2b09f",
+      "checkedAt": "2026-11-08T23:23:09.864Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "christvh-box-project",
@@ -8175,11 +8199,11 @@
     "owner": "Ciart",
     "name": "KnightDream-Old",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:06:00.634Z",
+    "checkedAt": "2026-11-08T23:20:11.267Z",
     "forkName": "Ciart-KnightDream-Old",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -8199,6 +8223,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Ciart-KnightDream-Old/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Ciart-KnightDream-Old/index.html",
+    "cover": "https://yx.ecy.al/Ciart-KnightDream-Old/cover.png",
+    "publication": {
+      "commit": "78c3a80ad105d849b266b21febaff55c924eeaa1",
+      "checkedAt": "2026-11-08T23:23:02.775Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -8235,15 +8267,15 @@
     "owner": "Cizz22",
     "name": "rpgmaker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:59.299Z",
+    "checkedAt": "2026-11-08T23:22:24.296Z",
     "forkName": "Cizz22-rpgmaker",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388549,
     "dataSize": 782303,
     "sourceRepo": "Cizz22/rpgmaker",
@@ -8267,7 +8299,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Cizz22-rpgmaker/",
     "upstreamCover": "https://webrpg.org/Cizz22-rpgmaker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Cizz22-rpgmaker/index.html",
+    "cover": "https://yx.ecy.al/Cizz22-rpgmaker/cover.png",
+    "publication": {
+      "commit": "a5a40c3c2742ff4dd7e57b79f89d855c7f6e0917",
+      "checkedAt": "2026-11-08T23:24:49.080Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cjtan0503-rpgfantasy",
