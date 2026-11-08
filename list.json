@@ -7058,7 +7058,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-08T05:28:48.272Z",
+    "checkedAt": "2026-11-08T05:33:05.859Z",
     "forkName": "chocabloc-adventure-game",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -7094,16 +7094,10 @@
     "pagesUrl": "https://yx.ecy.al/chocabloc-adventure-game/index.html",
     "cover": null,
     "publication": {
-      "commit": "ab9ed043b1a9bd5c9223774eef793c9849a5a82c",
-      "checkedAt": "2026-11-08T05:28:48.272Z",
-      "check": "Built Pages entry"
-    },
-    "runtime": {
-      "status": "passed",
-      "checkedAt": "2026-11-08T05:28:48.272Z",
-      "commit": "ab9ed043b1a9bd5c9223774eef793c9849a5a82c",
-      "scope": "Title screen and new-game scene verified in browser; not full playthrough",
-      "evidence": "标题点击 New Game 后进入有主角、动物与房屋的地图"
+      "commit": "f85ba736797b24a00797183f376c089a493b94a9",
+      "checkedAt": "2026-11-08T05:33:50.679Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
