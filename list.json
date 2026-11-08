@@ -2268,11 +2268,11 @@
     "owner": "Aguiano18",
     "name": "Rpg.maker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:46:44.745Z",
+    "checkedAt": "2026-11-08T17:33:21.932Z",
     "forkName": "Aguiano18-Rpg.maker",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -2305,6 +2305,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Aguiano18-Rpg.maker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Aguiano18-Rpg.maker/index.html",
+    "cover": "https://yx.ecy.al/Aguiano18-Rpg.maker/cover.png",
+    "publication": {
+      "commit": "8183fa510e229df6d9bc52baf746ba993a2c92ca",
+      "checkedAt": "2026-11-08T17:36:27.362Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -2314,16 +2322,16 @@
     "owner": "Agus-Sosa",
     "name": "ReactMonster",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Client/client/public/rpg/Rm/www/index.html",
-    "checkedAt": "2026-10-30T09:47:04.225Z",
+    "checkedAt": "2026-11-08T17:33:31.761Z",
     "forkName": "Agus-Sosa-ReactMonster",
-    "entryPath": "Client/client/public/rpg/Rm/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 478148,
-    "dataSize": 0,
+    "dataSize": 1268872,
     "sourceRepo": "Agus-Sosa/ReactMonster",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "56a830130f13182df43349b592a6d03e8c78721d",
@@ -2355,6 +2363,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Agus-Sosa-ReactMonster/Client/client/public/rpg/Rm/www/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Agus-Sosa-ReactMonster/index.html",
+    "cover": "https://yx.ecy.al/Agus-Sosa-ReactMonster/cover.png",
+    "publication": {
+      "commit": "1af62e3cb628b7722460e68825aa54d9db99cbae",
+      "checkedAt": "2026-11-08T17:37:18.121Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
