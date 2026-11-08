@@ -7315,11 +7315,11 @@
     "owner": "CardCaph",
     "name": "rpg-pwa-test-1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T19:04:29.488Z",
+    "checkedAt": "2026-11-08T22:40:29.698Z",
     "forkName": "CardCaph-rpg-pwa-test-1",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -7347,6 +7347,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CardCaph-rpg-pwa-test-1/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CardCaph-rpg-pwa-test-1/index.html",
+    "cover": "https://yx.ecy.al/CardCaph-rpg-pwa-test-1/cover.png",
+    "publication": {
+      "commit": "7ee75981501ec58a94debe1e8e5c9689bdeba1b2",
+      "checkedAt": "2026-11-08T22:43:21.378Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -7546,11 +7554,11 @@
     "owner": "CesarVfilo",
     "name": "videojuegosyfilosofia",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:42:20.966Z",
+    "checkedAt": "2026-11-08T22:40:39.939Z",
     "forkName": "CesarVfilo-videojuegosyfilosofia",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -7584,7 +7592,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/",
-    "upstreamCover": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/cover.png"
+    "upstreamCover": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/cover.png",
+    "pagesUrl": "https://yx.ecy.al/CesarVfilo-videojuegosyfilosofia/index.html",
+    "cover": "https://yx.ecy.al/CesarVfilo-videojuegosyfilosofia/cover.png",
+    "publication": {
+      "commit": "09bef0f76ca5c8aa26ec858adb38cd00953fc17c",
+      "checkedAt": "2026-11-08T22:43:27.211Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "chanchipong1226-dev-project-repositry",
