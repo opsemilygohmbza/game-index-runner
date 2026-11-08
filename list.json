@@ -3778,16 +3778,16 @@
     "owner": "AnibalSJ",
     "name": "Last-Years",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Ingreso/homecoming/www/index.html",
-    "checkedAt": "2026-11-01T04:41:56.249Z",
+    "checkedAt": "2026-11-08T19:39:07.806Z",
     "forkName": "AnibalSJ-Last-Years",
-    "entryPath": "Ingreso/homecoming/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 678005,
-    "dataSize": 0,
+    "dataSize": 1046913,
     "sourceRepo": "AnibalSJ/Last-Years",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "d21d8d8421a18dfd996968d1c0268bbf1199b3bb",
@@ -3819,7 +3819,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/AnibalSJ-Last-Years/",
-    "upstreamCover": "https://webrpg.org/AnibalSJ-Last-Years/cover.png"
+    "upstreamCover": "https://webrpg.org/AnibalSJ-Last-Years/cover.png",
+    "pagesUrl": "https://yx.ecy.al/AnibalSJ-Last-Years/index.html",
+    "cover": "https://yx.ecy.al/AnibalSJ-Last-Years/cover.png",
+    "publication": {
+      "commit": "67a2830fcf5d6c876c0e3aba97896aad92e77b81",
+      "checkedAt": "2026-11-08T19:42:32.644Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "anqui3tas-fiesta-rpg",
@@ -3846,11 +3854,11 @@
     "owner": "AnthonyGit1",
     "name": "QhatuLab-Frontend",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/game/index.html",
-    "checkedAt": "2026-10-30T09:48:27.161Z",
+    "checkedAt": "2026-11-08T19:39:15.855Z",
     "forkName": "AnthonyGit1-QhatuLab-Frontend",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -3883,6 +3891,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AnthonyGit1-QhatuLab-Frontend/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AnthonyGit1-QhatuLab-Frontend/index.html",
+    "cover": "https://yx.ecy.al/AnthonyGit1-QhatuLab-Frontend/cover.png",
+    "publication": {
+      "commit": "484a986ae4d581210a6548b0c4e9366f2351eec0",
+      "checkedAt": "2026-11-08T19:42:42.883Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4067,11 +4083,11 @@
     "owner": "apollovy",
     "name": "fear-and-hunger",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "js_copies/index.html",
-    "checkedAt": "2026-10-30T09:48:09.527Z",
+    "checkedAt": "2026-11-08T19:42:04.856Z",
     "forkName": "apollovy-fear-and-hunger",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -4112,6 +4128,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/apollovy-fear-and-hunger/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/apollovy-fear-and-hunger/index.html",
+    "cover": "https://yx.ecy.al/apollovy-fear-and-hunger/cover.png",
+    "publication": {
+      "commit": "0e66f4e0b6370146b08b837c580ac2d136951b00",
+      "checkedAt": "2026-11-08T19:45:01.023Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4121,15 +4145,15 @@
     "owner": "apotb",
     "name": "the-trail",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-20T13:59:12.969Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T21:10:34.840Z",
+    "checkedAt": "2026-11-08T19:42:14.992Z",
     "forkName": "apotb-the-trail",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 1036336,
+    "totalSize": 1032754,
     "dataSize": 40873071,
     "sourceRepo": "apotb/the-trail",
     "sourceDefaultBranch": "master",
@@ -4143,7 +4167,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/apotb-the-trail/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/apotb-the-trail/"
+    "upstreamPagesUrl": "https://webrpg.org/apotb-the-trail/",
+    "pagesUrl": "https://yx.ecy.al/apotb-the-trail/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "19aaf7db3cb7e07dbf48a083fd2fb921275e7eae",
+      "checkedAt": "2026-11-08T19:44:39.006Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "apress-beg-rpg-maker-mv",
@@ -4320,11 +4352,11 @@
     "owner": "Archeia",
     "name": "RuselandNessy",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:35:06.900Z",
+    "checkedAt": "2026-11-08T19:44:06.015Z",
     "forkName": "Archeia-RuselandNessy",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -4357,6 +4389,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Archeia-RuselandNessy/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Archeia-RuselandNessy/index.html",
+    "cover": "https://yx.ecy.al/Archeia-RuselandNessy/cover.png",
+    "publication": {
+      "commit": "3d27435ebf32ebee77bd0dc8a0b43afc8c62e00c",
+      "checkedAt": "2026-11-08T19:46:07.028Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
