@@ -12161,8 +12161,8 @@
     "owner": "eric0308a",
     "name": "Game_shao_cao_zhi",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:42.522Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:56:58.350Z",
     "forkName": "eric0308a-Game_shao_cao_zhi",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -12198,6 +12198,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/eric0308a-Game_shao_cao_zhi/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/eric0308a-Game_shao_cao_zhi/index.html",
+    "cover": "https://yx.ecy.al/eric0308a-Game_shao_cao_zhi/cover.png",
+    "publication": {
+      "commit": "be110e52ec97a7184a6304c88f1f8edf90010485",
+      "checkedAt": "2026-11-08T06:58:55.140Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
