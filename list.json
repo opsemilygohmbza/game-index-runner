@@ -3819,15 +3819,15 @@
     "owner": "AraragiHoozuki",
     "name": "ProjectMaga",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:30:57.888Z",
+    "checkedAt": "2026-11-08T06:07:30.369Z",
     "forkName": "AraragiHoozuki-ProjectMaga",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 709801,
     "dataSize": 593343,
     "sourceRepo": "AraragiHoozuki/ProjectMaga",
@@ -3845,7 +3845,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/AraragiHoozuki-ProjectMaga/",
     "upstreamCover": "https://webrpg.org/AraragiHoozuki-ProjectMaga/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/AraragiHoozuki-ProjectMaga/index.html",
+    "cover": "https://yx.ecy.al/AraragiHoozuki-ProjectMaga/cover.png",
+    "publication": {
+      "commit": "a08c8a11c6d6fd7a2ba25998df70a1461f5ae3b5",
+      "checkedAt": "2026-11-08T06:09:11.378Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "arcadia-diddy-arcadiax",
