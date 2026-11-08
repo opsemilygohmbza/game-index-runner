@@ -2907,16 +2907,16 @@
     "owner": "Alriosa",
     "name": "awaken-mz",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T16:29:52.776Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
-    "checkedAt": "2026-10-31T11:52:01.622Z",
+    "checkedAt": "2026-11-08T18:17:55.853Z",
     "forkName": "Alriosa-awaken-mz",
-    "entryPath": "Project1/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 501224,
-    "dataSize": 0,
+    "dataSize": 669057,
     "sourceRepo": "Alriosa/awaken-mz",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "1f9009e3bce3c8aec155a6699b361f0aaf74ad8f",
@@ -2945,7 +2945,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Alriosa-awaken-mz/",
-    "upstreamCover": "https://webrpg.org/Alriosa-awaken-mz/cover.png"
+    "upstreamCover": "https://webrpg.org/Alriosa-awaken-mz/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Alriosa-awaken-mz/index.html",
+    "cover": "https://yx.ecy.al/Alriosa-awaken-mz/cover.png",
+    "publication": {
+      "commit": "b1b2384c785cd9d03fbf0a3ec0c6a99312c35262",
+      "checkedAt": "2026-11-08T18:21:53.253Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "altanturan-protocol-takeover",
@@ -2954,16 +2962,16 @@
     "owner": "AltanTuran",
     "name": "Protocol-Takeover",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Assets/Asset/Galacti-Chrons Sci-Fi Warehouse Pack/Galacti-Chrons Sci-Fi Warehouse Pack/index.html",
-    "checkedAt": "2026-11-06T10:35:10.473Z",
+    "checkedAt": "2026-11-08T18:18:05.553Z",
     "forkName": "AltanTuran-Protocol-Takeover",
-    "entryPath": "Assets/Asset/Galacti-Chrons Sci-Fi Warehouse Pack/Galacti-Chrons Sci-Fi Warehouse Pack/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 161005,
-    "dataSize": 0,
+    "dataSize": 1524016,
     "sourceRepo": "AltanTuran/Protocol-Takeover",
     "coverPath": "cover.png",
     "sourceDefaultBranch": "main",
@@ -2989,6 +2997,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AltanTuran-Protocol-Takeover/Assets/Asset/Galacti-Chrons%20Sci-Fi%20Warehouse%20Pack/Galacti-Chrons%20Sci-Fi%20Warehouse%20Pack/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AltanTuran-Protocol-Takeover/index.html",
+    "cover": "https://yx.ecy.al/AltanTuran-Protocol-Takeover/cover.png",
+    "publication": {
+      "commit": "e7be55b2cbff74e7bfa44e931a6ed901c0a92450",
+      "checkedAt": "2026-11-08T18:21:31.750Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
