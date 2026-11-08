@@ -1035,15 +1035,15 @@
     "owner": "28pmancenido-sys",
     "name": "28pmancenido-sys.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GetToSchool7/index.html",
-    "checkedAt": "2026-11-03T20:56:30.095Z",
+    "checkedAt": "2026-11-08T16:42:00.895Z",
     "forkName": "28pmancenido-sys-28pmancenido-sys.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 54523,
     "dataSize": 1433994,
     "sourceRepo": "28pmancenido-sys/28pmancenido-sys.github.io",
@@ -1067,7 +1067,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/28pmancenido-sys-28pmancenido-sys.github.io/",
     "upstreamCover": "https://webrpg.org/28pmancenido-sys-28pmancenido-sys.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/28pmancenido-sys-28pmancenido-sys.github.io/index.html",
+    "cover": "https://yx.ecy.al/28pmancenido-sys-28pmancenido-sys.github.io/cover.png",
+    "publication": {
+      "commit": "09871383d800a6f29fd1a195287e6bafd5dc9a04",
+      "checkedAt": "2026-11-08T16:45:04.230Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "29abrenton-rgb-29abrenton-rgb-github-io",
@@ -1076,15 +1084,15 @@
     "owner": "29abrenton-rgb",
     "name": "29abrenton-rgb.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-11-03T20:59:21.484Z",
+    "checkedAt": "2026-11-08T16:42:09.189Z",
     "forkName": "29abrenton-rgb-29abrenton-rgb.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 22343,
     "dataSize": 1020564,
     "sourceRepo": "29abrenton-rgb/29abrenton-rgb.github.io",
@@ -1108,7 +1116,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/",
     "upstreamCover": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/29abrenton-rgb-29abrenton-rgb.github.io/index.html",
+    "cover": "https://yx.ecy.al/29abrenton-rgb-29abrenton-rgb.github.io/cover.png",
+    "publication": {
+      "commit": "9ab444401a264fb7c3dfc48575b1596b005f7571",
+      "checkedAt": "2026-11-08T16:44:54.296Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "29sdavis-29sdavis-github-io",
@@ -1117,15 +1133,15 @@
     "owner": "29sdavis",
     "name": "29sdavis.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GetToSchool7/index.html",
-    "checkedAt": "2026-11-03T20:56:33.725Z",
+    "checkedAt": "2026-11-08T16:44:46.683Z",
     "forkName": "29sdavis-29sdavis.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 126700,
     "dataSize": 1117778,
     "sourceRepo": "29sdavis/29sdavis.github.io",
@@ -1149,7 +1165,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/29sdavis-29sdavis.github.io/",
     "upstreamCover": "https://webrpg.org/29sdavis-29sdavis.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/29sdavis-29sdavis.github.io/index.html",
+    "cover": "https://yx.ecy.al/29sdavis-29sdavis.github.io/cover.png",
+    "publication": {
+      "commit": "0f7f3249b2c9d084f692b5dbf0cdbb7a51c02fbe",
+      "checkedAt": "2026-11-08T16:47:50.016Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "31mada-liyab-prime",
@@ -1158,15 +1182,15 @@
     "owner": "31madA",
     "name": "LIYAB-Prime",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-05T17:09:36.033Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:41:05.896Z",
+    "checkedAt": "2026-11-08T16:44:56.328Z",
     "forkName": "31madA-LIYAB-Prime",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 471871,
     "dataSize": 6659063,
     "sourceRepo": "31madA/LIYAB-Prime",
@@ -1187,7 +1211,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/31madA-LIYAB-Prime/",
     "upstreamCover": "https://webrpg.org/31madA-LIYAB-Prime/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/31madA-LIYAB-Prime/index.html",
+    "cover": "https://yx.ecy.al/31madA-LIYAB-Prime/cover.png",
+    "publication": {
+      "commit": "5168360d7d2579a5e58aa074aa72e9755586c6c7",
+      "checkedAt": "2026-11-08T16:47:55.545Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "3nginius-runetranslatepublic",
@@ -1261,15 +1293,15 @@
     "owner": "4nddrs",
     "name": "Cyber-Tech",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T00:48:00.035Z",
+    "checkedAt": "2026-11-08T16:47:16.665Z",
     "forkName": "4nddrs-Cyber-Tech",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 421717,
+    "totalSize": 421716,
     "dataSize": 3147194,
     "sourceRepo": "4nddrs/Cyber-Tech",
     "sourceDefaultBranch": "main",
@@ -1299,6 +1331,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/4nddrs-Cyber-Tech/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/4nddrs-Cyber-Tech/index.html",
+    "cover": "https://yx.ecy.al/4nddrs-Cyber-Tech/cover.png",
+    "publication": {
+      "commit": "9a327e2ab0a38cc6f93b4016658aedeec1374c01",
+      "checkedAt": "2026-11-08T16:49:38.903Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
