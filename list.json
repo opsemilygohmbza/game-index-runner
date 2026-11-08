@@ -17363,15 +17363,15 @@
     "owner": "huanggaole",
     "name": "huanggaole.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "duplicateReason": "Repository name already exists in list.json.",
-    "checkedAt": "2026-11-07T17:38:03.201Z",
+    "checkedAt": "2026-11-08T09:06:57.371Z",
     "forkName": "huanggaole-huanggaole.github.io",
     "invalidReason": "Upstream repository size 652266 KB exceeds the 250000 KB limit.",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 115,
-    "totalSize": 643060,
+    "totalSize": 652411,
     "dataSize": 1087313,
     "sourceRepo": "huanggaole/huanggaole.github.io",
     "sourceDefaultBranch": "master",
@@ -17397,7 +17397,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/huanggaole-huanggaole.github.io/",
-    "upstreamCover": "https://webrpg.org/huanggaole-huanggaole.github.io/cover.png"
+    "upstreamCover": "https://webrpg.org/huanggaole-huanggaole.github.io/cover.png",
+    "pagesUrl": "https://yx.ecy.al/huanggaole-huanggaole.github.io/index.html",
+    "cover": "https://yx.ecy.al/huanggaole-huanggaole.github.io/cover.png",
+    "publication": {
+      "commit": "34cdbd9a936cceaf6acfeb8e09c7b946a679ae31",
+      "checkedAt": "2026-11-08T09:10:51.728Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "huangxinyi2626-byte-github-teaching-experiment",
@@ -18253,15 +18261,15 @@
     "owner": "isao0926",
     "name": "RPG-Maker-mzz",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "大同與小康/Project1/index.html",
-    "checkedAt": "2026-11-03T05:37:20.035Z",
+    "checkedAt": "2026-11-08T09:07:46.729Z",
     "forkName": "isao0926-RPG-Maker-mzz",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 117016,
     "dataSize": 6167964,
     "sourceRepo": "isao0926/RPG-Maker-mzz",
@@ -18283,7 +18291,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/isao0926-RPG-Maker-mzz/",
     "upstreamCover": "https://webrpg.org/isao0926-RPG-Maker-mzz/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/isao0926-RPG-Maker-mzz/index.html",
+    "cover": "https://yx.ecy.al/isao0926-RPG-Maker-mzz/cover.png",
+    "publication": {
+      "commit": "bdb96a0583cae1e4c5952eebf33871d378910862",
+      "checkedAt": "2026-11-08T09:10:52.221Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "isekaiagile-laboratory",
@@ -18292,16 +18308,16 @@
     "owner": "IsekaiAgile",
     "name": "laboratory",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T21:11:29.183Z",
+    "checkedAt": "2026-11-08T09:07:57.094Z",
     "forkName": "IsekaiAgile-laboratory",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
-    "totalSize": 109073,
+    "totalSize": 109074,
     "dataSize": 922414,
     "sourceRepo": "IsekaiAgile/laboratory",
     "sourceDefaultBranch": "main",
@@ -18330,7 +18346,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/IsekaiAgile-laboratory/",
-    "upstreamCover": "https://webrpg.org/IsekaiAgile-laboratory/cover.png"
+    "upstreamCover": "https://webrpg.org/IsekaiAgile-laboratory/cover.png",
+    "pagesUrl": "https://yx.ecy.al/IsekaiAgile-laboratory/index.html",
+    "cover": "https://yx.ecy.al/IsekaiAgile-laboratory/cover.png",
+    "publication": {
+      "commit": "f74e6c70b8d8f9c554e98b37ec47bd78ff3152dd",
+      "checkedAt": "2026-11-08T09:10:51.967Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ismailabdurrahimnf-gangster-jakarta",
