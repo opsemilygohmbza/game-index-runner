@@ -4934,11 +4934,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-11-08T05:19:17.309Z",
+    "checkedAt": "2026-11-08T05:24:43.906Z",
     "forkName": "bill42362-mortals-journey-rmmz",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 102658,
     "dataSize": 710898,
     "sourceRepo": "bill42362/mortals-journey-rmmz",
@@ -4965,8 +4965,9 @@
     "cover": "https://yx.ecy.al/bill42362-mortals-journey-rmmz/cover.png",
     "publication": {
       "commit": "e061428b5e07d2f1a634160ac9decb026b46444d",
-      "checkedAt": "2026-11-08T05:19:17.309Z",
-      "check": "Built Pages entry"
+      "checkedAt": "2026-11-08T05:24:50.991Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     },
     "runtime": {
       "status": "passed",
