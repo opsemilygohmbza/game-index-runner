@@ -36033,12 +36033,12 @@
     "owner": "takuantoono",
     "name": "kn1.30",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:10:46.288Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:13:01.435Z",
     "forkName": "takuantoono-kn1.30",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 150529,
+    "totalSize": 150527,
     "dataSize": 9462709,
     "sourceRepo": "takuantoono/kn1.30",
     "sourceDefaultBranch": "master",
@@ -36064,7 +36064,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/takuantoono-kn1.30/",
     "upstreamCover": "https://webrpg.org/takuantoono-kn1.30/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/takuantoono-kn1.30/index.html",
+    "cover": "https://yx.ecy.al/takuantoono-kn1.30/cover.png",
+    "publication": {
+      "commit": "65c6b00953ab31f14d0a077c0a02d4ac59a17383",
+      "checkedAt": "2026-11-08T13:14:55.957Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "takushisato-futakobusan",
@@ -36459,15 +36467,15 @@
     "owner": "tenantintent",
     "name": "EnglishHeroTrial",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-26T12:18:25.259Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:12:17.898Z",
+    "checkedAt": "2026-11-08T13:13:11.444Z",
     "forkName": "tenantintent-EnglishHeroTrial",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 119881,
     "dataSize": 1965244,
     "sourceRepo": "tenantintent/EnglishHeroTrial",
@@ -36493,7 +36501,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/tenantintent-EnglishHeroTrial/",
     "upstreamCover": "https://webrpg.org/tenantintent-EnglishHeroTrial/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tenantintent-EnglishHeroTrial/index.html",
+    "cover": "https://yx.ecy.al/tenantintent-EnglishHeroTrial/cover.png",
+    "publication": {
+      "commit": "0ee88a7928657184f48b22935e808ac1bd44c362",
+      "checkedAt": "2026-11-08T13:16:17.377Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tenebrous-world-tenebrous-github-io",
