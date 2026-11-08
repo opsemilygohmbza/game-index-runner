@@ -8979,15 +8979,15 @@
     "owner": "ddCeka",
     "name": "faraway-celesphia",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-02T21:51:00.712Z",
     "source": "github-code-search",
     "sourcePath": "resources/app/project/index.html",
-    "checkedAt": "2026-11-07T09:46:29.826Z",
+    "checkedAt": "2026-11-08T06:55:10.118Z",
     "forkName": "ddCeka-faraway-celesphia",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 1105158,
     "dataSize": 49934546,
     "sourceRepo": "ddCeka/faraway-celesphia",
@@ -9008,7 +9008,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/ddCeka-faraway-celesphia/",
     "upstreamCover": "https://webrpg.org/ddCeka-faraway-celesphia/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ddCeka-faraway-celesphia/index.html",
+    "cover": "https://yx.ecy.al/ddCeka-faraway-celesphia/cover.png",
+    "publication": {
+      "commit": "e24ba0c257144123eefedecfa05c9247c7c589b3",
+      "checkedAt": "2026-11-08T06:56:14.267Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "deasyprod-ds-dsgame",
