@@ -3100,14 +3100,14 @@
     "owner": "Altrisk",
     "name": "altrisk.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "senja/index.html",
-    "checkedAt": "2026-10-30T09:47:25.725Z",
+    "checkedAt": "2026-11-08T18:55:17.422Z",
     "forkName": "Altrisk-altrisk.github.io",
     "entryPath": "index.html",
-    "validationScore": 115,
+    "validationScore": 118,
     "totalSize": 263652,
     "dataSize": 1211873,
     "sourceRepo": "Altrisk/altrisk.github.io",
@@ -3138,6 +3138,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Altrisk-altrisk.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Altrisk-altrisk.github.io/index.html",
+    "cover": "https://yx.ecy.al/Altrisk-altrisk.github.io/cover.png",
+    "publication": {
+      "commit": "0f41bd4d1858ab9ec351a32fc167ce344252fc93",
+      "checkedAt": "2026-11-08T18:56:18.695Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -3165,16 +3173,16 @@
     "owner": "amarillonmc",
     "name": "amarillonmc.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-20T13:59:12.969Z",
     "source": "github-code-search",
     "sourcePath": "Special/recoil/index.html",
-    "checkedAt": "2026-10-31T21:10:24.940Z",
+    "checkedAt": "2026-11-08T18:55:26.942Z",
     "forkName": "amarillonmc-amarillonmc.github.io",
-    "entryPath": "Special/recoil/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 359325,
-    "dataSize": 0,
+    "dataSize": 1233509,
     "sourceRepo": "amarillonmc/amarillonmc.github.io",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "8a326e5503f0c3e49073cf2fed5e5bd8b0eedb04",
@@ -3205,7 +3213,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/amarillonmc-amarillonmc.github.io/",
-    "upstreamCover": "https://webrpg.org/amarillonmc-amarillonmc.github.io/cover.png"
+    "upstreamCover": "https://webrpg.org/amarillonmc-amarillonmc.github.io/cover.png",
+    "pagesUrl": "https://yx.ecy.al/amarillonmc-amarillonmc.github.io/index.html",
+    "cover": "https://yx.ecy.al/amarillonmc-amarillonmc.github.io/cover.png",
+    "publication": {
+      "commit": "45479413e124bf6682b97331e7b24a97fa3d1840",
+      "checkedAt": "2026-11-08T18:58:30.413Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "amarillonmc-pj-spaceship",
@@ -3214,15 +3230,15 @@
     "owner": "amarillonmc",
     "name": "pj_Spaceship",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-06T12:48:07.065Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T05:37:05.556Z",
+    "checkedAt": "2026-11-08T18:55:46.306Z",
     "forkName": "amarillonmc-pj_Spaceship",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 389484,
     "dataSize": 3870835,
     "sourceRepo": "amarillonmc/pj_Spaceship",
@@ -3247,7 +3263,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/amarillonmc-pj_Spaceship/",
     "upstreamCover": "https://webrpg.org/amarillonmc-pj_Spaceship/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/amarillonmc-pj_Spaceship/index.html",
+    "cover": "https://yx.ecy.al/amarillonmc-pj_Spaceship/cover.png",
+    "publication": {
+      "commit": "aa5e0e0f396430bf80f437fc64f7bbc60f218998",
+      "checkedAt": "2026-11-08T18:58:55.980Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "amazingtutoringhelp-calculus-tutor-assets",
@@ -3303,15 +3327,15 @@
     "owner": "aminegold0",
     "name": "ios-port-TCOAAL",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-11-03T13:40:25.799Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-03T13:49:53.603Z",
+    "checkedAt": "2026-11-08T18:58:07.508Z",
     "forkName": "aminegold0-ios-port-TCOAAL",
     "entryPath": "index.html",
     "verificationDeferred": true,
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 89910,
     "dataSize": 13555123,
     "sourceRepo": "aminegold0/ios-port-TCOAAL",
@@ -3333,7 +3357,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/aminegold0-ios-port-TCOAAL/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/aminegold0-ios-port-TCOAAL/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "f4f66d51eba7303abf507a0f2e7cd33bdaab9f88",
+      "checkedAt": "2026-11-08T19:01:00.804Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "amogus0471-classroom",
@@ -3377,15 +3409,15 @@
     "owner": "Ananta-TI",
     "name": "Rpg-maker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:43:38.618Z",
+    "checkedAt": "2026-11-08T18:58:16.724Z",
     "forkName": "Ananta-TI-Rpg-maker",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 468877,
     "dataSize": 1623089,
     "sourceRepo": "Ananta-TI/Rpg-maker",
@@ -3411,7 +3443,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Ananta-TI-Rpg-maker/",
     "upstreamCover": "https://webrpg.org/Ananta-TI-Rpg-maker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Ananta-TI-Rpg-maker/index.html",
+    "cover": "https://yx.ecy.al/Ananta-TI-Rpg-maker/cover.png",
+    "publication": {
+      "commit": "9c947181722cf985ba3f9ce2a5458c0531e6da0f",
+      "checkedAt": "2026-11-08T19:01:07.156Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "andaroth-anda-ninja",
