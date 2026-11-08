@@ -1,0 +1,161 @@
+name: Bulk drain pending repositories
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_limit:
+        description: Fork and process count per bulk batch
+        required: false
+        default: "100"
+        type: string
+      remaining_batches:
+        description: Including this run; automatically decremented after each batch
+        required: false
+        default: "7"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bulk-drain-pending
+  cancel-in-progress: false
+
+jobs:
+  fork:
+    if: vars.WEBRPG_AUTOMATION_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Fork pending repositories
+        env:
+          WEBRPG_FORK_TOKEN: ${{ steps.app-token.outputs.token }}
+          TARGET_ORG: opsemilygohmbza
+          DRY_RUN: "false"
+          LIMIT: ${{ inputs.batch_limit }}
+          DEFAULT_BRANCH_ONLY: "false"
+          INCLUDE_INVALID: "false"
+          CREATE_DELAY_SECONDS: "4"
+          RETRY_LIMIT: "5"
+          RETRY_BASE_DELAY_SECONDS: "60"
+        run: node scripts/fork-listed-repos.mjs
+
+  plan:
+    needs: fork
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      has_targets: ${{ steps.plan.outputs.has_targets }}
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Plan bulk validation
+        id: plan
+        env:
+          WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
+          TARGET_ORG: opsemilygohmbza
+          LIMIT: ${{ inputs.batch_limit }}
+          MAX_MATRIX_SIZE: ${{ inputs.batch_limit }}
+        run: node scripts/plan-fork-repos.mjs
+
+  process:
+    needs: plan
+    if: needs.plan.outputs.has_targets == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Create repository token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+          repositories: ${{ matrix.repo }}
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Validate, prepare and enable Pages
+        env:
+          WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
+          TARGET_ORG: opsemilygohmbza
+          REPO_NAME: ${{ matrix.repo }}
+          DRY_RUN: "false"
+          DELETE_INVALID_REPOS: "false"
+          PAGES_SOURCE_PATH: /
+          SITE_ORIGIN: https://opsemilygohmbza.github.io
+          RESULT_DIR: workflow-results
+          HTML_MAX_FILES: "120"
+          HTML_FETCH_CONCURRENCY: "5"
+          GITHUB_API_TIMEOUT_MS: "30000"
+        run: node scripts/process-fork-repo.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: result-${{ matrix.repo }}
+          path: workflow-results/*.json
+          if-no-files-found: warn
+
+  aggregate:
+    needs: [plan, process]
+    if: always() && needs.plan.outputs.has_targets == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create index repository token
+        id: index-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+          repositories: game-index-runner
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ steps.index-token.outputs.token }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: result-*
+          merge-multiple: true
+          path: workflow-results
+      - name: Update list metadata
+        env:
+          DRY_RUN: "false"
+          RESULTS_DIR: workflow-results
+        run: |
+          cp list.json .catalog-base.json
+          node scripts/update-list-from-results.mjs
+      - name: Commit list metadata
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/publish-generated-file.mjs

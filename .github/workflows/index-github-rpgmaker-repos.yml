@@ -1,0 +1,37 @@
+name: Index GitHub RPG Maker repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: index-github-rpgmaker-repos
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Save catalog baseline
+        run: cp list.json .catalog-base.json
+      - name: Sync upstream WebRPG catalog
+        run: node scripts/sync-upstream-list.mjs
+      - name: Discover repository candidates
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/discover-repositories.mjs
+      - name: Validate catalog
+        run: node scripts/validate-runner-config.mjs
+      - name: Publish merged canonical catalog
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/publish-generated-file.mjs

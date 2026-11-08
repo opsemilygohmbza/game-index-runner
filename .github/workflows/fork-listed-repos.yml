@@ -1,0 +1,69 @@
+name: Fork listed repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fork-listed-repos
+  cancel-in-progress: false
+
+jobs:
+  prerequisites:
+    runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.check.outputs.ready }}
+    steps:
+      - id: check
+        env:
+          ENABLED: ${{ vars.WEBRPG_AUTOMATION_ENABLED }}
+          HAS_CLIENT: ${{ vars.WEBRPG_APP_CLIENT_ID != '' }}
+          HAS_KEY: ${{ secrets.WEBRPG_APP_PRIVATE_KEY != '' }}
+        run: |
+          if [ "$ENABLED" = "true" ] && [ "$HAS_CLIENT" = "true" ] && [ "$HAS_KEY" = "true" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::Fork/Pages waiting for this account's GitHub App credentials and enable switch. No games were forked."
+            echo "Fork/Pages is waiting for GitHub App setup. This is not a successful game migration." >> "$GITHUB_STEP_SUMMARY"
+          fi
+  fork:
+    needs: prerequisites
+    if: needs.prerequisites.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+
+      - name: Check out index
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fork repositories
+        env:
+          WEBRPG_FORK_TOKEN: ${{ steps.app-token.outputs.token }}
+          TARGET_ORG: opsemilygohmbza
+          TARGET_ACCOUNT_TYPE: User
+          DRY_RUN: "false"
+          LIMIT: "40"
+          DEFAULT_BRANCH_ONLY: "false"
+          INCLUDE_INVALID: "false"
+          CREATE_DELAY_SECONDS: "8"
+          RETRY_LIMIT: "5"
+          RETRY_BASE_DELAY_SECONDS: "60"
+        run: node scripts/fork-listed-repos.mjs

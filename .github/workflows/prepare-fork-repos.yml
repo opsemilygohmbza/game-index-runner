@@ -1,0 +1,148 @@
+name: Prepare fork repositories
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Fork listed repositories
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prepare-fork-repos
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    if: vars.WEBRPG_AUTOMATION_ENABLED == 'true' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      has_targets: ${{ steps.plan.outputs.has_targets }}
+      target_count: ${{ steps.plan.outputs.target_count }}
+    steps:
+      - name: Check out index
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+
+      - name: Plan fork repositories
+        id: plan
+        env:
+          WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
+          TARGET_ORG: opsemilygohmbza
+          TARGET_ACCOUNT_TYPE: User
+          LIMIT: "40"
+          MAX_MATRIX_SIZE: "40"
+        run: node scripts/plan-fork-repos.mjs
+
+  process:
+    needs: plan
+    if: needs.plan.outputs.has_targets == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Check out index
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Create repository-scoped GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+          repositories: ${{ matrix.repo }}
+
+      - name: Validate, prepare and enable Pages
+        env:
+          WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
+          TARGET_ORG: opsemilygohmbza
+          REPO_NAME: ${{ matrix.repo }}
+          DRY_RUN: "false"
+          DELETE_INVALID_REPOS: "false"
+          PAGES_SOURCE_PATH: /
+          SITE_ORIGIN: https://opsemilygohmbza.github.io
+          RESULT_DIR: workflow-results
+          HTML_MAX_FILES: "120"
+          HTML_FETCH_CONCURRENCY: "5"
+          GITHUB_API_TIMEOUT_MS: "30000"
+        run: node scripts/process-fork-repo.mjs
+
+      - name: Upload repository result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: result-${{ matrix.repo }}
+          path: workflow-results/*.json
+          if-no-files-found: warn
+
+  aggregate:
+    needs:
+      - plan
+      - process
+    if: always() && needs.plan.outputs.has_targets == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create index repository token
+        id: index-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.WEBRPG_APP_CLIENT_ID }}
+          private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
+          owner: opsemilygohmbza
+          repositories: game-index-runner
+
+      - name: Check out index
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.index-token.outputs.token }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Download repository results
+        uses: actions/download-artifact@v4
+        with:
+          pattern: result-*
+          merge-multiple: true
+          path: workflow-results
+
+      - name: Update list metadata
+        # Capture baseline from the same checkout that is updated by the aggregation.
+        env:
+          DRY_RUN: "false"
+          RESULTS_DIR: workflow-results
+        run: |
+          cp list.json .catalog-base.json
+          node scripts/update-list-from-results.mjs
+
+      - name: Commit list metadata
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/publish-generated-file.mjs

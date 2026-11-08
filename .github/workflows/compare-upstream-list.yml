@@ -1,0 +1,33 @@
+name: Compare upstream WebRPG index
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Index GitHub RPG Maker repositories
+    types:
+      - completed
+
+permissions:
+  contents: read
+
+concurrency:
+  group: compare-upstream-webrpg-index
+  cancel-in-progress: false
+
+jobs:
+  compare:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Compare catalogs
+        run: node scripts/compare-upstream-list.mjs
+      - name: Upload comparison report
+        uses: actions/upload-artifact@v4
+        with:
+          name: upstream-comparison
+          path: reports/upstream-list-comparison.json
