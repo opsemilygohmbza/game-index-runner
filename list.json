@@ -7982,8 +7982,8 @@
     "owner": "Cos3915",
     "name": "kksalldemo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:46.019Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:51:23.858Z",
     "forkName": "Cos3915-kksalldemo",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -8020,6 +8020,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Cos3915-kksalldemo/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Cos3915-kksalldemo/index.html",
+    "cover": "https://yx.ecy.al/Cos3915-kksalldemo/cover.png",
+    "publication": {
+      "commit": "f52b667dc3d29bf43a420575dec980ec11e1bded",
+      "checkedAt": "2026-11-08T06:53:04.763Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
