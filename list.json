@@ -41677,8 +41677,8 @@
     "owner": "xymol",
     "name": "tsmgi",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T01:46:42.558Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T14:38:28.055Z",
     "forkName": "xymol-tsmgi",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -41694,7 +41694,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/xymol-tsmgi/",
     "upstreamCover": "https://webrpg.org/xymol-tsmgi/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/xymol-tsmgi/index.html",
+    "cover": "https://yx.ecy.al/xymol-tsmgi/cover.png",
+    "publication": {
+      "commit": "c5b35f25419434759cfe40b8bbdf056596124437",
+      "checkedAt": "2026-11-08T14:41:19.820Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "yaanscoat-lonlii",
