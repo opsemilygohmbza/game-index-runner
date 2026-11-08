@@ -4923,11 +4923,11 @@
     "owner": "bill42362",
     "name": "mortals-journey-rmmz",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-11-01T19:31:13.375Z",
+    "checkedAt": "2026-11-08T05:19:17.309Z",
     "forkName": "bill42362-mortals-journey-rmmz",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -4953,7 +4953,21 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/bill42362-mortals-journey-rmmz/",
     "upstreamCover": "https://webrpg.org/bill42362-mortals-journey-rmmz/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/bill42362-mortals-journey-rmmz/index.html",
+    "cover": "https://yx.ecy.al/bill42362-mortals-journey-rmmz/cover.png",
+    "publication": {
+      "commit": "e061428b5e07d2f1a634160ac9decb026b46444d",
+      "checkedAt": "2026-11-08T05:19:17.309Z",
+      "check": "Built Pages entry"
+    },
+    "runtime": {
+      "status": "passed",
+      "checkedAt": "2026-11-08T05:19:17.309Z",
+      "commit": "e061428b5e07d2f1a634160ac9decb026b46444d",
+      "scope": "Title screen and new-game scene verified in browser; not full playthrough",
+      "evidence": "新游戏进入村庄地图和对白"
+    }
   },
   {
     "id": "billbilw-namaiki-online",
@@ -16447,8 +16461,8 @@
     "owner": "hefsjgaeiK",
     "name": "hefsjgaeiK.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:42:51.786Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T05:19:17.725Z",
     "forkName": "hefsjgaeiK-hefsjgaeiK.github.io",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -16483,6 +16497,20 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/hefsjgaeiK-hefsjgaeiK.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/hefsjgaeiK-hefsjgaeiK.github.io/index.html",
+    "cover": "https://yx.ecy.al/hefsjgaeiK-hefsjgaeiK.github.io/cover.png",
+    "publication": {
+      "commit": "e09230e05bb9e4c296b3dd87fba637534007c44f",
+      "checkedAt": "2026-11-08T05:19:17.725Z",
+      "check": "Built Pages entry"
+    },
+    "runtime": {
+      "status": "passed",
+      "checkedAt": "2026-11-08T05:19:17.725Z",
+      "commit": "e09230e05bb9e4c296b3dd87fba637534007c44f",
+      "scope": "Title screen and new-game scene verified in browser; not full playthrough",
+      "evidence": "开始进入中文剧情确认画面"
     }
   },
   {
