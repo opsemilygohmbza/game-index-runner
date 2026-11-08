@@ -3452,8 +3452,8 @@
     "owner": "AnthonyTonyZ",
     "name": "rougedemo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-06T19:05:26.950Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:05:41.517Z",
     "forkName": "AnthonyTonyZ-rougedemo",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -3485,6 +3485,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AnthonyTonyZ-rougedemo/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AnthonyTonyZ-rougedemo/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "8e1fe4655bc030f11a1d214c40d136054f8bc900",
+      "checkedAt": "2026-11-08T06:07:01.240Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
