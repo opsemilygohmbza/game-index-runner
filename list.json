@@ -5774,11 +5774,11 @@
     "owner": "biud436",
     "name": "CefMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-06T10:35:51.761Z",
+    "checkedAt": "2026-11-08T21:09:50.849Z",
     "forkName": "biud436-CefMV",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -5796,6 +5796,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/biud436-CefMV/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/biud436-CefMV/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "d630ec291f171f35d7ee25ef31c551d07246e62d",
+      "checkedAt": "2026-11-08T21:12:37.838Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
