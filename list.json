@@ -33160,12 +33160,12 @@
     "owner": "SaveSub",
     "name": "SlaveTrader_EN",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:10:23.550Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:06:45.623Z",
     "forkName": "SaveSub-SlaveTrader_EN",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 468357,
+    "totalSize": 468355,
     "dataSize": 8532409,
     "sourceRepo": "SaveSub/SlaveTrader_EN",
     "sourceDefaultBranch": "main",
@@ -33177,7 +33177,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/SaveSub-SlaveTrader_EN/",
     "upstreamCover": "https://webrpg.org/SaveSub-SlaveTrader_EN/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SaveSub-SlaveTrader_EN/index.html",
+    "cover": "https://yx.ecy.al/SaveSub-SlaveTrader_EN/cover.png",
+    "publication": {
+      "commit": "79a1bac585a1e0850a4a5cad6167e763a625044b",
+      "checkedAt": "2026-11-08T13:08:17.821Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sawasaki-coder-ha-thu",
@@ -33541,12 +33549,12 @@
     "owner": "sGxOxDs",
     "name": "No-One-Betray",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:10:29.451Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:07:14.006Z",
     "forkName": "sGxOxDs-No-One-Betray",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 328259,
+    "totalSize": 328257,
     "dataSize": 1275093,
     "sourceRepo": "sGxOxDs/No-One-Betray",
     "sourceDefaultBranch": "main",
@@ -33576,7 +33584,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/sGxOxDs-No-One-Betray/",
     "upstreamCover": "https://webrpg.org/sGxOxDs-No-One-Betray/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sGxOxDs-No-One-Betray/index.html",
+    "cover": "https://yx.ecy.al/sGxOxDs-No-One-Betray/cover.png",
+    "publication": {
+      "commit": "4d11732cab77f88382acb15f73bbcf4a02ae99a0",
+      "checkedAt": "2026-11-08T13:10:05.015Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "shaddockh-rmmv-ts-boilerplate",
@@ -34010,15 +34026,15 @@
     "owner": "shuangboxu",
     "name": "Harry-Potter-Game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "游戏/测试/index.html",
     "forkName": "shuangboxu-Harry-Potter-Game",
-    "checkedAt": "2026-11-03T20:58:47.188Z",
+    "checkedAt": "2026-11-08T13:07:23.917Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 501601,
     "dataSize": 2043458,
     "sourceRepo": "shuangboxu/Harry-Potter-Game",
@@ -34044,7 +34060,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/shuangboxu-Harry-Potter-Game/",
     "upstreamCover": "https://webrpg.org/shuangboxu-Harry-Potter-Game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/shuangboxu-Harry-Potter-Game/index.html",
+    "cover": "https://yx.ecy.al/shuangboxu-Harry-Potter-Game/cover.png",
+    "publication": {
+      "commit": "ca332bf18049cc6dfaddfc7730ac19402814082e",
+      "checkedAt": "2026-11-08T13:10:53.982Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "shunufy-shunufy-github-io",
@@ -34053,15 +34077,15 @@
     "owner": "shunufy",
     "name": "shunufy.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "sinai/index.html",
     "forkName": "shunufy-shunufy.github.io",
-    "checkedAt": "2026-11-03T20:58:43.430Z",
+    "checkedAt": "2026-11-08T13:10:01.721Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 77939,
     "dataSize": 1963459,
     "sourceRepo": "shunufy/shunufy.github.io",
@@ -34087,7 +34111,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/shunufy-shunufy.github.io/",
     "upstreamCover": "https://webrpg.org/shunufy-shunufy.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/shunufy-shunufy.github.io/index.html",
+    "cover": "https://yx.ecy.al/shunufy-shunufy.github.io/cover.png",
+    "publication": {
+      "commit": "255605af0ba6d01a3af572dc5b375cd543099355",
+      "checkedAt": "2026-11-08T13:12:59.628Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sifue-sierquest",
@@ -34969,15 +35001,15 @@
     "owner": "Starktomy",
     "name": "tunshi",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "Starktomy-tunshi",
-    "checkedAt": "2026-11-04T01:13:40.598Z",
+    "checkedAt": "2026-11-08T13:10:23.529Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 229126,
     "dataSize": 68741368,
     "sourceRepo": "Starktomy/tunshi",
@@ -35003,7 +35035,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/Starktomy-tunshi/",
-    "upstreamCover": "https://webrpg.org/Starktomy-tunshi/cover.png"
+    "upstreamCover": "https://webrpg.org/Starktomy-tunshi/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Starktomy-tunshi/index.html",
+    "cover": "https://yx.ecy.al/Starktomy-tunshi/cover.png",
+    "publication": {
+      "commit": "25d8db4c060a6bcc7034e2645e23b7a929bdd44b",
+      "checkedAt": "2026-11-08T13:13:24.908Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "starsnail-tokimori",
