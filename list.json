@@ -6281,16 +6281,16 @@
     "owner": "Brand24376",
     "name": "Brand24376.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "personalProjects/Get 2 School/game.html",
-    "checkedAt": "2026-10-30T09:48:53.365Z",
+    "checkedAt": "2026-11-08T21:50:22.167Z",
     "forkName": "Brand24376-Brand24376.github.io",
-    "entryPath": "personalProjects/Get 2 School/game.html",
+    "entryPath": "game.html",
     "validationScore": 110,
     "totalSize": 326693,
-    "dataSize": 0,
+    "dataSize": 1022550,
     "sourceRepo": "Brand24376/Brand24376.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "241ec2c910332b37c3a1e10f372505af96867f67",
@@ -6318,6 +6318,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Brand24376-Brand24376.github.io/personalProjects/Get%202%20School/game.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Brand24376-Brand24376.github.io/game.html",
+    "cover": "https://yx.ecy.al/Brand24376-Brand24376.github.io/cover.png",
+    "publication": {
+      "commit": "02e2b4672dc70733f02ac112203b6f687ecbd6df",
+      "checkedAt": "2026-11-08T21:53:26.424Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -6338,11 +6346,11 @@
     "owner": "BrenoLuna0",
     "name": "Reliquias-de-Fen",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:48:51.026Z",
+    "checkedAt": "2026-11-08T21:50:31.896Z",
     "forkName": "BrenoLuna0-Reliquias-de-Fen",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6375,6 +6383,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/BrenoLuna0-Reliquias-de-Fen/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/BrenoLuna0-Reliquias-de-Fen/index.html",
+    "cover": "https://yx.ecy.al/BrenoLuna0-Reliquias-de-Fen/cover.png",
+    "publication": {
+      "commit": "14810b38e59587ba7ac70067cef3b4a555f05daa",
+      "checkedAt": "2026-11-08T21:53:32.978Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -6384,11 +6400,11 @@
     "owner": "briancain",
     "name": "tutorial-test",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:05:31.923Z",
+    "checkedAt": "2026-11-08T21:52:53.311Z",
     "forkName": "briancain-tutorial-test",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6416,6 +6432,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/briancain-tutorial-test/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/briancain-tutorial-test/index.html",
+    "cover": "https://yx.ecy.al/briancain-tutorial-test/cover.png",
+    "publication": {
+      "commit": "71b4b11b4024ae10f7f73919b238ad5b512f2947",
+      "checkedAt": "2026-11-08T21:55:43.895Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -6425,15 +6449,15 @@
     "owner": "brmrb1",
     "name": "www",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
-    "checkedAt": "2026-11-02T10:45:59.934Z",
+    "checkedAt": "2026-11-08T21:53:02.782Z",
     "forkName": "brmrb1-www",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 247873,
     "dataSize": 833585,
     "sourceRepo": "brmrb1/www",
@@ -6457,7 +6481,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/brmrb1-www/",
     "upstreamCover": "https://webrpg.org/brmrb1-www/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/brmrb1-www/index.html",
+    "cover": "https://yx.ecy.al/brmrb1-www/cover.png",
+    "publication": {
+      "commit": "d4f7dce0d1d68c76dfc4c69a0b05ec90baeda360",
+      "checkedAt": "2026-11-08T21:55:53.266Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "brooklynruff-d",
@@ -6494,11 +6526,11 @@
     "owner": "brunolcarli",
     "name": "Dragonsden",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:35:54.170Z",
+    "checkedAt": "2026-11-08T21:55:04.381Z",
     "forkName": "brunolcarli-Dragonsden",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6532,6 +6564,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/brunolcarli-Dragonsden/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/brunolcarli-Dragonsden/index.html",
+    "cover": "https://yx.ecy.al/brunolcarli-Dragonsden/cover.png",
+    "publication": {
+      "commit": "d707c1b822e5d1aa9d868e7b9af9a89d4d8ae787",
+      "checkedAt": "2026-11-08T21:57:25.379Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
