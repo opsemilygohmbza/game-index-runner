@@ -6581,11 +6581,11 @@
     "owner": "brunolcarli",
     "name": "RPGMakerMVWeb3Integration_testgame",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:49:12.601Z",
+    "checkedAt": "2026-11-08T21:55:14.497Z",
     "forkName": "brunolcarli-RPGMakerMVWeb3Integration_testgame",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6619,6 +6619,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/brunolcarli-RPGMakerMVWeb3Integration_testgame/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/brunolcarli-RPGMakerMVWeb3Integration_testgame/index.html",
+    "cover": "https://yx.ecy.al/brunolcarli-RPGMakerMVWeb3Integration_testgame/cover.png",
+    "publication": {
+      "commit": "5f9f4d1bc68e08f38d9bd3519e4f938937c09c06",
+      "checkedAt": "2026-11-08T21:58:06.185Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
