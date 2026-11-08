@@ -3014,11 +3014,11 @@
     "owner": "AltinGame",
     "name": "CMPUT250",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "directions_enemy_demo/index.html",
-    "checkedAt": "2026-10-30T09:47:50.248Z",
+    "checkedAt": "2026-11-08T18:21:14.920Z",
     "forkName": "AltinGame-CMPUT250",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -3050,6 +3050,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AltinGame-CMPUT250/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AltinGame-CMPUT250/index.html",
+    "cover": "https://yx.ecy.al/AltinGame-CMPUT250/cover.png",
+    "publication": {
+      "commit": "1c66206e834057e9cc95b9964e65e8ab2c19e1da",
+      "checkedAt": "2026-11-08T18:26:34.321Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
