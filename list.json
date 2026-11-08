@@ -1416,15 +1416,15 @@
     "owner": "94entertainment",
     "name": "rmmv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Test01-Escape/index.html",
-    "checkedAt": "2026-11-01T04:43:47.118Z",
+    "checkedAt": "2026-11-08T16:47:26.628Z",
     "forkName": "94entertainment-rmmv",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 388549,
     "dataSize": 704874,
     "sourceRepo": "94entertainment/rmmv",
@@ -1435,7 +1435,15 @@
     "reachabilityDetail": "https://webrpg.org/94entertainment-rmmv/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/94entertainment-rmmv/",
     "upstreamCover": "https://webrpg.org/94entertainment-rmmv/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/94entertainment-rmmv/index.html",
+    "cover": "https://yx.ecy.al/94entertainment-rmmv/cover.png",
+    "publication": {
+      "commit": "7fdd49c4339a7e760b299f52e456e94f8734c35f",
+      "checkedAt": "2026-11-08T16:50:29.659Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "9to5ninja-projects-mechaacademy",
