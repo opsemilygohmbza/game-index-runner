@@ -1062,6 +1062,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "3nginius-runetranslatepublic",
+    "title": "RuneTranslatePublic",
+    "repo": "https://github.com/3nginius/RuneTranslatePublic",
+    "owner": "3nginius",
+    "name": "RuneTranslatePublic",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "430230562-kerman-s-dream",
     "title": "科研狗之梦(pre demo)",
     "repo": "https://github.com/430230562/kerman-s-dream",
@@ -1484,6 +1495,17 @@
     }
   },
   {
+    "id": "aak581-mz-mv-apk-builder",
+    "title": "MZ-MV-APK-Builder",
+    "repo": "https://github.com/AAK581/MZ-MV-APK-Builder",
+    "owner": "AAK581",
+    "name": "MZ-MV-APK-Builder",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "aak581-polkadot-cats-game",
     "title": "Polkadot Cats",
     "repo": "https://github.com/AAK581/Polkadot-Cats-Game",
@@ -1662,6 +1684,17 @@
     "upstreamPagesUrl": "https://webrpg.org/aaron1299-muurien-valissa/",
     "upstreamCover": "https://webrpg.org/aaron1299-muurien-valissa/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "abdullahtrees-omori-pmjs",
+    "title": "omori-pmjs",
+    "repo": "https://github.com/AbdullahTrees/omori-pmjs",
+    "owner": "AbdullahTrees",
+    "name": "omori-pmjs",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "abner1710-goty-rpg",
@@ -1886,6 +1919,17 @@
     "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamPagesUrl": "https://webrpg.org/affonsoamendola-oldprojects/",
     "upstreamCover": "https://webrpg.org/affonsoamendola-oldprojects/cover.png"
+  },
+  {
+    "id": "ageoplayer-lrpgm",
+    "title": "LRPGM",
+    "repo": "https://github.com/AgeoPlayer/LRPGM",
+    "owner": "AgeoPlayer",
+    "name": "LRPGM",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
   },
   {
     "id": "agjimenez-ra-s-quest",
@@ -3711,6 +3755,17 @@
     }
   },
   {
+    "id": "ar4yc-tcoaal-ios",
+    "title": "TCOAAL-IOS",
+    "repo": "https://github.com/ar4yc/TCOAAL-IOS",
+    "owner": "ar4yc",
+    "name": "TCOAAL-IOS",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "araragihoozuki-projectmaga",
     "title": "ProjectMaga测试版",
     "repo": "https://github.com/AraragiHoozuki/ProjectMaga",
@@ -3932,6 +3987,17 @@
     }
   },
   {
+    "id": "arkansasio-rpgcrafter",
+    "title": "rpgcrafter",
+    "repo": "https://github.com/ArkansasIo/rpgcrafter",
+    "owner": "ArkansasIo",
+    "name": "rpgcrafter",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "arqui-dev-projetocaminhoneiro",
     "title": "Trucker Quest",
     "repo": "https://github.com/arqui-dev/ProjetoCaminhoneiro",
@@ -4077,6 +4143,17 @@
       "previousPagesUrl": "https://777723-xyz.github.io/asifexplore-Secret-Paladin/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     }
+  },
+  {
+    "id": "askq5-sys-purgatory-naraku-psp",
+    "title": "Purgatory-NARAKU-PSP",
+    "repo": "https://github.com/askq5-sys/Purgatory-NARAKU-PSP",
+    "owner": "askq5-sys",
+    "name": "Purgatory-NARAKU-PSP",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
   },
   {
     "id": "aslated-jstesting",
@@ -4415,6 +4492,17 @@
     }
   },
   {
+    "id": "b1ackt-karryns-prison-trainer",
+    "title": "karryns-prison-trainer",
+    "repo": "https://github.com/b1ackT/karryns-prison-trainer",
+    "owner": "b1ackT",
+    "name": "karryns-prison-trainer",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "b4936955-hue-g4m3s123",
     "title": "Bloodmoney",
     "repo": "https://github.com/b4936955-hue/G4m3s123",
@@ -4431,6 +4519,17 @@
     "deletedAt": "2026-10-08T00:51:32.021Z",
     "validationScore": 0,
     "upstreamStatus": "invalid_structure"
+  },
+  {
+    "id": "bakustarver-rpgmakermlinux-cicpoffs",
+    "title": "rpgmakermlinux-cicpoffs",
+    "repo": "https://github.com/bakustarver/rpgmakermlinux-cicpoffs",
+    "owner": "bakustarver",
+    "name": "rpgmakermlinux-cicpoffs",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "balensmatheo-balensmatheo-github-io",
@@ -4575,6 +4674,17 @@
       "previousPagesUrl": "https://777723-xyz.github.io/battousairurik-RPGMakerCollabProject/RPGMakerMVCollabProject/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     }
+  },
+  {
+    "id": "bbbreaddd-pmjs",
+    "title": "pmjs",
+    "repo": "https://github.com/bbbreaddd/pmjs",
+    "owner": "bbbreaddd",
+    "name": "pmjs",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "bearcattt-lunar-assets",
@@ -4742,6 +4852,17 @@
       "previousPagesUrl": "https://777723-xyz.github.io/BeyonDoff-umi_the_game/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     }
+  },
+  {
+    "id": "bgluis-save-maker",
+    "title": "save-maker",
+    "repo": "https://github.com/BGLuis/save-maker",
+    "owner": "BGLuis",
+    "name": "save-maker",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "bigren0615-rpgmakermv-custommainmenulearning",
@@ -5434,6 +5555,17 @@
     }
   },
   {
+    "id": "breezetrackhose-construct-3-desktop-version",
+    "title": "Construct-3-Desktop-Version",
+    "repo": "https://github.com/BreezeTrackHose/Construct-3-Desktop-Version",
+    "owner": "BreezeTrackHose",
+    "name": "Construct-3-Desktop-Version",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "brenoluna0-reliquias-de-fen",
     "title": "Relíquias de Fen",
     "repo": "https://github.com/BrenoLuna0/Reliquias-de-Fen",
@@ -6013,6 +6145,17 @@
     }
   },
   {
+    "id": "bzhant-baibao-box",
+    "title": "baibao-box",
+    "repo": "https://github.com/bzhant/baibao-box",
+    "owner": "bzhant",
+    "name": "baibao-box",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
+  },
+  {
     "id": "c3p0r2d2luke-letslearnalgebra",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/c3p0r2d2luke/letslearnalgebra",
@@ -6588,6 +6731,17 @@
     }
   },
   {
+    "id": "charles-zhang-random-web-apps-charles_wonder_deployment",
+    "title": "Charles_Wonder_Deployment",
+    "repo": "https://github.com/Charles-Zhang-Random-Web-Apps/Charles_Wonder_Deployment",
+    "owner": "Charles-Zhang-Random-Web-Apps",
+    "name": "Charles_Wonder_Deployment",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "charliedayfockens-hue-qr-science",
     "title": "DEAD PLATE",
     "repo": "https://github.com/charliedayfockens-hue/qr-science",
@@ -6963,6 +7117,17 @@
     "upstreamCover": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/cover.png"
   },
   {
+    "id": "christvh-box-project",
+    "title": "box-project",
+    "repo": "https://github.com/ChrisTVH/box-project",
+    "owner": "ChrisTVH",
+    "name": "box-project",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
     "id": "chromebookunlocked-chromebookunlocked-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/chromebookunlocked/chromebookunlocked.github.io",
@@ -7010,6 +7175,17 @@
       "previousPagesUrl": "https://777723-xyz.github.io/chruscikszef-dzzt-android/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     }
+  },
+  {
+    "id": "churitoring-secupacker",
+    "title": "SecuPacker",
+    "repo": "https://github.com/Churitoring/SecuPacker",
+    "owner": "Churitoring",
+    "name": "SecuPacker",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "ciallo0721-cmd-ciallo0721-cmd-github-io",
@@ -7422,6 +7598,17 @@
     "upstreamStatus": "invalid_structure"
   },
   {
+    "id": "coinsmashed-game",
+    "title": "game",
+    "repo": "https://github.com/CoinSmashed/game",
+    "owner": "CoinSmashed",
+    "name": "game",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "collinsumrell-sunset-valley",
     "title": "Mad Scientist Lab Sample Maps",
     "repo": "https://github.com/CollinSumrell/Sunset-Valley",
@@ -7491,6 +7678,31 @@
     }
   },
   {
+    "id": "complex-arcade-complex-arcade-github-io-9f7a7621e1a5",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/idontwannabetheguy/complex-arcade.github.io",
+    "owner": "idontwannabetheguy",
+    "name": "complex-arcade.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-21T11:46:59.282Z",
+    "source": "github-code-search",
+    "sourcePath": "gxmes/storage/bloodmoney/index.html",
+    "checkedAt": "2026-09-22T11:08:51.949Z",
+    "forkName": "complex-arcade-complex-arcade.github.io",
+    "validationScore": 0,
+    "totalSize": 1778488,
+    "dataSize": 421073,
+    "sourceRepo": "idontwannabetheguy/complex-arcade.github.io",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "c8ac0b7578065a554ed5dc4d59160b8087474830",
+    "processedHeadSha": "207e73cb16bc939a99eda89f518d09df81df9922",
+    "syncedFromSource": true,
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
+    "deletedAt": "2026-09-22T11:08:55.014Z",
+    "upstreamStatus": "invalid_structure"
+  },
+  {
     "id": "comuns-rpgmaker-comuns-master-demo",
     "title": "Comuns Plugins Master",
     "repo": "https://github.com/comuns-rpgmaker/comuns-master-demo",
@@ -7523,6 +7735,17 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/comuns-rpgmaker-comuns-master-demo/",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "cona2512-construct-3-desktop",
+    "title": "construct-3-desktop",
+    "repo": "https://github.com/Cona2512/construct-3-desktop",
+    "owner": "Cona2512",
+    "name": "construct-3-desktop",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "copperchihuahua-coppers-touhou-game-jam",
@@ -8222,6 +8445,17 @@
     "upstreamStatus": "skipped_large"
   },
   {
+    "id": "darckfast-rpg-maker-mv-decrypt-react",
+    "title": "rpg-maker-mv-decrypt-react",
+    "repo": "https://github.com/Darckfast/rpg-maker-mv-decrypt-react",
+    "owner": "Darckfast",
+    "name": "rpg-maker-mv-decrypt-react",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "darius1325-the-enemy-within",
     "title": "Warhammer - The Enemy Within",
     "repo": "https://github.com/Darius1325/the-enemy-within",
@@ -8527,6 +8761,28 @@
     }
   },
   {
+    "id": "dazacode-openomori",
+    "title": "openomori",
+    "repo": "https://github.com/dazacode/openomori",
+    "owner": "dazacode",
+    "name": "openomori",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "dazedanon-dazedtl",
+    "title": "DazedTL",
+    "repo": "https://github.com/dazedanon/DazedTL",
+    "owner": "dazedanon",
+    "name": "DazedTL",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "dcarlin-devil-king-rpgmaker-mv-game",
     "title": "The Devil King",
     "repo": "https://github.com/dcarlin/Devil-King---RPGMaker-MV-Game",
@@ -8638,23 +8894,15 @@
     "upstreamStatus": "verified"
   },
   {
-    "id": "deeeland0ohio-sigma-games-2ca86c86",
-    "title": "sigma_games",
-    "repo": "https://github.com/deeeland0ohio/sigma_games",
-    "owner": "deeeland0ohio",
-    "name": "sigma_games",
-    "engine": "RPG Maker MV",
+    "id": "deckyfx-rmmv-animation-workspace",
+    "title": "rmmv-animation-workspace",
+    "repo": "https://github.com/deckyfx/rmmv-animation-workspace",
+    "owner": "deckyfx",
+    "name": "rmmv-animation-workspace",
+    "engine": "RPG Maker",
     "status": "indexed",
-    "discoveredAt": "2026-11-07T21:28:16.789Z",
-    "source": "github-code-search",
-    "sourcePath": "public/games/omori/index.html",
-    "plannedForkName": "deeeland0ohio-sigma_games",
-    "checkedAt": "2026-11-07T21:36:20.602Z",
-    "forkName": "deeeland0ohio-sigma_games",
-    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
-    "deletedAt": "2026-11-07T21:36:51.676Z",
-    "validationScore": 0,
-    "upstreamStatus": "invalid_structure"
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "deeeland0ohio-sigma-games",
@@ -8672,6 +8920,25 @@
     "invalidReason": "RPG Maker structure is incomplete near public/games/omori/index.html.",
     "deletedAt": "2026-09-14T03:40:34.112Z",
     "validationScore": 50,
+    "upstreamStatus": "invalid_structure"
+  },
+  {
+    "id": "deeeland0ohio-sigma-games-2ca86c86",
+    "title": "sigma_games",
+    "repo": "https://github.com/deeeland0ohio/sigma_games",
+    "owner": "deeeland0ohio",
+    "name": "sigma_games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-07T21:28:16.789Z",
+    "source": "github-code-search",
+    "sourcePath": "public/games/omori/index.html",
+    "plannedForkName": "deeeland0ohio-sigma_games",
+    "checkedAt": "2026-11-07T21:36:20.602Z",
+    "forkName": "deeeland0ohio-sigma_games",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
+    "deletedAt": "2026-11-07T21:36:51.676Z",
+    "validationScore": 0,
     "upstreamStatus": "invalid_structure"
   },
   {
@@ -9361,6 +9628,17 @@
     "upstreamStatus": "unavailable"
   },
   {
+    "id": "djknitex-cartugasource",
+    "title": "cartugasource",
+    "repo": "https://github.com/DjKniteX/cartugasource",
+    "owner": "DjKniteX",
+    "name": "cartugasource",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "doamaster-gameoff2022tss",
     "title": "Smut Summoner",
     "repo": "https://github.com/DOAmaster/GameOff2022TSS",
@@ -9636,29 +9914,6 @@
     "invalidReason": "RPG Maker structure is incomplete near BLOODMONEY!.html.",
     "deletedAt": "2026-06-18T08:41:50.272Z",
     "validationScore": 45,
-    "upstreamStatus": "invalid_structure"
-  },
-  {
-    "id": "kill-rose-wiki",
-    "title": "さばにくす☆せかいせいふく",
-    "repo": "https://github.com/dorian-noki/wiki",
-    "owner": "dorian-noki",
-    "name": "wiki",
-    "engine": "RPG Maker MV",
-    "checkedAt": "2026-09-20T15:37:09.370Z",
-    "forkName": "Kill-rose-wiki",
-    "status": "indexed",
-    "validationScore": 0,
-    "totalSize": 292044,
-    "dataSize": 1802058,
-    "sourceRepo": "dorian-noki/wiki",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "2f439d5bd48092dd0d90c32e11257e47ce36389f",
-    "processedHeadSha": "f74a41e383ed5c95fc8e09229f33c5497e8eb9be",
-    "syncedFromSource": true,
-    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
-    "deletedAt": "2026-09-20T15:37:11.404Z",
-    "source": "upstream-webrpg-index",
     "upstreamStatus": "invalid_structure"
   },
   {
@@ -12779,6 +13034,28 @@
     }
   },
   {
+    "id": "feithnoir-randommapgridcss",
+    "title": "randommapgridcss",
+    "repo": "https://github.com/FeithNoir/randommapgridcss",
+    "owner": "FeithNoir",
+    "name": "randommapgridcss",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
+    "id": "feithnoir-vengajustilolisalvz",
+    "title": "vengajustilolisalvz",
+    "repo": "https://github.com/FeithNoir/vengajustilolisalvz",
+    "owner": "FeithNoir",
+    "name": "vengajustilolisalvz",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "fernando-simaoo-the-legend-of-brick",
     "title": "Project1",
     "repo": "https://github.com/Fernando-Simaoo/The_Legend_of_Brick",
@@ -13247,34 +13524,6 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/fm-dev-rpg_game/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
-    }
-  },
-  {
-    "id": "vanilanya-journey-of-the-shit",
-    "title": "赤石之旅",
-    "repo": "https://github.com/fnyoat/Journey_of_the_Shit",
-    "owner": "fnyoat",
-    "name": "Journey_of_the_Shit",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-09-18T16:01:32.566Z",
-    "forkName": "fnyoat-Journey_of_the_Shit",
-    "sourceRepo": "fnyoat/Journey_of_the_Shit",
-    "consecutiveFailures": 1,
-    "lastFailedAt": "2026-09-18T16:01:32.566Z",
-    "invalidReason": "GitHub API 403: Resource not accessible by integration",
-    "entryPath": "index.html",
-    "validationScore": 115,
-    "totalSize": 287535,
-    "dataSize": 2507783,
-    "source": "upstream-webrpg-index",
-    "upstreamPagesUrl": "https://webrpg.org/VanilaNya-Journey_of_the_Shit/",
-    "upstreamCover": "https://webrpg.org/VanilaNya-Journey_of_the_Shit/cover.png",
-    "upstreamStatus": "unavailable",
-    "migration": {
-      "previousStatus": "verified",
-      "previousPagesUrl": "https://777723-xyz.github.io/fnyoat-Journey_of_the_Shit/index.html",
-      "recoveredAt": "2026-11-08T03:52:23.459Z"
     }
   },
   {
@@ -13834,6 +14083,28 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "games-for-idiots-life-1-6-hours-source-code",
+    "title": "Life-1-6-Hours-Source-Code",
+    "repo": "https://github.com/Games-for-Idiots/Life-1-6-Hours-Source-Code",
+    "owner": "Games-for-Idiots",
+    "name": "Life-1-6-Hours-Source-Code",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
+    "id": "games-for-idiots-life-1-source-code",
+    "title": "Life-1-Source-Code",
+    "repo": "https://github.com/Games-for-Idiots/Life-1-Source-Code",
+    "owner": "Games-for-Idiots",
+    "name": "Life-1-Source-Code",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
     "id": "gannixyt-games-gannix",
     "title": "DEAD PLATE",
     "repo": "https://github.com/GannixYT/games-gannix",
@@ -14270,6 +14541,17 @@
     }
   },
   {
+    "id": "ghostw1ng-work-fear-and-hunger-4-player-coop",
+    "title": "Fear-And-Hunger-4-Player-Coop",
+    "repo": "https://github.com/GhostW1ng-Work/Fear-And-Hunger-4-Player-Coop",
+    "owner": "GhostW1ng-Work",
+    "name": "Fear-And-Hunger-4-Player-Coop",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "gideonmire-lost-among-the-stars",
     "title": "LOST AMONG THE STARS",
     "repo": "https://github.com/GideonMire/LOST-AMONG-THE-STARS",
@@ -14523,6 +14805,17 @@
       "previousPagesUrl": "https://777723-xyz.github.io/givanilddo-SkullSeeker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     }
+  },
+  {
+    "id": "glynn568-glitch-fear-and-hunger-together",
+    "title": "fear-and-hunger-together",
+    "repo": "https://github.com/glynn568-glitch/fear-and-hunger-together",
+    "owner": "glynn568-glitch",
+    "name": "fear-and-hunger-together",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "gmshelf-ckv",
@@ -14952,6 +15245,52 @@
     }
   },
   {
+    "id": "guilhermelemos14-fabulousbeasts-9e8b7d280247",
+    "title": "四叶苜蓿-第二章",
+    "repo": "https://github.com/MikaelBelanger/FabulousBeasts",
+    "owner": "MikaelBelanger",
+    "name": "FabulousBeasts",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-15T10:30:32.062Z",
+    "source": "github-code-search",
+    "sourcePath": "FLC Game/FLC Chapter 1+2/www/index.html",
+    "checkedAt": "2026-10-31T11:52:41.416Z",
+    "forkName": "GuilhermeLemos14-FabulousBeasts",
+    "entryPath": "index.html",
+    "validationScore": 108,
+    "totalSize": 575661,
+    "dataSize": 6482078,
+    "sourceRepo": "MikaelBelanger/FabulousBeasts",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "4ffe09f1e649d6a302be731d03946e1e6f1fae21",
+    "processedHeadSha": "9edb8eb852252bc0d1e038b933159c43770c42b6",
+    "coverPath": "cover.png",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "四叶苜蓿",
+        "siyemuxu"
+      ],
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    },
+    "upstreamPagesUrl": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/",
+    "upstreamCover": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
     "id": "gullamalmuzadid-pengembangan-game",
     "title": "College",
     "repo": "https://github.com/GullamAlmuzadid/Pengembangan_Game",
@@ -15028,6 +15367,28 @@
     "upstreamPagesUrl": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/",
     "upstreamCover": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "guobin6910-cell-dawn-glimmer-dual-moon",
+    "title": "dawn-glimmer-dual-moon",
+    "repo": "https://github.com/guobin6910-cell/dawn-glimmer-dual-moon",
+    "owner": "guobin6910-cell",
+    "name": "dawn-glimmer-dual-moon",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
+    "id": "guobin6910-cell-medieval-monster-hunt",
+    "title": "medieval-monster-hunt",
+    "repo": "https://github.com/guobin6910-cell/medieval-monster-hunt",
+    "owner": "guobin6910-cell",
+    "name": "medieval-monster-hunt",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "gward2489-rpgmakermvonline",
@@ -15560,6 +15921,17 @@
     }
   },
   {
+    "id": "hannesleonha-graphene",
+    "title": "Graphene",
+    "repo": "https://github.com/HannesLeonha/Graphene",
+    "owner": "HannesLeonha",
+    "name": "Graphene",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "hanr61-creative-journey-new",
     "title": "Creative Journey",
     "repo": "https://github.com/hanr61/Creative-Journey-New",
@@ -16024,6 +16396,17 @@
     }
   },
   {
+    "id": "hcolmenares-randommapgridcss",
+    "title": "randommapgridcss",
+    "repo": "https://github.com/hcolmenares/randommapgridcss",
+    "owner": "hcolmenares",
+    "name": "randommapgridcss",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "hectovargas-repositoriozelda",
     "title": "Pixel Fantasy Tiles",
     "repo": "https://github.com/Hectovargas/repositorioZELDA",
@@ -16230,6 +16613,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "henry0131-rpggame",
+    "title": "rpggame",
+    "repo": "https://github.com/henry0131/rpggame",
+    "owner": "henry0131",
+    "name": "rpggame",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "heronat-si28-test",
     "title": "L'Ombre de la Guerre",
     "repo": "https://github.com/heronat/SI28_Test",
@@ -16274,6 +16668,17 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/heronat-SI28_Test/",
     "upstreamCover": "https://webrpg.org/heronat-SI28_Test/cover.png"
+  },
+  {
+    "id": "hibira-io-rpgmaker-mz",
+    "title": "rpgmaker-mz",
+    "repo": "https://github.com/hibira-io/rpgmaker-mz",
+    "owner": "hibira-io",
+    "name": "rpgmaker-mz",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
   },
   {
     "id": "hidegonsan-kanzidego",
@@ -16505,6 +16910,17 @@
     "upstreamPagesUrl": "https://webrpg.org/horke-root-EchoOfDespire/",
     "upstreamCover": "https://webrpg.org/horke-root-EchoOfDespire/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "hoshino-yumetsuki-rmgaf",
+    "title": "RMGAF",
+    "repo": "https://github.com/Hoshino-Yumetsuki/RMGAF",
+    "owner": "Hoshino-Yumetsuki",
+    "name": "RMGAF",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "hoshiyomi0322-guonuo",
@@ -16952,31 +17368,6 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 082B:31A545:B5C13E2:2952D6A6:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
-  },
-  {
-    "id": "complex-arcade-complex-arcade-github-io-9f7a7621e1a5",
-    "title": "BLOODMONEY!",
-    "repo": "https://github.com/idontwannabetheguy/complex-arcade.github.io",
-    "owner": "idontwannabetheguy",
-    "name": "complex-arcade.github.io",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "discoveredAt": "2026-06-21T11:46:59.282Z",
-    "source": "github-code-search",
-    "sourcePath": "gxmes/storage/bloodmoney/index.html",
-    "checkedAt": "2026-09-22T11:08:51.949Z",
-    "forkName": "complex-arcade-complex-arcade.github.io",
-    "validationScore": 0,
-    "totalSize": 1778488,
-    "dataSize": 421073,
-    "sourceRepo": "idontwannabetheguy/complex-arcade.github.io",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "c8ac0b7578065a554ed5dc4d59160b8087474830",
-    "processedHeadSha": "207e73cb16bc939a99eda89f518d09df81df9922",
-    "syncedFromSource": true,
-    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
-    "deletedAt": "2026-09-22T11:08:55.014Z",
-    "upstreamStatus": "invalid_structure"
   },
   {
     "id": "ifilex-winebox-store",
@@ -17834,6 +18225,28 @@
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 382B:3B8D19:B8F824B:BAC0D67:6A346E78 and timestamp 2026-06-18 22:17:28 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
+    "id": "itsmentalist-rmxp-autotile-to-wang47",
+    "title": "rmxp-autotile-to-wang47",
+    "repo": "https://github.com/itsMentalist/rmxp-autotile-to-wang47",
+    "owner": "itsMentalist",
+    "name": "rmxp-autotile-to-wang47",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
+    "id": "j10official-hitori",
+    "title": "Hitori",
+    "repo": "https://github.com/J10Official/Hitori",
+    "owner": "J10Official",
+    "name": "Hitori",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
     "id": "j3tze-goblin-habitat",
     "title": "VisuStella Worlds: Spring Forest",
     "repo": "https://github.com/J3tze/goblin-habitat",
@@ -18166,6 +18579,28 @@
     "upstreamPagesUrl": "https://webrpg.org/jakubiszon-rpg-maker-mz-iframe/",
     "upstreamCover": "https://webrpg.org/jakubiszon-rpg-maker-mz-iframe/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "jamepeterson385-rpg-maker-mz-desktop",
+    "title": "rpg-maker-mz-desktop",
+    "repo": "https://github.com/jamepeterson385/rpg-maker-mz-desktop",
+    "owner": "jamepeterson385",
+    "name": "rpg-maker-mz-desktop",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
+    "id": "jauvil-mvjsoneditor",
+    "title": "MvJsonEditor",
+    "repo": "https://github.com/Jauvil/MvJsonEditor",
+    "owner": "Jauvil",
+    "name": "MvJsonEditor",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "javisscode-callatekevin",
@@ -18610,6 +19045,39 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/johnqwq-secret-escape/",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "jokerbbc-rpg-maker-mz-mod-loader",
+    "title": "rpg-maker-mz-mod-loader",
+    "repo": "https://github.com/jokerBBC/rpg-maker-mz-mod-loader",
+    "owner": "jokerBBC",
+    "name": "rpg-maker-mz-mod-loader",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
+    "id": "jomarcenter-mjm-rpgmakerjavascriptpluginsnippet",
+    "title": "RPGMakerJavascriptPluginSnippet",
+    "repo": "https://github.com/jomarcenter-mjm/RPGMakerJavascriptPluginSnippet",
+    "owner": "jomarcenter-mjm",
+    "name": "RPGMakerJavascriptPluginSnippet",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "jorgemakerdev-rmwarchive",
+    "title": "RMWArchive",
+    "repo": "https://github.com/jorgemakerdev/RMWArchive",
+    "owner": "jorgemakerdev",
+    "name": "RMWArchive",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "josephbh0622-simulatedcampus",
@@ -19076,6 +19544,28 @@
     }
   },
   {
+    "id": "k-ame-rpgmaker-mv-ai-bridge",
+    "title": "rpgmaker-mv-ai-bridge",
+    "repo": "https://github.com/K-ame/rpgmaker-mv-ai-bridge",
+    "owner": "K-ame",
+    "name": "rpgmaker-mv-ai-bridge",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "k00ros-rpg-forge-command-console",
+    "title": "rpg-forge-command-console",
+    "repo": "https://github.com/K00ros/rpg-forge-command-console",
+    "owner": "K00ros",
+    "name": "rpg-forge-command-console",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "k3yzz-k3ysplace",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/K3yZz/K3ysPlace",
@@ -19443,30 +19933,6 @@
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 6803:1E094E:2419CC5:8535A6E:6A348F10 and timestamp 2026-06-19 00:36:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
-    "id": "katai5plate-rpgmv-overflow",
-    "title": "マインド・オーバーフロー",
-    "repo": "https://github.com/katai5plate/rpgmv_overflow",
-    "owner": "katai5plate",
-    "name": "rpgmv_overflow",
-    "engine": "RPG Maker MV",
-    "checkedAt": "2026-07-20T06:21:41.537Z",
-    "forkName": "katai5plate-rpgmv_overflow",
-    "status": "indexed",
-    "entryPath": "MIND-OVERLOAD/index.html",
-    "validationScore": 115,
-    "totalSize": 1605,
-    "dataSize": 0,
-    "sourceRepo": "katai5plate/rpgmv_overflow",
-    "sourceDefaultBranch": "master",
-    "sourceHeadSha": "ddd60b93da50f5c8beb01e87153259f894df9b27",
-    "processedHeadSha": "06ecdc133ecf84f20ff9e34e01792f42716c0897",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv_overflow/ served an RPG Maker entry point and its startup resources",
-    "source": "upstream-webrpg-index",
-    "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmv_overflow/",
-    "upstreamStatus": "verified"
-  },
-  {
     "id": "katai5plate-rpgmv-game-kanban",
     "title": "expKanban",
     "repo": "https://github.com/katai5plate/rpgmv-game-kanban",
@@ -19539,6 +20005,30 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "katai5plate-rpgmv-overflow",
+    "title": "マインド・オーバーフロー",
+    "repo": "https://github.com/katai5plate/rpgmv_overflow",
+    "owner": "katai5plate",
+    "name": "rpgmv_overflow",
+    "engine": "RPG Maker MV",
+    "checkedAt": "2026-07-20T06:21:41.537Z",
+    "forkName": "katai5plate-rpgmv_overflow",
+    "status": "indexed",
+    "entryPath": "MIND-OVERLOAD/index.html",
+    "validationScore": 115,
+    "totalSize": 1605,
+    "dataSize": 0,
+    "sourceRepo": "katai5plate/rpgmv_overflow",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "ddd60b93da50f5c8beb01e87153259f894df9b27",
+    "processedHeadSha": "06ecdc133ecf84f20ff9e34e01792f42716c0897",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv_overflow/ served an RPG Maker entry point and its startup resources",
+    "source": "upstream-webrpg-index",
+    "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmv_overflow/",
+    "upstreamStatus": "verified"
+  },
+  {
     "id": "katai5plate-rpgmv-starter-for-me",
     "title": "mygame",
     "repo": "https://github.com/katai5plate/rpgmv-starter-for-me",
@@ -19600,6 +20090,17 @@
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/",
     "upstreamCover": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "katblackcoder-hoshi2star",
+    "title": "Hoshi2Star",
+    "repo": "https://github.com/KATBlackCoder/Hoshi2Star",
+    "owner": "KATBlackCoder",
+    "name": "Hoshi2Star",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "katsugachi-solus-ms",
@@ -20065,6 +20566,40 @@
     "upstreamStatus": "unavailable"
   },
   {
+    "id": "kidixdev-rpg-maker-mv-mz-cheat-toolkit",
+    "title": "RPG-Maker-MV-MZ-Cheat-Toolkit",
+    "repo": "https://github.com/KidiXDev/RPG-Maker-MV-MZ-Cheat-Toolkit",
+    "owner": "KidiXDev",
+    "name": "RPG-Maker-MV-MZ-Cheat-Toolkit",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
+  },
+  {
+    "id": "kill-rose-wiki",
+    "title": "さばにくす☆せかいせいふく",
+    "repo": "https://github.com/dorian-noki/wiki",
+    "owner": "dorian-noki",
+    "name": "wiki",
+    "engine": "RPG Maker MV",
+    "checkedAt": "2026-09-20T15:37:09.370Z",
+    "forkName": "Kill-rose-wiki",
+    "status": "indexed",
+    "validationScore": 0,
+    "totalSize": 292044,
+    "dataSize": 1802058,
+    "sourceRepo": "dorian-noki/wiki",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "2f439d5bd48092dd0d90c32e11257e47ce36389f",
+    "processedHeadSha": "f74a41e383ed5c95fc8e09229f33c5497e8eb9be",
+    "syncedFromSource": true,
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
+    "deletedAt": "2026-09-20T15:37:11.404Z",
+    "source": "upstream-webrpg-index",
+    "upstreamStatus": "invalid_structure"
+  },
+  {
     "id": "kill-rose-wiki-dd726105aa10",
     "title": "さばにくす☆せかいせいふく",
     "repo": "https://github.com/Kill-rose/wiki",
@@ -20349,6 +20884,39 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "kokoroou-makerlens",
+    "title": "makerlens",
+    "repo": "https://github.com/Kokoroou/makerlens",
+    "owner": "Kokoroou",
+    "name": "makerlens",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "kokoroou-rpgmaker-assets-viewer",
+    "title": "rpgmaker-assets-viewer",
+    "repo": "https://github.com/Kokoroou/rpgmaker-assets-viewer",
+    "owner": "Kokoroou",
+    "name": "rpgmaker-assets-viewer",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "kokoroou-rpgmaker-events-viewer",
+    "title": "rpgmaker-events-viewer",
+    "repo": "https://github.com/Kokoroou/rpgmaker-events-viewer",
+    "owner": "Kokoroou",
+    "name": "rpgmaker-events-viewer",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "kondo-yuuki-altereal",
     "title": "alteReal",
     "repo": "https://github.com/KONDO-Yuuki/alteReal",
@@ -20419,6 +20987,42 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "koohdev-chronicles-demo",
+    "title": "Tests",
+    "repo": "https://github.com/koohdev/chronicles-demo",
+    "owner": "koohdev",
+    "name": "chronicles-demo",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "checkedAt": "2026-11-04T01:11:54.031Z",
+    "forkName": "koohdev-chronicles-demo",
+    "entryPath": "index.html",
+    "coverPath": "cover.png",
+    "validationScore": 108,
+    "totalSize": 94199,
+    "dataSize": 599240,
+    "sourceRepo": "koohdev/chronicles-demo",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "a4eeca3ce822ee84b5e23046c2f4d1710f5025d4",
+    "processedHeadSha": "a7e7b22880a8d15c7e60429663a24322d22d028c",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles-demo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    },
+    "upstreamPagesUrl": "https://webrpg.org/koohdev-chronicles-demo/",
+    "upstreamCover": "https://webrpg.org/koohdev-chronicles-demo/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
     "id": "koohdev-chronicles-of-arithmos",
     "title": "Chronicles of Arithmos",
     "repo": "https://github.com/koohdev/chronicles_of_arithmos",
@@ -20459,42 +21063,6 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/koohdev-chronicles_of_arithmos/",
     "upstreamCover": "https://webrpg.org/koohdev-chronicles_of_arithmos/cover.png",
-    "upstreamStatus": "verified"
-  },
-  {
-    "id": "koohdev-chronicles-demo",
-    "title": "Tests",
-    "repo": "https://github.com/koohdev/chronicles-demo",
-    "owner": "koohdev",
-    "name": "chronicles-demo",
-    "engine": "RPG Maker MZ",
-    "status": "indexed",
-    "discoveredAt": "2026-10-26T12:18:25.259Z",
-    "source": "github-code-search",
-    "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:11:54.031Z",
-    "forkName": "koohdev-chronicles-demo",
-    "entryPath": "index.html",
-    "coverPath": "cover.png",
-    "validationScore": 108,
-    "totalSize": 94199,
-    "dataSize": 599240,
-    "sourceRepo": "koohdev/chronicles-demo",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "a4eeca3ce822ee84b5e23046c2f4d1710f5025d4",
-    "processedHeadSha": "a7e7b22880a8d15c7e60429663a24322d22d028c",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles-demo/ served an RPG Maker entry point and its startup resources",
-    "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
-      "playable": false,
-      "reviewedAt": "2026-11-07"
-    },
-    "upstreamPagesUrl": "https://webrpg.org/koohdev-chronicles-demo/",
-    "upstreamCover": "https://webrpg.org/koohdev-chronicles-demo/cover.png",
     "upstreamStatus": "verified"
   },
   {
@@ -21039,6 +21607,51 @@
     }
   },
   {
+    "id": "kyouka8234-magical-girl-celesphonia-853e7ebbb52a",
+    "title": "魔法少女苍蓝星",
+    "repo": "https://github.com/NeonNoirU/mfsnclx",
+    "owner": "NeonNoirU",
+    "name": "mfsnclx",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "checkedAt": "2026-11-07T21:37:06.286Z",
+    "forkName": "Kyouka8234-Magical-Girl-Celesphonia",
+    "entryPath": "index.html",
+    "validationScore": 108,
+    "totalSize": 2681661,
+    "dataSize": 34082727,
+    "sourceRepo": "NeonNoirU/mfsnclx",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "2d567e81bd309b29e9efa51dbad5361d4d7c3296",
+    "processedHeadSha": "3e00ad81f31afff7dbda2fdac865addc3c8a86f0",
+    "coverPath": "cover.png",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Magical Girl Celesphonia",
+        "魔法少女天穹法妮雅"
+      ],
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": true,
+      "originalTitle": "魔法少女 セレスフォニア",
+      "playable": true,
+      "popularity": 7,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    },
+    "source": "upstream-webrpg-index",
+    "upstreamPagesUrl": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/",
+    "upstreamCover": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
     "id": "kyubuns-mmom",
     "title": "MMOもどき",
     "repo": "https://github.com/kyubuns/MMOM",
@@ -21581,6 +22194,17 @@
     "upstreamCover": "https://webrpg.org/LeoWolf26-D-1/cover.png"
   },
   {
+    "id": "lfkdsk-pocketjs-rpgkit",
+    "title": "pocketjs-rpgkit",
+    "repo": "https://github.com/lfkdsk/pocketjs-rpgkit",
+    "owner": "lfkdsk",
+    "name": "pocketjs-rpgkit",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "liamdeathboy-cautious-fishstick",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/liamdeathboy/cautious-fishstick",
@@ -21664,36 +22288,6 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5C13:37EB69:31D105:BBB768:6A30EFB7 and timestamp 2026-06-16 06:39:51 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
-  },
-  {
-    "id": "lokilyn-rpgmakermv",
-    "title": "RPG游戏",
-    "repo": "https://github.com/Lino-saur/RPGMakerMV",
-    "owner": "Lino-saur",
-    "name": "RPGMakerMV",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-04T19:35:20.735Z",
-    "forkName": "Lino-saur-RPGMakerMV",
-    "sourceRepo": "Lino-saur/RPGMakerMV",
-    "sourceDefaultBranch": "master",
-    "sourceHeadSha": "eab5823aa0fb09bfd925fa95411d9dbdc518f27e",
-    "processedHeadSha": "45e61535a9be93325b7a45774bc2a75093253938",
-    "consecutiveFailures": 3,
-    "lastFailedAt": "2026-11-04T19:35:20.735Z",
-    "entryPath": "Games/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/index.html",
-    "validationScore": 115,
-    "totalSize": 438181,
-    "dataSize": 0,
-    "source": "upstream-webrpg-index",
-    "upstreamPagesUrl": "https://webrpg.org/LoKiLyn-RPGMakerMV/",
-    "upstreamCover": "https://webrpg.org/LoKiLyn-RPGMakerMV/cover.png",
-    "upstreamStatus": "check_error",
-    "migration": {
-      "previousStatus": "verified",
-      "previousPagesUrl": "https://777723-xyz.github.io/Lino-saur-RPGMakerMV/Games/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/index.html",
-      "recoveredAt": "2026-11-08T03:52:23.460Z"
-    }
   },
   {
     "id": "lisachouhc-drdresapre",
@@ -21990,6 +22584,17 @@
     }
   },
   {
+    "id": "llamaware-llamatoolkit",
+    "title": "LlamaToolkit",
+    "repo": "https://github.com/Llamaware/LlamaToolkit",
+    "owner": "Llamaware",
+    "name": "LlamaToolkit",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "llb1026-llb1026-github-io",
     "title": "음대생메이커",
     "repo": "https://github.com/llb1026/llb1026.github.io",
@@ -22078,6 +22683,36 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID D03B:36B9C:3101EC:B8B420:6A30EFB7 and timestamp 2026-06-16 06:39:51 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "lokilyn-rpgmakermv",
+    "title": "RPG游戏",
+    "repo": "https://github.com/Lino-saur/RPGMakerMV",
+    "owner": "Lino-saur",
+    "name": "RPGMakerMV",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "checkedAt": "2026-11-04T19:35:20.735Z",
+    "forkName": "Lino-saur-RPGMakerMV",
+    "sourceRepo": "Lino-saur/RPGMakerMV",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "eab5823aa0fb09bfd925fa95411d9dbdc518f27e",
+    "processedHeadSha": "45e61535a9be93325b7a45774bc2a75093253938",
+    "consecutiveFailures": 3,
+    "lastFailedAt": "2026-11-04T19:35:20.735Z",
+    "entryPath": "Games/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/index.html",
+    "validationScore": 115,
+    "totalSize": 438181,
+    "dataSize": 0,
+    "source": "upstream-webrpg-index",
+    "upstreamPagesUrl": "https://webrpg.org/LoKiLyn-RPGMakerMV/",
+    "upstreamCover": "https://webrpg.org/LoKiLyn-RPGMakerMV/cover.png",
+    "upstreamStatus": "check_error",
+    "migration": {
+      "previousStatus": "verified",
+      "previousPagesUrl": "https://777723-xyz.github.io/Lino-saur-RPGMakerMV/Games/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/index.html",
+      "recoveredAt": "2026-11-08T03:52:23.460Z"
+    }
   },
   {
     "id": "lokinious-rpg-maker-game-1",
@@ -22680,6 +23315,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "lusica-baby-rpgmaker-ai-pipeline",
+    "title": "rpgmaker-ai-pipeline",
+    "repo": "https://github.com/lusica-baby/rpgmaker-ai-pipeline",
+    "owner": "lusica-baby",
+    "name": "rpgmaker-ai-pipeline",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
+  },
+  {
     "id": "lynxx39-virus-chronicles",
     "title": "Virus Chronicles",
     "repo": "https://github.com/Lynxx39/Virus-Chronicles",
@@ -22915,6 +23561,28 @@
     "validationScore": 53,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3803:175FA0:7AFEE1:7BF0FE:6A30EF8F and timestamp 2026-06-16 06:39:11 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "magic3389-sumu-trainer",
+    "title": "sumu-trainer",
+    "repo": "https://github.com/magic3389/sumu-trainer",
+    "owner": "magic3389",
+    "name": "sumu-trainer",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "magicalalmond-yakusha",
+    "title": "Yakusha",
+    "repo": "https://github.com/MagicalAlmond/Yakusha",
+    "owner": "MagicalAlmond",
+    "name": "Yakusha",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "magicalyuto-secret-funeral",
@@ -23244,6 +23912,17 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID CC33:31A227:9302B5:22CAD20:6A30EF92 and timestamp 2026-06-16 06:39:14 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "martiarena-fuerzacarmesi",
+    "title": "FuerzaCarmesi",
+    "repo": "https://github.com/Martiarena/FuerzaCarmesi",
+    "owner": "Martiarena",
+    "name": "FuerzaCarmesi",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "martinbenes-demo-taborska",
@@ -24321,52 +25000,6 @@
     "upstreamStatus": "verified"
   },
   {
-    "id": "guilhermelemos14-fabulousbeasts-9e8b7d280247",
-    "title": "四叶苜蓿-第二章",
-    "repo": "https://github.com/MikaelBelanger/FabulousBeasts",
-    "owner": "MikaelBelanger",
-    "name": "FabulousBeasts",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "discoveredAt": "2026-06-15T10:30:32.062Z",
-    "source": "github-code-search",
-    "sourcePath": "FLC Game/FLC Chapter 1+2/www/index.html",
-    "checkedAt": "2026-10-31T11:52:41.416Z",
-    "forkName": "GuilhermeLemos14-FabulousBeasts",
-    "entryPath": "index.html",
-    "validationScore": 108,
-    "totalSize": 575661,
-    "dataSize": 6482078,
-    "sourceRepo": "MikaelBelanger/FabulousBeasts",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "4ffe09f1e649d6a302be731d03946e1e6f1fae21",
-    "processedHeadSha": "9edb8eb852252bc0d1e038b933159c43770c42b6",
-    "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/ served an RPG Maker entry point and its startup resources",
-    "meta": {
-      "aliases": [
-        "四叶苜蓿",
-        "siyemuxu"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
-    },
-    "upstreamPagesUrl": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/",
-    "upstreamCover": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/cover.png",
-    "upstreamStatus": "verified"
-  },
-  {
     "id": "mikanhako1024-rpgmaker-is-you",
     "title": "BabaIsYouClone",
     "repo": "https://github.com/MikanHako1024/RpgMaker-is-you",
@@ -24426,6 +25059,17 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID FC23:19E39C:1417CE8:4A28703:6A34E1DA and timestamp 2026-06-19 06:29:46 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "mikndotdev-doujingamemanager",
+    "title": "DoujinGameManager",
+    "repo": "https://github.com/mikndotdev/DoujinGameManager",
+    "owner": "mikndotdev",
+    "name": "DoujinGameManager",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "miku1hhhh-miku1hhhh-github-io",
@@ -24676,6 +25320,17 @@
     }
   },
   {
+    "id": "mizagbf-rpgmtl",
+    "title": "RPGMTL",
+    "repo": "https://github.com/MizaGBF/RPGMTL",
+    "owner": "MizaGBF",
+    "name": "RPGMTL",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
+  },
+  {
     "id": "mizchi-sandbox-tkool-sandbox",
     "title": "HelloWorld Custom",
     "repo": "https://github.com/mizchi-sandbox/tkool-sandbox",
@@ -24693,6 +25348,17 @@
     "validationScore": 60,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3423:A2EF9:9B10449:23B8C251:6A34E1E9 and timestamp 2026-06-19 06:30:01 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "mkaflowski-rpgm-to-apk",
+    "title": "RPGM-to-APK",
+    "repo": "https://github.com/mkaflowski/RPGM-to-APK",
+    "owner": "mkaflowski",
+    "name": "RPGM-to-APK",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
   },
   {
     "id": "mn3zx-corridaacademica",
@@ -24765,47 +25431,6 @@
     "upstreamStatus": "verified"
   },
   {
-    "id": "monaca-monaca-quest",
-    "title": "Cordova-kun's Final Quest",
-    "repo": "https://github.com/monaca/monaca-quest",
-    "owner": "monaca",
-    "name": "monaca-quest",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "discoveredAt": "2026-06-15T10:30:32.062Z",
-    "source": "github-code-search",
-    "sourcePath": "Project/index.html",
-    "checkedAt": "2026-06-19T11:29:28.156Z",
-    "forkName": "monaca-monaca-quest",
-    "entryPath": "Project/index.html",
-    "validationScore": 115,
-    "totalSize": 466703,
-    "dataSize": 0,
-    "sourceRepo": "monaca/monaca-quest",
-    "sourceDefaultBranch": "master",
-    "sourceHeadSha": "5df10c829ba610d7c50091ce8f0c18591fee808b",
-    "processedHeadSha": "9d10aeaa797a37cd4c8e6183debc8b0a150d6b39",
-    "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/monaca-monaca-quest/ served an RPG Maker entry point and its startup resources",
-    "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
-    },
-    "upstreamPagesUrl": "https://webrpg.org/monaca-monaca-quest/",
-    "upstreamCover": "https://webrpg.org/monaca-monaca-quest/cover.png",
-    "upstreamStatus": "verified"
-  },
-  {
     "id": "monaca-monaca-github-io",
     "title": "Cordova-kun's Final Quest",
     "repo": "https://github.com/monaca/monaca.github.io",
@@ -24844,6 +25469,47 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/monaca-monaca.github.io/",
     "upstreamCover": "https://webrpg.org/monaca-monaca.github.io/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
+    "id": "monaca-monaca-quest",
+    "title": "Cordova-kun's Final Quest",
+    "repo": "https://github.com/monaca/monaca-quest",
+    "owner": "monaca",
+    "name": "monaca-quest",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-15T10:30:32.062Z",
+    "source": "github-code-search",
+    "sourcePath": "Project/index.html",
+    "checkedAt": "2026-06-19T11:29:28.156Z",
+    "forkName": "monaca-monaca-quest",
+    "entryPath": "Project/index.html",
+    "validationScore": 115,
+    "totalSize": 466703,
+    "dataSize": 0,
+    "sourceRepo": "monaca/monaca-quest",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "5df10c829ba610d7c50091ce8f0c18591fee808b",
+    "processedHeadSha": "9d10aeaa797a37cd4c8e6183debc8b0a150d6b39",
+    "coverPath": "cover.png",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/monaca-monaca-quest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    },
+    "upstreamPagesUrl": "https://webrpg.org/monaca-monaca-quest/",
+    "upstreamCover": "https://webrpg.org/monaca-monaca-quest/cover.png",
     "upstreamStatus": "verified"
   },
   {
@@ -24969,6 +25635,28 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 2C03:2842FD:1D80379:1DA8641:6A331CD4 and timestamp 2026-06-17 22:16:52 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "mrmeuzi-forsaken-companions",
+    "title": "forsaken-companions",
+    "repo": "https://github.com/MrMeuzi/forsaken-companions",
+    "owner": "MrMeuzi",
+    "name": "forsaken-companions",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "mrmeuzi-no-fear-no-hunger",
+    "title": "no-fear-no-hunger",
+    "repo": "https://github.com/MrMeuzi/no-fear-no-hunger",
+    "owner": "MrMeuzi",
+    "name": "no-fear-no-hunger",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "mrvaporwave25-pnc3d",
@@ -25903,6 +26591,17 @@
     "upstreamStatus": "invalid_structure"
   },
   {
+    "id": "nekoomaruu-simple-game-translator",
+    "title": "simple-game-translator",
+    "repo": "https://github.com/Nekoomaruu/simple-game-translator",
+    "owner": "Nekoomaruu",
+    "name": "simple-game-translator",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "nelderson-mv-online",
     "title": "Online_Core_Test",
     "repo": "https://github.com/Nelderson/MV_Online",
@@ -26042,51 +26741,6 @@
     "forkName": "NeonNoirU-drkxq",
     "invalidReason": "GitHub returned a truncated recursive tree.",
     "upstreamStatus": "skipped_large"
-  },
-  {
-    "id": "kyouka8234-magical-girl-celesphonia-853e7ebbb52a",
-    "title": "魔法少女苍蓝星",
-    "repo": "https://github.com/NeonNoirU/mfsnclx",
-    "owner": "NeonNoirU",
-    "name": "mfsnclx",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:37:06.286Z",
-    "forkName": "Kyouka8234-Magical-Girl-Celesphonia",
-    "entryPath": "index.html",
-    "validationScore": 108,
-    "totalSize": 2681661,
-    "dataSize": 34082727,
-    "sourceRepo": "NeonNoirU/mfsnclx",
-    "sourceDefaultBranch": "master",
-    "sourceHeadSha": "2d567e81bd309b29e9efa51dbad5361d4d7c3296",
-    "processedHeadSha": "3e00ad81f31afff7dbda2fdac865addc3c8a86f0",
-    "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/ served an RPG Maker entry point and its startup resources",
-    "meta": {
-      "aliases": [
-        "Magical Girl Celesphonia",
-        "魔法少女天穹法妮雅"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": true,
-      "originalTitle": "魔法少女 セレスフォニア",
-      "playable": true,
-      "popularity": 7,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
-    },
-    "source": "upstream-webrpg-index",
-    "upstreamPagesUrl": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/",
-    "upstreamCover": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/cover.png",
-    "upstreamStatus": "verified"
   },
   {
     "id": "neonnoiru-xrkxq",
@@ -26573,34 +27227,6 @@
     "upstreamStatus": "verified"
   },
   {
-    "id": "soupcanubg-yesterdays-meat",
-    "title": "Yesterday’s Meat",
-    "repo": "https://github.com/NotReallyRx/Yesterdays-Meat",
-    "owner": "NotReallyRx",
-    "name": "Yesterdays-Meat",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "discoveredAt": "2026-06-15T20:44:37.928Z",
-    "source": "github-code-search",
-    "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T01:30:06.502Z",
-    "forkName": "SoupcanUBG-Yesterdays-Meat",
-    "entryPath": "index.html",
-    "validationScore": 108,
-    "totalSize": 271068,
-    "dataSize": 1042715,
-    "sourceRepo": "NotReallyRx/Yesterdays-Meat",
-    "coverPath": "cover.png",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "0619c0711092007b4c06186e798820626929e7ad",
-    "processedHeadSha": "f6f060cfd0ca40b9deb188ede09d86750a80f264",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/ served an RPG Maker entry point and its startup resources",
-    "upstreamPagesUrl": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/",
-    "upstreamCover": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/cover.png",
-    "upstreamStatus": "verified"
-  },
-  {
     "id": "novafriendly-novav3w",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/Novafriendly/novav3w",
@@ -26870,6 +27496,17 @@
       "previousPagesUrl": "https://777723-xyz.github.io/oden-RMMV/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     }
+  },
+  {
+    "id": "officialcrugg-rpgmts",
+    "title": "rpgmts",
+    "repo": "https://github.com/OfficialCRUGG/rpgmts",
+    "owner": "OfficialCRUGG",
+    "name": "rpgmts",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "ojoh1993-scp-oopart",
@@ -27356,6 +27993,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "p-nickzhang-q-pq-nyd412-scene-player",
+    "title": "pq-nyd412-scene-player",
+    "repo": "https://github.com/p-nickzhang-q/pq-nyd412-scene-player",
+    "owner": "p-nickzhang-q",
+    "name": "pq-nyd412-scene-player",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "pablotorr17-juego-itc",
     "title": "TecnmGame",
     "repo": "https://github.com/PabloTorr17/Juego-ITC",
@@ -27653,6 +28301,17 @@
     "upstreamPagesUrl": "https://webrpg.org/Patrick-ayo-Mumbai-Hacks/",
     "upstreamCover": "https://webrpg.org/Patrick-ayo-Mumbai-Hacks/cover.png",
     "upstreamStatus": "invalid_structure"
+  },
+  {
+    "id": "paulantoine2-rpgcrafter",
+    "title": "rpgcrafter",
+    "repo": "https://github.com/paulantoine2/rpgcrafter",
+    "owner": "paulantoine2",
+    "name": "rpgcrafter",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "paulo1211-o-castelo-das-sombras",
@@ -28074,6 +28733,17 @@
     "checkedAt": "2026-09-17T03:44:46.761Z",
     "invalidReason": "Repository has 1575 HTML files, exceeding the 500 file limit.",
     "upstreamStatus": "skipped_large"
+  },
+  {
+    "id": "phiredd1-blip-yellow-archive-grimoire",
+    "title": "yellow-archive-grimoire",
+    "repo": "https://github.com/phiredd1-blip/yellow-archive-grimoire",
+    "owner": "phiredd1-blip",
+    "name": "yellow-archive-grimoire",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "pieworkplace-mota-mv",
@@ -28579,6 +29249,17 @@
     "upstreamStatus": "invalid_structure"
   },
   {
+    "id": "popupie-local-web-game-player",
+    "title": "local-web-game-player",
+    "repo": "https://github.com/popupie/local-web-game-player",
+    "owner": "popupie",
+    "name": "local-web-game-player",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "potasiuombun-nhkgame-collab",
     "title": "NHKGAME",
     "repo": "https://github.com/Potasiuombun/NHKGame-collab",
@@ -28854,6 +29535,17 @@
     "upstreamPagesUrl": "https://webrpg.org/ProximitiGames-FrayedSystemExe/",
     "upstreamCover": "https://webrpg.org/ProximitiGames-FrayedSystemExe/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "psychronic-games-rpgreactor",
+    "title": "RPGReactor",
+    "repo": "https://github.com/Psychronic-Games/RPGReactor",
+    "owner": "Psychronic-Games",
+    "name": "RPGReactor",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "puteourien2-puteourien2-github-io",
@@ -29535,6 +30227,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "redseb-rpgmaker-mz-mcp",
+    "title": "rpgmaker-mz-mcp",
+    "repo": "https://github.com/Redseb/rpgmaker-mz-mcp",
+    "owner": "Redseb",
+    "name": "rpgmaker-mz-mcp",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
+  },
+  {
     "id": "reece-stephenson-time-loop-game",
     "title": "Galacti-Chrons Sci-Fi Warehouse Pack",
     "repo": "https://github.com/reece-stephenson/time-loop-game",
@@ -29570,6 +30273,17 @@
     "deletedAt": "2026-10-30T22:05:37.784Z",
     "validationScore": 0,
     "upstreamStatus": "invalid_structure"
+  },
+  {
+    "id": "regulad-wendyquestcracker",
+    "title": "wendyQuestCracker",
+    "repo": "https://github.com/regulad/wendyQuestCracker",
+    "owner": "regulad",
+    "name": "wendyQuestCracker",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
   },
   {
     "id": "reismahnic-farmhorrorgame",
@@ -30201,47 +30915,6 @@
     "upstreamStatus": "verified"
   },
   {
-    "id": "rober26522-th-grade-work",
-    "title": "Amung us 2",
-    "repo": "https://github.com/rober26522/-th-grade-work",
-    "owner": "rober26522",
-    "name": "-th-grade-work",
-    "engine": "RPG Maker MV",
-    "status": "indexed",
-    "discoveredAt": "2026-06-15T10:30:32.062Z",
-    "source": "github-code-search",
-    "sourcePath": "Amung us 2/index.html",
-    "checkedAt": "2026-06-17T23:53:44.310Z",
-    "forkName": "rober26522-th-grade-work",
-    "entryPath": "Amung us 2/index.html",
-    "validationScore": 115,
-    "totalSize": 388555,
-    "dataSize": 0,
-    "sourceRepo": "rober26522/-th-grade-work",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "069ec69636c4af95f8da0b377fd3575e9c8ed999",
-    "processedHeadSha": "6b70bf1189d741a9b547491abca27f016e9398ff",
-    "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rober26522-th-grade-work/ served an RPG Maker entry point and its startup resources",
-    "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
-    },
-    "upstreamPagesUrl": "https://webrpg.org/rober26522-th-grade-work/",
-    "upstreamCover": "https://webrpg.org/rober26522-th-grade-work/cover.png",
-    "upstreamStatus": "verified"
-  },
-  {
     "id": "rober26522-9thgradework",
     "title": "Amung us 2",
     "repo": "https://github.com/rober26522/9thGradeWork",
@@ -30321,6 +30994,47 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/rober26522-rober26522.github.io/",
     "upstreamCover": "https://webrpg.org/rober26522-rober26522.github.io/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
+    "id": "rober26522-th-grade-work",
+    "title": "Amung us 2",
+    "repo": "https://github.com/rober26522/-th-grade-work",
+    "owner": "rober26522",
+    "name": "-th-grade-work",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-15T10:30:32.062Z",
+    "source": "github-code-search",
+    "sourcePath": "Amung us 2/index.html",
+    "checkedAt": "2026-06-17T23:53:44.310Z",
+    "forkName": "rober26522-th-grade-work",
+    "entryPath": "Amung us 2/index.html",
+    "validationScore": 115,
+    "totalSize": 388555,
+    "dataSize": 0,
+    "sourceRepo": "rober26522/-th-grade-work",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "069ec69636c4af95f8da0b377fd3575e9c8ed999",
+    "processedHeadSha": "6b70bf1189d741a9b547491abca27f016e9398ff",
+    "coverPath": "cover.png",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/rober26522-th-grade-work/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    },
+    "upstreamPagesUrl": "https://webrpg.org/rober26522-th-grade-work/",
+    "upstreamCover": "https://webrpg.org/rober26522-th-grade-work/cover.png",
     "upstreamStatus": "verified"
   },
   {
@@ -30502,6 +31216,83 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "rpg-maker-repo-rmmv-api",
+    "title": "rmmv-api",
+    "repo": "https://github.com/rpg-maker-repo/rmmv-api",
+    "owner": "rpg-maker-repo",
+    "name": "rmmv-api",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
+    "id": "rpg-maker-translation-tools-rpgm-asset-decrypter-lib",
+    "title": "rpgm-asset-decrypter-lib",
+    "repo": "https://github.com/RPG-Maker-Translation-Tools/rpgm-asset-decrypter-lib",
+    "owner": "RPG-Maker-Translation-Tools",
+    "name": "rpgm-asset-decrypter-lib",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "rpg-maker-translation-tools-rpgm-asset-decrypter-rs",
+    "title": "rpgm-asset-decrypter-rs",
+    "repo": "https://github.com/RPG-Maker-Translation-Tools/rpgm-asset-decrypter-rs",
+    "owner": "RPG-Maker-Translation-Tools",
+    "name": "rpgm-asset-decrypter-rs",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "rpg-maker-translation-tools-rpgmdec",
+    "title": "rpgmdec",
+    "repo": "https://github.com/RPG-Maker-Translation-Tools/rpgmdec",
+    "owner": "RPG-Maker-Translation-Tools",
+    "name": "rpgmdec",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "rpg-maker-translation-tools-rpgmtranslate-qt",
+    "title": "rpgmtranslate-qt",
+    "repo": "https://github.com/RPG-Maker-Translation-Tools/rpgmtranslate-qt",
+    "owner": "RPG-Maker-Translation-Tools",
+    "name": "rpgmtranslate-qt",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "rpg-maker-translation-tools-rvpacker-txt-rs",
+    "title": "rvpacker-txt-rs",
+    "repo": "https://github.com/RPG-Maker-Translation-Tools/rvpacker-txt-rs",
+    "owner": "RPG-Maker-Translation-Tools",
+    "name": "rvpacker-txt-rs",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
+    "id": "rpg-maker-translation-tools-rvpacker-txt-rs-lib",
+    "title": "rvpacker-txt-rs-lib",
+    "repo": "https://github.com/RPG-Maker-Translation-Tools/rvpacker-txt-rs-lib",
+    "owner": "RPG-Maker-Translation-Tools",
+    "name": "rvpacker-txt-rs-lib",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "rpg9979-rpg9979",
     "title": "타워",
     "repo": "https://github.com/rpg9979/rpg9979",
@@ -30564,6 +31355,17 @@
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/RPGCosmos-Example-MMO/",
     "upstreamCover": "https://webrpg.org/RPGCosmos-Example-MMO/cover.png"
+  },
+  {
+    "id": "rpgja-rpgen-walk",
+    "title": "rpgen-walk",
+    "repo": "https://github.com/rpgja/rpgen-walk",
+    "owner": "rpgja",
+    "name": "rpgen-walk",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "rpgtkoolmv-corescript",
@@ -32700,6 +33502,17 @@
     "upstreamStatus": "skipped_large"
   },
   {
+    "id": "silicatewielder-rpgmakerwebbackup",
+    "title": "RPGMakerWebBackup",
+    "repo": "https://github.com/SilicateWielder/RPGMakerWebBackup",
+    "owner": "SilicateWielder",
+    "name": "RPGMakerWebBackup",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "sillylittleluascripter-fear-and-hunger",
     "title": "Fear & Hunger",
     "repo": "https://github.com/SillyLittleLuaScripter/fear-and-hunger",
@@ -33169,6 +33982,17 @@
     "upstreamStatus": "invalid_structure"
   },
   {
+    "id": "somewellforever-rpg-maker-mv-mz-integrated-cheat-menu",
+    "title": "RPG-Maker-MV-MZ-Integrated-Cheat-Menu",
+    "repo": "https://github.com/SomeWellForever/RPG-Maker-MV-MZ-Integrated-Cheat-Menu",
+    "owner": "SomeWellForever",
+    "name": "RPG-Maker-MV-MZ-Integrated-Cheat-Menu",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "somewhatcold-ocadgame",
     "title": "The Show Must Go On",
     "repo": "https://github.com/somewhatcold/OCADgame",
@@ -33267,6 +34091,34 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "soupcanubg-yesterdays-meat",
+    "title": "Yesterday’s Meat",
+    "repo": "https://github.com/NotReallyRx/Yesterdays-Meat",
+    "owner": "NotReallyRx",
+    "name": "Yesterdays-Meat",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-15T20:44:37.928Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "checkedAt": "2026-11-05T01:30:06.502Z",
+    "forkName": "SoupcanUBG-Yesterdays-Meat",
+    "entryPath": "index.html",
+    "validationScore": 108,
+    "totalSize": 271068,
+    "dataSize": 1042715,
+    "sourceRepo": "NotReallyRx/Yesterdays-Meat",
+    "coverPath": "cover.png",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "0619c0711092007b4c06186e798820626929e7ad",
+    "processedHeadSha": "f6f060cfd0ca40b9deb188ede09d86750a80f264",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/ served an RPG Maker entry point and its startup resources",
+    "upstreamPagesUrl": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/",
+    "upstreamCover": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
     "id": "soupcanubg-yesterdays-meat-c42faac06ce0",
     "title": "Yesterday’s Meat",
     "repo": "https://github.com/SoupcanUBG/Yesterdays-Meat",
@@ -33306,6 +34158,17 @@
     "validationScore": 50,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 17C3:23CA44:1BA2DC3:1BDED3D:6A3038C2 and timestamp 2026-06-15 17:39:14 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "spacefoon-fugsonlyoggmv",
+    "title": "FugsOnlyOggMV",
+    "repo": "https://github.com/SpaceFoon/FugsOnlyOggMV",
+    "owner": "SpaceFoon",
+    "name": "FugsOnlyOggMV",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "spacelord42-gn-math",
@@ -33576,6 +34439,17 @@
     "upstreamPagesUrl": "https://webrpg.org/StebPleb-ThisIsNiceGame/",
     "upstreamCover": "https://webrpg.org/StebPleb-ThisIsNiceGame/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "stevanusandika-game",
+    "title": "Game",
+    "repo": "https://github.com/StevanusAndika/Game",
+    "owner": "StevanusAndika",
+    "name": "Game",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "stevenromero98-conceptgamedeployment",
@@ -36723,6 +37597,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "triptych-lightseeker",
+    "title": "lightseeker",
+    "repo": "https://github.com/triptych/lightseeker",
+    "owner": "triptych",
+    "name": "lightseeker",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "trollsigma-sigma-face",
     "title": "Visiting Sara v1.13",
     "repo": "https://github.com/trollsigma/Sigma-face",
@@ -37067,44 +37952,15 @@
     "upstreamStatus": "verified"
   },
   {
-    "id": "tychouhaha-zk-restaurant",
-    "title": "數學速食店",
-    "repo": "https://github.com/tychouhaha/ZK_restaurant",
-    "owner": "tychouhaha",
-    "name": "ZK_restaurant",
-    "engine": "RPG Maker MV",
+    "id": "twrsm666-rpgmaker-mcp",
+    "title": "rpgmaker-mcp",
+    "repo": "https://github.com/twrsm666/rpgmaker-mcp",
+    "owner": "twrsm666",
+    "name": "rpgmaker-mcp",
+    "engine": "RPG Maker MZ",
     "status": "indexed",
-    "checkedAt": "2026-06-18T04:12:13.399Z",
-    "forkName": "tychouhaha-ZK_restaurant",
-    "entryPath": "index.html",
-    "validationScore": 118,
-    "totalSize": 91600,
-    "dataSize": 738641,
-    "sourceRepo": "tychouhaha/ZK_restaurant",
-    "sourceDefaultBranch": "main",
-    "sourceHeadSha": "d492bb64802384ac3dd1606f4003605e7ffa883f",
-    "processedHeadSha": "62ab395880385ea35679b06f8a6bdc2fcf94ea0d",
-    "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tychouhaha-ZK_restaurant/ served an RPG Maker entry point and its startup resources",
-    "meta": {
-      "genres": [
-        "simulation",
-        "educational"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
-    },
-    "source": "upstream-webrpg-index",
-    "upstreamPagesUrl": "https://webrpg.org/tychouhaha-ZK_restaurant/",
-    "upstreamCover": "https://webrpg.org/tychouhaha-ZK_restaurant/cover.png",
-    "upstreamStatus": "verified"
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
   },
   {
     "id": "tychouhaha-zk-game",
@@ -37144,6 +38000,46 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tychouhaha-ZK-game/",
     "upstreamCover": "https://webrpg.org/tychouhaha-ZK-game/cover.png",
+    "upstreamStatus": "verified"
+  },
+  {
+    "id": "tychouhaha-zk-restaurant",
+    "title": "數學速食店",
+    "repo": "https://github.com/tychouhaha/ZK_restaurant",
+    "owner": "tychouhaha",
+    "name": "ZK_restaurant",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "checkedAt": "2026-06-18T04:12:13.399Z",
+    "forkName": "tychouhaha-ZK_restaurant",
+    "entryPath": "index.html",
+    "validationScore": 118,
+    "totalSize": 91600,
+    "dataSize": 738641,
+    "sourceRepo": "tychouhaha/ZK_restaurant",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "d492bb64802384ac3dd1606f4003605e7ffa883f",
+    "processedHeadSha": "62ab395880385ea35679b06f8a6bdc2fcf94ea0d",
+    "coverPath": "cover.png",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/tychouhaha-ZK_restaurant/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "educational"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    },
+    "source": "upstream-webrpg-index",
+    "upstreamPagesUrl": "https://webrpg.org/tychouhaha-ZK_restaurant/",
+    "upstreamCover": "https://webrpg.org/tychouhaha-ZK_restaurant/cover.png",
     "upstreamStatus": "verified"
   },
   {
@@ -37370,6 +38266,17 @@
     "validationScore": 45,
     "upstreamStatus": "invalid_structure",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F600:3F5C7F:90CFB9:21D6985:6A3027C4 and timestamp 2026-06-15 16:26:44 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+  },
+  {
+    "id": "ultra-sonic-28-rpgmaker2godot",
+    "title": "rpgmaker2godot",
+    "repo": "https://github.com/ultra-sonic-28/rpgmaker2godot",
+    "owner": "ultra-sonic-28",
+    "name": "rpgmaker2godot",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
   },
   {
     "id": "ulysseszh-ulysseszh-github-io",
@@ -38054,6 +38961,17 @@
     "upstreamStatus": "unavailable"
   },
   {
+    "id": "userunknownfactor-rpgm_mvz_plugins",
+    "title": "RPGM_MVZ_plugins",
+    "repo": "https://github.com/UserUnknownFactor/RPGM_MVZ_plugins",
+    "owner": "UserUnknownFactor",
+    "name": "RPGM_MVZ_plugins",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "valkyrieproject001-test01",
     "title": "TMShooting.js サンプル",
     "repo": "https://github.com/valkyrieproject001/test01",
@@ -38125,6 +39043,34 @@
     "upstreamPagesUrl": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/",
     "upstreamCover": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "vanilanya-journey-of-the-shit",
+    "title": "赤石之旅",
+    "repo": "https://github.com/fnyoat/Journey_of_the_Shit",
+    "owner": "fnyoat",
+    "name": "Journey_of_the_Shit",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "checkedAt": "2026-09-18T16:01:32.566Z",
+    "forkName": "fnyoat-Journey_of_the_Shit",
+    "sourceRepo": "fnyoat/Journey_of_the_Shit",
+    "consecutiveFailures": 1,
+    "lastFailedAt": "2026-09-18T16:01:32.566Z",
+    "invalidReason": "GitHub API 403: Resource not accessible by integration",
+    "entryPath": "index.html",
+    "validationScore": 115,
+    "totalSize": 287535,
+    "dataSize": 2507783,
+    "source": "upstream-webrpg-index",
+    "upstreamPagesUrl": "https://webrpg.org/VanilaNya-Journey_of_the_Shit/",
+    "upstreamCover": "https://webrpg.org/VanilaNya-Journey_of_the_Shit/cover.png",
+    "upstreamStatus": "unavailable",
+    "migration": {
+      "previousStatus": "verified",
+      "previousPagesUrl": "https://777723-xyz.github.io/fnyoat-Journey_of_the_Shit/index.html",
+      "recoveredAt": "2026-11-08T03:52:23.459Z"
+    }
   },
   {
     "id": "vaultmancs-gar-thegame",
@@ -38535,6 +39481,28 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "vuongphandev-plugin-searcher",
+    "title": "plugin-searcher",
+    "repo": "https://github.com/vuongphandev/plugin-searcher",
+    "owner": "vuongphandev",
+    "name": "plugin-searcher",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
+    "id": "wai0258-rpgmaker-mz-translation",
+    "title": "rpgmaker-mz-translation",
+    "repo": "https://github.com/WAI0258/rpgmaker-mz-translation",
+    "owner": "WAI0258",
+    "name": "rpgmaker-mz-translation",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
     "id": "wangwangxingao-rmmv",
     "title": "Project3",
     "repo": "https://github.com/wangwangxingao/RMMV",
@@ -38909,6 +39877,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "webrpg-org-index",
+    "title": "index",
+    "repo": "https://github.com/WebRPG-org/index",
+    "owner": "WebRPG-org",
+    "name": "index",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "webrpg-translations-spectoria-eng-cn",
     "title": "SPECTORIA ~スペクタリア~ 简体中文汉化版",
     "repo": "https://github.com/WebRPG-Translations/Spectoria-Eng-CN",
@@ -39245,6 +40224,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "wintersta7e-mz-plugin-studio",
+    "title": "mz-plugin-studio",
+    "repo": "https://github.com/Wintersta7e/mz-plugin-studio",
+    "owner": "Wintersta7e",
+    "name": "mz-plugin-studio",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
     "id": "wolverinexxxxxz-sat-muhammed-ali-ture",
     "title": "Zindanlar ve Zindanlar",
     "repo": "https://github.com/Wolverinexxxxxz/Sat-Muhammed-Ali-Ture",
@@ -39396,6 +40386,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "worickcosta2009-coder-rpg.maker.studio.editor.edition",
+    "title": "RPG.Maker.Studio.Editor.Edition",
+    "repo": "https://github.com/worickcosta2009-coder/RPG.Maker.Studio.Editor.Edition",
+    "owner": "worickcosta2009-coder",
+    "name": "RPG.Maker.Studio.Editor.Edition",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "wotubg-wotubg",
     "title": "OMORI",
     "repo": "https://github.com/wotubg/wotubg",
@@ -39412,6 +40413,17 @@
     "deletedAt": "2026-06-15T15:55:11.889Z",
     "validationScore": 45,
     "upstreamStatus": "invalid_structure"
+  },
+  {
+    "id": "wusignal-changed-sp",
+    "title": "Changed-SP",
+    "repo": "https://github.com/wusignal/Changed-SP",
+    "owner": "wusignal",
+    "name": "Changed-SP",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
   },
   {
     "id": "wvdsh-examples",
@@ -40010,6 +41022,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "yexi-by-att",
+    "title": "att",
+    "repo": "https://github.com/yexi-by/att",
+    "owner": "yexi-by",
+    "name": "att",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "yinshi91-game",
     "title": "改天再走吧",
     "repo": "https://github.com/yinshi91/game",
@@ -40119,6 +41142,28 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "yktsr-text2frame-mv",
+    "title": "Text2Frame-MV",
+    "repo": "https://github.com/yktsr/Text2Frame-MV",
+    "owner": "yktsr",
+    "name": "Text2Frame-MV",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.979Z"
+  },
+  {
+    "id": "ymdryo-heavenfordeath",
+    "title": "heavenfordeath",
+    "repo": "https://github.com/YmdRyo/heavenfordeath",
+    "owner": "YmdRyo",
+    "name": "heavenfordeath",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "ymillan-2011-rickrolled-games-v3",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/ymillan-2011/Rickrolled-Games-V3",
@@ -40171,6 +41216,17 @@
     "upstreamPagesUrl": "https://webrpg.org/yoshikizh-rpgmaker-world/",
     "upstreamCover": "https://webrpg.org/yoshikizh-rpgmaker-world/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "ython24-rm-engine-companion-gui",
+    "title": "RM-Engine-Companion-GUI",
+    "repo": "https://github.com/YThon24/RM-Engine-Companion-GUI",
+    "owner": "YThon24",
+    "name": "RM-Engine-Companion-GUI",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "yuhan2680-level-c-1366-demo",
@@ -40391,6 +41447,28 @@
     "upstreamStatus": "skipped_large"
   },
   {
+    "id": "zdoss-herolink",
+    "title": "HeroLink",
+    "repo": "https://github.com/ZDOSS/HeroLink",
+    "owner": "ZDOSS",
+    "name": "HeroLink",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:32.980Z"
+  },
+  {
+    "id": "zekegan-r-aw_rpg-asset-workbench",
+    "title": "R-aW_RPG-asset-workbench",
+    "repo": "https://github.com/ZekeGan/R-aW_RPG-asset-workbench",
+    "owner": "ZekeGan",
+    "name": "R-aW_RPG-asset-workbench",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
+  },
+  {
     "id": "zenhanyin-rpgmakerdemo",
     "title": "天下往事",
     "repo": "https://github.com/zenhanyin/RPGmakerdemo",
@@ -40429,6 +41507,17 @@
     "upstreamPagesUrl": "https://webrpg.org/zenhanyin-RPGmakerdemo/",
     "upstreamCover": "https://webrpg.org/zenhanyin-RPGmakerdemo/cover.png",
     "upstreamStatus": "verified"
+  },
+  {
+    "id": "zenux6999-rpocket-team-rpgmdec",
+    "title": "rpocket-team-rpgmdec",
+    "repo": "https://github.com/Zenux6999/rpocket-team-rpgmdec",
+    "owner": "Zenux6999",
+    "name": "rpocket-team-rpgmdec",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   },
   {
     "id": "zhiwei-zhiwei-game-rpgmaker-magicnomagic",
@@ -40613,6 +41702,17 @@
     "upstreamStatus": "verified"
   },
   {
+    "id": "ziolken-vntranslator",
+    "title": "vntranslator",
+    "repo": "https://github.com/ZiolKen/vntranslator",
+    "owner": "ZiolKen",
+    "name": "vntranslator",
+    "engine": "RPG Maker",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:42.836Z"
+  },
+  {
     "id": "zkrejcov-rmmv-plugins",
     "title": "SecretPassageDemo",
     "repo": "https://github.com/zkrejcov/rmmv-plugins",
@@ -40671,5 +41771,16 @@
     "upstreamPagesUrl": "https://webrpg.org/zoujiahuan-TheGame4Muse/",
     "upstreamCover": "https://webrpg.org/zoujiahuan-TheGame4Muse/cover.png",
     "upstreamStatus": "invalid_structure"
+  },
+  {
+    "id": "zyz23333-rpgmaker-event-dsl",
+    "title": "rpgmaker-event-dsl",
+    "repo": "https://github.com/zyz23333/rpgmaker-event-dsl",
+    "owner": "zyz23333",
+    "name": "rpgmaker-event-dsl",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "source": "github-repository-search",
+    "discoveredAt": "2026-11-08T04:06:23.735Z"
   }
 ]
