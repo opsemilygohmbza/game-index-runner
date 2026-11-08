@@ -7170,8 +7170,8 @@
     "owner": "chorako666",
     "name": "obake",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:11.842Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:48:36.907Z",
     "forkName": "chorako666-obake",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -7192,6 +7192,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/chorako666-obake/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/chorako666-obake/index.html",
+    "cover": "https://yx.ecy.al/chorako666-obake/cover.png",
+    "publication": {
+      "commit": "8935a76a4f288ee9e6e61d5f942f1fe51b8ca822",
+      "checkedAt": "2026-11-08T06:49:26.835Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
