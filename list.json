@@ -12495,8 +12495,8 @@
     "owner": "etxian",
     "name": "heroland",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:48.586Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T08:50:21.472Z",
     "forkName": "etxian-heroland",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -12531,6 +12531,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/etxian-heroland/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/etxian-heroland/index.html",
+    "cover": "https://yx.ecy.al/etxian-heroland/cover.png",
+    "publication": {
+      "commit": "8646ab857e1ea8a9fd5a06e05674faead629c966",
+      "checkedAt": "2026-11-08T08:51:43.342Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13721,8 +13729,8 @@
     "owner": "Formidi",
     "name": "KanzideGo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:58.473Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T08:50:31.413Z",
     "forkName": "Formidi-KanzideGo",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -13757,6 +13765,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Formidi-KanzideGo/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Formidi-KanzideGo/index.html",
+    "cover": "https://yx.ecy.al/Formidi-KanzideGo/cover.png",
+    "publication": {
+      "commit": "94d0f907e84ab85d3adbfd12cad3919e34b70d8f",
+      "checkedAt": "2026-11-08T08:51:58.187Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14686,8 +14702,8 @@
     "owner": "gfdgd-xi",
     "name": "siyemuxu-online",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:36:21.277Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T08:51:07.762Z",
     "forkName": "gfdgd-xi-siyemuxu-online",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14726,6 +14742,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/gfdgd-xi-siyemuxu-online/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/gfdgd-xi-siyemuxu-online/index.html",
+    "cover": "https://yx.ecy.al/gfdgd-xi-siyemuxu-online/cover.png",
+    "publication": {
+      "commit": "a08da32b890e4963dc16b19c0462b31341dab5d3",
+      "checkedAt": "2026-11-08T08:52:39.219Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -15308,12 +15332,12 @@
     "owner": "grayblackannihilation",
     "name": "goldenmap",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-07-20T06:21:42.814Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T08:51:38.379Z",
     "forkName": "grayblackannihilation-goldenmap",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 9303,
+    "totalSize": 9302,
     "dataSize": 147349,
     "sourceRepo": "grayblackannihilation/goldenmap",
     "sourceDefaultBranch": "main",
@@ -15336,7 +15360,15 @@
     },
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/grayblackannihilation-goldenmap/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/grayblackannihilation-goldenmap/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "3207c5e41595b08049d1474db439319c8b67623a",
+      "checkedAt": "2026-11-08T08:52:25.415Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "greengru2-ugs-files",
