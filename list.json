@@ -37983,12 +37983,12 @@
     "owner": "tomoshibi06",
     "name": "FairyMaze3",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:11:29.235Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:54:08.124Z",
     "forkName": "tomoshibi06-FairyMaze3",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 447357,
+    "totalSize": 447355,
     "dataSize": 5443335,
     "sourceRepo": "tomoshibi06/FairyMaze3",
     "sourceDefaultBranch": "master",
@@ -38014,7 +38014,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tomoshibi06-FairyMaze3/",
     "upstreamCover": "https://webrpg.org/tomoshibi06-FairyMaze3/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tomoshibi06-FairyMaze3/index.html",
+    "cover": "https://yx.ecy.al/tomoshibi06-FairyMaze3/cover.png",
+    "publication": {
+      "commit": "495a33d02e1e62175cb60bcd0c6caf885d3a606a",
+      "checkedAt": "2026-11-08T13:56:59.194Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tomoshibi06-fm2",
