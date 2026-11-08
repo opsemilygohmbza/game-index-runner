@@ -4729,11 +4729,11 @@
     "owner": "ASlated",
     "name": "JSTesting",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:41:28.408Z",
+    "checkedAt": "2026-11-08T19:49:12.892Z",
     "forkName": "ASlated-JSTesting",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -4761,7 +4761,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/ASlated-JSTesting/",
-    "upstreamCover": "https://webrpg.org/ASlated-JSTesting/cover.png"
+    "upstreamCover": "https://webrpg.org/ASlated-JSTesting/cover.png",
+    "pagesUrl": "https://yx.ecy.al/ASlated-JSTesting/index.html",
+    "cover": "https://yx.ecy.al/ASlated-JSTesting/cover.png",
+    "publication": {
+      "commit": "9feb1d5b5661fc9d6dbb3df18db3a9a6367b6c96",
+      "checkedAt": "2026-11-08T19:54:15.489Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "athillaazka-what-a-roll",
