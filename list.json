@@ -7098,6 +7098,13 @@
       "checkedAt": "2026-11-08T05:33:50.679Z",
       "entryType": "direct-core",
       "check": "Pages built + HTML entry, not a full browser playthrough"
+    },
+    "runtime": {
+      "status": "passed",
+      "commit": "f85ba736797b24a00797183f376c089a493b94a9",
+      "checkedAt": "2026-11-08T05:41:29.726Z",
+      "scope": "Title and new-game scene; not a complete playthrough",
+      "evidence": "当前发布版本点击 New Game 进入主角和动物的地图"
     }
   },
   {
@@ -12977,6 +12984,13 @@
       "checkedAt": "2026-11-08T05:34:56.823Z",
       "entryType": "direct-core",
       "check": "Pages built + HTML entry, not a full browser playthrough"
+    },
+    "runtime": {
+      "status": "passed",
+      "commit": "1f895528eca198663dbcdfddf17550f39eba8e2e",
+      "checkedAt": "2026-11-08T05:41:31.055Z",
+      "scope": "Title and new-game scene; not a complete playthrough",
+      "evidence": "当前发布版本 maze.html 点击 New Game 进入迷宫地图"
     }
   },
   {
@@ -16561,6 +16575,13 @@
       "checkedAt": "2026-11-08T05:25:44.483Z",
       "entryType": "direct-core",
       "check": "Pages built + HTML entry, not a full browser playthrough"
+    },
+    "runtime": {
+      "status": "passed",
+      "commit": "c36f965dc194795619a59034cfef6f4ca70a8919",
+      "checkedAt": "2026-11-08T05:41:28.849Z",
+      "scope": "Title and new-game scene; not a complete playthrough",
+      "evidence": "当前发布版本显示中文标题并通过开始进入剧情确认画面"
     }
   },
   {
