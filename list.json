@@ -8290,8 +8290,8 @@
     "owner": "cyberocean-web",
     "name": "polaris",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:07.668Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:53:21.303Z",
     "forkName": "cyberocean-web-polaris",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -8326,6 +8326,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/cyberocean-web-polaris/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/cyberocean-web-polaris/index.html",
+    "cover": "https://yx.ecy.al/cyberocean-web-polaris/cover.png",
+    "publication": {
+      "commit": "dce5337dbc1d371f1e81fd6c7537a4e6e240ebb5",
+      "checkedAt": "2026-11-08T06:54:28.077Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
