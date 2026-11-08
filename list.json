@@ -38659,9 +38659,9 @@
     "owner": "tw123777tw",
     "name": "pdlsdyzzh",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "duplicateReason": "Repository name already exists in list.json.",
-    "checkedAt": "2026-06-18T04:11:53.833Z",
+    "checkedAt": "2026-11-08T13:58:53.379Z",
     "forkName": "tw123777tw-pdlsdyzzh",
     "sourceRepo": "tw123777tw/pdlsdyzzh",
     "invalidReason": "Upstream repository size 272852 KB exceeds the 250000 KB limit.",
@@ -38669,10 +38669,10 @@
     "sourceHeadSha": "e31dc3633ef40d9d7d48f88edee0fc7ebee3978f",
     "processedHeadSha": "76d2b26e494d04784466b3119c461a37fb5580c1",
     "syncedFromSource": true,
-    "entryPath": "www/Bonus/Cake/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 272856,
-    "dataSize": 0,
+    "totalSize": 272852,
+    "dataSize": 2395616,
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tw123777tw-pdlsdyzzh/ served an RPG Maker entry point and its startup resources",
@@ -38696,7 +38696,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tw123777tw-pdlsdyzzh/",
     "upstreamCover": "https://webrpg.org/tw123777tw-pdlsdyzzh/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tw123777tw-pdlsdyzzh/index.html",
+    "cover": "https://yx.ecy.al/tw123777tw-pdlsdyzzh/cover.png",
+    "publication": {
+      "commit": "bb30f12ed6e271e11742738063eef8c7358f7d55",
+      "checkedAt": "2026-11-08T14:04:16.686Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tw123777tw-siyutohusiginogakuen",
@@ -38705,12 +38713,12 @@
     "owner": "tw123777tw",
     "name": "SiyuToHusigiNoGakuen",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:12:03.679Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:59:03.508Z",
     "forkName": "tw123777tw-SiyuToHusigiNoGakuen",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 251630,
+    "totalSize": 251627,
     "dataSize": 3089505,
     "sourceRepo": "tw123777tw/SiyuToHusigiNoGakuen",
     "sourceDefaultBranch": "main",
@@ -38722,7 +38730,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/",
     "upstreamCover": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tw123777tw-SiyuToHusigiNoGakuen/index.html",
+    "cover": "https://yx.ecy.al/tw123777tw-SiyuToHusigiNoGakuen/cover.png",
+    "publication": {
+      "commit": "7c4dd0ca8977e43962d780d040946c23bd7a09a5",
+      "checkedAt": "2026-11-08T14:04:16.368Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "twrsm666-rpgmaker-mcp",
