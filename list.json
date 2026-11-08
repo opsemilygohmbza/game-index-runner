@@ -21498,8 +21498,8 @@
     "owner": "kotpot197",
     "name": "FuranToZaininNoSima",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:36:21.033Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T10:21:20.983Z",
     "forkName": "kotpot197-FuranToZaininNoSima",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21534,6 +21534,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/kotpot197-FuranToZaininNoSima/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/kotpot197-FuranToZaininNoSima/index.html",
+    "cover": "https://yx.ecy.al/kotpot197-FuranToZaininNoSima/cover.png",
+    "publication": {
+      "commit": "110ab0887ba46932f02f223eb826bb60f1d82867",
+      "checkedAt": "2026-11-08T10:23:43.642Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -21543,13 +21551,13 @@
     "owner": "kotpot197",
     "name": "game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "duplicateReason": "Repository name already exists in list.json.",
     "forkName": "kotpot197-game",
-    "checkedAt": "2026-11-01T19:30:47.889Z",
+    "checkedAt": "2026-11-08T10:21:31.330Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 517420,
     "dataSize": 890743,
     "sourceRepo": "kotpot197/game",
@@ -21576,7 +21584,15 @@
     "source": "upstream-webrpg-index",
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/kotpot197-game/",
-    "upstreamCover": "https://webrpg.org/kotpot197-game/cover.png"
+    "upstreamCover": "https://webrpg.org/kotpot197-game/cover.png",
+    "pagesUrl": "https://yx.ecy.al/kotpot197-game/index.html",
+    "cover": "https://yx.ecy.al/kotpot197-game/cover.png",
+    "publication": {
+      "commit": "96cb801274be37acf04b979987af7c5eb8a0c222",
+      "checkedAt": "2026-11-08T10:24:17.968Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kotpot197-melancholianna",
@@ -21585,8 +21601,8 @@
     "owner": "kotpot197",
     "name": "melancholianna",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:36:43.545Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T10:23:41.965Z",
     "forkName": "kotpot197-melancholianna",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21627,6 +21643,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/kotpot197-melancholianna/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/kotpot197-melancholianna/index.html",
+    "cover": "https://yx.ecy.al/kotpot197-melancholianna/cover.png",
+    "publication": {
+      "commit": "c1e459ecddd9650dfffbe714e8b05faafd12cae5",
+      "checkedAt": "2026-11-08T10:26:40.716Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -21636,8 +21660,8 @@
     "owner": "kotpot197",
     "name": "rabbit",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:36:43.656Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T10:24:01.273Z",
     "forkName": "kotpot197-rabbit",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21674,6 +21698,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/kotpot197-rabbit/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/kotpot197-rabbit/index.html",
+    "cover": "https://yx.ecy.al/kotpot197-rabbit/cover.png",
+    "publication": {
+      "commit": "85e1ec20ac31b54ee27db8758612c68040ba975e",
+      "checkedAt": "2026-11-08T10:26:51.158Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -21729,12 +21761,12 @@
     "owner": "krmbn0576",
     "name": "rpgmakermv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "forkName": "krmbn0576-rpgmakermv",
-    "checkedAt": "2026-11-01T19:30:26.280Z",
+    "checkedAt": "2026-11-08T10:26:02.688Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 412187,
     "dataSize": 908214,
     "sourceRepo": "krmbn0576/rpgmakermv",
@@ -21755,7 +21787,15 @@
     "source": "upstream-webrpg-index",
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/krmbn0576-rpgmakermv/",
-    "upstreamCover": "https://webrpg.org/krmbn0576-rpgmakermv/cover.png"
+    "upstreamCover": "https://webrpg.org/krmbn0576-rpgmakermv/cover.png",
+    "pagesUrl": "https://yx.ecy.al/krmbn0576-rpgmakermv/index.html",
+    "cover": "https://yx.ecy.al/krmbn0576-rpgmakermv/cover.png",
+    "publication": {
+      "commit": "ef678765952a1b2753f46222318ce11339bdc3b0",
+      "checkedAt": "2026-11-08T10:28:51.019Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "krosign-ethyrnal-s-arcade",
