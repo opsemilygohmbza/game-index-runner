@@ -2398,11 +2398,11 @@
     "owner": "AILab-FOI",
     "name": "AIWorld",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "server/index.html",
-    "checkedAt": "2026-10-30T09:47:33.003Z",
+    "checkedAt": "2026-11-08T17:36:25.449Z",
     "forkName": "AILab-FOI-AIWorld",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -2433,6 +2433,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AILab-FOI-AIWorld/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AILab-FOI-AIWorld/index.html",
+    "cover": "https://yx.ecy.al/AILab-FOI-AIWorld/cover.png",
+    "publication": {
+      "commit": "7d14452189a1c2a04ab2e5e5c77e7b27a3c503e2",
+      "checkedAt": "2026-11-08T17:41:50.798Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -2442,11 +2450,11 @@
     "owner": "AILab-FOI",
     "name": "svjetovi-znanja",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:47:07.001Z",
+    "checkedAt": "2026-11-08T17:36:45.350Z",
     "forkName": "AILab-FOI-svjetovi-znanja",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -2466,6 +2474,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AILab-FOI-svjetovi-znanja/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AILab-FOI-svjetovi-znanja/index.html",
+    "cover": "https://yx.ecy.al/AILab-FOI-svjetovi-znanja/cover.png",
+    "publication": {
+      "commit": "33d2a7ad4bd2084d3f3cba14ab6fb6515b81a114",
+      "checkedAt": "2026-11-08T17:41:51.125Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
