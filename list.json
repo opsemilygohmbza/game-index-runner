@@ -6647,12 +6647,12 @@
     "owner": "cbginoshoo",
     "name": "Touhou_Isouhu",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:29.484Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:15:06.218Z",
     "forkName": "cbginoshoo-Touhou_Isouhu",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 413054,
+    "totalSize": 413057,
     "dataSize": 13369286,
     "sourceRepo": "cbginoshoo/Touhou_Isouhu",
     "sourceDefaultBranch": "main",
@@ -6683,6 +6683,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/cbginoshoo-Touhou_Isouhu/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/cbginoshoo-Touhou_Isouhu/index.html",
+    "cover": "https://yx.ecy.al/cbginoshoo-Touhou_Isouhu/cover.png",
+    "publication": {
+      "commit": "a10670b0b80ea11add14d0109d2912936c1e44a9",
+      "checkedAt": "2026-11-08T06:16:30.265Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
