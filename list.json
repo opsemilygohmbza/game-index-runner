@@ -24141,15 +24141,15 @@
     "owner": "mandy321555",
     "name": "rpg",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:12:57.749Z",
+    "checkedAt": "2026-11-08T11:07:05.634Z",
     "forkName": "mandy321555-rpg",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 17970,
     "dataSize": 736524,
     "sourceRepo": "mandy321555/rpg",
@@ -24174,7 +24174,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/mandy321555-rpg/",
     "upstreamCover": "https://webrpg.org/mandy321555-rpg/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/mandy321555-rpg/index.html",
+    "cover": "https://yx.ecy.al/mandy321555-rpg/cover.png",
+    "publication": {
+      "commit": "ac389098630eaae142fbfda612fc9b9cd313242f",
+      "checkedAt": "2026-11-08T11:08:38.765Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "manndevani-forgotten-weekend-dev",
@@ -25597,11 +25605,11 @@
     "owner": "mingpnyy",
     "name": "rpgmaker-mv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T11:28:37.705Z",
+    "checkedAt": "2026-11-08T11:08:55.116Z",
     "forkName": "mingpnyy-rpgmaker-mv",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -25629,7 +25637,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/mingpnyy-rpgmaker-mv/",
     "upstreamCover": "https://webrpg.org/mingpnyy-rpgmaker-mv/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/mingpnyy-rpgmaker-mv/index.html",
+    "cover": "https://yx.ecy.al/mingpnyy-rpgmaker-mv/cover.png",
+    "publication": {
+      "commit": "7634f01c7c6c43f61741548de81935f4e0f95cb5",
+      "checkedAt": "2026-11-08T11:11:30.269Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "minnnpannn9585-justinproj01-rpgmaker",
@@ -25666,8 +25682,8 @@
     "owner": "miracleyoo",
     "name": "HCRS-Online",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T21:37:20.408Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:09:04.943Z",
     "forkName": "miracleyoo-HCRS-Online",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -25703,6 +25719,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/miracleyoo-HCRS-Online/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/miracleyoo-HCRS-Online/index.html",
+    "cover": "https://yx.ecy.al/miracleyoo-HCRS-Online/cover.png",
+    "publication": {
+      "commit": "5aa9069060b86a1026281f6165366cf887ccabc5",
+      "checkedAt": "2026-11-08T11:12:43.744Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -25758,8 +25782,8 @@
     "owner": "MitochondriaCN",
     "name": "Yanbernunk-2077",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-06T10:33:39.153Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:11:17.446Z",
     "forkName": "MitochondriaCN-Yanbernunk-2077",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -25794,6 +25818,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/MitochondriaCN-Yanbernunk-2077/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/MitochondriaCN-Yanbernunk-2077/index.html",
+    "cover": "https://yx.ecy.al/MitochondriaCN-Yanbernunk-2077/cover.png",
+    "publication": {
+      "commit": "3f9d1b4f8fcc6d97b267ceb79352a7d96182c74b",
+      "checkedAt": "2026-11-08T11:13:34.090Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
