@@ -29357,12 +29357,12 @@
     "owner": "pieworkplace",
     "name": "mota-mv-2",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:08:53.685Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:52:03.882Z",
     "forkName": "pieworkplace-mota-mv-2",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 236073,
+    "totalSize": 236072,
     "dataSize": 710167,
     "sourceRepo": "pieworkplace/mota-mv-2",
     "sourceDefaultBranch": "master",
@@ -29382,7 +29382,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/pieworkplace-mota-mv-2/",
     "upstreamCover": "https://webrpg.org/pieworkplace-mota-mv-2/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/pieworkplace-mota-mv-2/index.html",
+    "cover": "https://yx.ecy.al/pieworkplace-mota-mv-2/cover.png",
+    "publication": {
+      "commit": "d1ce27930a7f713e29514fe00a1ec1b3a49b81e6",
+      "checkedAt": "2026-11-08T11:57:03.572Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pieworkplace-mota-mv-template",
@@ -29391,12 +29399,12 @@
     "owner": "pieworkplace",
     "name": "mota-mv-template",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:09:04.753Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:52:24.212Z",
     "forkName": "pieworkplace-mota-mv-template",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 392343,
+    "totalSize": 392341,
     "dataSize": 710167,
     "sourceRepo": "pieworkplace/mota-mv-template",
     "sourceDefaultBranch": "master",
@@ -29416,7 +29424,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/pieworkplace-mota-mv-template/",
     "upstreamCover": "https://webrpg.org/pieworkplace-mota-mv-template/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/pieworkplace-mota-mv-template/index.html",
+    "cover": "https://yx.ecy.al/pieworkplace-mota-mv-template/cover.png",
+    "publication": {
+      "commit": "4817599a0b0f041b14b4ee5bb5811fd732f610ff",
+      "checkedAt": "2026-11-08T11:57:03.891Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pieworkplace-tower-of-sorcerer-2018",
