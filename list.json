@@ -1452,15 +1452,15 @@
     "owner": "9to5ninja-projects",
     "name": "MechaAcademy",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "MechaAcademy/index.html",
-    "checkedAt": "2026-11-03T05:36:27.499Z",
+    "checkedAt": "2026-11-08T16:49:37.190Z",
     "forkName": "9to5ninja-projects-MechaAcademy",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93803,
     "dataSize": 563537,
     "sourceRepo": "9to5ninja-projects/MechaAcademy",
@@ -1484,7 +1484,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/9to5ninja-projects-MechaAcademy/",
     "upstreamCover": "https://webrpg.org/9to5ninja-projects-MechaAcademy/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/9to5ninja-projects-MechaAcademy/index.html",
+    "cover": "https://yx.ecy.al/9to5ninja-projects-MechaAcademy/cover.png",
+    "publication": {
+      "commit": "e13b08445436878e4f0b78c44470272bd4858579",
+      "checkedAt": "2026-11-08T16:52:14.834Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "a12204002-ryujiatsuta-eboshi-web",
@@ -1532,15 +1540,15 @@
     "owner": "a2937",
     "name": "RPG-Maker-MV-Test-Template",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T08:34:02.944Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
-    "checkedAt": "2026-11-01T04:41:07.913Z",
+    "checkedAt": "2026-11-08T16:50:15.248Z",
     "forkName": "a2937-RPG-Maker-MV-Test-Template",
     "entryPath": "index.html",
-    "validationScore": 118,
-    "totalSize": 416741,
+    "validationScore": 115,
+    "totalSize": 416738,
     "dataSize": 671869,
     "sourceRepo": "a2937/RPG-Maker-MV-Test-Template",
     "sourceDefaultBranch": "main",
@@ -1564,7 +1572,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/",
-    "upstreamCover": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/cover.png"
+    "upstreamCover": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/cover.png",
+    "pagesUrl": "https://yx.ecy.al/a2937-RPG-Maker-MV-Test-Template/index.html",
+    "cover": "https://yx.ecy.al/a2937-RPG-Maker-MV-Test-Template/cover.png",
+    "publication": {
+      "commit": "9a36bc3c9d9d468497b1fd25205adf95c8a8b92e",
+      "checkedAt": "2026-11-08T16:54:26.924Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "aaaaagold-mbr-data",
@@ -1656,15 +1672,15 @@
     "owner": "AAK581",
     "name": "blokkat-arabicblockchain-developer-bootcamp-graduation-project",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "sepolia-cats-game/index.html",
-    "checkedAt": "2026-11-06T10:35:05.561Z",
+    "checkedAt": "2026-11-08T16:52:29.383Z",
     "forkName": "AAK581-blokkat-arabicblockchain-developer-bootcamp-graduation-project",
     "entryPath": "index.html",
-    "validationScore": 118,
-    "totalSize": 27074,
+    "validationScore": 115,
+    "totalSize": 27073,
     "dataSize": 653995,
     "sourceRepo": "AAK581/blokkat-arabicblockchain-developer-bootcamp-graduation-project",
     "sourceDefaultBranch": "main",
@@ -1691,6 +1707,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AAK581-blokkat-arabicblockchain-developer-bootcamp-graduation-project/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AAK581-blokkat-arabicblockchain-developer-bootcamp-graduation-project/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "baa95d6b04826f9924e5f9a692a67d08448aec5c",
+      "checkedAt": "2026-11-08T16:55:06.100Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
