@@ -6556,8 +6556,8 @@
     "owner": "CatBread00",
     "name": "www",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:08.761Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T06:13:23.328Z",
     "forkName": "CatBread00-www",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6578,6 +6578,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CatBread00-www/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CatBread00-www/index.html",
+    "cover": "https://yx.ecy.al/CatBread00-www/cover.png",
+    "publication": {
+      "commit": "8198bf7d9bf3898e8fb6f2b142e22ffdd47c75f7",
+      "checkedAt": "2026-11-08T06:14:49.252Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
