@@ -7609,14 +7609,14 @@
     "owner": "chanchipong1226-dev",
     "name": "project.repositry",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-30T22:05:37.046Z",
+    "checkedAt": "2026-11-08T22:43:04.057Z",
     "forkName": "chanchipong1226-dev-project.repositry",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 381796,
     "dataSize": 1598334,
     "sourceRepo": "chanchipong1226-dev/project.repositry",
@@ -7646,6 +7646,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/chanchipong1226-dev-project.repositry/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/chanchipong1226-dev-project.repositry/index.html",
+    "cover": "https://yx.ecy.al/chanchipong1226-dev-project.repositry/cover.png",
+    "publication": {
+      "commit": "a1cb6fd97c32aa152d7d6bf26008379a2aadd1e6",
+      "checkedAt": "2026-11-08T22:48:49.150Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -7685,16 +7693,16 @@
     "owner": "CheekiBreeki421",
     "name": "QuillQuest3",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Quillquest 3 - The Finale/index.html",
-    "checkedAt": "2026-10-30T22:05:10.038Z",
+    "checkedAt": "2026-11-08T22:43:14.463Z",
     "forkName": "CheekiBreeki421-QuillQuest3",
-    "entryPath": "Quillquest 3 - The Finale/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 389489,
-    "dataSize": 0,
+    "dataSize": 2194629,
     "sourceRepo": "CheekiBreeki421/QuillQuest3",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "cc3bbb42306a8efa8f87fddcd383cdb299661ddb",
@@ -7722,6 +7730,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CheekiBreeki421-QuillQuest3/Quillquest%203%20-%20The%20Finale/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CheekiBreeki421-QuillQuest3/index.html",
+    "cover": "https://yx.ecy.al/CheekiBreeki421-QuillQuest3/cover.png",
+    "publication": {
+      "commit": "33365b2f731ae58d6829b8480ae8b00c851be898",
+      "checkedAt": "2026-11-08T22:48:49.473Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
