@@ -6184,16 +6184,16 @@
     "owner": "Boris12432",
     "name": "Afera-belika-alfa-1.0",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Подлая афера сэра Белика/index.html",
-    "checkedAt": "2026-11-01T04:41:49.540Z",
+    "checkedAt": "2026-11-08T21:16:11.679Z",
     "forkName": "Boris12432-Afera-belika-alfa-1.0",
-    "entryPath": "Подлая афера сэра Белика/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 392661,
-    "dataSize": 0,
+    "dataSize": 698459,
     "sourceRepo": "Boris12432/Afera-belika-alfa-1.0",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "17df261eb38b43f44dcd45681cbbe938a7f7e6a8",
@@ -6208,7 +6208,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/",
-    "upstreamCover": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/cover.png"
+    "upstreamCover": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Boris12432-Afera-belika-alfa-1.0/index.html",
+    "cover": "https://yx.ecy.al/Boris12432-Afera-belika-alfa-1.0/cover.png",
+    "publication": {
+      "commit": "20f4504c68cd4b32ce5b3e636a0f901910c5337b",
+      "checkedAt": "2026-11-08T21:21:30.810Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "botakhage-eduventure",
@@ -6217,11 +6225,11 @@
     "owner": "BotakHage",
     "name": "Eduventure",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:42:20.600Z",
+    "checkedAt": "2026-11-08T21:16:31.750Z",
     "forkName": "BotakHage-Eduventure",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6256,7 +6264,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/BotakHage-Eduventure/",
-    "upstreamCover": "https://webrpg.org/BotakHage-Eduventure/cover.png"
+    "upstreamCover": "https://webrpg.org/BotakHage-Eduventure/cover.png",
+    "pagesUrl": "https://yx.ecy.al/BotakHage-Eduventure/index.html",
+    "cover": "https://yx.ecy.al/BotakHage-Eduventure/cover.png",
+    "publication": {
+      "commit": "d42506b98e6bb4913ef7382dd92def9d2b307693",
+      "checkedAt": "2026-11-08T21:21:31.108Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "brand24376-brand24376-github-io",
