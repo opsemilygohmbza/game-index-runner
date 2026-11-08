@@ -38073,15 +38073,15 @@
     "owner": "tomoshibi06",
     "name": "mio",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:34.785Z",
+    "checkedAt": "2026-11-08T13:56:10.460Z",
     "forkName": "tomoshibi06-mio",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 97379,
+    "totalSize": 97378,
     "dataSize": 1267678,
     "sourceRepo": "tomoshibi06/mio",
     "sourceDefaultBranch": "master",
@@ -38106,7 +38106,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/tomoshibi06-mio/",
     "upstreamCover": "https://webrpg.org/tomoshibi06-mio/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tomoshibi06-mio/index.html",
+    "cover": "https://yx.ecy.al/tomoshibi06-mio/cover.png",
+    "publication": {
+      "commit": "4cd9aa39c37e10b6d43abf8aeeedb5f931e65ee0",
+      "checkedAt": "2026-11-08T13:58:40.298Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tomoshibi06-spectoria",
@@ -38274,12 +38282,12 @@
     "owner": "triacontane",
     "name": "LoadingTest",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-07-20T06:21:58.684Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T13:56:20.571Z",
     "forkName": "triacontane-LoadingTest",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 23764,
+    "totalSize": 23773,
     "dataSize": 87562,
     "sourceRepo": "triacontane/LoadingTest",
     "sourceDefaultBranch": "master",
@@ -38289,7 +38297,15 @@
     "reachabilityDetail": "https://webrpg.org/triacontane-LoadingTest/ served an RPG Maker entry point and its startup resources",
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/triacontane-LoadingTest/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/triacontane-LoadingTest/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "a56c5480a35536dbf7d819cf476010359e794861",
+      "checkedAt": "2026-11-08T13:59:10.199Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "triacontane-novelgamesample",
