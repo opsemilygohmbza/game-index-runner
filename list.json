@@ -1317,12 +1317,12 @@
     "owner": "a12204002-RyujiAtsuta",
     "name": "Eboshi_web",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:36:45.554Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T05:26:12.916Z",
     "forkName": "a12204002-RyujiAtsuta-Eboshi_web",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 503048,
+    "totalSize": 503047,
     "dataSize": 774865,
     "sourceRepo": "a12204002-RyujiAtsuta/Eboshi_web",
     "sourceDefaultBranch": "main",
@@ -1339,6 +1339,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/a12204002-RyujiAtsuta-Eboshi_web/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/a12204002-RyujiAtsuta-Eboshi_web/index.html",
+    "cover": "https://yx.ecy.al/a12204002-RyujiAtsuta-Eboshi_web/cover.png",
+    "publication": {
+      "commit": "931c5a27cdd00ec5d2338807c4f32b4de95d746a",
+      "checkedAt": "2026-11-08T05:27:37.940Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
