@@ -1841,12 +1841,12 @@
     "owner": "aDarkMaker",
     "name": "HXK-RPG",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-07T17:37:22.211Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T05:27:54.074Z",
     "forkName": "aDarkMaker-HXK-RPG",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 389652,
+    "totalSize": 389651,
     "dataSize": 672247,
     "sourceRepo": "aDarkMaker/HXK-RPG",
     "sourceDefaultBranch": "main",
@@ -1876,6 +1876,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/aDarkMaker-HXK-RPG/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/aDarkMaker-HXK-RPG/index.html",
+    "cover": "https://yx.ecy.al/aDarkMaker-HXK-RPG/cover.png",
+    "publication": {
+      "commit": "a8ebc519749e6ee91b2e078ff39b7c2d20028d03",
+      "checkedAt": "2026-11-08T05:29:17.303Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
