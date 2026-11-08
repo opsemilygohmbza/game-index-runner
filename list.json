@@ -5902,11 +5902,11 @@
     "owner": "blairwilcox",
     "name": "Colosseum",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T15:29:11.705Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T10:33:06.907Z",
+    "checkedAt": "2026-11-08T21:12:20.818Z",
     "forkName": "blairwilcox-Colosseum",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -5934,6 +5934,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/blairwilcox-Colosseum/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/blairwilcox-Colosseum/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "391f22275e8ccefc4abe70f934921914a8ca174e",
+      "checkedAt": "2026-11-08T21:14:52.665Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -5943,11 +5951,11 @@
     "owner": "blairwilcox",
     "name": "magic-battle",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:48:47.354Z",
+    "checkedAt": "2026-11-08T21:12:30.767Z",
     "forkName": "blairwilcox-magic-battle",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -5980,6 +5988,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/blairwilcox-magic-battle/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/blairwilcox-magic-battle/index.html",
+    "cover": "https://yx.ecy.al/blairwilcox-magic-battle/cover.png",
+    "publication": {
+      "commit": "d242e0cc98627776fbc00a561e0eb45e4c7ff7f0",
+      "checkedAt": "2026-11-08T21:15:28.221Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -5989,11 +6005,11 @@
     "owner": "blixuk",
     "name": "settelment",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:35:34.607Z",
+    "checkedAt": "2026-11-08T21:14:55.290Z",
     "forkName": "blixuk-settelment",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -6013,6 +6029,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/blixuk-settelment/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/blixuk-settelment/index.html",
+    "cover": "https://yx.ecy.al/blixuk-settelment/cover.png",
+    "publication": {
+      "commit": "d83aecaf5f0f4f52f603430c3f263b60fc1cc7bc",
+      "checkedAt": "2026-11-08T21:17:04.658Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
