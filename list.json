@@ -2855,11 +2855,11 @@
     "owner": "AlphinBijeesh",
     "name": "test_version",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:47:23.640Z",
+    "checkedAt": "2026-11-08T18:15:53.378Z",
     "forkName": "AlphinBijeesh-test_version",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -2890,6 +2890,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AlphinBijeesh-test_version/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AlphinBijeesh-test_version/index.html",
+    "cover": "https://yx.ecy.al/AlphinBijeesh-test_version/cover.png",
+    "publication": {
+      "commit": "e37718a25bf783d3b34ac19b2c2fae350c25511a",
+      "checkedAt": "2026-11-08T18:18:28.757Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
