@@ -4555,16 +4555,16 @@
     "owner": "arqui-dev",
     "name": "ProjetoCaminhoneiro",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Projeto RPG Maker MV/Trucker Quest/index.html",
-    "checkedAt": "2026-10-30T09:48:11.395Z",
+    "checkedAt": "2026-11-08T19:44:15.826Z",
     "forkName": "arqui-dev-ProjetoCaminhoneiro",
-    "entryPath": "Projeto RPG Maker MV/Trucker Quest/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 441764,
-    "dataSize": 0,
+    "dataSize": 2245429,
     "sourceRepo": "arqui-dev/ProjetoCaminhoneiro",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "a7742c49647871e6796d08f135c860afec542557",
@@ -4579,6 +4579,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/arqui-dev-ProjetoCaminhoneiro/Projeto%20RPG%20Maker%20MV/Trucker%20Quest/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/arqui-dev-ProjetoCaminhoneiro/index.html",
+    "cover": "https://yx.ecy.al/arqui-dev-ProjetoCaminhoneiro/cover.png",
+    "publication": {
+      "commit": "3d9fb4255d19dd3bdf3a61d3d0acc38049e70946",
+      "checkedAt": "2026-11-08T19:47:46.096Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4653,11 +4661,11 @@
     "owner": "asifexplore",
     "name": "Secret-Paladin",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-30T09:48:12.437Z",
+    "checkedAt": "2026-11-08T19:47:16.797Z",
     "forkName": "asifexplore-Secret-Paladin",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -4693,6 +4701,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/asifexplore-Secret-Paladin/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/asifexplore-Secret-Paladin/index.html",
+    "cover": "https://yx.ecy.al/asifexplore-Secret-Paladin/cover.png",
+    "publication": {
+      "commit": "599f356c9daea77857c07fcaf4c89086df39214a",
+      "checkedAt": "2026-11-08T19:49:15.942Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
