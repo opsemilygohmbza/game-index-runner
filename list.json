@@ -23360,8 +23360,8 @@
     "owner": "lsc-jh",
     "name": "rpg-maker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:56.020Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:02:33.055Z",
     "forkName": "lsc-jh-rpg-maker",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -23398,6 +23398,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/lsc-jh-rpg-maker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/lsc-jh-rpg-maker/index.html",
+    "cover": "https://yx.ecy.al/lsc-jh-rpg-maker/cover.png",
+    "publication": {
+      "commit": "2f51bfd03c6f44a5a90e933ede31d22b8cd1fe9c",
+      "checkedAt": "2026-11-08T11:05:19.595Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -23817,8 +23825,8 @@
     "owner": "lzk716088",
     "name": "beneath-the-snow",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-06T10:33:29.041Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:02:41.140Z",
     "forkName": "lzk716088-beneath-the-snow",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -23853,6 +23861,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/lzk716088-beneath-the-snow/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/lzk716088-beneath-the-snow/index.html",
+    "cover": "https://yx.ecy.al/lzk716088-beneath-the-snow/cover.png",
+    "publication": {
+      "commit": "dce2fc672faa366fc781cbba54a5b6bf41d02f4a",
+      "checkedAt": "2026-11-08T11:05:25.796Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -23862,8 +23878,8 @@
     "owner": "lzk716088",
     "name": "prisoner",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:54.343Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:05:02.353Z",
     "forkName": "lzk716088-prisoner",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -23898,6 +23914,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/lzk716088-prisoner/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/lzk716088-prisoner/index.html",
+    "cover": "https://yx.ecy.al/lzk716088-prisoner/cover.png",
+    "publication": {
+      "commit": "b8da5118a180c2ed0df3255160fb7e126f6fbbe5",
+      "checkedAt": "2026-11-08T11:07:29.032Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -24035,12 +24059,12 @@
     "owner": "MagicalYuto",
     "name": "Secret-Funeral",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-07-20T06:21:43.750Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T11:05:12.593Z",
     "forkName": "MagicalYuto-Secret-Funeral",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 43835,
+    "totalSize": 43832,
     "dataSize": 998816,
     "sourceRepo": "MagicalYuto/Secret-Funeral",
     "sourceDefaultBranch": "main",
@@ -24061,7 +24085,15 @@
     },
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/MagicalYuto-Secret-Funeral/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MagicalYuto-Secret-Funeral/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "645900561c947139c27633a64b5e0069227913c9",
+      "checkedAt": "2026-11-08T11:07:38.598Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "manaten-rpgclitest",
@@ -25224,11 +25256,11 @@
     "owner": "michaelpig0912",
     "name": "michaelpig0912.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "sideProject/NCUE107Physics/www/game.html",
-    "checkedAt": "2026-06-19T11:28:01.703Z",
+    "checkedAt": "2026-11-08T11:07:15.524Z",
     "forkName": "michaelpig0912-michaelpig0912.github.io",
     "entryPath": "sideProject/NCUE107Physics/www/game.html",
     "validationScore": 110,
@@ -25255,7 +25287,8 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/michaelpig0912-michaelpig0912.github.io/game.html",
     "upstreamCover": "https://webrpg.org/michaelpig0912-michaelpig0912.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "miegithub-scholars-journey",
