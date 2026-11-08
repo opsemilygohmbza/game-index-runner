@@ -5068,11 +5068,11 @@
     "owner": "AzureAlexis",
     "name": "AnimaSola-BB",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:35:44.229Z",
+    "checkedAt": "2026-11-08T20:27:47.880Z",
     "forkName": "AzureAlexis-AnimaSola-BB",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -5104,6 +5104,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AzureAlexis-AnimaSola-BB/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AzureAlexis-AnimaSola-BB/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "5d714214e09ad32c138ec7f4bdb02c246b739f44",
+      "checkedAt": "2026-11-08T20:29:32.573Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -5153,15 +5161,15 @@
     "owner": "balensmatheo",
     "name": "balensmatheo.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:41:25.164Z",
+    "checkedAt": "2026-11-08T20:27:57.676Z",
     "forkName": "balensmatheo-balensmatheo.github.io",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 393585,
+    "totalSize": 393593,
     "dataSize": 711563,
     "sourceRepo": "balensmatheo/balensmatheo.github.io",
     "sourceDefaultBranch": "main",
@@ -5190,7 +5198,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/balensmatheo-balensmatheo.github.io/",
-    "upstreamCover": "https://webrpg.org/balensmatheo-balensmatheo.github.io/cover.png"
+    "upstreamCover": "https://webrpg.org/balensmatheo-balensmatheo.github.io/cover.png",
+    "pagesUrl": "https://yx.ecy.al/balensmatheo-balensmatheo.github.io/index.html",
+    "cover": "https://yx.ecy.al/balensmatheo-balensmatheo.github.io/cover.png",
+    "publication": {
+      "commit": "de521ca5c43ed4d5e12258aecb9ccee46f0b9edb",
+      "checkedAt": "2026-11-08T20:31:10.245Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "balensmatheo-harassmentescape-github-io",
@@ -5199,11 +5215,11 @@
     "owner": "balensmatheo",
     "name": "HarassmentEscape.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:41:46.344Z",
+    "checkedAt": "2026-11-08T20:30:01.356Z",
     "forkName": "balensmatheo-HarassmentEscape.github.io",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -5236,7 +5252,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/",
-    "upstreamCover": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/cover.png"
+    "upstreamCover": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/cover.png",
+    "pagesUrl": "https://yx.ecy.al/balensmatheo-HarassmentEscape.github.io/index.html",
+    "cover": "https://yx.ecy.al/balensmatheo-HarassmentEscape.github.io/cover.png",
+    "publication": {
+      "commit": "8014ee771004cc3d22e39943c8963f88a3b0d01d",
+      "checkedAt": "2026-11-08T20:32:16.618Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "bart3dprints-geegle-com",
@@ -5327,11 +5351,11 @@
     "owner": "beatrizminoura-cmyk",
     "name": "ossos-do-oficio",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T10:35:24.098Z",
+    "checkedAt": "2026-11-08T20:31:07.668Z",
     "forkName": "beatrizminoura-cmyk-ossos-do-oficio",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -5365,6 +5389,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/beatrizminoura-cmyk-ossos-do-oficio/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/beatrizminoura-cmyk-ossos-do-oficio/index.html",
+    "cover": "https://yx.ecy.al/beatrizminoura-cmyk-ossos-do-oficio/cover.png",
+    "publication": {
+      "commit": "602e970f44b54e455ad948cf4eb3620e8f5ac23e",
+      "checkedAt": "2026-11-08T20:33:33.536Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
