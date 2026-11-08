@@ -41876,8 +41876,8 @@
     "owner": "yinshi91",
     "name": "game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T01:46:52.951Z",
+    "status": "verified",
+    "checkedAt": "2026-11-08T14:40:30.846Z",
     "forkName": "yinshi91-game",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -41901,7 +41901,15 @@
     },
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/yinshi91-game/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/yinshi91-game/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "ade11627e6bde0631d034001b9ccdcbd713ab309",
+      "checkedAt": "2026-11-08T14:43:06.676Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "yinshi91-game-3",
