@@ -7020,16 +7020,16 @@
     "owner": "Chino-541",
     "name": "Saikou-no-Ramen-Damashi",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-13T16:30:54.605Z",
     "source": "github-code-search",
     "sourcePath": "Assets/Ken-assets/Map Assets/MV版サンプルプロジェクト_住宅地/index.html",
-    "checkedAt": "2026-11-01T04:42:05.157Z",
+    "checkedAt": "2026-11-08T06:47:20.717Z",
     "forkName": "Chino-541-Saikou-no-Ramen-Damashi",
-    "entryPath": "Assets/Ken-assets/Map Assets/MV版サンプルプロジェクト_住宅地/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 253705,
-    "dataSize": 0,
+    "totalSize": 331008,
+    "dataSize": 100259,
     "sourceRepo": "Chino-541/Saikou-no-Ramen-Damashi",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "cbe53d0960295bb75e163646357be47d61b0e3e1",
@@ -7052,7 +7052,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/",
-    "upstreamCover": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/cover.png"
+    "upstreamCover": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Chino-541-Saikou-no-Ramen-Damashi/index.html",
+    "cover": "https://yx.ecy.al/Chino-541-Saikou-no-Ramen-Damashi/cover.png",
+    "publication": {
+      "commit": "b0c671d564158dc1265c2d71d76571a20a043b18",
+      "checkedAt": "2026-11-08T06:48:21.176Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "chiyungjie-rpg20240811",
