@@ -1079,15 +1079,15 @@
     "owner": "430230562",
     "name": "kerman-s-dream",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T00:47:41.748Z",
+    "checkedAt": "2026-11-08T05:18:39.573Z",
     "forkName": "430230562-kerman-s-dream",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 639202,
+    "totalSize": 639186,
     "dataSize": 2250345,
     "sourceRepo": "430230562/kerman-s-dream",
     "sourceDefaultBranch": "main",
@@ -1117,6 +1117,13 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/430230562-kerman-s-dream/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/430230562-kerman-s-dream/index.html",
+    "cover": "https://yx.ecy.al/430230562-kerman-s-dream/cover.png",
+    "publication": {
+      "commit": "b723018f5d72353e00beb33552dcd0b9d7b5b1bd",
+      "checkedAt": "2026-11-08T05:20:00.323Z",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
