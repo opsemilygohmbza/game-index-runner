@@ -5189,14 +5189,14 @@
     "owner": "blacktunes",
     "name": "hiiro-rpg",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "src/game/index.html",
-    "checkedAt": "2026-11-02T00:24:14.164Z",
+    "checkedAt": "2026-11-08T08:53:48.335Z",
     "forkName": "blacktunes-hiiro-rpg",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 731867,
     "dataSize": 6796406,
     "sourceRepo": "blacktunes/hiiro-rpg",
@@ -5225,7 +5225,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/blacktunes-hiiro-rpg/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/blacktunes-hiiro-rpg/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "c33ff6f8b815449ff97cb34038a81e5978a6fd93",
+      "checkedAt": "2026-11-08T08:55:25.302Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "blacktunes-vbup-game",
@@ -6474,15 +6482,15 @@
     "owner": "cara-ko",
     "name": "-RPG",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "小布RPG/index.html",
-    "checkedAt": "2026-11-03T05:37:02.017Z",
+    "checkedAt": "2026-11-08T08:53:48.806Z",
     "forkName": "cara-ko-RPG",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 191588,
     "dataSize": 2716172,
     "sourceRepo": "cara-ko/-RPG",
@@ -6506,7 +6514,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/cara-ko-RPG/",
     "upstreamCover": "https://webrpg.org/cara-ko-RPG/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/cara-ko-RPG/index.html",
+    "cover": "https://yx.ecy.al/cara-ko-RPG/cover.png",
+    "publication": {
+      "commit": "815bccf12731b592f9a14565c13bc4f2fe6d3fa0",
+      "checkedAt": "2026-11-08T08:55:07.788Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cardcaph-rpg-pwa-test-1",
@@ -8343,9 +8359,9 @@
     "owner": "cyh0521",
     "name": "rpg",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "duplicateReason": "Repository name already exists in list.json.",
-    "checkedAt": "2026-11-07T17:37:36.991Z",
+    "checkedAt": "2026-11-08T08:54:19.679Z",
     "forkName": "cyh0521-rpg",
     "invalidReason": "Upstream repository size 638194 KB exceeds the 250000 KB limit.",
     "sourceRepo": "cyh0521/rpg",
@@ -8354,7 +8370,7 @@
     "processedHeadSha": "58531ec9c6a03c9f45d1c8a4c2e48e65f0bce73b",
     "syncedFromSource": true,
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 638194,
     "dataSize": 847282,
     "coverPath": "cover.png",
@@ -8382,7 +8398,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/cyh0521-rpg/",
-    "upstreamCover": "https://webrpg.org/cyh0521-rpg/cover.png"
+    "upstreamCover": "https://webrpg.org/cyh0521-rpg/cover.png",
+    "pagesUrl": "https://yx.ecy.al/cyh0521-rpg/index.html",
+    "cover": "https://yx.ecy.al/cyh0521-rpg/cover.png",
+    "publication": {
+      "commit": "6fcc6c3d08e8acbf91c1cda7cc2bdaf6e3a7a4a9",
+      "checkedAt": "2026-11-08T08:56:01.185Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "dadaqi-xiaohuangyouslg",
@@ -10809,11 +10833,11 @@
     "owner": "easychen",
     "name": "GameDemo",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-11-05T19:42:50.461Z",
+    "checkedAt": "2026-11-08T08:54:21.662Z",
     "forkName": "easychen-GameDemo",
-    "status": "indexed",
+    "status": "verified",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 165605,
     "dataSize": 1150018,
     "sourceRepo": "easychen/GameDemo",
@@ -10845,7 +10869,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/easychen-GameDemo/",
     "upstreamCover": "https://webrpg.org/easychen-GameDemo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/easychen-GameDemo/index.html",
+    "cover": "https://yx.ecy.al/easychen-GameDemo/cover.png",
+    "publication": {
+      "commit": "a63e86ad6c5f761f0e00011eda3dc237cf88ea98",
+      "checkedAt": "2026-11-08T08:55:47.511Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ec-developer-hub-broadwayyyy",
@@ -13859,13 +13891,13 @@
     "owner": "fredpoole",
     "name": "fredpoole.github.io",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-11-07T17:37:58.964Z",
+    "checkedAt": "2026-11-08T08:54:58.465Z",
     "forkName": "fredpoole-fredpoole.github.io",
-    "status": "indexed",
-    "entryPath": "Legend of Four Dragons/www/index.html",
+    "status": "verified",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 571172,
-    "dataSize": 0,
+    "totalSize": 578376,
+    "dataSize": 2248455,
     "sourceRepo": "fredpoole/fredpoole.github.io",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "96332b912d45e5f1578cca5b176cfa89db96654f",
@@ -13892,7 +13924,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/fredpoole-fredpoole.github.io/",
     "upstreamCover": "https://webrpg.org/fredpoole-fredpoole.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/fredpoole-fredpoole.github.io/index.html",
+    "cover": "https://yx.ecy.al/fredpoole-fredpoole.github.io/cover.png",
+    "publication": {
+      "commit": "99d08fa752f41fe8cc35ed6f638c1f3296abf7ac",
+      "checkedAt": "2026-11-08T08:56:13.028Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "frenchhelp-games",
