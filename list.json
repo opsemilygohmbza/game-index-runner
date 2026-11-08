@@ -2509,11 +2509,11 @@
     "owner": "akanetr",
     "name": "Bounty_Hunter_3",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:47:04.801Z",
+    "checkedAt": "2026-11-08T18:10:34.810Z",
     "forkName": "akanetr-Bounty_Hunter_3",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -2533,6 +2533,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/akanetr-Bounty_Hunter_3/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/akanetr-Bounty_Hunter_3/index.html",
+    "cover": "https://yx.ecy.al/akanetr-Bounty_Hunter_3/cover.png",
+    "publication": {
+      "commit": "1d41b20854ee6e24425a3cbdf934474e3efac9b6",
+      "checkedAt": "2026-11-08T18:13:08.963Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -2542,11 +2550,11 @@
     "owner": "akanetr",
     "name": "devil_sword",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T09:47:05.232Z",
+    "checkedAt": "2026-11-08T18:10:43.306Z",
     "forkName": "akanetr-devil_sword",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -2584,6 +2592,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/akanetr-devil_sword/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/akanetr-devil_sword/index.html",
+    "cover": "https://yx.ecy.al/akanetr-devil_sword/cover.png",
+    "publication": {
+      "commit": "68bacc9ad6833c24bda7ba7601ad7edf2ed3b755",
+      "checkedAt": "2026-11-08T18:13:34.221Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -2593,11 +2609,11 @@
     "owner": "akanetr",
     "name": "Divirtual",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T08:34:02.944Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:41:06.377Z",
+    "checkedAt": "2026-11-08T18:12:45.269Z",
     "forkName": "akanetr-Divirtual",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -2631,7 +2647,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/akanetr-Divirtual/",
-    "upstreamCover": "https://webrpg.org/akanetr-Divirtual/cover.png"
+    "upstreamCover": "https://webrpg.org/akanetr-Divirtual/cover.png",
+    "pagesUrl": "https://yx.ecy.al/akanetr-Divirtual/index.html",
+    "cover": "https://yx.ecy.al/akanetr-Divirtual/cover.png",
+    "publication": {
+      "commit": "ead222e47ef0a978f3be883aa2dab64e30ff3d50",
+      "checkedAt": "2026-11-08T18:14:52.487Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "akshatiyer-gamejam2025",
@@ -2640,15 +2664,15 @@
     "owner": "AkshatIyer",
     "name": "GameJam2025",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
-    "checkedAt": "2026-11-03T20:59:44.558Z",
+    "checkedAt": "2026-11-08T18:12:54.616Z",
     "forkName": "AkshatIyer-GameJam2025",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 100847,
     "dataSize": 603249,
     "sourceRepo": "AkshatIyer/GameJam2025",
@@ -2672,7 +2696,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/AkshatIyer-GameJam2025/",
     "upstreamCover": "https://webrpg.org/AkshatIyer-GameJam2025/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/AkshatIyer-GameJam2025/index.html",
+    "cover": "https://yx.ecy.al/AkshatIyer-GameJam2025/cover.png",
+    "publication": {
+      "commit": "0cb75e1e0ce18b9e40b85515d0d8d0f66d09deb6",
+      "checkedAt": "2026-11-08T18:15:58.139Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "albondigaboy-juegos-creados",
@@ -2681,16 +2713,16 @@
     "owner": "AlbondigaBoy",
     "name": "Juegos_creados",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Shrek vs Warroten/index.html",
-    "checkedAt": "2026-10-30T09:47:53.546Z",
+    "checkedAt": "2026-11-08T18:15:05.352Z",
     "forkName": "AlbondigaBoy-Juegos_creados",
-    "entryPath": "Shrek vs Warroten/GAME/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 490747,
-    "dataSize": 0,
+    "dataSize": 741604,
     "sourceRepo": "AlbondigaBoy/Juegos_creados",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "43b035aa942fea1c139a568c71b7904369cca626",
@@ -2705,6 +2737,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/AlbondigaBoy-Juegos_creados/Shrek%20vs%20Warroten/GAME/www/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/AlbondigaBoy-Juegos_creados/index.html",
+    "cover": "https://yx.ecy.al/AlbondigaBoy-Juegos_creados/cover.png",
+    "publication": {
+      "commit": "b4bf28da0644c12fcf0642070c58c8dc463e77eb",
+      "checkedAt": "2026-11-08T18:18:03.364Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
