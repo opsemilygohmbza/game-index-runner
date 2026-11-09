@@ -31024,15 +31024,15 @@
     "owner": "oliver-grant",
     "name": "game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "oliver-grant-game",
-    "checkedAt": "2026-11-02T00:26:27.723Z",
+    "checkedAt": "2026-11-09T22:30:01.086Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 400663,
     "dataSize": 678573,
     "sourceRepo": "oliver-grant/game",
@@ -31056,7 +31056,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/oliver-grant-game/",
     "upstreamCover": "https://webrpg.org/oliver-grant-game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/oliver-grant-game/index.html",
+    "cover": "https://yx.ecy.al/oliver-grant-game/cover.png",
+    "publication": {
+      "commit": "34a3066daab5ca4440f2318b153d13241a8ee6bf",
+      "checkedAt": "2026-11-09T22:33:56.748Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "oliverokeefe-rpg-maker-scratchpad",
@@ -31236,15 +31244,15 @@
     "owner": "ovate",
     "name": "RMMV-Dice",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T01:31:02.341Z",
+    "checkedAt": "2026-11-09T22:35:28.554Z",
     "forkName": "ovate-RMMV-Dice",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 33142,
+    "totalSize": 33140,
     "dataSize": 674726,
     "sourceRepo": "ovate/RMMV-Dice",
     "sourceDefaultBranch": "main",
@@ -31267,7 +31275,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/ovate-RMMV-Dice/",
     "upstreamCover": "https://webrpg.org/ovate-RMMV-Dice/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ovate-RMMV-Dice/index.html",
+    "cover": "https://yx.ecy.al/ovate-RMMV-Dice/cover.png",
+    "publication": {
+      "commit": "264eaf7fb5eea82594d693e4d743cf4eb7da5325",
+      "checkedAt": "2026-11-09T22:39:05.377Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ovate-rmmv-skit-system",
@@ -31276,15 +31292,15 @@
     "owner": "ovate",
     "name": "RMMV-Skit-System",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T01:31:06.454Z",
+    "checkedAt": "2026-11-09T22:37:57.119Z",
     "forkName": "ovate-RMMV-Skit-System",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 8216,
+    "totalSize": 8215,
     "dataSize": 693349,
     "sourceRepo": "ovate/RMMV-Skit-System",
     "sourceDefaultBranch": "main",
@@ -31306,7 +31322,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/ovate-RMMV-Skit-System/",
     "upstreamCover": "https://webrpg.org/ovate-RMMV-Skit-System/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ovate-RMMV-Skit-System/index.html",
+    "cover": "https://yx.ecy.al/ovate-RMMV-Skit-System/cover.png",
+    "publication": {
+      "commit": "f7b613b1d493460c9428d81c30d6185927c84155",
+      "checkedAt": "2026-11-09T22:39:22.216Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "overhillgames-singdemov2v12",
@@ -31315,15 +31339,15 @@
     "owner": "overhillgames",
     "name": "singdemov2v12",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "docs/index.html",
-    "checkedAt": "2026-11-03T20:58:02.333Z",
+    "checkedAt": "2026-11-09T22:39:14.504Z",
     "forkName": "overhillgames-singdemov2v12",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 368384,
     "dataSize": 2201082,
     "sourceRepo": "overhillgames/singdemov2v12",
@@ -31347,7 +31371,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/overhillgames-singdemov2v12/",
     "upstreamCover": "https://webrpg.org/overhillgames-singdemov2v12/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/overhillgames-singdemov2v12/index.html",
+    "cover": "https://yx.ecy.al/overhillgames-singdemov2v12/cover.png",
+    "publication": {
+      "commit": "2194d1b3b40ed30bf7cd03a2fe0a8b525540894a",
+      "checkedAt": "2026-11-09T22:42:15.629Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "p-guilherme-cidadesustentavel",
