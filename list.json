@@ -22902,16 +22902,16 @@
     "owner": "kellym19",
     "name": "Luxx",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-20T13:59:12.969Z",
     "source": "github-code-search",
     "sourcePath": "Luxx/index.html",
-    "checkedAt": "2026-10-31T21:10:55.819Z",
+    "checkedAt": "2026-11-09T14:27:21.903Z",
     "forkName": "kellym19-Luxx",
-    "entryPath": "Luxx/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 353705,
-    "dataSize": 0,
+    "dataSize": 723368,
     "sourceRepo": "kellym19/Luxx",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "2e9d4171d90292671da679ee2fd10d0bffce3144",
@@ -22940,7 +22940,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/kellym19-Luxx/",
-    "upstreamCover": "https://webrpg.org/kellym19-Luxx/cover.png"
+    "upstreamCover": "https://webrpg.org/kellym19-Luxx/cover.png",
+    "pagesUrl": "https://yx.ecy.al/kellym19-Luxx/index.html",
+    "cover": "https://yx.ecy.al/kellym19-Luxx/cover.png",
+    "publication": {
+      "commit": "d494cc0163323118b46b8c110373240f88633e35",
+      "checkedAt": "2026-11-09T14:32:09.885Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kelvintaco-gamedevrpg",
@@ -22949,15 +22957,15 @@
     "owner": "kelvintaco",
     "name": "gamedevrpg",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "SCHOOL/index.html",
-    "checkedAt": "2026-11-04T01:12:56.980Z",
+    "checkedAt": "2026-11-09T14:27:32.786Z",
     "forkName": "kelvintaco-gamedevrpg",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 95464,
     "dataSize": 1450358,
     "sourceRepo": "kelvintaco/gamedevrpg",
@@ -22968,7 +22976,15 @@
     "reachabilityDetail": "https://webrpg.org/kelvintaco-gamedevrpg/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/kelvintaco-gamedevrpg/",
     "upstreamCover": "https://webrpg.org/kelvintaco-gamedevrpg/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/kelvintaco-gamedevrpg/index.html",
+    "cover": "https://yx.ecy.al/kelvintaco-gamedevrpg/cover.png",
+    "publication": {
+      "commit": "fe7dcf0c7d359d6ac0779c483bb385fd6f2808fa",
+      "checkedAt": "2026-11-09T14:31:48.381Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kendid29-afterrain",
@@ -22977,11 +22993,11 @@
     "owner": "Kendid29",
     "name": "AfterRain",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:24:25.665Z",
+    "checkedAt": "2026-11-09T14:30:28.059Z",
     "forkName": "Kendid29-AfterRain",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -23013,7 +23029,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Kendid29-AfterRain/",
     "upstreamCover": "https://webrpg.org/Kendid29-AfterRain/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Kendid29-AfterRain/index.html",
+    "cover": "https://yx.ecy.al/Kendid29-AfterRain/cover.png",
+    "publication": {
+      "commit": "e819ee08b987a6522f7186c3d102883db6d9ac2e",
+      "checkedAt": "2026-11-09T14:35:26.802Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kenshindias-kenshindias-github-io",
@@ -23050,15 +23074,15 @@
     "owner": "kentko27",
     "name": "gamedev",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:30:06.162Z",
+    "checkedAt": "2026-11-09T14:30:37.599Z",
     "forkName": "kentko27-gamedev",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 394126,
     "dataSize": 893171,
     "sourceRepo": "kentko27/gamedev",
@@ -23082,7 +23106,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/kentko27-gamedev/",
     "upstreamCover": "https://webrpg.org/kentko27-gamedev/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/kentko27-gamedev/index.html",
+    "cover": "https://yx.ecy.al/kentko27-gamedev/cover.png",
+    "publication": {
+      "commit": "b6264f070c94e8c48ddd61f549319e5b42fedd60",
+      "checkedAt": "2026-11-09T14:33:29.453Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kevin28576-rpgmv-great-escape",
@@ -23231,11 +23263,11 @@
     "owner": "KimHanWol",
     "name": "RPGMaker-ProjectSU",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:24:46.614Z",
+    "checkedAt": "2026-11-09T14:32:40.778Z",
     "forkName": "KimHanWol-RPGMaker-ProjectSU",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -23250,7 +23282,15 @@
     "reachabilityDetail": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/",
     "upstreamCover": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/KimHanWol-RPGMaker-ProjectSU/index.html",
+    "cover": "https://yx.ecy.al/KimHanWol-RPGMaker-ProjectSU/cover.png",
+    "publication": {
+      "commit": "8bdee0d32b8c76e9463b3e15ecb18fbf0adb359f",
+      "checkedAt": "2026-11-09T14:37:07.699Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kinami0331-mh2023-archived",
