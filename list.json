@@ -26388,11 +26388,11 @@
     "owner": "M00NL16H7",
     "name": "m00nl16h7.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game.html",
-    "checkedAt": "2026-11-07T09:47:41.371Z",
+    "checkedAt": "2026-11-09T17:20:53.173Z",
     "forkName": "M00NL16H7-m00nl16h7.github.io",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -26425,6 +26425,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/M00NL16H7-m00nl16h7.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/M00NL16H7-m00nl16h7.github.io/index.html",
+    "cover": "https://yx.ecy.al/M00NL16H7-m00nl16h7.github.io/cover.png",
+    "publication": {
+      "commit": "7bad76ef9fdaef34ae11fa34618e0dc270030e46",
+      "checkedAt": "2026-11-09T17:24:01.418Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -26434,11 +26442,11 @@
     "owner": "m2wasabi",
     "name": "milkcocoa-adv-20151203",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T10:35:39.167Z",
+    "checkedAt": "2026-11-09T17:21:03.820Z",
     "forkName": "m2wasabi-milkcocoa-adv-20151203",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -26466,6 +26474,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/m2wasabi-milkcocoa-adv-20151203/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/m2wasabi-milkcocoa-adv-20151203/index.html",
+    "cover": "https://yx.ecy.al/m2wasabi-milkcocoa-adv-20151203/cover.png",
+    "publication": {
+      "commit": "66c260b42c91f5eba316cffd382db165011c656d",
+      "checkedAt": "2026-11-09T17:23:39.911Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -26559,12 +26575,12 @@
     "owner": "manaten",
     "name": "rpgclitest",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T20:01:19.422Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "manaten-rpgclitest",
-    "checkedAt": "2026-11-02T00:23:55.034Z",
+    "checkedAt": "2026-11-09T17:23:07.876Z",
     "entryPath": "index.html",
     "validationScore": 118,
     "totalSize": 0,
@@ -26589,7 +26605,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/manaten-rpgclitest/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/manaten-rpgclitest/"
+    "upstreamPagesUrl": "https://webrpg.org/manaten-rpgclitest/",
+    "pagesUrl": "https://yx.ecy.al/manaten-rpgclitest/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "56002a24ab45542eb85a17163ef7f762f8cad2a7",
+      "checkedAt": "2026-11-09T17:24:49.854Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mandy321555-rpg",
@@ -26648,15 +26672,15 @@
     "owner": "manndevani",
     "name": "Forgotten-Weekend-DEV",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Forgotten Weekend DEV/index.html",
-    "checkedAt": "2026-11-03T05:37:30.736Z",
+    "checkedAt": "2026-11-09T17:23:17.350Z",
     "forkName": "manndevani-Forgotten-Weekend-DEV",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 99666,
     "dataSize": 654304,
     "sourceRepo": "manndevani/Forgotten-Weekend-DEV",
@@ -26680,7 +26704,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/",
     "upstreamCover": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/manndevani-Forgotten-Weekend-DEV/index.html",
+    "cover": "https://yx.ecy.al/manndevani-Forgotten-Weekend-DEV/cover.png",
+    "publication": {
+      "commit": "64cb6d0b7ce28b9c08fcd662e7cf161ba1cb0656",
+      "checkedAt": "2026-11-09T17:25:55.698Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mantojoshua-mantojoshua-github-io",
@@ -26689,15 +26721,15 @@
     "owner": "mantojoshua",
     "name": "mantojoshua.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "minigame/Portfolio/index.html",
-    "checkedAt": "2026-11-03T13:50:43.167Z",
+    "checkedAt": "2026-11-09T17:25:18.776Z",
     "forkName": "mantojoshua-mantojoshua.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 47324,
     "dataSize": 547964,
     "sourceRepo": "mantojoshua/mantojoshua.github.io",
@@ -26721,7 +26753,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/mantojoshua-mantojoshua.github.io/",
     "upstreamCover": "https://webrpg.org/mantojoshua-mantojoshua.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/mantojoshua-mantojoshua.github.io/index.html",
+    "cover": "https://yx.ecy.al/mantojoshua-mantojoshua.github.io/cover.png",
+    "publication": {
+      "commit": "260f790b8987a548d261393ad15ed18d98cc08fc",
+      "checkedAt": "2026-11-09T17:28:05.350Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "maperche2-endless-pain-net",
