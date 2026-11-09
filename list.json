@@ -17271,15 +17271,15 @@
     "owner": "GullamAlmuzadid",
     "name": "Pengembangan_Game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "UAS/index.html",
-    "checkedAt": "2026-11-02T00:25:16.283Z",
+    "checkedAt": "2026-11-09T08:38:45.950Z",
     "forkName": "GullamAlmuzadid-Pengembangan_Game",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 115954,
     "dataSize": 833770,
     "sourceRepo": "GullamAlmuzadid/Pengembangan_Game",
@@ -17301,7 +17301,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/GullamAlmuzadid-Pengembangan_Game/",
     "upstreamCover": "https://webrpg.org/GullamAlmuzadid-Pengembangan_Game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/GullamAlmuzadid-Pengembangan_Game/index.html",
+    "cover": "https://yx.ecy.al/GullamAlmuzadid-Pengembangan_Game/cover.png",
+    "publication": {
+      "commit": "e6f65d509f8d3db70fe35bea0c1310f9b81943a4",
+      "checkedAt": "2026-11-09T08:41:39.260Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gullamalmuzadid-pg-collegelive",
@@ -17310,15 +17318,15 @@
     "owner": "GullamAlmuzadid",
     "name": "PG_CollegeLive",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "College/index.html",
-    "checkedAt": "2026-11-02T00:25:02.945Z",
+    "checkedAt": "2026-11-09T08:38:53.982Z",
     "forkName": "GullamAlmuzadid-PG_CollegeLive",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 135088,
     "dataSize": 833742,
     "sourceRepo": "GullamAlmuzadid/PG_CollegeLive",
@@ -17340,7 +17348,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/",
     "upstreamCover": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/GullamAlmuzadid-PG_CollegeLive/index.html",
+    "cover": "https://yx.ecy.al/GullamAlmuzadid-PG_CollegeLive/cover.png",
+    "publication": {
+      "commit": "430856b8156b420cc5265efc04a0cc792d0bcba1",
+      "checkedAt": "2026-11-09T08:42:04.449Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "guobin6910-cell-dawn-glimmer-dual-moon",
@@ -17405,11 +17421,11 @@
     "owner": "GYHGwangju",
     "name": "Sinacs_RhythmQTE",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:20.636Z",
+    "checkedAt": "2026-11-09T08:41:31.020Z",
     "forkName": "GYHGwangju-Sinacs_RhythmQTE",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -17427,7 +17443,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/GYHGwangju-Sinacs_RhythmQTE/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/"
+    "upstreamPagesUrl": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/",
+    "pagesUrl": "https://yx.ecy.al/GYHGwangju-Sinacs_RhythmQTE/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "e29b378bf56278f9673366816ae5d7de9238e6e4",
+      "checkedAt": "2026-11-09T08:43:21.443Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gyoannz-works",
@@ -17474,11 +17498,11 @@
     "owner": "gzqyl",
     "name": "rpgemu",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-31T11:52:56.044Z",
+    "checkedAt": "2026-11-09T08:43:50.288Z",
     "forkName": "gzqyl-rpgemu",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -17506,6 +17530,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/gzqyl-rpgemu/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/gzqyl-rpgemu/index.html",
+    "cover": "https://yx.ecy.al/gzqyl-rpgemu/cover.png",
+    "publication": {
+      "commit": "925845dffac0b67db45dbab0385e11510f8b63dc",
+      "checkedAt": "2026-11-09T08:47:26.138Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -17597,15 +17629,15 @@
     "owner": "H3yko",
     "name": "Loop_Medieval",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T13:50:30.492Z",
+    "checkedAt": "2026-11-09T08:46:48.260Z",
     "forkName": "H3yko-Loop_Medieval",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 26795,
     "dataSize": 876834,
     "sourceRepo": "H3yko/Loop_Medieval",
@@ -17631,7 +17663,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/H3yko-Loop_Medieval/",
     "upstreamCover": "https://webrpg.org/H3yko-Loop_Medieval/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/H3yko-Loop_Medieval/index.html",
+    "cover": "https://yx.ecy.al/H3yko-Loop_Medieval/cover.png",
+    "publication": {
+      "commit": "0f2d99855fe6da2f34fea454832f43eb68de2683",
+      "checkedAt": "2026-11-09T08:49:07.676Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "h4cander-rpgmakerh4",
