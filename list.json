@@ -17732,11 +17732,11 @@
     "owner": "habichta",
     "name": "ReinforcementLearningRPGMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:40.861Z",
+    "checkedAt": "2026-11-09T08:49:00.664Z",
     "forkName": "habichta-ReinforcementLearningRPGMV",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -17761,7 +17761,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/habichta-ReinforcementLearningRPGMV/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/habichta-ReinforcementLearningRPGMV/"
+    "upstreamPagesUrl": "https://webrpg.org/habichta-ReinforcementLearningRPGMV/",
+    "pagesUrl": "https://yx.ecy.al/habichta-ReinforcementLearningRPGMV/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "8fe93d74ba808642fd013f2fcc3bf657abe05f84",
+      "checkedAt": "2026-11-09T08:54:20.299Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hackerman998-spacejam",
