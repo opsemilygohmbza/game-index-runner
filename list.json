@@ -20204,16 +20204,16 @@
     "owner": "IsaacRogovski",
     "name": "enigmaria",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Enigmária/Enigmária/www/index.html",
-    "checkedAt": "2026-06-19T00:33:34.462Z",
+    "checkedAt": "2026-11-09T11:34:28.958Z",
     "forkName": "IsaacRogovski-enigmaria",
-    "entryPath": "Enigmária/Enigmária/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 381211,
-    "dataSize": 0,
+    "dataSize": 1225520,
     "sourceRepo": "IsaacRogovski/enigmaria",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "b2e17886d48bc270d89513732a2f76134844893d",
@@ -20237,7 +20237,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/IsaacRogovski-enigmaria/",
     "upstreamCover": "https://webrpg.org/IsaacRogovski-enigmaria/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/IsaacRogovski-enigmaria/index.html",
+    "cover": "https://yx.ecy.al/IsaacRogovski-enigmaria/cover.png",
+    "publication": {
+      "commit": "96245602489225a2c7bb36a152178a56b005738d",
+      "checkedAt": "2026-11-09T11:37:41.790Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "isao0926-rpg-maker-mzz",
@@ -20348,11 +20356,11 @@
     "owner": "ISMAILABDURRAHIMNF",
     "name": "gangster_jakarta",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T00:33:49.571Z",
+    "checkedAt": "2026-11-09T11:34:39.035Z",
     "forkName": "ISMAILABDURRAHIMNF-gangster_jakarta",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -20380,7 +20388,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/ISMAILABDURRAHIMNF-gangster_jakarta/",
     "upstreamCover": "https://webrpg.org/ISMAILABDURRAHIMNF-gangster_jakarta/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ISMAILABDURRAHIMNF-gangster_jakarta/index.html",
+    "cover": "https://yx.ecy.al/ISMAILABDURRAHIMNF-gangster_jakarta/cover.png",
+    "publication": {
+      "commit": "fa23750233995cbd9eb5207f6ec3f05b0d657477",
+      "checkedAt": "2026-11-09T11:37:47.944Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "isobe26505-isobe26505-github-io",
@@ -20389,11 +20405,11 @@
     "owner": "Isobe26505",
     "name": "Isobe26505.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-06-19T00:33:55.858Z",
+    "checkedAt": "2026-11-09T11:37:09.405Z",
     "forkName": "Isobe26505-Isobe26505.github.io",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -20421,7 +20437,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Isobe26505-Isobe26505.github.io/",
     "upstreamCover": "https://webrpg.org/Isobe26505-Isobe26505.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Isobe26505-Isobe26505.github.io/index.html",
+    "cover": "https://yx.ecy.al/Isobe26505-Isobe26505.github.io/cover.png",
+    "publication": {
+      "commit": "e05450fa243d4f83855a77a7c807604f1fc77471",
+      "checkedAt": "2026-11-09T11:40:06.241Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "isuncy-rpgmakermv-tasksystem-plugins",
@@ -20430,11 +20454,11 @@
     "owner": "ISUNCY",
     "name": "RPGMakerMV-TaskSystem-Plugins",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T00:34:07.519Z",
+    "checkedAt": "2026-11-09T11:37:19.015Z",
     "forkName": "ISUNCY-RPGMakerMV-TaskSystem-Plugins",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -20457,7 +20481,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/ISUNCY-RPGMakerMV-TaskSystem-Plugins/",
     "upstreamCover": "https://webrpg.org/ISUNCY-RPGMakerMV-TaskSystem-Plugins/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ISUNCY-RPGMakerMV-TaskSystem-Plugins/index.html",
+    "cover": "https://yx.ecy.al/ISUNCY-RPGMakerMV-TaskSystem-Plugins/cover.png",
+    "publication": {
+      "commit": "076918e096f262211f83c7c06fa828b5dc0ef1a1",
+      "checkedAt": "2026-11-09T11:40:43.207Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "iswpoli-servicios-bibliotecarios",
@@ -20613,11 +20645,11 @@
     "owner": "jackHuang1130",
     "name": "68ba90b5-358d-407f-a2f9-e79ba757286d",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T00:35:22.404Z",
+    "checkedAt": "2026-11-09T11:39:58.007Z",
     "forkName": "jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -20649,7 +20681,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/",
     "upstreamCover": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/index.html",
+    "cover": "https://yx.ecy.al/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/cover.png",
+    "publication": {
+      "commit": "66267bd758e956b6cbe503f9678ba618a3357a9e",
+      "checkedAt": "2026-11-09T11:42:54.587Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jacotplus-turboplus-studios-rpgmaker",
