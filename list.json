@@ -10814,15 +10814,15 @@
     "owner": "discus-sions",
     "name": "The-Fall-PREVIEW1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:07:11.230Z",
+    "checkedAt": "2026-11-09T02:09:59.375Z",
     "forkName": "discus-sions-The-Fall-PREVIEW1",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 401207,
+    "totalSize": 401206,
     "dataSize": 1295748,
     "sourceRepo": "discus-sions/The-Fall-PREVIEW1",
     "sourceDefaultBranch": "main",
@@ -10852,6 +10852,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/discus-sions-The-Fall-PREVIEW1/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/discus-sions-The-Fall-PREVIEW1/index.html",
+    "cover": "https://yx.ecy.al/discus-sions-The-Fall-PREVIEW1/cover.png",
+    "publication": {
+      "commit": "5cd16e702bc69e44e5646b92a02c5aacb82f9afe",
+      "checkedAt": "2026-11-09T02:12:50.011Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -10861,15 +10869,15 @@
     "owner": "discus-sions",
     "name": "The-Fall-PREVIEW2",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:07:37.240Z",
+    "checkedAt": "2026-11-09T02:10:07.950Z",
     "forkName": "discus-sions-The-Fall-PREVIEW2",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 413698,
+    "totalSize": 413697,
     "dataSize": 1378419,
     "sourceRepo": "discus-sions/The-Fall-PREVIEW2",
     "sourceDefaultBranch": "main",
@@ -10885,6 +10893,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/discus-sions-The-Fall-PREVIEW2/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/discus-sions-The-Fall-PREVIEW2/index.html",
+    "cover": "https://yx.ecy.al/discus-sions-The-Fall-PREVIEW2/cover.png",
+    "publication": {
+      "commit": "8d13281e13d07aa004f8e56054f3b77b4cceb573",
+      "checkedAt": "2026-11-09T02:12:58.817Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -10977,11 +10993,11 @@
     "owner": "DocPainkiller",
     "name": "FargoHL",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T16:29:52.776Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:52:01.541Z",
+    "checkedAt": "2026-11-09T02:12:19.560Z",
     "forkName": "DocPainkiller-FargoHL",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -11001,7 +11017,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/DocPainkiller-FargoHL/",
-    "upstreamCover": "https://webrpg.org/DocPainkiller-FargoHL/cover.png"
+    "upstreamCover": "https://webrpg.org/DocPainkiller-FargoHL/cover.png",
+    "pagesUrl": "https://yx.ecy.al/DocPainkiller-FargoHL/index.html",
+    "cover": "https://yx.ecy.al/DocPainkiller-FargoHL/cover.png",
+    "publication": {
+      "commit": "061a78e0ba5bc528e6ec3d08baaf9b23872e4cfa",
+      "checkedAt": "2026-11-09T02:14:55.874Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "dododogame-dododogame-github-io",
@@ -11028,16 +11052,16 @@
     "owner": "Donais04",
     "name": "ISATArchipelago",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-24T16:20:13.687Z",
     "source": "github-code-search",
     "sourcePath": "lookISAT/index.html",
-    "checkedAt": "2026-11-01T04:43:22.980Z",
+    "checkedAt": "2026-11-09T02:14:22.933Z",
     "forkName": "Donais04-ISATArchipelago",
-    "entryPath": "lookISAT/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 189966,
-    "dataSize": 0,
+    "dataSize": 14931115,
     "sourceRepo": "Donais04/ISATArchipelago",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "95caca15f1d701cc5d851345420c352be516c0dc",
@@ -11066,7 +11090,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Donais04-ISATArchipelago/",
-    "upstreamCover": "https://webrpg.org/Donais04-ISATArchipelago/cover.png"
+    "upstreamCover": "https://webrpg.org/Donais04-ISATArchipelago/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Donais04-ISATArchipelago/index.html",
+    "cover": "https://yx.ecy.al/Donais04-ISATArchipelago/cover.png",
+    "publication": {
+      "commit": "3cd133e827a83161c571129939d29d5f5aee5a50",
+      "checkedAt": "2026-11-09T02:17:27.519Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "donaldcpk-mathrpgjs",
@@ -11075,15 +11107,15 @@
     "owner": "Donaldcpk",
     "name": "MathRpgJS",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T05:36:26.971Z",
+    "checkedAt": "2026-11-09T02:14:32.784Z",
     "forkName": "Donaldcpk-MathRpgJS",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 110338,
     "dataSize": 2155417,
     "sourceRepo": "Donaldcpk/MathRpgJS",
@@ -11108,7 +11140,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Donaldcpk-MathRpgJS/",
     "upstreamCover": "https://webrpg.org/Donaldcpk-MathRpgJS/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Donaldcpk-MathRpgJS/index.html",
+    "cover": "https://yx.ecy.al/Donaldcpk-MathRpgJS/cover.png",
+    "publication": {
+      "commit": "4658b88d5f8c63112b618af6eed5062e096cc874",
+      "checkedAt": "2026-11-09T02:17:16.563Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "donaldg2027-donaldg2027-github-io",
