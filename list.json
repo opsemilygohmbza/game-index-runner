@@ -26181,15 +26181,15 @@
     "owner": "Lunlis",
     "name": "DreamTale",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:44:11.457Z",
+    "checkedAt": "2026-11-09T16:47:00.805Z",
     "forkName": "Lunlis-DreamTale",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 97618,
     "dataSize": 1287635,
     "sourceRepo": "Lunlis/DreamTale",
@@ -26213,7 +26213,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Lunlis-DreamTale/",
     "upstreamCover": "https://webrpg.org/Lunlis-DreamTale/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Lunlis-DreamTale/index.html",
+    "cover": "https://yx.ecy.al/Lunlis-DreamTale/cover.png",
+    "publication": {
+      "commit": "08e9607f4da870b72dacffc38057b5b0c3783c04",
+      "checkedAt": "2026-11-09T16:56:11.450Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "lusica-baby-rpgmaker-ai-pipeline",
