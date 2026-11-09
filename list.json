@@ -21413,11 +21413,11 @@
     "owner": "johnnypackard",
     "name": "unnamed-rpg",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:48.964Z",
+    "checkedAt": "2026-11-09T12:28:03.762Z",
     "forkName": "johnnypackard-unnamed-rpg",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21445,7 +21445,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/johnnypackard-unnamed-rpg/",
     "upstreamCover": "https://webrpg.org/johnnypackard-unnamed-rpg/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/johnnypackard-unnamed-rpg/index.html",
+    "cover": "https://yx.ecy.al/johnnypackard-unnamed-rpg/cover.png",
+    "publication": {
+      "commit": "69874288ec3a7d326f4b28f7aa0ed700fcbbb8be",
+      "checkedAt": "2026-11-09T12:32:52.983Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "johnqwq-secret-escape",
