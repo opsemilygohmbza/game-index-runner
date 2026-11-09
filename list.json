@@ -21462,11 +21462,11 @@
     "owner": "johnqwq",
     "name": "secret-escape",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:56.604Z",
+    "checkedAt": "2026-11-09T13:01:58.057Z",
     "forkName": "johnqwq-secret-escape",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21489,7 +21489,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/johnqwq-secret-escape/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/johnqwq-secret-escape/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "4f5247cd48cd3668f42c49aeb787e83aa9dc6d06",
+      "checkedAt": "2026-11-09T13:04:07.968Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jokerbbc-rpg-maker-mz-mod-loader",
@@ -21531,11 +21539,11 @@
     "owner": "JosephBH0622",
     "name": "SimulatedCampus",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:24:06.622Z",
+    "checkedAt": "2026-11-09T13:02:08.396Z",
     "forkName": "JosephBH0622-SimulatedCampus",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21565,7 +21573,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/JosephBH0622-SimulatedCampus/",
     "upstreamCover": "https://webrpg.org/JosephBH0622-SimulatedCampus/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/JosephBH0622-SimulatedCampus/index.html",
+    "cover": "https://yx.ecy.al/JosephBH0622-SimulatedCampus/cover.png",
+    "publication": {
+      "commit": "fe0cb134e465b57886be73c204aa83fa61d21e34",
+      "checkedAt": "2026-11-09T13:04:49.409Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "joshika39-rpg-camp-game",
@@ -21629,11 +21645,11 @@
     "owner": "jpmendezf",
     "name": "MY-MMORPG",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:24:16.210Z",
+    "checkedAt": "2026-11-09T13:04:00.835Z",
     "forkName": "jpmendezf-MY-MMORPG",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21656,7 +21672,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/jpmendezf-MY-MMORPG/",
     "upstreamCover": "https://webrpg.org/jpmendezf-MY-MMORPG/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/jpmendezf-MY-MMORPG/index.html",
+    "cover": "https://yx.ecy.al/jpmendezf-MY-MMORPG/cover.png",
+    "publication": {
+      "commit": "ada8c52079991e8f22dd937dbc9686eeb8b30445",
+      "checkedAt": "2026-11-09T13:07:43.592Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jpmendezf-osianndventures",
@@ -21665,11 +21689,11 @@
     "owner": "jpmendezf",
     "name": "osianndventures",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-19T04:24:26.859Z",
+    "checkedAt": "2026-11-09T13:04:10.748Z",
     "forkName": "jpmendezf-osianndventures",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -21697,7 +21721,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/jpmendezf-osianndventures/",
     "upstreamCover": "https://webrpg.org/jpmendezf-osianndventures/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/jpmendezf-osianndventures/index.html",
+    "cover": "https://yx.ecy.al/jpmendezf-osianndventures/cover.png",
+    "publication": {
+      "commit": "9a451243833197a06d8d326891d8abf4a781aa89",
+      "checkedAt": "2026-11-09T13:07:21.766Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jsnb21-sci-high-rmmv",
@@ -21760,16 +21792,16 @@
     "owner": "jswessler",
     "name": "MYMEMORY",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:24:38.771Z",
+    "checkedAt": "2026-11-09T13:06:42.133Z",
     "forkName": "jswessler-MYMEMORY",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 488117,
-    "dataSize": 2484035,
+    "totalSize": 488357,
+    "dataSize": 2485359,
     "sourceRepo": "jswessler/MYMEMORY",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "8d654c819699bba2e1786aed4d25378c07ac58a4",
@@ -21794,7 +21826,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/jswessler-MYMEMORY/",
     "upstreamCover": "https://webrpg.org/jswessler-MYMEMORY/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/jswessler-MYMEMORY/index.html",
+    "cover": "https://yx.ecy.al/jswessler-MYMEMORY/cover.png",
+    "publication": {
+      "commit": "53c29bebbe87d98ab3ebf1f5a1f431bc2b901fbe",
+      "checkedAt": "2026-11-09T13:10:00.786Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "juaniliguere-agraria",
