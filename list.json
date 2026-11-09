@@ -9028,11 +9028,11 @@
     "owner": "cppiod",
     "name": "Eagle-s-Crossing",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:06:13.791Z",
+    "checkedAt": "2026-11-09T00:06:45.678Z",
     "forkName": "cppiod-Eagle-s-Crossing",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -9052,6 +9052,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/cppiod-Eagle-s-Crossing/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/cppiod-Eagle-s-Crossing/index.html",
+    "cover": "https://yx.ecy.al/cppiod-Eagle-s-Crossing/cover.png",
+    "publication": {
+      "commit": "1b88b1e7a46a2277b29fe15a9142bd88cf36e694",
+      "checkedAt": "2026-11-09T00:08:45.724Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -9077,15 +9085,15 @@
     "owner": "cromewar",
     "name": "World-of-Hackathon-Wingbirds",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "w0hw/index.html",
-    "checkedAt": "2026-11-01T19:31:30.685Z",
+    "checkedAt": "2026-11-09T00:06:54.991Z",
     "forkName": "cromewar-World-of-Hackathon-Wingbirds",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 98572,
     "dataSize": 1015713,
     "sourceRepo": "cromewar/World-of-Hackathon-Wingbirds",
@@ -9096,7 +9104,15 @@
     "reachabilityDetail": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/",
     "upstreamCover": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/cromewar-World-of-Hackathon-Wingbirds/index.html",
+    "cover": "https://yx.ecy.al/cromewar-World-of-Hackathon-Wingbirds/cover.png",
+    "publication": {
+      "commit": "70fe84cc14769273431c42fde46d563bb83cf2b0",
+      "checkedAt": "2026-11-09T00:10:38.775Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cronus23-tencomandments",
@@ -9105,14 +9121,14 @@
     "owner": "Cronus23",
     "name": "tenComandments",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-11-01T04:43:06.126Z",
+    "checkedAt": "2026-11-09T00:08:39.543Z",
     "forkName": "Cronus23-tenComandments",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 79109,
     "dataSize": 2411666,
     "sourceRepo": "Cronus23/tenComandments",
@@ -9137,7 +9153,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Cronus23-tenComandments/",
-    "upstreamCover": "https://webrpg.org/Cronus23-tenComandments/cover.png"
+    "upstreamCover": "https://webrpg.org/Cronus23-tenComandments/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Cronus23-tenComandments/index.html",
+    "cover": "https://yx.ecy.al/Cronus23-tenComandments/cover.png",
+    "publication": {
+      "commit": "170e499b33c0a02a732128dddb603576254961b1",
+      "checkedAt": "2026-11-09T00:12:12.123Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cronusz3n96-stolenstuff",
@@ -9188,14 +9212,14 @@
     "owner": "Cute-Fame-Studio",
     "name": "cutefamedemo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-30T22:06:35.392Z",
+    "checkedAt": "2026-11-09T00:10:40.481Z",
     "forkName": "Cute-Fame-Studio-cutefamedemo",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 262147,
     "dataSize": 1675774,
     "sourceRepo": "Cute-Fame-Studio/cutefamedemo",
@@ -9225,6 +9249,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Cute-Fame-Studio-cutefamedemo/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Cute-Fame-Studio-cutefamedemo/index.html",
+    "cover": "https://yx.ecy.al/Cute-Fame-Studio-cutefamedemo/cover.png",
+    "publication": {
+      "commit": "c37376b5555652decfeec5d565cd0935974afe17",
+      "checkedAt": "2026-11-09T00:13:31.933Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
