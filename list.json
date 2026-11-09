@@ -20160,15 +20160,15 @@
     "owner": "irebachan",
     "name": "page",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "onefloor/index.html",
-    "checkedAt": "2026-11-03T20:57:26.680Z",
+    "checkedAt": "2026-11-09T10:59:44.852Z",
     "forkName": "irebachan-page",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 130964,
     "dataSize": 755134,
     "sourceRepo": "irebachan/page",
@@ -20179,7 +20179,15 @@
     "reachabilityDetail": "https://webrpg.org/irebachan-page/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/irebachan-page/",
     "upstreamCover": "https://webrpg.org/irebachan-page/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/irebachan-page/index.html",
+    "cover": "https://yx.ecy.al/irebachan-page/cover.png",
+    "publication": {
+      "commit": "f2fef5bf88d19625ae8fc396ff3196606aa1ae3f",
+      "checkedAt": "2026-11-09T11:05:01.404Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "isaacrogovski-enigmaria",
