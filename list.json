@@ -9446,15 +9446,15 @@
     "owner": "Dai696",
     "name": "MZPlus",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "MZPlusExampleProject/index.html",
-    "checkedAt": "2026-11-01T19:31:29.677Z",
+    "checkedAt": "2026-11-09T00:12:59.319Z",
     "forkName": "Dai696-MZPlus",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 94480,
     "dataSize": 532735,
     "sourceRepo": "Dai696/MZPlus",
@@ -9473,7 +9473,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Dai696-MZPlus/",
     "upstreamCover": "https://webrpg.org/Dai696-MZPlus/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Dai696-MZPlus/index.html",
+    "cover": "https://yx.ecy.al/Dai696-MZPlus/cover.png",
+    "publication": {
+      "commit": "63786bf7defbb75186b0500481b0b0b08baa977b",
+      "checkedAt": "2026-11-09T00:17:58.591Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "daknux-html",
