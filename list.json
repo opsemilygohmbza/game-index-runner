@@ -25341,15 +25341,15 @@
     "owner": "LiveBacteria",
     "name": "GPTales-InteractiveNPC",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Game/index.html",
     "forkName": "LiveBacteria-GPTales-InteractiveNPC",
-    "checkedAt": "2026-11-01T19:32:24.684Z",
+    "checkedAt": "2026-11-09T16:34:46.895Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93731,
     "dataSize": 733282,
     "sourceRepo": "LiveBacteria/GPTales-InteractiveNPC",
@@ -25368,7 +25368,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/LiveBacteria-GPTales-InteractiveNPC/",
     "upstreamCover": "https://webrpg.org/LiveBacteria-GPTales-InteractiveNPC/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/LiveBacteria-GPTales-InteractiveNPC/index.html",
+    "cover": "https://yx.ecy.al/LiveBacteria-GPTales-InteractiveNPC/cover.png",
+    "publication": {
+      "commit": "0b856f11a6a778eca6de768d603ad9b1679516a0",
+      "checkedAt": "2026-11-09T16:37:51.455Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "lixiayu-mvmota",
@@ -25377,11 +25385,11 @@
     "owner": "LiXiaYu",
     "name": "MVMota",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-07T09:47:52.524Z",
+    "checkedAt": "2026-11-09T16:34:55.348Z",
     "forkName": "LiXiaYu-MVMota",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -25410,6 +25418,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/LiXiaYu-MVMota/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/LiXiaYu-MVMota/index.html",
+    "cover": "https://yx.ecy.al/LiXiaYu-MVMota/cover.png",
+    "publication": {
+      "commit": "233b24bc3d5fc82c56933e47931fed01d7c90d6c",
+      "checkedAt": "2026-11-09T16:38:12.343Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -25430,11 +25446,11 @@
     "owner": "llb1026",
     "name": "llb1026.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "_site/game/index.html",
-    "checkedAt": "2026-11-07T09:48:29.133Z",
+    "checkedAt": "2026-11-09T16:37:18.138Z",
     "forkName": "llb1026-llb1026.github.io",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -25454,6 +25470,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/llb1026-llb1026.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/llb1026-llb1026.github.io/index.html",
+    "cover": "https://yx.ecy.al/llb1026-llb1026.github.io/cover.png",
+    "publication": {
+      "commit": "e5d8a39086f7c054479415d06697f0b409b40afc",
+      "checkedAt": "2026-11-09T16:40:45.128Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -25568,16 +25592,16 @@
     "owner": "LoLoSenPai",
     "name": "AOB",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/_source/rpg-forest/Sample Map/index.html",
-    "checkedAt": "2026-11-07T09:48:20.398Z",
+    "checkedAt": "2026-11-09T16:37:29.381Z",
     "forkName": "LoLoSenPai-AOB",
-    "entryPath": "public/_source/rpg-forest/Sample Map/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 372521,
-    "dataSize": 0,
+    "dataSize": 44679,
     "sourceRepo": "LoLoSenPai/AOB",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "7b71bb3dd2fabf12d56776db7ebe6b41bb684527",
@@ -25598,6 +25622,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/LoLoSenPai-AOB/public/_source/rpg-forest/Sample%20Map/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/LoLoSenPai-AOB/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "1bd2d5596b9cb8bfd868bf007e0fea5485d17ecf",
+      "checkedAt": "2026-11-09T16:39:21.670Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -25800,12 +25832,12 @@
     "owner": "ltw6610",
     "name": "vrpg",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "ltw6610-vrpg",
-    "checkedAt": "2026-11-01T19:32:38.392Z",
+    "checkedAt": "2026-11-09T16:40:12.388Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -25824,7 +25856,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/ltw6610-vrpg/",
-    "upstreamCover": "https://webrpg.org/ltw6610-vrpg/cover.png"
+    "upstreamCover": "https://webrpg.org/ltw6610-vrpg/cover.png",
+    "pagesUrl": "https://yx.ecy.al/ltw6610-vrpg/index.html",
+    "cover": "https://yx.ecy.al/ltw6610-vrpg/cover.png",
+    "publication": {
+      "commit": "0ef97ce27fb5c4a7182d011aa94aa567f0f5f2c3",
+      "checkedAt": "2026-11-09T16:43:22.008Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "luanazarpellon-omoriptbr",
