@@ -12620,15 +12620,15 @@
     "owner": "ElDoig",
     "name": "Wamai",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-20T00:06:43.573Z",
     "source": "github-code-search",
     "sourcePath": "Project/index.html",
-    "checkedAt": "2026-11-03T05:37:52.075Z",
+    "checkedAt": "2026-11-09T03:42:56.777Z",
     "forkName": "ElDoig-Wamai",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 113466,
     "dataSize": 976305,
     "sourceRepo": "ElDoig/Wamai",
@@ -12647,7 +12647,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/ElDoig-Wamai/",
     "upstreamCover": "https://webrpg.org/ElDoig-Wamai/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ElDoig-Wamai/index.html",
+    "cover": "https://yx.ecy.al/ElDoig-Wamai/cover.png",
+    "publication": {
+      "commit": "e4481a04687bb527de8a0a5196370eefc8e1b61a",
+      "checkedAt": "2026-11-09T03:47:26.691Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "electravirus-mv3d",
@@ -12656,11 +12664,11 @@
     "owner": "Electravirus",
     "name": "MV3D",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-10-31T04:21:44.046Z",
+    "checkedAt": "2026-11-09T03:45:14.879Z",
     "forkName": "Electravirus-MV3D",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -12688,6 +12696,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Electravirus-MV3D/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Electravirus-MV3D/index.html",
+    "cover": "https://yx.ecy.al/Electravirus-MV3D/cover.png",
+    "publication": {
+      "commit": "e6a144b2cb6ebf2ec4f8ca26c197501875d9aa23",
+      "checkedAt": "2026-11-09T03:48:00.836Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
