@@ -10482,15 +10482,15 @@
     "owner": "DewandraR",
     "name": "College-Live",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:07:16.263Z",
+    "checkedAt": "2026-11-09T01:30:49.394Z",
     "forkName": "DewandraR-College-Live",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 389011,
+    "totalSize": 389010,
     "dataSize": 859552,
     "sourceRepo": "DewandraR/College-Live",
     "sourceDefaultBranch": "main",
@@ -10521,6 +10521,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/DewandraR-College-Live/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/DewandraR-College-Live/index.html",
+    "cover": "https://yx.ecy.al/DewandraR-College-Live/cover.png",
+    "publication": {
+      "commit": "d33c5a2baa716023141d2045a09f01013e40182e",
+      "checkedAt": "2026-11-09T01:33:39.280Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
