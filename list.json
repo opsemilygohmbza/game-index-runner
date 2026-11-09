@@ -13798,15 +13798,15 @@
     "owner": "etg227",
     "name": "k8s-isekai",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:06.123Z",
-    "forkName": "etg227-NEW-GAME",
+    "checkedAt": "2026-11-09T05:06:54.307Z",
+    "forkName": "etg227-k8s-isekai",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388888,
     "dataSize": 1023940,
     "sourceRepo": "etg227/k8s-isekai",
@@ -13832,7 +13832,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/etg227-NEW-GAME/",
     "upstreamCover": "https://webrpg.org/etg227-NEW-GAME/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/etg227-k8s-isekai/index.html",
+    "cover": "https://yx.ecy.al/etg227-k8s-isekai/cover.png",
+    "publication": {
+      "commit": "7754a728f164795c0cc579f4707868f1e5a2ba67",
+      "checkedAt": "2026-11-09T05:09:44.242Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "etg227-new-game",
