@@ -15150,15 +15150,15 @@
     "owner": "flashdim",
     "name": "kins-chronicle",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:52:19.911Z",
+    "checkedAt": "2026-11-09T06:32:05.970Z",
     "forkName": "flashdim-kins-chronicle",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 421420,
     "dataSize": 16092042,
     "sourceRepo": "flashdim/kins-chronicle",
@@ -15183,7 +15183,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/flashdim-kins-chronicle/",
     "upstreamCover": "https://webrpg.org/flashdim-kins-chronicle/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/flashdim-kins-chronicle/index.html",
+    "cover": "https://yx.ecy.al/flashdim-kins-chronicle/cover.png",
+    "publication": {
+      "commit": "83c0afe24290e330b5a97754b87e7e109fe52925",
+      "checkedAt": "2026-11-09T06:35:14.175Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "flashedcode-pastpapergenie-v3",
