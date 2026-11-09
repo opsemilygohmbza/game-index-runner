@@ -14827,15 +14827,15 @@
     "owner": "FF-NET",
     "name": "shunjiheights",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T00:24:52.453Z",
+    "checkedAt": "2026-11-09T06:27:13.266Z",
     "forkName": "FF-NET-shunjiheights",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 173480,
     "dataSize": 1288214,
     "sourceRepo": "FF-NET/shunjiheights",
@@ -14856,7 +14856,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/FF-NET-shunjiheights/",
     "upstreamCover": "https://webrpg.org/FF-NET-shunjiheights/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/FF-NET-shunjiheights/index.html",
+    "cover": "https://yx.ecy.al/FF-NET-shunjiheights/cover.png",
+    "publication": {
+      "commit": "3443b0b7a4dafa2732218c3f9b9534a83ac545bc",
+      "checkedAt": "2026-11-09T06:29:34.693Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ff-net-shunjiheights2",
@@ -14865,15 +14873,15 @@
     "owner": "FF-NET",
     "name": "shunjiheights2",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:31:33.142Z",
+    "checkedAt": "2026-11-09T06:27:21.452Z",
     "forkName": "FF-NET-shunjiheights2",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 64721,
     "dataSize": 816992,
     "sourceRepo": "FF-NET/shunjiheights2",
@@ -14894,7 +14902,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/FF-NET-shunjiheights2/",
     "upstreamCover": "https://webrpg.org/FF-NET-shunjiheights2/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/FF-NET-shunjiheights2/index.html",
+    "cover": "https://yx.ecy.al/FF-NET-shunjiheights2/cover.png",
+    "publication": {
+      "commit": "cc6070d046980a09609ae3ae4b8124ddc6d4fcdb",
+      "checkedAt": "2026-11-09T06:29:59.986Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ff-net-xyz",
@@ -14903,17 +14919,17 @@
     "owner": "FF-NET",
     "name": "XYZ",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "240629/index.html",
-    "checkedAt": "2026-11-03T05:36:42.750Z",
+    "checkedAt": "2026-11-09T06:29:26.567Z",
     "forkName": "FF-NET-XYZ",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 813094,
-    "dataSize": 857408,
+    "dataSize": 625301,
     "sourceRepo": "FF-NET/XYZ",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "d660ac062bdfe023ff1ef17395ef85dff5eda575",
@@ -14936,7 +14952,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/FF-NET-XYZ/",
     "upstreamCover": "https://webrpg.org/FF-NET-XYZ/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/FF-NET-XYZ/index.html",
+    "cover": "https://yx.ecy.al/FF-NET-XYZ/cover.png",
+    "publication": {
+      "commit": "3367d6ea4ddd7fbe360135cd439b06ff2433528f",
+      "checkedAt": "2026-11-09T06:33:01.337Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "fifomori-nwcompat",
@@ -14963,11 +14987,11 @@
     "owner": "firekula",
     "name": "EroGame",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:40.512Z",
+    "checkedAt": "2026-11-09T06:29:36.059Z",
     "forkName": "firekula-EroGame",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -15000,6 +15024,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/firekula-EroGame/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/firekula-EroGame/index.html",
+    "cover": "https://yx.ecy.al/firekula-EroGame/cover.png",
+    "publication": {
+      "commit": "3f765dccf03c641318df4611e7fca8d6311d772c",
+      "checkedAt": "2026-11-09T06:32:19.626Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -15066,11 +15098,11 @@
     "owner": "FlamerL13",
     "name": "andy_is_sick_mod_conversion_public",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-31T04:24:11.164Z",
+    "checkedAt": "2026-11-09T06:31:56.587Z",
     "forkName": "FlamerL13-andy_is_sick_mod_conversion_public",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -15101,6 +15133,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/FlamerL13-andy_is_sick_mod_conversion_public/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/FlamerL13-andy_is_sick_mod_conversion_public/index.html",
+    "cover": "https://yx.ecy.al/FlamerL13-andy_is_sick_mod_conversion_public/cover.png",
+    "publication": {
+      "commit": "97a859385389bd4c0f02b6632c3ca8a07e14a2d6",
+      "checkedAt": "2026-11-09T06:34:52.445Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
