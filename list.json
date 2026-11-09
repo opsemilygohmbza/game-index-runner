@@ -31388,16 +31388,16 @@
     "owner": "p-guilherme",
     "name": "cidadesustentavel",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "projeto/index.html",
-    "checkedAt": "2026-06-18T01:31:07.676Z",
+    "checkedAt": "2026-11-09T22:39:46.674Z",
     "forkName": "p-guilherme-cidadesustentavel",
-    "entryPath": "projeto/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 402086,
-    "dataSize": 0,
+    "totalSize": 402079,
+    "dataSize": 679114,
     "sourceRepo": "p-guilherme/cidadesustentavel",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "be8c0ffb675a1770d4dfbd207a4d253f82fe3ce4",
@@ -31420,7 +31420,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/p-guilherme-cidadesustentavel/",
     "upstreamCover": "https://webrpg.org/p-guilherme-cidadesustentavel/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/p-guilherme-cidadesustentavel/index.html",
+    "cover": "https://yx.ecy.al/p-guilherme-cidadesustentavel/cover.png",
+    "publication": {
+      "commit": "dffdfb5cdf892184322a32bdd627c6a7e9ca2f82",
+      "checkedAt": "2026-11-09T22:45:41.472Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "p-nickzhang-q-pq-nyd412-scene-player",
