@@ -22100,17 +22100,17 @@
     "owner": "k45514n",
     "name": "NodeConfAR-2017",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-16T16:24:44.165Z",
     "source": "github-code-search",
     "sourcePath": "game/NodeConf AR 2017/index.html",
     "forkName": "k45514n-NodeConfAR-2017",
-    "checkedAt": "2026-11-01T19:30:07.011Z",
-    "entryPath": "game/NodeConf AR 2017/index.html",
+    "checkedAt": "2026-11-09T13:09:52.818Z",
+    "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 115,
     "totalSize": 84043,
-    "dataSize": 0,
+    "dataSize": 729093,
     "sourceRepo": "k45514n/NodeConfAR-2017",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "2759349d101f218aa850a195491dc88f150090cd",
@@ -22137,7 +22137,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/k45514n-NodeConfAR-2017/",
-    "upstreamCover": "https://webrpg.org/k45514n-NodeConfAR-2017/cover.png"
+    "upstreamCover": "https://webrpg.org/k45514n-NodeConfAR-2017/cover.png",
+    "pagesUrl": "https://yx.ecy.al/k45514n-NodeConfAR-2017/index.html",
+    "cover": "https://yx.ecy.al/k45514n-NodeConfAR-2017/cover.png",
+    "publication": {
+      "commit": "bf0468724953e77c6ed27963055506763ef0a455",
+      "checkedAt": "2026-11-09T13:13:05.530Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kagedesu-alpha-abs-z",
