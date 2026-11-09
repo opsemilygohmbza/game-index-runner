@@ -12970,15 +12970,15 @@
     "owner": "Elzorno",
     "name": "rpgmakerLSP",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-26T12:18:25.259Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:11:56.890Z",
+    "checkedAt": "2026-11-09T04:21:24.399Z",
     "forkName": "Elzorno-rpgmakerLSP",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 152524,
     "dataSize": 1747172,
     "sourceRepo": "Elzorno/rpgmakerLSP",
@@ -12989,7 +12989,15 @@
     "reachabilityDetail": "https://webrpg.org/Elzorno-rpgmakerLSP/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/Elzorno-rpgmakerLSP/",
     "upstreamCover": "https://webrpg.org/Elzorno-rpgmakerLSP/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Elzorno-rpgmakerLSP/index.html",
+    "cover": "https://yx.ecy.al/Elzorno-rpgmakerLSP/cover.png",
+    "publication": {
+      "commit": "4272c71d61972dd2abb4d2c9ff87a3b02d960697",
+      "checkedAt": "2026-11-09T04:23:42.882Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "emay6-whatliesbeneath",
@@ -12998,11 +13006,11 @@
     "owner": "emay6",
     "name": "WhatLiesBeneath",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:22:08.345Z",
+    "checkedAt": "2026-11-09T04:21:34.435Z",
     "forkName": "emay6-WhatLiesBeneath",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -13022,6 +13030,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/emay6-WhatLiesBeneath/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/emay6-WhatLiesBeneath/index.html",
+    "cover": "https://yx.ecy.al/emay6-WhatLiesBeneath/cover.png",
+    "publication": {
+      "commit": "3b6520928fcb9ff70805deaf24a40d9d84e8ad1e",
+      "checkedAt": "2026-11-09T04:24:23.228Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13031,16 +13047,16 @@
     "owner": "eml17028",
     "name": "RPGMaker_Horror_GameJam_24",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "SpookySeaGame/index.html",
-    "checkedAt": "2026-10-31T04:22:09.197Z",
+    "checkedAt": "2026-11-09T04:23:34.654Z",
     "forkName": "eml17028-RPGMaker_Horror_GameJam_24",
-    "entryPath": "SpookySeaGame/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 482868,
-    "dataSize": 0,
+    "dataSize": 1397328,
     "sourceRepo": "eml17028/RPGMaker_Horror_GameJam_24",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "30f31111508f86fe461cbc5d77708eef163d9713",
@@ -13073,6 +13089,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/eml17028-RPGMaker_Horror_GameJam_24/SpookySeaGame/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/eml17028-RPGMaker_Horror_GameJam_24/index.html",
+    "cover": "https://yx.ecy.al/eml17028-RPGMaker_Horror_GameJam_24/cover.png",
+    "publication": {
+      "commit": "293ce4912a1aefd5ecf8a4365772781c84f2671b",
+      "checkedAt": "2026-11-09T04:26:54.883Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13082,15 +13106,15 @@
     "owner": "emowbaik",
     "name": "project-Tefa-B",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-05T09:59:49.462Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:50:45.493Z",
+    "checkedAt": "2026-11-09T04:23:44.585Z",
     "forkName": "emowbaik-project-Tefa-B",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 401969,
     "dataSize": 1359612,
     "sourceRepo": "emowbaik/project-Tefa-B",
@@ -13101,7 +13125,15 @@
     "reachabilityDetail": "https://webrpg.org/emowbaik-project-Tefa-B/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/emowbaik-project-Tefa-B/",
     "upstreamCover": "https://webrpg.org/emowbaik-project-Tefa-B/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/emowbaik-project-Tefa-B/index.html",
+    "cover": "https://yx.ecy.al/emowbaik-project-Tefa-B/cover.png",
+    "publication": {
+      "commit": "a19f3f6b7f675f2a432ffd97011d757ad63738aa",
+      "checkedAt": "2026-11-09T04:26:28.631Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "enchanteddonutstudioz-cdn2",
@@ -13168,16 +13200,16 @@
     "owner": "EnigmaDragons",
     "name": "IntoTheDark",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "IntoTheDark/index.html",
-    "checkedAt": "2026-10-31T04:23:05.102Z",
+    "checkedAt": "2026-11-09T04:26:06.104Z",
     "forkName": "EnigmaDragons-IntoTheDark",
-    "entryPath": "IntoTheDark/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 618,
-    "dataSize": 0,
+    "dataSize": 953260,
     "sourceRepo": "EnigmaDragons/IntoTheDark",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "0cad7b0a975756e7ec955cac070400b28564379e",
@@ -13200,6 +13232,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/EnigmaDragons-IntoTheDark/IntoTheDark/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/EnigmaDragons-IntoTheDark/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "de9a3037082f3f5e131d0f9fa24fc5179f873249",
+      "checkedAt": "2026-11-09T04:29:01.044Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13209,11 +13249,11 @@
     "owner": "EnigmaDragons",
     "name": "LegendaryFrailty",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T20:44:37.928Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-07T00:46:32.557Z",
+    "checkedAt": "2026-11-09T04:26:15.627Z",
     "forkName": "EnigmaDragons-LegendaryFrailty",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -13244,6 +13284,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/EnigmaDragons-LegendaryFrailty/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/EnigmaDragons-LegendaryFrailty/index.html",
+    "cover": "https://yx.ecy.al/EnigmaDragons-LegendaryFrailty/cover.png",
+    "publication": {
+      "commit": "34f88991b035ae4397cfb1ebecf673f39d454c1d",
+      "checkedAt": "2026-11-09T04:29:01.052Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
