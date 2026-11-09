@@ -10715,15 +10715,15 @@
     "owner": "DiegOliveros",
     "name": "diegoliveros.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "biblioteca_web/game.html",
-    "checkedAt": "2026-10-30T22:07:48.937Z",
+    "checkedAt": "2026-11-09T01:35:35.062Z",
     "forkName": "DiegOliveros-diegoliveros.github.io",
     "entryPath": "game.html",
     "validationScore": 110,
-    "totalSize": 445631,
+    "totalSize": 447830,
     "dataSize": 1326259,
     "sourceRepo": "DiegOliveros/diegoliveros.github.io",
     "sourceDefaultBranch": "master",
@@ -10753,6 +10753,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/DiegOliveros-diegoliveros.github.io/game.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/DiegOliveros-diegoliveros.github.io/game.html",
+    "cover": "https://yx.ecy.al/DiegOliveros-diegoliveros.github.io/cover.png",
+    "publication": {
+      "commit": "c8cde79df7e9797821d01d0a447e6e5d89cd2398",
+      "checkedAt": "2026-11-09T01:41:01.726Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
