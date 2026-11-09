@@ -14004,11 +14004,11 @@
     "owner": "exadmax",
     "name": "Proto",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:22:50.977Z",
+    "checkedAt": "2026-11-09T05:09:05.384Z",
     "forkName": "exadmax-Proto",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14041,6 +14041,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/exadmax-Proto/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/exadmax-Proto/index.html",
+    "cover": "https://yx.ecy.al/exadmax-Proto/cover.png",
+    "publication": {
+      "commit": "ca21c65fea361f9a33f7e298b201ee8211302274",
+      "checkedAt": "2026-11-09T05:15:34.375Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14050,11 +14058,11 @@
     "owner": "Excel",
     "name": "magic-tech",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:10.166Z",
+    "checkedAt": "2026-11-09T05:10:53.834Z",
     "forkName": "Excel-magic-tech",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14074,6 +14082,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Excel-magic-tech/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Excel-magic-tech/index.html",
+    "cover": "https://yx.ecy.al/Excel-magic-tech/cover.png",
+    "publication": {
+      "commit": "7a3d03e8691947617c3a205d593947187a1376c6",
+      "checkedAt": "2026-11-09T05:15:34.545Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
