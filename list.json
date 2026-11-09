@@ -24550,15 +24550,15 @@
     "owner": "Lamawd",
     "name": "Eco-quest",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:32:00.706Z",
+    "checkedAt": "2026-11-09T15:19:28.423Z",
     "forkName": "Lamawd-Eco-quest",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 93559,
     "dataSize": 566785,
     "sourceRepo": "Lamawd/Eco-quest",
@@ -24583,7 +24583,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Lamawd-Eco-quest/",
     "upstreamCover": "https://webrpg.org/Lamawd-Eco-quest/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Lamawd-Eco-quest/index.html",
+    "cover": "https://yx.ecy.al/Lamawd-Eco-quest/cover.png",
+    "publication": {
+      "commit": "abafca86a38ce4aba3f2a64ad5432a455959b405",
+      "checkedAt": "2026-11-09T15:28:39.787Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "lamchingfung-2425-anti-fraudx",
@@ -24685,12 +24693,12 @@
     "owner": "lauglitch",
     "name": "PokemonPink",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "lauglitch-PokemonPink",
-    "checkedAt": "2026-11-01T19:30:49.249Z",
+    "checkedAt": "2026-11-09T15:19:49.213Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -24722,7 +24730,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/lauglitch-PokemonPink/",
-    "upstreamCover": "https://webrpg.org/lauglitch-PokemonPink/cover.png"
+    "upstreamCover": "https://webrpg.org/lauglitch-PokemonPink/cover.png",
+    "pagesUrl": "https://yx.ecy.al/lauglitch-PokemonPink/index.html",
+    "cover": "https://yx.ecy.al/lauglitch-PokemonPink/cover.png",
+    "publication": {
+      "commit": "439293cfdeef895b4fee569e49ef89f4b617b674",
+      "checkedAt": "2026-11-09T15:28:39.381Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ledouzy-wacchorror2",
