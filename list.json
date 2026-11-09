@@ -27595,15 +27595,15 @@
     "owner": "Melinh0",
     "name": "Extensao2-Jogo",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Jogo - Só Mais Um Teste/index.html",
-    "checkedAt": "2026-11-03T05:37:35.747Z",
+    "checkedAt": "2026-11-09T18:49:51.264Z",
     "forkName": "Melinh0-Extensao2-Jogo",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 126463,
     "dataSize": 568240,
     "sourceRepo": "Melinh0/Extensao2-Jogo",
@@ -27614,7 +27614,15 @@
     "reachabilityDetail": "https://webrpg.org/Melinh0-Extensao2-Jogo/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/Melinh0-Extensao2-Jogo/",
     "upstreamCover": "https://webrpg.org/Melinh0-Extensao2-Jogo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Melinh0-Extensao2-Jogo/index.html",
+    "cover": "https://yx.ecy.al/Melinh0-Extensao2-Jogo/cover.png",
+    "publication": {
+      "commit": "9f36223a038f97bf6062c077f91c6113132a3747",
+      "checkedAt": "2026-11-09T18:53:11.930Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mengtl4-rpgmaker-mv-android-mod",
@@ -27678,11 +27686,11 @@
     "owner": "MettaSeven",
     "name": "Abby-Rayshine",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-19T06:28:18.851Z",
+    "checkedAt": "2026-11-09T18:50:02.084Z",
     "forkName": "MettaSeven-Abby-Rayshine",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -27710,7 +27718,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/MettaSeven-Abby-Rayshine/",
     "upstreamCover": "https://webrpg.org/MettaSeven-Abby-Rayshine/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MettaSeven-Abby-Rayshine/index.html",
+    "cover": "https://yx.ecy.al/MettaSeven-Abby-Rayshine/cover.png",
+    "publication": {
+      "commit": "3aa1832f6a14550861a0abaee56cf29acdf14851",
+      "checkedAt": "2026-11-09T18:53:29.211Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mgsraiden2-dk-crew",
@@ -27719,16 +27735,16 @@
     "owner": "MGSRaiden2",
     "name": "DK-Crew",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "DK Crew Adventures/DK Crew Adventures Game/www/index.html",
-    "checkedAt": "2026-06-19T06:28:25.134Z",
+    "checkedAt": "2026-11-09T18:53:20.370Z",
     "forkName": "MGSRaiden2-DK-Crew",
-    "entryPath": "DK Crew Adventures/DK Crew Adventures Game/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 532351,
-    "dataSize": 0,
+    "dataSize": 1309062,
     "sourceRepo": "MGSRaiden2/DK-Crew",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "cf93a29e7173c240f0dbd2b9925c7e12c15e7205",
@@ -27751,7 +27767,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/MGSRaiden2-DK-Crew/",
     "upstreamCover": "https://webrpg.org/MGSRaiden2-DK-Crew/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MGSRaiden2-DK-Crew/index.html",
+    "cover": "https://yx.ecy.al/MGSRaiden2-DK-Crew/cover.png",
+    "publication": {
+      "commit": "18d91592bf03f6f2e40f25c5b6ea7f23b70e8a75",
+      "checkedAt": "2026-11-09T18:56:33.941Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mi-occ-byteme-lil-necro-game-web",
@@ -27760,11 +27784,11 @@
     "owner": "mi-occ-byteme",
     "name": "lil-necro-game-web",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:28:23.777Z",
+    "checkedAt": "2026-11-09T18:53:51.602Z",
     "forkName": "mi-occ-byteme-lil-necro-game-web",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -27792,7 +27816,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/mi-occ-byteme-lil-necro-game-web/",
     "upstreamCover": "https://webrpg.org/mi-occ-byteme-lil-necro-game-web/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/mi-occ-byteme-lil-necro-game-web/index.html",
+    "cover": "https://yx.ecy.al/mi-occ-byteme-lil-necro-game-web/cover.png",
+    "publication": {
+      "commit": "531495d5caaf5899c26ef757efa897ef15bc116e",
+      "checkedAt": "2026-11-09T18:56:27.900Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "michaelpig0912-michaelpig0912-github-io",
@@ -27885,11 +27917,11 @@
     "owner": "miguelarcjr",
     "name": "lucys-hotel",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:28:59.150Z",
+    "checkedAt": "2026-11-09T18:56:04.822Z",
     "forkName": "miguelarcjr-lucys-hotel",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -27917,7 +27949,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/miguelarcjr-lucys-hotel/",
     "upstreamCover": "https://webrpg.org/miguelarcjr-lucys-hotel/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/miguelarcjr-lucys-hotel/index.html",
+    "cover": "https://yx.ecy.al/miguelarcjr-lucys-hotel/cover.png",
+    "publication": {
+      "commit": "6557be8910564f45dec36b4aa708526ed2f735b7",
+      "checkedAt": "2026-11-09T18:58:56.897Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "miguelarcjr-sombradalua",
