@@ -18051,11 +18051,11 @@
     "owner": "HappyFP",
     "name": "DreamsDestiny",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:52:59.128Z",
+    "checkedAt": "2026-11-09T09:27:30.645Z",
     "forkName": "HappyFP-DreamsDestiny",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -18088,6 +18088,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/HappyFP-DreamsDestiny/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/HappyFP-DreamsDestiny/index.html",
+    "cover": "https://yx.ecy.al/HappyFP-DreamsDestiny/cover.png",
+    "publication": {
+      "commit": "a586a4fd8f02695aed21b56fb18f9ff53b37359c",
+      "checkedAt": "2026-11-09T09:30:41.552Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
