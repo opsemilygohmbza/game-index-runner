@@ -18379,11 +18379,11 @@
     "owner": "HashakGik",
     "name": "BulletHell-RMMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T16:29:52.776Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
-    "checkedAt": "2026-10-31T11:52:22.142Z",
+    "checkedAt": "2026-11-09T09:32:36.638Z",
     "forkName": "HashakGik-BulletHell-RMMV",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -18415,7 +18415,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/HashakGik-BulletHell-RMMV/",
-    "upstreamCover": "https://webrpg.org/HashakGik-BulletHell-RMMV/cover.png"
+    "upstreamCover": "https://webrpg.org/HashakGik-BulletHell-RMMV/cover.png",
+    "pagesUrl": "https://yx.ecy.al/HashakGik-BulletHell-RMMV/index.html",
+    "cover": "https://yx.ecy.al/HashakGik-BulletHell-RMMV/cover.png",
+    "publication": {
+      "commit": "44b591b6084ceb6c3dcae2bee760ad874c46b754",
+      "checkedAt": "2026-11-09T09:37:50.883Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hashakgik-raycasting-rmmv",
