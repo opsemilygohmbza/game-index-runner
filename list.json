@@ -15636,15 +15636,15 @@
     "owner": "FrostyToast37",
     "name": "frostytoast37.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "www/NEWDXDEMO/index.html",
-    "checkedAt": "2026-11-02T00:24:42.115Z",
+    "checkedAt": "2026-11-09T07:12:17.155Z",
     "forkName": "FrostyToast37-frostytoast37.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 165825,
     "dataSize": 4798152,
     "sourceRepo": "FrostyToast37/frostytoast37.github.io",
@@ -15668,7 +15668,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/FrostyToast37-frostytoast37.github.io/",
     "upstreamCover": "https://webrpg.org/FrostyToast37-frostytoast37.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/FrostyToast37-frostytoast37.github.io/index.html",
+    "cover": "https://yx.ecy.al/FrostyToast37-frostytoast37.github.io/cover.png",
+    "publication": {
+      "commit": "113358f176462261ad48f4a64015fc938df02c8e",
+      "checkedAt": "2026-11-09T07:13:18.017Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "fsworld009-rmmv-snake",
@@ -15727,14 +15735,14 @@
     "owner": "furkkurt",
     "name": "Kurt-s-Plugins-Demo-Project",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T00:24:52.524Z",
+    "checkedAt": "2026-11-09T07:12:25.423Z",
     "forkName": "furkkurt-Kurt-s-Plugins-Demo-Project",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 49049,
     "dataSize": 452398,
     "sourceRepo": "furkkurt/Kurt-s-Plugins-Demo-Project",
@@ -15752,7 +15760,15 @@
       "nsfw": false
     },
     "upstreamPagesUrl": "https://webrpg.org/furkkurt-Kurt-s-Plugins-Demo-Project/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/furkkurt-Kurt-s-Plugins-Demo-Project/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "213b26b079fc8fd06d6fa5da8e9d57c65d643d17",
+      "checkedAt": "2026-11-09T07:13:58.363Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gabrielzarpellon-omoriptbr",
@@ -15779,15 +15795,15 @@
     "owner": "Galerial",
     "name": "Le-Petit-Morte",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T19:31:50.502Z",
+    "checkedAt": "2026-11-09T07:13:20.708Z",
     "forkName": "Galerial-Le-Petit-Morte",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 111124,
     "dataSize": 24091379,
     "sourceRepo": "Galerial/Le-Petit-Morte",
@@ -15806,7 +15822,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Galerial-Le-Petit-Morte/",
     "upstreamCover": "https://webrpg.org/Galerial-Le-Petit-Morte/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Galerial-Le-Petit-Morte/index.html",
+    "cover": "https://yx.ecy.al/Galerial-Le-Petit-Morte/cover.png",
+    "publication": {
+      "commit": "71433c5822f94a0c341aa5527fa3c355ee47cec1",
+      "checkedAt": "2026-11-09T07:15:47.723Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gallegosjaime-rpg-project",
@@ -15843,15 +15867,15 @@
     "owner": "Gamer-Tool-Studio",
     "name": "Gamer-Tool-Studio.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "public/cluaido_demo/index.html",
-    "checkedAt": "2026-11-01T12:52:21.607Z",
+    "checkedAt": "2026-11-09T07:16:00.291Z",
     "forkName": "Gamer-Tool-Studio-Gamer-Tool-Studio.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 247276,
     "dataSize": 1908353,
     "sourceRepo": "Gamer-Tool-Studio/Gamer-Tool-Studio.github.io",
@@ -15877,7 +15901,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/",
     "upstreamCover": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/index.html",
+    "cover": "https://yx.ecy.al/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/cover.png",
+    "publication": {
+      "commit": "d9c57bfd5c74eaa259db09660160fb23f32307ad",
+      "checkedAt": "2026-11-09T07:18:47.955Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "games-for-idiots-life-1-6-hours-source-code",
@@ -15927,15 +15959,15 @@
     "owner": "gary26834947-eng",
     "name": "github_rpg_conGroup_v1",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:12:19.430Z",
+    "checkedAt": "2026-11-09T07:16:10.221Z",
     "forkName": "gary26834947-eng-github_rpg_conGroup_v1",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 32228,
     "dataSize": 1307192,
     "sourceRepo": "gary26834947-eng/github_rpg_conGroup_v1",
@@ -15960,7 +15992,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/",
     "upstreamCover": "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/gary26834947-eng-github_rpg_conGroup_v1/index.html",
+    "cover": "https://yx.ecy.al/gary26834947-eng-github_rpg_conGroup_v1/cover.png",
+    "publication": {
+      "commit": "48234a8b0b6e609ee15c182779cc7859bcebfaa1",
+      "checkedAt": "2026-11-09T07:18:38.227Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gary31136-github-rpg-exgroup-v1",
