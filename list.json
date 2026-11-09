@@ -17688,14 +17688,14 @@
     "owner": "h4cander",
     "name": "RPGMakerH4",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "RPGMakerMZLite/1_9_0/index.html",
-    "checkedAt": "2026-11-02T00:25:33.010Z",
+    "checkedAt": "2026-11-09T08:48:50.511Z",
     "forkName": "h4cander-RPGMakerH4",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 1139,
     "dataSize": 5498,
     "sourceRepo": "h4cander/RPGMakerH4",
@@ -17715,7 +17715,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/h4cander-RPGMakerH4/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/h4cander-RPGMakerH4/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "89b961fdeb90caf08e271768ff8fc1c924e63e44",
+      "checkedAt": "2026-11-09T08:51:37.376Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "habichta-reinforcementlearningrpgmv",
