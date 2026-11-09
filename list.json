@@ -26837,11 +26837,11 @@
     "owner": "MarcusKim442",
     "name": "LostInWonder",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index_OLD.html",
-    "checkedAt": "2026-11-07T09:47:28.168Z",
+    "checkedAt": "2026-11-09T17:26:05.446Z",
     "forkName": "MarcusKim442-LostInWonder",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -26873,6 +26873,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/MarcusKim442-LostInWonder/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/MarcusKim442-LostInWonder/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "4eaf52f2c2b7e9783f326350f1bead9de9459862",
+      "checkedAt": "2026-11-09T17:28:15.316Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
