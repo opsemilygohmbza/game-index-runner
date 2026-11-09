@@ -30253,11 +30253,11 @@
     "owner": "NguyenDacLiem",
     "name": "monad",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-05T19:41:34.175Z",
+    "checkedAt": "2026-11-09T21:46:28.094Z",
     "forkName": "NguyenDacLiem-monad",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -30291,7 +30291,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/NguyenDacLiem-monad/",
-    "upstreamCover": "https://webrpg.org/NguyenDacLiem-monad/cover.png"
+    "upstreamCover": "https://webrpg.org/NguyenDacLiem-monad/cover.png",
+    "pagesUrl": "https://yx.ecy.al/NguyenDacLiem-monad/index.html",
+    "cover": "https://yx.ecy.al/NguyenDacLiem-monad/cover.png",
+    "publication": {
+      "commit": "c077198844be415b09318ba40a2a79685c800152",
+      "checkedAt": "2026-11-09T21:49:39.179Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nickchu91-holoisland",
@@ -30300,15 +30308,15 @@
     "owner": "nickchu91",
     "name": "HoloIsland",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "HoloIsland/index.html",
-    "checkedAt": "2026-11-02T00:25:59.509Z",
+    "checkedAt": "2026-11-09T21:46:37.206Z",
     "forkName": "nickchu91-HoloIsland",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93877,
     "dataSize": 531507,
     "sourceRepo": "nickchu91/HoloIsland",
@@ -30332,7 +30340,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/nickchu91-HoloIsland/",
     "upstreamCover": "https://webrpg.org/nickchu91-HoloIsland/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/nickchu91-HoloIsland/index.html",
+    "cover": "https://yx.ecy.al/nickchu91-HoloIsland/cover.png",
+    "publication": {
+      "commit": "543ee17674bdbfb8758b848cc2d7b54f68d09b06",
+      "checkedAt": "2026-11-09T21:49:48.937Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nikitabelk-nikita-channel-animation",
@@ -30455,11 +30471,11 @@
     "owner": "NoorinAsjad",
     "name": "Global-Gamejam-2018",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "GameJam_windows/www/index.html",
-    "checkedAt": "2026-11-05T19:41:33.336Z",
+    "checkedAt": "2026-11-09T21:49:15.917Z",
     "forkName": "NoorinAsjad-Global-Gamejam-2018",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -30490,7 +30506,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/NoorinAsjad-Global-Gamejam-2018/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/NoorinAsjad-Global-Gamejam-2018/"
+    "upstreamPagesUrl": "https://webrpg.org/NoorinAsjad-Global-Gamejam-2018/",
+    "pagesUrl": "https://yx.ecy.al/NoorinAsjad-Global-Gamejam-2018/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "b0975c75b51ff2d4ea74c782a417edd9ca71e338",
+      "checkedAt": "2026-11-09T21:51:19.153Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "notahacker9999-hypper-drive",
@@ -30628,11 +30652,11 @@
     "owner": "NuyyKatazou",
     "name": "TheAmazonia",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-07T17:35:47.392Z",
+    "checkedAt": "2026-11-09T21:50:41.641Z",
     "forkName": "NuyyKatazou-TheAmazonia",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -30652,6 +30676,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/NuyyKatazou-TheAmazonia/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/NuyyKatazou-TheAmazonia/index.html",
+    "cover": "https://yx.ecy.al/NuyyKatazou-TheAmazonia/cover.png",
+    "publication": {
+      "commit": "f9d4c1fadb31969d5306f99ea6aadebf45696b23",
+      "checkedAt": "2026-11-09T21:53:52.524Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -30695,15 +30727,15 @@
     "owner": "Octx29",
     "name": "Max-Aura-The-Legend-of-John",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-27T00:14:32.450Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T19:33:07.282Z",
+    "checkedAt": "2026-11-09T21:51:02.580Z",
     "forkName": "Octx29-Max-Aura-The-Legend-of-John",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 97188,
     "dataSize": 905920,
     "sourceRepo": "Octx29/Max-Aura-The-Legend-of-John",
@@ -30728,7 +30760,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/",
     "upstreamCover": "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Octx29-Max-Aura-The-Legend-of-John/index.html",
+    "cover": "https://yx.ecy.al/Octx29-Max-Aura-The-Legend-of-John/cover.png",
+    "publication": {
+      "commit": "2c39b8dd01796448b5fbf1e72e3cb120fb23176c",
+      "checkedAt": "2026-11-09T21:53:31.353Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "oden-bremen",
