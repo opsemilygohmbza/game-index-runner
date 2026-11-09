@@ -12079,11 +12079,11 @@
     "owner": "EC-Developer-Hub",
     "name": "broadwayyyy",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-04T19:09:03.624Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:50:55.613Z",
+    "checkedAt": "2026-11-09T03:01:42.653Z",
     "forkName": "EC-Developer-Hub-broadwayyyy",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -12118,7 +12118,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/",
-    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/cover.png"
+    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/cover.png",
+    "pagesUrl": "https://yx.ecy.al/EC-Developer-Hub-broadwayyyy/index.html",
+    "cover": "https://yx.ecy.al/EC-Developer-Hub-broadwayyyy/cover.png",
+    "publication": {
+      "commit": "7d8cc71c0d6d88deb8e47f33de08c73692b7fbe1",
+      "checkedAt": "2026-11-09T03:06:29.928Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ec-developer-hub-conquesttttt",
