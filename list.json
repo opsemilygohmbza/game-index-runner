@@ -9541,15 +9541,15 @@
     "owner": "Danh295",
     "name": "Bromden-of-The-Ward",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:00.772Z",
+    "checkedAt": "2026-11-09T00:46:49.655Z",
     "forkName": "Danh295-Bromden-of-The-Ward",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 95014,
     "dataSize": 995429,
     "sourceRepo": "Danh295/Bromden-of-The-Ward",
@@ -9575,7 +9575,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Danh295-Bromden-of-The-Ward/",
     "upstreamCover": "https://webrpg.org/Danh295-Bromden-of-The-Ward/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Danh295-Bromden-of-The-Ward/index.html",
+    "cover": "https://yx.ecy.al/Danh295-Bromden-of-The-Ward/cover.png",
+    "publication": {
+      "commit": "7d522cb66fa883314b259374f064f63bcb23c23b",
+      "checkedAt": "2026-11-09T00:48:48.473Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "dapoofermaker-gm2",
@@ -9644,11 +9652,11 @@
     "owner": "dariusstrasel",
     "name": "RMMV_EngineDemo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T19:04:50.051Z",
+    "checkedAt": "2026-11-09T00:47:56.008Z",
     "forkName": "dariusstrasel-RMMV_EngineDemo",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -9676,6 +9684,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/dariusstrasel-RMMV_EngineDemo/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/dariusstrasel-RMMV_EngineDemo/index.html",
+    "cover": "https://yx.ecy.al/dariusstrasel-RMMV_EngineDemo/cover.png",
+    "publication": {
+      "commit": "c6eff345e79dc15da70332e0373d239d8ef34bef",
+      "checkedAt": "2026-11-09T00:49:57.291Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -9703,15 +9719,15 @@
     "owner": "DarkusFoxis",
     "name": "Sota_Game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "SotA_Beta_Dekstop/index.html",
-    "checkedAt": "2026-11-03T05:39:17.643Z",
+    "checkedAt": "2026-11-09T00:48:15.763Z",
     "forkName": "DarkusFoxis-Sota_Game",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 48617,
     "dataSize": 707575,
     "sourceRepo": "DarkusFoxis/Sota_Game",
@@ -9722,7 +9738,15 @@
     "reachabilityDetail": "https://webrpg.org/DarkusFoxis-Sota_Game/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/DarkusFoxis-Sota_Game/",
     "upstreamCover": "https://webrpg.org/DarkusFoxis-Sota_Game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/DarkusFoxis-Sota_Game/index.html",
+    "cover": "https://yx.ecy.al/DarkusFoxis-Sota_Game/cover.png",
+    "publication": {
+      "commit": "894675646f51cec8ad2b5a80d8cab3a30c432e32",
+      "checkedAt": "2026-11-09T00:51:03.213Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "darlos9d-turnbasedstrategy",
@@ -9764,11 +9788,11 @@
     "owner": "davidcolla11",
     "name": "La-Cruzada-del-Ebola",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:06:51.161Z",
+    "checkedAt": "2026-11-09T00:50:45.587Z",
     "forkName": "davidcolla11-La-Cruzada-del-Ebola",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -9801,6 +9825,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/davidcolla11-La-Cruzada-del-Ebola/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/davidcolla11-La-Cruzada-del-Ebola/index.html",
+    "cover": "https://yx.ecy.al/davidcolla11-La-Cruzada-del-Ebola/cover.png",
+    "publication": {
+      "commit": "4841e2118a63180012e9b9e2df7a5da6ce608fc1",
+      "checkedAt": "2026-11-09T00:53:17.463Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -9843,14 +9875,14 @@
     "owner": "DaxSoft",
     "name": "immersion_package",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "test-0.2.3/index.html",
-    "checkedAt": "2026-11-06T19:05:47.105Z",
+    "checkedAt": "2026-11-09T00:50:55.314Z",
     "forkName": "DaxSoft-immersion_package",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 170438,
     "dataSize": 704288,
     "sourceRepo": "DaxSoft/immersion_package",
@@ -9875,6 +9907,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/DaxSoft-immersion_package/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/DaxSoft-immersion_package/index.html",
+    "cover": "https://yx.ecy.al/DaxSoft-immersion_package/cover.png",
+    "publication": {
+      "commit": "f207dd0055d0be40acb8c841c2913e23b837c5a1",
+      "checkedAt": "2026-11-09T00:54:08.683Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
