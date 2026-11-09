@@ -13949,11 +13949,11 @@
     "owner": "EVAFG",
     "name": "A-stormy-story",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-16T23:57:27.055Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:38.191Z",
+    "checkedAt": "2026-11-09T05:08:55.463Z",
     "forkName": "EVAFG-A-stormy-story",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -13987,7 +13987,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/EVAFG-A-stormy-story/",
-    "upstreamCover": "https://webrpg.org/EVAFG-A-stormy-story/cover.png"
+    "upstreamCover": "https://webrpg.org/EVAFG-A-stormy-story/cover.png",
+    "pagesUrl": "https://yx.ecy.al/EVAFG-A-stormy-story/index.html",
+    "cover": "https://yx.ecy.al/EVAFG-A-stormy-story/cover.png",
+    "publication": {
+      "commit": "e63815fd421a37600953d246ca84486703363fb7",
+      "checkedAt": "2026-11-09T05:11:21.114Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "exadmax-proto",
