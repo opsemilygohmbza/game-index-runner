@@ -18432,12 +18432,12 @@
     "owner": "HashakGik",
     "name": "Raycasting-RMMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-24T07:38:30.244Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
     "forkName": "HashakGik-Raycasting-RMMV",
-    "checkedAt": "2026-11-01T12:52:42.049Z",
+    "checkedAt": "2026-11-09T10:06:35.638Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 115,
@@ -18464,7 +18464,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/HashakGik-Raycasting-RMMV/",
-    "upstreamCover": "https://webrpg.org/HashakGik-Raycasting-RMMV/cover.png"
+    "upstreamCover": "https://webrpg.org/HashakGik-Raycasting-RMMV/cover.png",
+    "pagesUrl": "https://yx.ecy.al/HashakGik-Raycasting-RMMV/index.html",
+    "cover": "https://yx.ecy.al/HashakGik-Raycasting-RMMV/cover.png",
+    "publication": {
+      "commit": "6d66c9422a9fd26de95a9b82200a2b2b84a15ceb",
+      "checkedAt": "2026-11-09T10:10:00.338Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "haturatu-sradjp",
@@ -18531,14 +18539,14 @@
     "owner": "Hectovargas",
     "name": "repositorioZELDA",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "carpeta de sprites aparte, hay muchos en la otra/SAMPLE PROJECT/Pixel Fantasy Tiles/index.html",
-    "checkedAt": "2026-11-04T01:12:38.137Z",
+    "checkedAt": "2026-11-09T10:06:43.973Z",
     "forkName": "Hectovargas-repositorioZELDA",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 159469,
     "dataSize": 804416,
     "sourceRepo": "Hectovargas/repositorioZELDA",
@@ -18556,7 +18564,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/Hectovargas-repositorioZELDA/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Hectovargas-repositorioZELDA/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "ce249c3ac9151291670af021b0cc9caca7594624",
+      "checkedAt": "2026-11-09T10:09:39.689Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hefsjgaeik-hefsjgaeik-github-io",
@@ -18763,12 +18779,12 @@
     "owner": "heronat",
     "name": "SI28_Test",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "heronat-SI28_Test",
-    "checkedAt": "2026-11-01T12:52:36.925Z",
+    "checkedAt": "2026-11-09T10:09:31.767Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -18800,7 +18816,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/heronat-SI28_Test/",
-    "upstreamCover": "https://webrpg.org/heronat-SI28_Test/cover.png"
+    "upstreamCover": "https://webrpg.org/heronat-SI28_Test/cover.png",
+    "pagesUrl": "https://yx.ecy.al/heronat-SI28_Test/index.html",
+    "cover": "https://yx.ecy.al/heronat-SI28_Test/cover.png",
+    "publication": {
+      "commit": "35938652c075227616b0b303ffa80d2e71737a36",
+      "checkedAt": "2026-11-09T10:13:57.942Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hibira-io-rpgmaker-mz",
@@ -18837,8 +18861,8 @@
     "owner": "hikko624",
     "name": "RPG_maker_MV_KC3_LT",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-11-05T19:43:45.856Z",
+    "status": "verified",
+    "checkedAt": "2026-11-09T10:09:41.702Z",
     "forkName": "hikko624-RPG_maker_MV_KC3_LT",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -18867,6 +18891,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/hikko624-RPG_maker_MV_KC3_LT/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/hikko624-RPG_maker_MV_KC3_LT/index.html",
+    "cover": "https://yx.ecy.al/hikko624-RPG_maker_MV_KC3_LT/cover.png",
+    "publication": {
+      "commit": "a6215c1c1e24b82842e8d58b37f8c349e6e56b33",
+      "checkedAt": "2026-11-09T10:12:01.613Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -18974,15 +19006,15 @@
     "owner": "Homestrife",
     "name": "RetroFantasy",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:20.262Z",
+    "checkedAt": "2026-11-09T10:11:44.480Z",
     "forkName": "Homestrife-RetroFantasy",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 111498,
     "dataSize": 3113657,
     "sourceRepo": "Homestrife/RetroFantasy",
@@ -19000,7 +19032,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Homestrife-RetroFantasy/",
     "upstreamCover": "https://webrpg.org/Homestrife-RetroFantasy/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Homestrife-RetroFantasy/index.html",
+    "cover": "https://yx.ecy.al/Homestrife-RetroFantasy/cover.png",
+    "publication": {
+      "commit": "a01af4854d3b767b5492c3a5d6407430f8275fa0",
+      "checkedAt": "2026-11-09T10:14:21.599Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "horke-root-echoofdespire",
