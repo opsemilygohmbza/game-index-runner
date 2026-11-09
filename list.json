@@ -28051,16 +28051,16 @@
     "owner": "Mik-kaewwichian",
     "name": "RPG_Game_mv_maker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Game_finish_canplay/Calulaty/www/index.html",
-    "checkedAt": "2026-06-19T06:29:18.025Z",
+    "checkedAt": "2026-11-09T19:01:23.502Z",
     "forkName": "Mik-kaewwichian-RPG_Game_mv_maker",
-    "entryPath": "Game_finish_canplay/Calulaty/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 136332,
-    "dataSize": 0,
+    "dataSize": 1042599,
     "sourceRepo": "Mik-kaewwichian/RPG_Game_mv_maker",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "801faa9b51641b481d562f51d7f0fec3c6775047",
@@ -28083,7 +28083,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Mik-kaewwichian-RPG_Game_mv_maker/",
     "upstreamCover": "https://webrpg.org/Mik-kaewwichian-RPG_Game_mv_maker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Mik-kaewwichian-RPG_Game_mv_maker/index.html",
+    "cover": "https://yx.ecy.al/Mik-kaewwichian-RPG_Game_mv_maker/cover.png",
+    "publication": {
+      "commit": "f1a800e3280f519fd3c9d005987ab6087cbbc75e",
+      "checkedAt": "2026-11-09T19:06:52.566Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mikanhako1024-rpgmaker-is-you",
@@ -28092,11 +28100,11 @@
     "owner": "MikanHako1024",
     "name": "RpgMaker-is-you",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-06-19T06:29:24.858Z",
+    "checkedAt": "2026-11-09T19:01:33.739Z",
     "forkName": "MikanHako1024-RpgMaker-is-you",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -28125,7 +28133,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/MikanHako1024-RpgMaker-is-you/",
     "upstreamCover": "https://webrpg.org/MikanHako1024-RpgMaker-is-you/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MikanHako1024-RpgMaker-is-you/index.html",
+    "cover": "https://yx.ecy.al/MikanHako1024-RpgMaker-is-you/cover.png",
+    "publication": {
+      "commit": "619a69050382a0d005bcf914669b1bbdb7df2d17",
+      "checkedAt": "2026-11-09T19:06:52.587Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mikerotchburnes103-scholaris-learning",
