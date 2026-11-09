@@ -23338,11 +23338,11 @@
     "owner": "KinoAR",
     "name": "Lunatic-Core",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:24:57.552Z",
+    "checkedAt": "2026-11-09T14:32:50.606Z",
     "forkName": "KinoAR-Lunatic-Core",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -23365,7 +23365,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/KinoAR-Lunatic-Core/",
     "upstreamCover": "https://webrpg.org/KinoAR-Lunatic-Core/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/KinoAR-Lunatic-Core/index.html",
+    "cover": "https://yx.ecy.al/KinoAR-Lunatic-Core/cover.png",
+    "publication": {
+      "commit": "cff3c1227ec9ff86c2a492495808d439c92dfada",
+      "checkedAt": "2026-11-09T14:37:16.475Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kittenception-kbfkwfkwbfwk",
