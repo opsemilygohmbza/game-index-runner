@@ -19110,11 +19110,11 @@
     "owner": "hoshiyomi0322",
     "name": "Guonuo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T22:13:33.709Z",
+    "checkedAt": "2026-11-09T10:13:57.312Z",
     "forkName": "hoshiyomi0322-Guonuo",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -19142,7 +19142,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/hoshiyomi0322-Guonuo/",
     "upstreamCover": "https://webrpg.org/hoshiyomi0322-Guonuo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/hoshiyomi0322-Guonuo/index.html",
+    "cover": "https://yx.ecy.al/hoshiyomi0322-Guonuo/cover.png",
+    "publication": {
+      "commit": "c965cc7a1bff8bcb45d5f40189df30c2c2b40512",
+      "checkedAt": "2026-11-09T10:17:21.514Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "html-online-game-natsu-no-sagashimono",
@@ -19218,15 +19226,15 @@
     "owner": "huanbieyuan",
     "name": "huanbieyuan.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "etudes01/index.html",
-    "checkedAt": "2026-11-04T01:12:38.961Z",
+    "checkedAt": "2026-11-09T10:14:15.828Z",
     "forkName": "huanbieyuan-huanbieyuan.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93796,
     "dataSize": 683490,
     "sourceRepo": "huanbieyuan/huanbieyuan.github.io",
@@ -19251,7 +19259,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/",
     "upstreamCover": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/huanbieyuan-huanbieyuan.github.io/index.html",
+    "cover": "https://yx.ecy.al/huanbieyuan-huanbieyuan.github.io/cover.png",
+    "publication": {
+      "commit": "b350de50a452ccedb3a55b812c34d9a6dac73ffb",
+      "checkedAt": "2026-11-09T10:18:02.671Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "huanggaole-huanggaole-github-io-a2f0383d",
