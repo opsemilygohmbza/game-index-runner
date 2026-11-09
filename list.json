@@ -29418,15 +29418,15 @@
     "owner": "Na-Na-Ti",
     "name": "Game-Design",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-27T00:14:32.450Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T19:33:06.814Z",
+    "checkedAt": "2026-11-09T20:24:49.738Z",
     "forkName": "Na-Na-Ti-Game-Design",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 148267,
     "dataSize": 1402848,
     "sourceRepo": "Na-Na-Ti/Game-Design",
@@ -29452,7 +29452,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Na-Na-Ti-Game-Design/",
     "upstreamCover": "https://webrpg.org/Na-Na-Ti-Game-Design/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Na-Na-Ti-Game-Design/index.html",
+    "cover": "https://yx.ecy.al/Na-Na-Ti-Game-Design/cover.png",
+    "publication": {
+      "commit": "92e42d9979d59f7c55cbbcf41966a29c00cdc925",
+      "checkedAt": "2026-11-09T20:27:41.117Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nad795-memories-of-you-demo-version",
