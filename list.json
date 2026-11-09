@@ -19501,15 +19501,15 @@
     "owner": "ian2a",
     "name": "yyybd",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T05:36:44.658Z",
+    "checkedAt": "2026-11-09T10:51:19.283Z",
     "forkName": "ian2a-yyybd",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 31028,
     "dataSize": 1037870,
     "sourceRepo": "ian2a/yyybd",
@@ -19520,7 +19520,15 @@
     "reachabilityDetail": "https://webrpg.org/ian2a-yyybd/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/ian2a-yyybd/",
     "upstreamCover": "https://webrpg.org/ian2a-yyybd/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ian2a-yyybd/index.html",
+    "cover": "https://yx.ecy.al/ian2a-yyybd/cover.png",
+    "publication": {
+      "commit": "e3561ecd41fadf150d9864eaa2f9c43b3dcf7e77",
+      "checkedAt": "2026-11-09T10:53:29.426Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "icemastert-mz3d-project",
@@ -19529,14 +19537,14 @@
     "owner": "IceMasterT",
     "name": "MZ3D-Project",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T05:37:07.230Z",
+    "checkedAt": "2026-11-09T10:51:29.961Z",
     "forkName": "IceMasterT-MZ3D-Project",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 44273,
     "dataSize": 1005683,
     "sourceRepo": "IceMasterT/MZ3D-Project",
@@ -19554,7 +19562,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/IceMasterT-MZ3D-Project/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/IceMasterT-MZ3D-Project/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "16c16a7bf5c1aa44193bf9869dc8989589758bf1",
+      "checkedAt": "2026-11-09T10:55:44.021Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "icyflamberge-dd",
@@ -19658,9 +19674,9 @@
     "owner": "Ihatechickfila",
     "name": "Tickling-escape-2",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-11-05T19:43:02.273Z",
+    "checkedAt": "2026-11-09T10:53:31.171Z",
     "forkName": "Ihatechickfila-Tickling-escape-2",
-    "status": "indexed",
+    "status": "verified",
     "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 233722,
@@ -19680,7 +19696,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/",
     "upstreamCover": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Ihatechickfila-Tickling-escape-2/index.html",
+    "cover": "https://yx.ecy.al/Ihatechickfila-Tickling-escape-2/cover.png",
+    "publication": {
+      "commit": "63522e6051b551861bb4c9062117679196316a15",
+      "checkedAt": "2026-11-09T10:56:50.476Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "iiviigames-fnh-pwa-emtfr-luv-iivii",
@@ -19827,17 +19851,17 @@
     "owner": "ImaginaryVillain",
     "name": "community_lights",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-29T10:54:31.542Z",
     "source": "github-code-search",
     "sourcePath": "CommunityLightingMVDemo/index.html",
     "forkName": "ImaginaryVillain-community_lights",
-    "checkedAt": "2026-11-01T12:53:14.040Z",
-    "entryPath": "CommunityLightingMVDemo/index.html",
+    "checkedAt": "2026-11-09T10:56:27.567Z",
+    "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 115,
     "totalSize": 123481,
-    "dataSize": 0,
+    "dataSize": 1414951,
     "sourceRepo": "ImaginaryVillain/community_lights",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "8e01c6ff34af4b939c1398df7f9b4f09cc13c01b",
@@ -19859,7 +19883,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/ImaginaryVillain-community_lights/",
-    "upstreamCover": "https://webrpg.org/ImaginaryVillain-community_lights/cover.png"
+    "upstreamCover": "https://webrpg.org/ImaginaryVillain-community_lights/cover.png",
+    "pagesUrl": "https://yx.ecy.al/ImaginaryVillain-community_lights/index.html",
+    "cover": "https://yx.ecy.al/ImaginaryVillain-community_lights/cover.png",
+    "publication": {
+      "commit": "f67c487ff4a0dbda58af2ac05800b49340b58571",
+      "checkedAt": "2026-11-09T11:00:12.927Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "immortal3180-project-rpg",
@@ -19963,16 +19995,16 @@
     "owner": "Imtomzizle",
     "name": "-Write-399-RPG-Maker-Game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Write399Game/index.html",
-    "checkedAt": "2026-06-18T22:16:45.959Z",
+    "checkedAt": "2026-11-09T10:57:14.822Z",
     "forkName": "Imtomzizle-Write-399-RPG-Maker-Game",
-    "entryPath": "Write399Game/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 501439,
-    "dataSize": 0,
+    "dataSize": 2016518,
     "sourceRepo": "Imtomzizle/-Write-399-RPG-Maker-Game",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "dc9a7198f7d417333be87a054aa0f33318ba8f74",
@@ -19996,7 +20028,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/",
     "upstreamCover": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Imtomzizle-Write-399-RPG-Maker-Game/index.html",
+    "cover": "https://yx.ecy.al/Imtomzizle-Write-399-RPG-Maker-Game/cover.png",
+    "publication": {
+      "commit": "e9dc6ac3c93359ea981aa48c9bac228ca1523440",
+      "checkedAt": "2026-11-09T11:00:32.690Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "inababyakko-ssplayerforrpgmv",
