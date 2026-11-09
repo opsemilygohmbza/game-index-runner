@@ -14470,11 +14470,11 @@
     "owner": "FangBruce",
     "name": "RPG_game1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:31.634Z",
+    "checkedAt": "2026-11-09T05:48:53.768Z",
     "forkName": "FangBruce-RPG_game1",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14507,6 +14507,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/FangBruce-RPG_game1/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/FangBruce-RPG_game1/index.html",
+    "cover": "https://yx.ecy.al/FangBruce-RPG_game1/cover.png",
+    "publication": {
+      "commit": "abf012bfc897140a07679b7fbc551cb215c390ac",
+      "checkedAt": "2026-11-09T05:51:44.754Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
