@@ -10587,15 +10587,15 @@
     "owner": "dg12345689",
     "name": "rpgmaker0730",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T19:04:48.531Z",
+    "checkedAt": "2026-11-09T01:33:00.945Z",
     "forkName": "dg12345689-rpgmaker0730",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 87281,
+    "totalSize": 87280,
     "dataSize": 763010,
     "sourceRepo": "dg12345689/rpgmaker0730",
     "sourceDefaultBranch": "main",
@@ -10625,6 +10625,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/dg12345689-rpgmaker0730/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/dg12345689-rpgmaker0730/index.html",
+    "cover": "https://yx.ecy.al/dg12345689-rpgmaker0730/cover.png",
+    "publication": {
+      "commit": "0f60dfdc500e47602b775a5cc932916271647eb8",
+      "checkedAt": "2026-11-09T01:36:07.209Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -10652,15 +10660,15 @@
     "owner": "didgogns",
     "name": "MineHero",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:07:29.661Z",
+    "checkedAt": "2026-11-09T01:33:11.392Z",
     "forkName": "didgogns-MineHero",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 113087,
+    "totalSize": 113086,
     "dataSize": 21053190,
     "sourceRepo": "didgogns/MineHero",
     "sourceDefaultBranch": "main",
@@ -10690,6 +10698,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/didgogns-MineHero/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/didgogns-MineHero/index.html",
+    "cover": "https://yx.ecy.al/didgogns-MineHero/cover.png",
+    "publication": {
+      "commit": "ff59fda30ff2fa8bcf3bfe7282d463481619e33e",
+      "checkedAt": "2026-11-09T01:35:58.259Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
