@@ -23382,15 +23382,15 @@
     "owner": "Kittenception",
     "name": "kbfkwfkwbfwk",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:59.217Z",
+    "checkedAt": "2026-11-09T14:34:53.592Z",
     "forkName": "Kittenception-kbfkwfkwbfwk",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 18887,
     "dataSize": 601258,
     "sourceRepo": "Kittenception/kbfkwfkwbfwk",
@@ -23409,7 +23409,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Kittenception-kbfkwfkwbfwk/",
     "upstreamCover": "https://webrpg.org/Kittenception-kbfkwfkwbfwk/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Kittenception-kbfkwfkwbfwk/index.html",
+    "cover": "https://yx.ecy.al/Kittenception-kbfkwfkwbfwk/cover.png",
+    "publication": {
+      "commit": "e7e7e6be3f9d59f04b4b139b3b02c8f377d4b75b",
+      "checkedAt": "2026-11-09T14:41:03.605Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "klimberkg-mask-of-dead-2-shadow-of-pelagius",
@@ -23418,11 +23426,11 @@
     "owner": "KlimberKG",
     "name": "Mask_of_Dead_2_Shadow_of_Pelagius",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:25:05.717Z",
+    "checkedAt": "2026-11-09T14:35:03.932Z",
     "forkName": "KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -23452,7 +23460,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/",
     "upstreamCover": "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/index.html",
+    "cover": "https://yx.ecy.al/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/cover.png",
+    "publication": {
+      "commit": "288d5869e3f286b42f19895fa67bba639a7d3859",
+      "checkedAt": "2026-11-09T14:41:03.615Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "klsdf-get-free-javascript-learning-materials",
