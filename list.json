@@ -10224,15 +10224,15 @@
     "owner": "demostenespedrosa",
     "name": "1889",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-19T20:22:33.468Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T00:25:19.161Z",
+    "checkedAt": "2026-11-09T01:27:22.690Z",
     "forkName": "demostenespedrosa-1889",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 332709,
     "dataSize": 840313,
     "sourceRepo": "demostenespedrosa/1889",
@@ -10257,7 +10257,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/demostenespedrosa-1889/",
     "upstreamCover": "https://webrpg.org/demostenespedrosa-1889/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/demostenespedrosa-1889/index.html",
+    "cover": "https://yx.ecy.al/demostenespedrosa-1889/cover.png",
+    "publication": {
+      "commit": "a0338838440ceec8d5bc8d07d116bcb3351e7bbf",
+      "checkedAt": "2026-11-09T01:29:20.922Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "denmarx-resume23-24",
@@ -10266,11 +10274,11 @@
     "owner": "denmarx",
     "name": "resume23-24",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "public/rpg/rpg.html",
-    "checkedAt": "2026-11-02T00:23:55.191Z",
+    "checkedAt": "2026-11-09T01:27:31.112Z",
     "forkName": "denmarx-resume23-24",
     "entryPath": "rpg.html",
     "coverPath": "cover.png",
@@ -10299,7 +10307,8 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/denmarx-resume23-24/rpg.html",
     "upstreamCover": "https://webrpg.org/denmarx-resume23-24/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "deogracia-rpgmaker-creditsmarkdown",
@@ -10341,15 +10350,15 @@
     "owner": "Destiny236",
     "name": "Narcissuweb",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T19:05:08.787Z",
+    "checkedAt": "2026-11-09T01:28:27.799Z",
     "forkName": "Destiny236-Narcissuweb",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 193232,
+    "totalSize": 193101,
     "dataSize": 1826425,
     "sourceRepo": "Destiny236/Narcissuweb",
     "sourceDefaultBranch": "master",
@@ -10384,6 +10393,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Destiny236-Narcissuweb/index.html",
       "recoveredAt": "2026-11-08T03:52:23.454Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Destiny236-Narcissuweb/index.html",
+    "cover": "https://yx.ecy.al/Destiny236-Narcissuweb/cover.png",
+    "publication": {
+      "commit": "ccae9a51a7ff5a91374d4331f96f2cc659a3a07e",
+      "checkedAt": "2026-11-09T01:31:13.050Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -10393,15 +10410,15 @@
     "owner": "devdinho",
     "name": "Ascending-Magic",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-06T19:05:32.168Z",
+    "checkedAt": "2026-11-09T01:28:47.604Z",
     "forkName": "devdinho-Ascending-Magic",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 222807,
+    "totalSize": 235721,
     "dataSize": 648516,
     "sourceRepo": "devdinho/Ascending-Magic",
     "sourceDefaultBranch": "main",
@@ -10432,6 +10449,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/devdinho-Ascending-Magic/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/devdinho-Ascending-Magic/index.html",
+    "cover": "https://yx.ecy.al/devdinho-Ascending-Magic/cover.png",
+    "publication": {
+      "commit": "48cfed3f7daed93ecc74364256fed53f0fac4f82",
+      "checkedAt": "2026-11-09T01:31:22.265Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -10505,15 +10530,15 @@
     "owner": "df478",
     "name": "Fire-And-Root",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:06.609Z",
+    "checkedAt": "2026-11-09T01:30:59.395Z",
     "forkName": "df478-Fire-And-Root",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 21244,
     "dataSize": 773101,
     "sourceRepo": "df478/Fire-And-Root",
@@ -10537,7 +10562,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/df478-Fire-And-Root/",
     "upstreamCover": "https://webrpg.org/df478-Fire-And-Root/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/df478-Fire-And-Root/index.html",
+    "cover": "https://yx.ecy.al/df478-Fire-And-Root/cover.png",
+    "publication": {
+      "commit": "396e232431bbb93eb973d8241dcf4cb5a14c9d9a",
+      "checkedAt": "2026-11-09T01:33:18.388Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "dg12345689-rpgmaker0730",
