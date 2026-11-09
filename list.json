@@ -25968,11 +25968,11 @@
     "owner": "Luerl21",
     "name": "RPGMakerMV1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-20T23:06:31.201Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-31T21:10:50.235Z",
+    "checkedAt": "2026-11-09T16:42:16.841Z",
     "forkName": "Luerl21-RPGMakerMV1",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -26006,7 +26006,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/Luerl21-RPGMakerMV1/",
-    "upstreamCover": "https://webrpg.org/Luerl21-RPGMakerMV1/cover.png"
+    "upstreamCover": "https://webrpg.org/Luerl21-RPGMakerMV1/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Luerl21-RPGMakerMV1/index.html",
+    "cover": "https://yx.ecy.al/Luerl21-RPGMakerMV1/cover.png",
+    "publication": {
+      "commit": "e20434a610a60b4f9a6462e4a4f58c1043f9b170",
+      "checkedAt": "2026-11-09T16:45:43.014Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "luics415-eternalmazesrpg-windows",
@@ -26015,15 +26023,15 @@
     "owner": "Luics415",
     "name": "EternalMazesRPG-Windows",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-02T20:32:14.730Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "forkName": "Luics415-EternalMazesRPG-Windows",
-    "checkedAt": "2026-11-01T19:32:21.358Z",
+    "checkedAt": "2026-11-09T16:42:26.635Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 395841,
     "dataSize": 8420861,
     "sourceRepo": "Luics415/EternalMazesRPG-Windows",
@@ -26048,7 +26056,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/",
     "upstreamCover": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Luics415-EternalMazesRPG-Windows/index.html",
+    "cover": "https://yx.ecy.al/Luics415-EternalMazesRPG-Windows/cover.png",
+    "publication": {
+      "commit": "7d3dde85a8fbae635106399dcc2265143daea07e",
+      "checkedAt": "2026-11-09T16:46:57.460Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "luisaugusto2005-cheeesss",
@@ -26057,16 +26073,16 @@
     "owner": "LuisAugusto2005",
     "name": "Cheeesss",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-05T10:35:27.715Z",
+    "checkedAt": "2026-11-09T16:45:18.608Z",
     "forkName": "LuisAugusto2005-Cheeesss",
-    "entryPath": "TheodosiusPlayground/Zadrez/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 88981,
-    "dataSize": 0,
+    "totalSize": 88716,
+    "dataSize": 798970,
     "sourceRepo": "LuisAugusto2005/Cheeesss",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "c876572714a0382dd7a10b61acd5e016e148c3ab",
@@ -26079,6 +26095,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/LuisAugusto2005-Cheeesss/TheodosiusPlayground/Zadrez/www/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/LuisAugusto2005-Cheeesss/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "87eed98144bf463dc241b149141ce5b5650720f2",
+      "checkedAt": "2026-11-09T16:48:10.366Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
