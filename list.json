@@ -14585,11 +14585,11 @@
     "owner": "favoriteheroes",
     "name": "Re-Tale",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:56.166Z",
+    "checkedAt": "2026-11-09T05:50:56.081Z",
     "forkName": "favoriteheroes-Re-Tale",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14626,6 +14626,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/favoriteheroes-Re-Tale/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/favoriteheroes-Re-Tale/index.html",
+    "cover": "https://yx.ecy.al/favoriteheroes-Re-Tale/cover.png",
+    "publication": {
+      "commit": "a2fda6b2b24f0616868b4f6e7d22f1d12d945bb7",
+      "checkedAt": "2026-11-09T05:53:56.773Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14635,15 +14643,15 @@
     "owner": "FCV17",
     "name": "secret-gpt",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:38.123Z",
+    "checkedAt": "2026-11-09T05:51:05.430Z",
     "forkName": "FCV17-secret-gpt",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 100572,
     "dataSize": 894209,
     "sourceRepo": "FCV17/secret-gpt",
@@ -14654,7 +14662,15 @@
     "reachabilityDetail": "https://webrpg.org/FCV17-secret-gpt/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/FCV17-secret-gpt/",
     "upstreamCover": "https://webrpg.org/FCV17-secret-gpt/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/FCV17-secret-gpt/index.html",
+    "cover": "https://yx.ecy.al/FCV17-secret-gpt/cover.png",
+    "publication": {
+      "commit": "cd31df5218da1438c33945c90a556e8c6be9409c",
+      "checkedAt": "2026-11-09T05:54:03.612Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "feilongproject-fubuki-h-game",
