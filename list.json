@@ -12183,11 +12183,11 @@
     "owner": "EC-Developer-Hub",
     "name": "desolationnn",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T21:11:11.748Z",
+    "checkedAt": "2026-11-09T03:35:35.221Z",
     "forkName": "EC-Developer-Hub-desolationnn",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -12222,7 +12222,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/EC-Developer-Hub-desolationnn/",
-    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-desolationnn/cover.png"
+    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-desolationnn/cover.png",
+    "pagesUrl": "https://yx.ecy.al/EC-Developer-Hub-desolationnn/index.html",
+    "cover": "https://yx.ecy.al/EC-Developer-Hub-desolationnn/cover.png",
+    "publication": {
+      "commit": "76928a7da2acb3cadbe12f179d16f1e0c159f956",
+      "checkedAt": "2026-11-09T03:38:10.886Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ec-developer-hub-powerrrr",
@@ -12279,11 +12287,11 @@
     "owner": "EC-Developer-Hub",
     "name": "showdownnn",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-04T19:09:03.624Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:50:45.190Z",
+    "checkedAt": "2026-11-09T03:37:48.243Z",
     "forkName": "EC-Developer-Hub-showdownnn",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -12303,7 +12311,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/EC-Developer-Hub-showdownnn/",
-    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-showdownnn/cover.png"
+    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-showdownnn/cover.png",
+    "pagesUrl": "https://yx.ecy.al/EC-Developer-Hub-showdownnn/index.html",
+    "cover": "https://yx.ecy.al/EC-Developer-Hub-showdownnn/cover.png",
+    "publication": {
+      "commit": "0fb5642ae2527cdb1e7d30fe4c005bbbfbee0f59",
+      "checkedAt": "2026-11-09T03:40:22.392Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ec-developer-hub-virusssss",
@@ -12312,11 +12328,11 @@
     "owner": "EC-Developer-Hub",
     "name": "virusssss",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T08:34:02.944Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:41:21.402Z",
+    "checkedAt": "2026-11-09T03:39:49.680Z",
     "forkName": "EC-Developer-Hub-virusssss",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -12336,7 +12352,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/EC-Developer-Hub-virusssss/",
-    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-virusssss/cover.png"
+    "upstreamCover": "https://webrpg.org/EC-Developer-Hub-virusssss/cover.png",
+    "pagesUrl": "https://yx.ecy.al/EC-Developer-Hub-virusssss/index.html",
+    "cover": "https://yx.ecy.al/EC-Developer-Hub-virusssss/cover.png",
+    "publication": {
+      "commit": "6674e494bfac63a8cd8c2ffe2bd24798bbf02110",
+      "checkedAt": "2026-11-09T03:42:12.569Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "eclipse353-luminis",
@@ -12363,15 +12387,15 @@
     "owner": "edneyreis999",
     "name": "Jonny",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Jhonny/index.html",
-    "checkedAt": "2026-11-03T20:59:59.744Z",
+    "checkedAt": "2026-11-09T03:39:59.618Z",
     "forkName": "edneyreis999-Jonny",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 414774,
     "dataSize": 5221664,
     "sourceRepo": "edneyreis999/Jonny",
@@ -12397,7 +12421,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/edneyreis999-Jonny/",
     "upstreamCover": "https://webrpg.org/edneyreis999-Jonny/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/edneyreis999-Jonny/index.html",
+    "cover": "https://yx.ecy.al/edneyreis999-Jonny/cover.png",
+    "publication": {
+      "commit": "852786e84f80c97c75a54d48af4c9c223cb2b945",
+      "checkedAt": "2026-11-09T03:43:03.060Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "edneyreis999-projectx",
@@ -12427,15 +12459,15 @@
     "owner": "eduardomourar",
     "name": "easyrpg-web",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "alpha-omega/index.html",
-    "checkedAt": "2026-10-31T04:22:07.735Z",
+    "checkedAt": "2026-11-09T03:42:10.259Z",
     "forkName": "eduardomourar-easyrpg-web",
     "entryPath": "index.html",
-    "validationScore": 118,
-    "totalSize": 102245,
+    "validationScore": 115,
+    "totalSize": 102243,
     "dataSize": 1588953,
     "sourceRepo": "eduardomourar/easyrpg-web",
     "sourceDefaultBranch": "master",
@@ -12465,6 +12497,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/eduardomourar-easyrpg-web/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/eduardomourar-easyrpg-web/index.html",
+    "cover": "https://yx.ecy.al/eduardomourar-easyrpg-web/cover.png",
+    "publication": {
+      "commit": "28b3725eb62f2db86fa327987e564420cb5f43a0",
+      "checkedAt": "2026-11-09T03:44:46.381Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
