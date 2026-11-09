@@ -13342,16 +13342,16 @@
     "owner": "Epic12Terrarian",
     "name": "Road-to-Joshsdale",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "testProject/index.html",
-    "checkedAt": "2026-10-31T04:22:50.764Z",
+    "checkedAt": "2026-11-09T05:02:39.856Z",
     "forkName": "Epic12Terrarian-Road-to-Joshsdale",
-    "entryPath": "testProject/index.html",
-    "validationScore": 115,
+    "entryPath": "index.html",
+    "validationScore": 118,
     "totalSize": 467672,
-    "dataSize": 0,
+    "dataSize": 1009588,
     "sourceRepo": "Epic12Terrarian/Road-to-Joshsdale",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "c8c04b3ff18a40ab7c7674189020f35bdc7ceb41",
@@ -13379,6 +13379,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Epic12Terrarian-Road-to-Joshsdale/testProject/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Epic12Terrarian-Road-to-Joshsdale/index.html",
+    "cover": "https://yx.ecy.al/Epic12Terrarian-Road-to-Joshsdale/cover.png",
+    "publication": {
+      "commit": "228f6a92511015e162a80ff35a22a66d6c5c51b6",
+      "checkedAt": "2026-11-09T05:03:57.022Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13388,11 +13396,11 @@
     "owner": "EpxStudio",
     "name": "Universe25",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:17.640Z",
+    "checkedAt": "2026-11-09T05:02:48.214Z",
     "forkName": "EpxStudio-Universe25",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -13412,7 +13420,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/EpxStudio-Universe25/",
-    "upstreamCover": "https://webrpg.org/EpxStudio-Universe25/cover.png"
+    "upstreamCover": "https://webrpg.org/EpxStudio-Universe25/cover.png",
+    "pagesUrl": "https://yx.ecy.al/EpxStudio-Universe25/index.html",
+    "cover": "https://yx.ecy.al/EpxStudio-Universe25/cover.png",
+    "publication": {
+      "commit": "3cac02aaa5870eddec84c0eebd085ee3af52790c",
+      "checkedAt": "2026-11-09T05:04:30.177Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "erasmojunkes-mutant-codebreaker",
@@ -13421,11 +13437,11 @@
     "owner": "erasmojunkes",
     "name": "Mutant-Codebreaker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:22:30.897Z",
+    "checkedAt": "2026-11-09T05:03:53.573Z",
     "forkName": "erasmojunkes-Mutant-Codebreaker",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -13459,6 +13475,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/erasmojunkes-Mutant-Codebreaker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/erasmojunkes-Mutant-Codebreaker/index.html",
+    "cover": "https://yx.ecy.al/erasmojunkes-Mutant-Codebreaker/cover.png",
+    "publication": {
+      "commit": "a97ce88d9f3ea6b49395e6546ce834da03790b95",
+      "checkedAt": "2026-11-09T05:06:38.333Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13593,11 +13617,11 @@
     "owner": "Erizki0712",
     "name": "ONL-MV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:22:48.209Z",
+    "checkedAt": "2026-11-09T05:04:14.268Z",
     "forkName": "Erizki0712-ONL-MV",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -13631,6 +13655,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Erizki0712-ONL-MV/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Erizki0712-ONL-MV/index.html",
+    "cover": "https://yx.ecy.al/Erizki0712-ONL-MV/cover.png",
+    "publication": {
+      "commit": "88c9917ed75dfbad948fe05e6b6a0a2d7b8fe5c6",
+      "checkedAt": "2026-11-09T05:07:03.648Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -13676,15 +13708,15 @@
     "owner": "eslym",
     "name": "rmmz-cordova",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "example/www/index.html",
-    "checkedAt": "2026-11-03T13:49:55.877Z",
+    "checkedAt": "2026-11-09T05:06:15.720Z",
     "forkName": "eslym-rmmz-cordova",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 17180,
     "dataSize": 531872,
     "sourceRepo": "eslym/rmmz-cordova",
@@ -13703,7 +13735,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/eslym-rmmz-cordova/",
     "upstreamCover": "https://webrpg.org/eslym-rmmz-cordova/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/eslym-rmmz-cordova/index.html",
+    "cover": "https://yx.ecy.al/eslym-rmmz-cordova/cover.png",
+    "publication": {
+      "commit": "b0de40ddfec20cc2acf1321c8b4bf0d8b949c704",
+      "checkedAt": "2026-11-09T05:09:03.822Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "etamus-lostmemories",
