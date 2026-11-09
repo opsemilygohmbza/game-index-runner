@@ -27022,11 +27022,11 @@
     "owner": "masahirotanaka",
     "name": "cordova-final-quest",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-05T10:35:32.236Z",
+    "checkedAt": "2026-11-09T17:31:14.541Z",
     "forkName": "masahirotanaka-cordova-final-quest",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -27059,6 +27059,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/masahirotanaka-cordova-final-quest/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/masahirotanaka-cordova-final-quest/index.html",
+    "cover": "https://yx.ecy.al/masahirotanaka-cordova-final-quest/cover.png",
+    "publication": {
+      "commit": "ef719732665f01207c12cd249a652ba7af4edb68",
+      "checkedAt": "2026-11-09T17:36:16.020Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -27084,11 +27092,11 @@
     "owner": "masudinn",
     "name": "Animal-Hunting",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-07T09:47:23.545Z",
+    "checkedAt": "2026-11-09T17:31:25.050Z",
     "forkName": "masudinn-Animal-Hunting",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -27122,6 +27130,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/masudinn-Animal-Hunting/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/masudinn-Animal-Hunting/index.html",
+    "cover": "https://yx.ecy.al/masudinn-Animal-Hunting/cover.png",
+    "publication": {
+      "commit": "d6bd07c6fd6cab90c73c777288cae9228bc51be0",
+      "checkedAt": "2026-11-09T17:36:15.827Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
