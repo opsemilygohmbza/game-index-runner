@@ -9978,16 +9978,16 @@
     "owner": "dcarlin",
     "name": "Devil-King---RPGMaker-MV-Game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T16:29:52.776Z",
     "source": "github-code-search",
     "sourcePath": "Devil King/www/index.html",
-    "checkedAt": "2026-10-31T11:52:37.850Z",
+    "checkedAt": "2026-11-09T00:53:15.602Z",
     "forkName": "dcarlin-Devil-King-RPGMaker-MV-Game",
-    "entryPath": "Devil King/www/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 535079,
-    "dataSize": 0,
+    "dataSize": 1328172,
     "sourceRepo": "dcarlin/Devil-King---RPGMaker-MV-Game",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "cf7bd34b765a2f2a10a9656440ffda710745304c",
@@ -10002,7 +10002,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/",
-    "upstreamCover": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/cover.png"
+    "upstreamCover": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/cover.png",
+    "pagesUrl": "https://yx.ecy.al/dcarlin-Devil-King-RPGMaker-MV-Game/index.html",
+    "cover": "https://yx.ecy.al/dcarlin-Devil-King-RPGMaker-MV-Game/cover.png",
+    "publication": {
+      "commit": "9c0fcc33c97036a7dceb13d4777329c2abae1656",
+      "checkedAt": "2026-11-09T00:58:45.582Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "ddceka-faraway-celesphia",
@@ -10161,11 +10169,11 @@
     "owner": "Dejely-Bean-Studios",
     "name": "Crime-Never-Sleeps",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:06:54.230Z",
+    "checkedAt": "2026-11-09T00:54:02.810Z",
     "forkName": "Dejely-Bean-Studios-Crime-Never-Sleeps",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -10199,6 +10207,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Dejely-Bean-Studios-Crime-Never-Sleeps/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Dejely-Bean-Studios-Crime-Never-Sleeps/index.html",
+    "cover": "https://yx.ecy.al/Dejely-Bean-Studios-Crime-Never-Sleeps/cover.png",
+    "publication": {
+      "commit": "8e4f2912df86c26ca96f7d5dcd33f8ece35535cc",
+      "checkedAt": "2026-11-09T00:58:46.082Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
