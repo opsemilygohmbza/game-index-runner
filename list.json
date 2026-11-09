@@ -21173,11 +21173,11 @@
     "owner": "jesussantos05",
     "name": "GreenHorizon",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:23.203Z",
+    "checkedAt": "2026-11-09T12:23:34.963Z",
     "forkName": "jesussantos05-GreenHorizon",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -21205,7 +21205,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/jesussantos05-GreenHorizon/",
     "upstreamCover": "https://webrpg.org/jesussantos05-GreenHorizon/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/jesussantos05-GreenHorizon/index.html",
+    "cover": "https://yx.ecy.al/jesussantos05-GreenHorizon/cover.png",
+    "publication": {
+      "commit": "d7b5acec5f9f90eeb25b6a0ab5b45495c83d74b0",
+      "checkedAt": "2026-11-09T12:25:44.322Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jeysser-a-torre",
@@ -21233,15 +21241,15 @@
     "owner": "jhadden25",
     "name": "BrandedShadow",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "BrandedShadow/index.html",
-    "checkedAt": "2026-11-03T05:37:29.519Z",
+    "checkedAt": "2026-11-09T12:25:05.803Z",
     "forkName": "jhadden25-BrandedShadow",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 96780,
     "dataSize": 635322,
     "sourceRepo": "jhadden25/BrandedShadow",
@@ -21265,7 +21273,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/jhadden25-BrandedShadow/",
     "upstreamCover": "https://webrpg.org/jhadden25-BrandedShadow/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/jhadden25-BrandedShadow/index.html",
+    "cover": "https://yx.ecy.al/jhadden25-BrandedShadow/cover.png",
+    "publication": {
+      "commit": "031b563e7b8d9d46e8388875b9ca9d638ceb4c71",
+      "checkedAt": "2026-11-09T12:28:01.633Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jjbr18-nyaruru",
