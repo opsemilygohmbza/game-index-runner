@@ -23678,15 +23678,15 @@
     "owner": "koohdev",
     "name": "chronicles-demo",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-26T12:18:25.259Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:11:54.031Z",
+    "checkedAt": "2026-11-09T15:10:16.412Z",
     "forkName": "koohdev-chronicles-demo",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 94199,
     "dataSize": 599240,
     "sourceRepo": "koohdev/chronicles-demo",
@@ -23705,7 +23705,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/koohdev-chronicles-demo/",
     "upstreamCover": "https://webrpg.org/koohdev-chronicles-demo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/koohdev-chronicles-demo/index.html",
+    "cover": "https://yx.ecy.al/koohdev-chronicles-demo/cover.png",
+    "publication": {
+      "commit": "db0535d3670591facffdb480d8e74a01aaea1318",
+      "checkedAt": "2026-11-09T15:14:58.697Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "koohdev-chronicles-of-arithmos",
@@ -24020,12 +24028,12 @@
     "owner": "kristenYu",
     "name": "kristenyu.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "forkName": "kristenYu-kristenyu.github.io",
-    "checkedAt": "2026-11-01T19:30:29.807Z",
+    "checkedAt": "2026-11-09T15:12:35.439Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 115,
@@ -24057,7 +24065,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/kristenYu-kristenyu.github.io/",
-    "upstreamCover": "https://webrpg.org/kristenYu-kristenyu.github.io/cover.png"
+    "upstreamCover": "https://webrpg.org/kristenYu-kristenyu.github.io/cover.png",
+    "pagesUrl": "https://yx.ecy.al/kristenYu-kristenyu.github.io/index.html",
+    "cover": "https://yx.ecy.al/kristenYu-kristenyu.github.io/cover.png",
+    "publication": {
+      "commit": "026e4c9aca952d94c0d576c8fe13da7007691baa",
+      "checkedAt": "2026-11-09T15:19:11.545Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "krmbn0576-rpgmakermv",
@@ -24215,15 +24231,15 @@
     "owner": "kushpatel43",
     "name": "RPG_Maker",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Testing/Project_Test/index.html",
-    "checkedAt": "2026-11-04T01:12:56.210Z",
+    "checkedAt": "2026-11-09T15:13:21.978Z",
     "forkName": "kushpatel43-RPG_Maker",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 187354,
     "dataSize": 705924,
     "sourceRepo": "kushpatel43/RPG_Maker",
@@ -24241,7 +24257,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/kushpatel43-RPG_Maker/",
     "upstreamCover": "https://webrpg.org/kushpatel43-RPG_Maker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/kushpatel43-RPG_Maker/index.html",
+    "cover": "https://yx.ecy.al/kushpatel43-RPG_Maker/cover.png",
+    "publication": {
+      "commit": "5e005cebf04f7d697ff9e1acb08b6be4d1725598",
+      "checkedAt": "2026-11-09T15:17:57.616Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kuzhenlarn-kuzhenproject",
@@ -24250,15 +24274,15 @@
     "owner": "KuzhenLarn",
     "name": "KuzhenProject",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "project/ckaska/index.html",
-    "checkedAt": "2026-11-02T10:43:51.790Z",
+    "checkedAt": "2026-11-09T15:15:32.384Z",
     "forkName": "KuzhenLarn-KuzhenProject",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 528333,
     "dataSize": 1792527,
     "sourceRepo": "KuzhenLarn/KuzhenProject",
@@ -24286,7 +24310,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/KuzhenLarn-KuzhenProject/",
     "upstreamCover": "https://webrpg.org/KuzhenLarn-KuzhenProject/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/KuzhenLarn-KuzhenProject/index.html",
+    "cover": "https://yx.ecy.al/KuzhenLarn-KuzhenProject/cover.png",
+    "publication": {
+      "commit": "cb8027010f5c638399a4c4f2cb8ab8abaf79ae14",
+      "checkedAt": "2026-11-09T15:20:45.789Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kye1331-kye1331-github-io",
