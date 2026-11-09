@@ -21843,17 +21843,17 @@
     "owner": "juaniliguere",
     "name": "Agraria",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-31T21:00:31.314Z",
     "source": "github-code-search",
     "sourcePath": "assets/pantallas/tienda/ShopMapPack1 (1)/ShopMapPack1/index.html",
-    "checkedAt": "2026-11-01T04:41:07.966Z",
+    "checkedAt": "2026-11-09T13:06:52.788Z",
     "forkName": "juaniliguere-Agraria",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "verificationDeferred": true,
-    "validationScore": 108,
-    "totalSize": 119172,
+    "validationScore": 90,
+    "totalSize": 120198,
     "dataSize": 94865,
     "sourceRepo": "juaniliguere/Agraria",
     "sourceDefaultBranch": "main",
@@ -21861,7 +21861,15 @@
     "processedHeadSha": "2d192118deaedd893c68bcb5b5458eead277eff0",
     "upstreamPagesUrl": "https://webrpg.org/juaniliguere-Agraria/",
     "upstreamCover": "https://webrpg.org/juaniliguere-Agraria/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/juaniliguere-Agraria/index.html",
+    "cover": "https://yx.ecy.al/juaniliguere-Agraria/cover.png",
+    "publication": {
+      "commit": "655116b2a74acbea71e28311c09cefae3999d76b",
+      "checkedAt": "2026-11-09T13:10:21.602Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "juhonamnam-web-game-presentation",
