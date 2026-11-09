@@ -22391,11 +22391,11 @@
     "owner": "katai5plate",
     "name": "Demoscene-2017",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
-    "checkedAt": "2026-06-19T04:26:08.057Z",
+    "checkedAt": "2026-11-09T13:44:29.947Z",
     "forkName": "katai5plate-Demoscene-2017",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -22418,7 +22418,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-Demoscene-2017/",
     "upstreamCover": "https://webrpg.org/katai5plate-Demoscene-2017/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/katai5plate-Demoscene-2017/index.html",
+    "cover": "https://yx.ecy.al/katai5plate-Demoscene-2017/cover.png",
+    "publication": {
+      "commit": "b2f08e6c581c77e756072be25581dc5fb47795cc",
+      "checkedAt": "2026-11-09T13:47:47.654Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "katai5plate-mvblackout",
@@ -22427,11 +22435,11 @@
     "owner": "katai5plate",
     "name": "mvblackout",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-06-19T04:26:17.860Z",
+    "checkedAt": "2026-11-09T13:44:40.426Z",
     "forkName": "katai5plate-mvblackout",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -22452,7 +22460,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-mvblackout/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/katai5plate-mvblackout/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "767fcde745654a22fa6da789958b6ed7c0171b47",
+      "checkedAt": "2026-11-09T13:47:42.227Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "katai5plate-rpgmakerplugins",
@@ -22480,11 +22496,11 @@
     "owner": "katai5plate",
     "name": "rpgmv-game-kanban",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:26:42.902Z",
+    "checkedAt": "2026-11-09T13:47:18.638Z",
     "forkName": "katai5plate-rpgmv-game-kanban",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -22507,7 +22523,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmv-game-kanban/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/katai5plate-rpgmv-game-kanban/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "5676cd07fa2245e786f40f7ae80dc820e7c7a925",
+      "checkedAt": "2026-11-09T13:49:26.676Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "katai5plate-rpgmv-newgame-lite",
@@ -22516,11 +22540,11 @@
     "owner": "katai5plate",
     "name": "rpgmv-newgame-lite",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:26:42.971Z",
+    "checkedAt": "2026-11-09T13:49:19.371Z",
     "forkName": "katai5plate-rpgmv-newgame-lite",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -22543,7 +22567,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmv-newgame-lite/",
     "upstreamCover": "https://webrpg.org/katai5plate-rpgmv-newgame-lite/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/katai5plate-rpgmv-newgame-lite/index.html",
+    "cover": "https://yx.ecy.al/katai5plate-rpgmv-newgame-lite/cover.png",
+    "publication": {
+      "commit": "888cffef897967a3258a467d9b9793170cbedd86",
+      "checkedAt": "2026-11-09T13:51:37.135Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "katai5plate-rpgmv-overflow",
@@ -22552,13 +22584,13 @@
     "owner": "katai5plate",
     "name": "rpgmv_overflow",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-07-20T06:21:41.537Z",
+    "checkedAt": "2026-11-09T13:47:08.807Z",
     "forkName": "katai5plate-rpgmv_overflow",
-    "status": "indexed",
-    "entryPath": "MIND-OVERLOAD/index.html",
+    "status": "verified",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 1605,
-    "dataSize": 0,
+    "totalSize": 1731,
+    "dataSize": 2139448,
     "sourceRepo": "katai5plate/rpgmv_overflow",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "ddd60b93da50f5c8beb01e87153259f894df9b27",
@@ -22567,7 +22599,15 @@
     "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv_overflow/ served an RPG Maker entry point and its startup resources",
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmv_overflow/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/katai5plate-rpgmv_overflow/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "406cc6648cd72195c45468997e67fdb1fb7962f4",
+      "checkedAt": "2026-11-09T13:49:36.613Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "katai5plate-rpgmv-starter-for-me",
