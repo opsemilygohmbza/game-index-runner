@@ -29559,15 +29559,15 @@
     "owner": "nativenewengland",
     "name": "Game",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "bar/index.html",
-    "checkedAt": "2026-11-02T00:25:39.118Z",
+    "checkedAt": "2026-11-09T21:02:05.724Z",
     "forkName": "nativenewengland-Game",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 708632,
     "dataSize": 907552,
     "sourceRepo": "nativenewengland/Game",
@@ -29592,7 +29592,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/nativenewengland-Game/",
     "upstreamCover": "https://webrpg.org/nativenewengland-Game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/nativenewengland-Game/index.html",
+    "cover": "https://yx.ecy.al/nativenewengland-Game/cover.png",
+    "publication": {
+      "commit": "2e4c183aebc0d8ed0f067b564495735970ce16cd",
+      "checkedAt": "2026-11-09T21:03:07.434Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nativenewengland-godot",
@@ -29601,15 +29609,15 @@
     "owner": "nativenewengland",
     "name": "godot",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "bar/index.html",
-    "checkedAt": "2026-11-03T05:37:57.819Z",
+    "checkedAt": "2026-11-09T21:02:14.251Z",
     "forkName": "nativenewengland-godot",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 278243,
     "dataSize": 907552,
     "sourceRepo": "nativenewengland/godot",
@@ -29631,7 +29639,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/nativenewengland-godot/",
     "upstreamCover": "https://webrpg.org/nativenewengland-godot/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/nativenewengland-godot/index.html",
+    "cover": "https://yx.ecy.al/nativenewengland-godot/cover.png",
+    "publication": {
+      "commit": "6e278d11c1638bf4cff08a799a01a6290944bdea",
+      "checkedAt": "2026-11-09T21:06:01.370Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "naturalpowergames-rpgmaker",
@@ -29640,15 +29656,15 @@
     "owner": "NaturalPowerGames",
     "name": "rpgmaker",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "RpgMaker/index.html",
-    "checkedAt": "2026-11-02T00:26:03.303Z",
+    "checkedAt": "2026-11-09T21:03:01.460Z",
     "forkName": "NaturalPowerGames-rpgmaker",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 94197,
     "dataSize": 613279,
     "sourceRepo": "NaturalPowerGames/rpgmaker",
@@ -29672,7 +29688,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/NaturalPowerGames-rpgmaker/",
     "upstreamCover": "https://webrpg.org/NaturalPowerGames-rpgmaker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/NaturalPowerGames-rpgmaker/index.html",
+    "cover": "https://yx.ecy.al/NaturalPowerGames-rpgmaker/cover.png",
+    "publication": {
+      "commit": "eb7280f97665fcfaa63e07f5a1416991784cc1c6",
+      "checkedAt": "2026-11-09T21:06:06.329Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nautssky-nautssky",
@@ -29731,11 +29755,11 @@
     "owner": "navdeep5",
     "name": "navdeep5.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "GoldRelease/index.html",
-    "checkedAt": "2026-11-07T17:36:03.999Z",
+    "checkedAt": "2026-11-09T21:05:53.495Z",
     "forkName": "navdeep5-navdeep5.github.io",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -29769,7 +29793,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/navdeep5-navdeep5.github.io/",
-    "upstreamCover": "https://webrpg.org/navdeep5-navdeep5.github.io/cover.png"
+    "upstreamCover": "https://webrpg.org/navdeep5-navdeep5.github.io/cover.png",
+    "pagesUrl": "https://yx.ecy.al/navdeep5-navdeep5.github.io/index.html",
+    "cover": "https://yx.ecy.al/navdeep5-navdeep5.github.io/cover.png",
+    "publication": {
+      "commit": "2d61394393df6244a68d0726e7c26e22a3e1f53a",
+      "checkedAt": "2026-11-09T21:12:47.232Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "navdeep5-quokka-quest-team",
@@ -29778,11 +29810,11 @@
     "owner": "navdeep5",
     "name": "Quokka_Quest_Team",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "cmput250 game_test/index.html",
-    "checkedAt": "2026-11-07T17:36:02.337Z",
+    "checkedAt": "2026-11-09T21:08:33.240Z",
     "forkName": "navdeep5-Quokka_Quest_Team",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -29816,7 +29848,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/navdeep5-Quokka_Quest_Team/",
-    "upstreamCover": "https://webrpg.org/navdeep5-Quokka_Quest_Team/cover.png"
+    "upstreamCover": "https://webrpg.org/navdeep5-Quokka_Quest_Team/cover.png",
+    "pagesUrl": "https://yx.ecy.al/navdeep5-Quokka_Quest_Team/index.html",
+    "cover": "https://yx.ecy.al/navdeep5-Quokka_Quest_Team/cover.png",
+    "publication": {
+      "commit": "064273ada44989af98531437bbbed7fd50a73c55",
+      "checkedAt": "2026-11-09T21:11:18.756Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nebuli-os-nebuli-os-github-io",
