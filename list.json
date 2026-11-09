@@ -32044,16 +32044,16 @@
     "owner": "peq42",
     "name": "RPG-Battle-Royal",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "RPG BAttle Royal/index.html",
-    "checkedAt": "2026-06-18T01:31:26.063Z",
+    "checkedAt": "2026-11-09T23:22:40.356Z",
     "forkName": "peq42-RPG-Battle-Royal",
-    "entryPath": "RPG BAttle Royal/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 68596,
-    "dataSize": 0,
+    "totalSize": 68594,
+    "dataSize": 1533139,
     "sourceRepo": "peq42/RPG-Battle-Royal",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "cb371f1f7ba157af23881d8e74a661f1e92f95fa",
@@ -32071,7 +32071,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/peq42-RPG-Battle-Royal/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/peq42-RPG-Battle-Royal/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "b6e63723185af122c42e17e947726c06ed3bc10a",
+      "checkedAt": "2026-11-09T23:29:35.691Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "perfectnip-perfectnip-github-io",
@@ -32098,15 +32106,15 @@
     "owner": "PeterDrake",
     "name": "cascadia-pilot-game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T01:31:30.775Z",
+    "checkedAt": "2026-11-09T23:24:40.664Z",
     "forkName": "PeterDrake-cascadia-pilot-game",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 156108,
+    "totalSize": 156106,
     "dataSize": 1568452,
     "sourceRepo": "PeterDrake/cascadia-pilot-game",
     "sourceDefaultBranch": "main",
@@ -32132,7 +32140,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/PeterDrake-cascadia-pilot-game/",
     "upstreamCover": "https://webrpg.org/PeterDrake-cascadia-pilot-game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/PeterDrake-cascadia-pilot-game/index.html",
+    "cover": "https://yx.ecy.al/PeterDrake-cascadia-pilot-game/cover.png",
+    "publication": {
+      "commit": "f354f145d725ca0024e5bf0f305283ba4f8279e0",
+      "checkedAt": "2026-11-09T23:29:35.674Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "petezah-g-petestatic",
