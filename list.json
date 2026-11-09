@@ -14099,11 +14099,11 @@
     "owner": "Excel",
     "name": "myl",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:10.485Z",
+    "checkedAt": "2026-11-09T05:44:19.990Z",
     "forkName": "Excel-myl",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14137,6 +14137,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Excel-myl/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Excel-myl/index.html",
+    "cover": "https://yx.ecy.al/Excel-myl/cover.png",
+    "publication": {
+      "commit": "e3ed230bcaee4da0c21aa81641784db7657a833d",
+      "checkedAt": "2026-11-09T05:46:39.191Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14146,11 +14154,11 @@
     "owner": "Excel",
     "name": "top",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:13.334Z",
+    "checkedAt": "2026-11-09T05:44:29.397Z",
     "forkName": "Excel-top",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14170,6 +14178,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Excel-top/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Excel-top/index.html",
+    "cover": "https://yx.ecy.al/Excel-top/cover.png",
+    "publication": {
+      "commit": "586a2f620cfe66d9cf5d53e326e42bbb7dc2abae",
+      "checkedAt": "2026-11-09T05:47:20.662Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14288,11 +14304,11 @@
     "owner": "Fairlyll",
     "name": "Horror",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:35.595Z",
+    "checkedAt": "2026-11-09T05:46:31.640Z",
     "forkName": "Fairlyll-Horror",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14327,6 +14343,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Fairlyll-Horror/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Fairlyll-Horror/index.html",
+    "cover": "https://yx.ecy.al/Fairlyll-Horror/cover.png",
+    "publication": {
+      "commit": "215bf071429a000062d5d64aa588de444feb1a20",
+      "checkedAt": "2026-11-09T05:49:22.828Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14336,11 +14360,11 @@
     "owner": "FalconPilot",
     "name": "house-of-the-7th-star",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:24:00.781Z",
+    "checkedAt": "2026-11-09T05:46:41.493Z",
     "forkName": "FalconPilot-house-of-the-7th-star",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14374,6 +14398,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/FalconPilot-house-of-the-7th-star/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/FalconPilot-house-of-the-7th-star/index.html",
+    "cover": "https://yx.ecy.al/FalconPilot-house-of-the-7th-star/cover.png",
+    "publication": {
+      "commit": "a6c29f7b2559c9dd1fb1f4c5ec65fb8e42d88797",
+      "checkedAt": "2026-11-09T05:49:16.595Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14383,11 +14415,11 @@
     "owner": "FalconPilot",
     "name": "inquisitor_rpg_mv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:23:30.952Z",
+    "checkedAt": "2026-11-09T05:48:43.842Z",
     "forkName": "FalconPilot-inquisitor_rpg_mv",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14421,6 +14453,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/FalconPilot-inquisitor_rpg_mv/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/FalconPilot-inquisitor_rpg_mv/index.html",
+    "cover": "https://yx.ecy.al/FalconPilot-inquisitor_rpg_mv/cover.png",
+    "publication": {
+      "commit": "f20caeb184f7936110b9d4eca7ce9114cdbc8b64",
+      "checkedAt": "2026-11-09T05:51:19.769Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
