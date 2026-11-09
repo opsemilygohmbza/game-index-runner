@@ -20604,12 +20604,12 @@
     "owner": "jackdarker",
     "name": "MoonWood",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "jackdarker-MoonWood",
-    "checkedAt": "2026-11-01T12:53:15.962Z",
+    "checkedAt": "2026-11-09T11:39:48.363Z",
     "entryPath": "index.html",
     "validationScore": 118,
     "totalSize": 5175,
@@ -20636,7 +20636,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/jackdarker-MoonWood/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/jackdarker-MoonWood/"
+    "upstreamPagesUrl": "https://webrpg.org/jackdarker-MoonWood/",
+    "pagesUrl": "https://yx.ecy.al/jackdarker-MoonWood/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "b5c40423fe36c07c1d6e3a69bc723d63ce13e4bd",
+      "checkedAt": "2026-11-09T11:44:49.070Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jackhuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d",
@@ -20698,16 +20706,16 @@
     "owner": "JacotPlus",
     "name": "TurboPlus_Studios-RPGMaker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Danganronpa RPG/index.html",
-    "checkedAt": "2026-06-19T00:35:35.759Z",
+    "checkedAt": "2026-11-09T11:41:49.427Z",
     "forkName": "JacotPlus-TurboPlus_Studios-RPGMaker",
-    "entryPath": "Danganronpa RPG/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 109890,
-    "dataSize": 0,
+    "dataSize": 1181622,
     "sourceRepo": "JacotPlus/TurboPlus_Studios-RPGMaker",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "574925aa9215854c542bbc338329a79b72b7be46",
@@ -20725,7 +20733,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/JacotPlus-TurboPlus_Studios-RPGMaker/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/JacotPlus-TurboPlus_Studios-RPGMaker/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "2511b6943f94494e768c27eca6366bd739be54f0",
+      "checkedAt": "2026-11-09T11:45:08.512Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jacsongold-12dtm-rpgmakergame-repository",
@@ -20734,16 +20750,16 @@
     "owner": "JacsonGold",
     "name": "12DTM-RPGMakerGame-Repository",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "12DTM-RPGMAKER-Project/index.html",
-    "checkedAt": "2026-06-19T00:35:40.106Z",
+    "checkedAt": "2026-11-09T11:41:59.319Z",
     "forkName": "JacsonGold-12DTM-RPGMakerGame-Repository",
-    "entryPath": "12DTM-RPGMAKER-Project/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 409411,
-    "dataSize": 0,
+    "dataSize": 881892,
     "sourceRepo": "JacsonGold/12DTM-RPGMakerGame-Repository",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "0765c85d313222ddfcc39b90d86e658df38a6734",
@@ -20767,7 +20783,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/",
     "upstreamCover": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/JacsonGold-12DTM-RPGMakerGame-Repository/index.html",
+    "cover": "https://yx.ecy.al/JacsonGold-12DTM-RPGMakerGame-Repository/cover.png",
+    "publication": {
+      "commit": "e3d0ddbbaa8e917e7721a9bf54ff4f77fc2ce1b7",
+      "checkedAt": "2026-11-09T11:45:03.309Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jadamase-biology",
@@ -20776,15 +20800,15 @@
     "owner": "JadaMase",
     "name": "Biology",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:47.871Z",
+    "checkedAt": "2026-11-09T11:44:46.068Z",
     "forkName": "JadaMase-Biology",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 137754,
     "dataSize": 2110435,
     "sourceRepo": "JadaMase/Biology",
@@ -20795,7 +20819,15 @@
     "reachabilityDetail": "https://webrpg.org/JadaMase-Biology/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/JadaMase-Biology/",
     "upstreamCover": "https://webrpg.org/JadaMase-Biology/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/JadaMase-Biology/index.html",
+    "cover": "https://yx.ecy.al/JadaMase-Biology/cover.png",
+    "publication": {
+      "commit": "5d4b9982f42019eff58f2e0af81463b32b0b7fdd",
+      "checkedAt": "2026-11-09T11:46:46.624Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "jaegyoon-hero-raising",
