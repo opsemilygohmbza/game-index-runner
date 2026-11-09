@@ -30082,15 +30082,15 @@
     "owner": "NephiGinnett",
     "name": "Bijou",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-15T10:54:19.082Z",
     "source": "github-code-search",
     "sourcePath": "Bijou/index.html",
-    "checkedAt": "2026-11-04T10:40:30.986Z",
+    "checkedAt": "2026-11-09T21:09:12.053Z",
     "forkName": "NephiGinnett-Bijou",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 97391,
     "dataSize": 630851,
     "sourceRepo": "NephiGinnett/Bijou",
@@ -30111,7 +30111,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/NephiGinnett-Bijou/",
     "upstreamCover": "https://webrpg.org/NephiGinnett-Bijou/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/NephiGinnett-Bijou/index.html",
+    "cover": "https://yx.ecy.al/NephiGinnett-Bijou/cover.png",
+    "publication": {
+      "commit": "0cbebf148c1a2e4869fe066e32d24ef1a5d45e87",
+      "checkedAt": "2026-11-09T21:13:10.989Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nerdsonly-half-heroes",
