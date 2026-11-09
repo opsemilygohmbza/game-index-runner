@@ -22764,12 +22764,12 @@
     "owner": "KazeDevID",
     "name": "Girl-hunting",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "KazeDevID-Girl-hunting",
-    "checkedAt": "2026-11-01T19:30:08.403Z",
+    "checkedAt": "2026-11-09T13:51:40.248Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -22798,7 +22798,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/KazeDevID-Girl-hunting/",
-    "upstreamCover": "https://webrpg.org/KazeDevID-Girl-hunting/cover.png"
+    "upstreamCover": "https://webrpg.org/KazeDevID-Girl-hunting/cover.png",
+    "pagesUrl": "https://yx.ecy.al/KazeDevID-Girl-hunting/index.html",
+    "cover": "https://yx.ecy.al/KazeDevID-Girl-hunting/cover.png",
+    "publication": {
+      "commit": "676a4d475496fb4cc8385f9021c42351082e6183",
+      "checkedAt": "2026-11-09T13:58:14.658Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "kdipippo-rpg-maker-mv-starter-template",
