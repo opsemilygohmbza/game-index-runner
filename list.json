@@ -20115,11 +20115,11 @@
     "owner": "InitialGProject",
     "name": "InitialGProject",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/assets/juegos/j2/index.html",
-    "checkedAt": "2026-06-19T00:32:58.444Z",
+    "checkedAt": "2026-11-09T10:59:25.174Z",
     "forkName": "InitialGProject-InitialGProject",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -20151,7 +20151,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/InitialGProject-InitialGProject/",
     "upstreamCover": "https://webrpg.org/InitialGProject-InitialGProject/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/InitialGProject-InitialGProject/index.html",
+    "cover": "https://yx.ecy.al/InitialGProject-InitialGProject/cover.png",
+    "publication": {
+      "commit": "506ba1b55989f00a246f54d2b19b77320b38d956",
+      "checkedAt": "2026-11-09T11:17:53.577Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "irebachan-page",
