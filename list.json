@@ -28886,11 +28886,11 @@
     "owner": "Mrxdaunknown",
     "name": "EncodeHackathon",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-07T17:36:56.908Z",
+    "checkedAt": "2026-11-09T20:17:23.242Z",
     "forkName": "Mrxdaunknown-EncodeHackathon",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -28921,6 +28921,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Mrxdaunknown-EncodeHackathon/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Mrxdaunknown-EncodeHackathon/index.html",
+    "cover": "https://yx.ecy.al/Mrxdaunknown-EncodeHackathon/cover.png",
+    "publication": {
+      "commit": "dca6dcf018143ff26dca30e27da77d282cb586c7",
+      "checkedAt": "2026-11-09T20:19:21.238Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -29030,11 +29038,11 @@
     "owner": "MSC-CQU",
     "name": "cba",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T19:41:51.379Z",
+    "checkedAt": "2026-11-09T20:17:32.047Z",
     "forkName": "MSC-CQU-cba",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -29069,6 +29077,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/MSC-CQU-cba/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/MSC-CQU-cba/index.html",
+    "cover": "https://yx.ecy.al/MSC-CQU-cba/cover.png",
+    "publication": {
+      "commit": "ec9f24be06d7e8cfaecc878e0457304bcd747439",
+      "checkedAt": "2026-11-09T20:20:19.299Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -29103,12 +29119,12 @@
     "owner": "munokura",
     "name": "DQ-like-Sample-MV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-07-20T06:21:44.151Z",
+    "status": "verified",
+    "checkedAt": "2026-11-09T20:19:26.634Z",
     "forkName": "munokura-DQ-like-Sample-MV",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 34086,
+    "totalSize": 34083,
     "dataSize": 654885,
     "sourceRepo": "munokura/DQ-like-Sample-MV",
     "sourceDefaultBranch": "main",
@@ -29126,7 +29142,15 @@
     },
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/munokura-DQ-like-Sample-MV/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/munokura-DQ-like-Sample-MV/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "0bce9223c2887e015ddd5edcbd14c790856ab135",
+      "checkedAt": "2026-11-09T20:21:47.573Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "munokura-dq-like-sample-mz",
@@ -29135,14 +29159,14 @@
     "owner": "munokura",
     "name": "DQ-like-Sample-MZ",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "munokura-DQ-like-Sample-MZ",
-    "checkedAt": "2026-11-02T00:25:39.512Z",
+    "checkedAt": "2026-11-09T20:20:23.979Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 10984,
     "dataSize": 335549,
     "sourceRepo": "munokura/DQ-like-Sample-MZ",
@@ -29160,7 +29184,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/munokura-DQ-like-Sample-MZ/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/munokura-DQ-like-Sample-MZ/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "0bdb9fd72bf4886f613915d2cd1b985f8fe656ff",
+      "checkedAt": "2026-11-09T20:22:29.558Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "munokura-sword-floor-mv-sample",
@@ -29292,15 +29324,15 @@
     "owner": "mytriv",
     "name": "lightpathfinder",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:44:18.217Z",
+    "checkedAt": "2026-11-09T20:24:39.653Z",
     "forkName": "mytriv-lightpathfinder",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 188929,
     "dataSize": 762311,
     "sourceRepo": "mytriv/lightpathfinder",
@@ -29321,7 +29353,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/mytriv-lightpathfinder/",
     "upstreamCover": "https://webrpg.org/mytriv-lightpathfinder/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/mytriv-lightpathfinder/index.html",
+    "cover": "https://yx.ecy.al/mytriv-lightpathfinder/cover.png",
+    "publication": {
+      "commit": "c0abec55b309129b553cd1c6076dfbe950b13616",
+      "checkedAt": "2026-11-09T20:27:16.077Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "myueqf-myueqf-github-io",
