@@ -28744,12 +28744,12 @@
     "owner": "moonyoulove",
     "name": "Project-Tiny",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "moonyoulove-Project-Tiny",
-    "checkedAt": "2026-11-02T00:24:34.479Z",
+    "checkedAt": "2026-11-09T19:43:46.209Z",
     "entryPath": "index.html",
     "validationScore": 118,
     "totalSize": 4183,
@@ -28773,7 +28773,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/moonyoulove-Project-Tiny/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/moonyoulove-Project-Tiny/"
+    "upstreamPagesUrl": "https://webrpg.org/moonyoulove-Project-Tiny/",
+    "pagesUrl": "https://yx.ecy.al/moonyoulove-Project-Tiny/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "247db618aeea53fbaf6b9eeb0c6e50d3ae7c752d",
+      "checkedAt": "2026-11-09T19:48:38.297Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mrdavidzs-games",
@@ -28823,15 +28831,15 @@
     "owner": "MRVAPORWAVE25",
     "name": "pnc3d",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-26T03:45:04.437Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "MRVAPORWAVE25-pnc3d",
-    "checkedAt": "2026-11-02T00:25:24.585Z",
+    "checkedAt": "2026-11-09T19:44:05.933Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 89847,
     "dataSize": 1938786,
     "sourceRepo": "MRVAPORWAVE25/pnc3d",
@@ -28861,7 +28869,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/MRVAPORWAVE25-pnc3d/",
     "upstreamCover": "https://webrpg.org/MRVAPORWAVE25-pnc3d/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MRVAPORWAVE25-pnc3d/index.html",
+    "cover": "https://yx.ecy.al/MRVAPORWAVE25-pnc3d/cover.png",
+    "publication": {
+      "commit": "2fa1a816f308dcce475fb320df21b4ecd565f079",
+      "checkedAt": "2026-11-09T19:48:38.122Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mrxdaunknown-encodehackathon",
