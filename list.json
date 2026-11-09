@@ -28271,15 +28271,15 @@
     "owner": "minnnpannn9585",
     "name": "JustinProj01_rpgmaker",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
-    "checkedAt": "2026-11-02T00:25:11.486Z",
+    "checkedAt": "2026-11-09T19:35:56.934Z",
     "forkName": "minnnpannn9585-JustinProj01_rpgmaker",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93964,
     "dataSize": 767501,
     "sourceRepo": "minnnpannn9585/JustinProj01_rpgmaker",
@@ -28290,7 +28290,15 @@
     "reachabilityDetail": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/",
     "upstreamCover": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/minnnpannn9585-JustinProj01_rpgmaker/index.html",
+    "cover": "https://yx.ecy.al/minnnpannn9585-JustinProj01_rpgmaker/cover.png",
+    "publication": {
+      "commit": "40f0fa76e7a29259a716e5d40e6beeb9d0596579",
+      "checkedAt": "2026-11-09T19:39:03.128Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "miracleyoo-hcrs-online",
@@ -28563,11 +28571,11 @@
     "owner": "monaca",
     "name": "monaca.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "rpg/index.html",
-    "checkedAt": "2026-06-19T11:29:44.768Z",
+    "checkedAt": "2026-11-09T19:40:52.252Z",
     "forkName": "monaca-monaca.github.io",
     "entryPath": "index.html",
     "validationScore": 115,
@@ -28595,7 +28603,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/monaca-monaca.github.io/",
     "upstreamCover": "https://webrpg.org/monaca-monaca.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/monaca-monaca.github.io/index.html",
+    "cover": "https://yx.ecy.al/monaca-monaca.github.io/cover.png",
+    "publication": {
+      "commit": "0d9a83bb98030acbfde51dd11d36344bd7703b36",
+      "checkedAt": "2026-11-09T19:44:38.186Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "monaca-monaca-quest",
@@ -28604,16 +28620,16 @@
     "owner": "monaca",
     "name": "monaca-quest",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Project/index.html",
-    "checkedAt": "2026-06-19T11:29:28.156Z",
+    "checkedAt": "2026-11-09T19:38:39.233Z",
     "forkName": "monaca-monaca-quest",
-    "entryPath": "Project/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 466703,
-    "dataSize": 0,
+    "dataSize": 714770,
     "sourceRepo": "monaca/monaca-quest",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "5df10c829ba610d7c50091ce8f0c18591fee808b",
@@ -28636,7 +28652,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/monaca-monaca-quest/",
     "upstreamCover": "https://webrpg.org/monaca-monaca-quest/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/monaca-monaca-quest/index.html",
+    "cover": "https://yx.ecy.al/monaca-monaca-quest/cover.png",
+    "publication": {
+      "commit": "ed2317997090472f89ba98bad02163fc670ab145",
+      "checkedAt": "2026-11-09T19:41:59.310Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "monroees-lachambre",
@@ -28645,15 +28669,15 @@
     "owner": "Monroees",
     "name": "LaChambre",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Projet Test/index.html",
-    "checkedAt": "2026-11-04T01:13:18.648Z",
+    "checkedAt": "2026-11-09T19:41:12.798Z",
     "forkName": "Monroees-LaChambre",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93689,
     "dataSize": 541251,
     "sourceRepo": "Monroees/LaChambre",
@@ -28672,7 +28696,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Monroees-LaChambre/",
     "upstreamCover": "https://webrpg.org/Monroees-LaChambre/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Monroees-LaChambre/index.html",
+    "cover": "https://yx.ecy.al/Monroees-LaChambre/cover.png",
+    "publication": {
+      "commit": "31103e75b82c1b11ee7dd0091acab914ffcb53e6",
+      "checkedAt": "2026-11-09T19:43:32.137Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "moon-network-service-blueberry-manor-project",
