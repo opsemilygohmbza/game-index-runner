@@ -21878,15 +21878,15 @@
     "owner": "juhonamnam",
     "name": "web-game-presentation",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "output/src/index.html",
-    "checkedAt": "2026-11-03T20:57:32.144Z",
+    "checkedAt": "2026-11-09T13:09:11.929Z",
     "forkName": "juhonamnam-web-game-presentation",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 97175,
     "dataSize": 671451,
     "sourceRepo": "juhonamnam/web-game-presentation",
@@ -21897,7 +21897,15 @@
     "reachabilityDetail": "https://webrpg.org/juhonamnam-web-game-presentation/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/juhonamnam-web-game-presentation/",
     "upstreamCover": "https://webrpg.org/juhonamnam-web-game-presentation/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/juhonamnam-web-game-presentation/index.html",
+    "cover": "https://yx.ecy.al/juhonamnam-web-game-presentation/cover.png",
+    "publication": {
+      "commit": "1a002e3b45369433b907414790ae94b1db7299d6",
+      "checkedAt": "2026-11-09T13:15:38.102Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "juliomeru-createapk",
