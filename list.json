@@ -8660,16 +8660,16 @@
     "owner": "CollinSumrell",
     "name": "Sunset-Valley",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Lab Assets/sample_maps_(RPG_Maker_MV-MZ)/index.html",
-    "checkedAt": "2026-11-06T10:36:05.619Z",
+    "checkedAt": "2026-11-09T00:00:59.353Z",
     "forkName": "CollinSumrell-Sunset-Valley",
-    "entryPath": "Lab Assets/sample_maps_(RPG_Maker_MV-MZ)/index.html",
-    "validationScore": 115,
+    "entryPath": "index.html",
+    "validationScore": 118,
     "totalSize": 18466,
-    "dataSize": 0,
+    "dataSize": 99910,
     "sourceRepo": "CollinSumrell/Sunset-Valley",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "a9cb9e502542637fee757337fa58f02e670a2afd",
@@ -8697,6 +8697,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CollinSumrell-Sunset-Valley/Lab%20Assets/sample_maps_(RPG_Maker_MV-MZ)/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CollinSumrell-Sunset-Valley/index.html",
+    "cover": "https://yx.ecy.al/CollinSumrell-Sunset-Valley/cover.png",
+    "publication": {
+      "commit": "6a8dca7de4f55876186d28958e9d229ba08c9447",
+      "checkedAt": "2026-11-09T00:01:45.281Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -8754,16 +8762,16 @@
     "owner": "comuns-rpgmaker",
     "name": "comuns-master-demo",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Comuns Plugins Master/index.html",
-    "checkedAt": "2026-11-02T10:46:25.881Z",
+    "checkedAt": "2026-11-09T00:01:08.056Z",
     "forkName": "comuns-rpgmaker-comuns-master-demo",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 72549,
-    "dataSize": 361568,
+    "dataSize": 366524,
     "sourceRepo": "comuns-rpgmaker/comuns-master-demo",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "8f4aea983137a0eff1166c401f28ee2014bb659b",
@@ -8779,7 +8787,15 @@
       "nsfw": false
     },
     "upstreamPagesUrl": "https://webrpg.org/comuns-rpgmaker-comuns-master-demo/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/comuns-rpgmaker-comuns-master-demo/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "cc067fe3a0a46eb72d09e587d479bd7caf3dbdc2",
+      "checkedAt": "2026-11-09T00:03:26.757Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cona2512-construct-3-desktop",
@@ -8799,16 +8815,16 @@
     "owner": "CopperChihuahua",
     "name": "Coppers-Touhou-Game-Jam",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "09 RPGMaker/Touhou Game Jam/index.html",
-    "checkedAt": "2026-10-30T22:06:16.556Z",
+    "checkedAt": "2026-11-09T00:01:55.263Z",
     "forkName": "CopperChihuahua-Coppers-Touhou-Game-Jam",
-    "entryPath": "09 RPGMaker/Touhou Game Jam/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 497790,
-    "dataSize": 0,
+    "dataSize": 652800,
     "sourceRepo": "CopperChihuahua/Coppers-Touhou-Game-Jam",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "0a6bc322950e615501c405011161ba3a05cc922c",
@@ -8836,6 +8852,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/CopperChihuahua-Coppers-Touhou-Game-Jam/09%20RPGMaker/Touhou%20Game%20Jam/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/CopperChihuahua-Coppers-Touhou-Game-Jam/index.html",
+    "cover": "https://yx.ecy.al/CopperChihuahua-Coppers-Touhou-Game-Jam/cover.png",
+    "publication": {
+      "commit": "11dbd4dab9452bc55667de4ef5b1734331df5520",
+      "checkedAt": "2026-11-09T00:04:31.461Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -8845,14 +8869,14 @@
     "owner": "Corddt",
     "name": "RPG_Maker_toAndroid",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "app/src/main/assets/www/index.html",
-    "checkedAt": "2026-10-30T22:06:25.677Z",
+    "checkedAt": "2026-11-09T00:03:55.072Z",
     "forkName": "Corddt-RPG_Maker_toAndroid",
     "entryPath": "index.html",
-    "validationScore": 118,
+    "validationScore": 115,
     "totalSize": 292313,
     "dataSize": 669500,
     "sourceRepo": "Corddt/RPG_Maker_toAndroid",
@@ -8877,6 +8901,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Corddt-RPG_Maker_toAndroid/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Corddt-RPG_Maker_toAndroid/index.html",
+    "cover": "https://yx.ecy.al/Corddt-RPG_Maker_toAndroid/cover.png",
+    "publication": {
+      "commit": "1dd1e102417cd75dcf1328e8d05768a104f711bd",
+      "checkedAt": "2026-11-09T00:07:17.829Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -8941,11 +8973,11 @@
     "owner": "cosmiccatacorn",
     "name": "ahjkjh",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T04:43:06.293Z",
+    "checkedAt": "2026-11-09T00:04:14.745Z",
     "forkName": "cosmiccatacorn-ahjkjh",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -8979,7 +9011,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/cosmiccatacorn-ahjkjh/",
-    "upstreamCover": "https://webrpg.org/cosmiccatacorn-ahjkjh/cover.png"
+    "upstreamCover": "https://webrpg.org/cosmiccatacorn-ahjkjh/cover.png",
+    "pagesUrl": "https://yx.ecy.al/cosmiccatacorn-ahjkjh/index.html",
+    "cover": "https://yx.ecy.al/cosmiccatacorn-ahjkjh/cover.png",
+    "publication": {
+      "commit": "ddbecf7b995043f498068ea5e590c8d985b91b9e",
+      "checkedAt": "2026-11-09T00:06:52.980Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "cppiod-eagle-s-crossing",
