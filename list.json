@@ -16925,15 +16925,15 @@
     "owner": "gominsu08",
     "name": "GainProject",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Assets/03_Sprite/BackGround/Earth Map/index.html",
-    "checkedAt": "2026-11-03T20:56:58.418Z",
+    "checkedAt": "2026-11-09T08:04:31.872Z",
     "forkName": "gominsu08-GainProject",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 140329,
     "dataSize": 876634,
     "sourceRepo": "gominsu08/GainProject",
@@ -16957,7 +16957,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/gominsu08-GainProject/",
     "upstreamCover": "https://webrpg.org/gominsu08-GainProject/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/gominsu08-GainProject/index.html",
+    "cover": "https://yx.ecy.al/gominsu08-GainProject/cover.png",
+    "publication": {
+      "commit": "3bebf9d258620fe3653b51558ccf84960025a29b",
+      "checkedAt": "2026-11-09T08:10:00.733Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "goofmint-devrelcon-tokyo-2021",
@@ -17003,11 +17011,11 @@
     "owner": "gorani777",
     "name": "1930",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-20T11:17:06.834Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T21:10:11.219Z",
+    "checkedAt": "2026-11-09T08:05:21.743Z",
     "forkName": "gorani777-1930",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -17027,7 +17035,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/gorani777-1930/",
-    "upstreamCover": "https://webrpg.org/gorani777-1930/cover.png"
+    "upstreamCover": "https://webrpg.org/gorani777-1930/cover.png",
+    "pagesUrl": "https://yx.ecy.al/gorani777-1930/index.html",
+    "cover": "https://yx.ecy.al/gorani777-1930/cover.png",
+    "publication": {
+      "commit": "4f6c8dad473351978ceceabc2ce609c3bcbe7b1a",
+      "checkedAt": "2026-11-09T08:10:00.725Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "graveyardshiftpd-tcoaar-project",
