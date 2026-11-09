@@ -27280,16 +27280,16 @@
     "owner": "mattieFM",
     "name": "idkGame",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Project2/index.html",
-    "checkedAt": "2026-11-07T09:47:45.153Z",
+    "checkedAt": "2026-11-09T18:05:45.514Z",
     "forkName": "mattieFM-idkGame",
-    "entryPath": "Project2/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 392611,
-    "dataSize": 0,
+    "dataSize": 712313,
     "sourceRepo": "mattieFM/idkGame",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "90e63668e506a4f42d1ea1d7db5cfdb344821ec0",
@@ -27314,6 +27314,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/mattieFM-idkGame/Project2/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/mattieFM-idkGame/index.html",
+    "cover": "https://yx.ecy.al/mattieFM-idkGame/cover.png",
+    "publication": {
+      "commit": "e9a12acb47f000d540eff548b25e28fcdd9bc2c5",
+      "checkedAt": "2026-11-09T18:11:04.734Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
