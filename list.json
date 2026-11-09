@@ -17796,11 +17796,11 @@
     "owner": "hacksider",
     "name": "Alpha-Chronicles",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:38.556Z",
+    "checkedAt": "2026-11-09T09:23:04.708Z",
     "forkName": "hacksider-Alpha-Chronicles",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -17834,7 +17834,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/hacksider-Alpha-Chronicles/",
-    "upstreamCover": "https://webrpg.org/hacksider-Alpha-Chronicles/cover.png"
+    "upstreamCover": "https://webrpg.org/hacksider-Alpha-Chronicles/cover.png",
+    "pagesUrl": "https://yx.ecy.al/hacksider-Alpha-Chronicles/index.html",
+    "cover": "https://yx.ecy.al/hacksider-Alpha-Chronicles/cover.png",
+    "publication": {
+      "commit": "5279e86be2a3d7621f839dcd7a5851f447383adb",
+      "checkedAt": "2026-11-09T09:25:54.826Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hamoda434-girlpower",
@@ -17843,11 +17851,11 @@
     "owner": "Hamoda434",
     "name": "GirlPower",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:53:14.842Z",
+    "checkedAt": "2026-11-09T09:23:13.000Z",
     "forkName": "Hamoda434-GirlPower",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -17881,6 +17889,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Hamoda434-GirlPower/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Hamoda434-GirlPower/index.html",
+    "cover": "https://yx.ecy.al/Hamoda434-GirlPower/cover.png",
+    "publication": {
+      "commit": "a565697b2ec20a1f42e75ba70781263e5871390f",
+      "checkedAt": "2026-11-09T09:26:04.453Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -17919,11 +17935,11 @@
     "owner": "HanbitGaram",
     "name": "1ststudio-game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:53:12.378Z",
+    "checkedAt": "2026-11-09T09:25:16.176Z",
     "forkName": "HanbitGaram-1ststudio-game",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -17956,6 +17972,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/HanbitGaram-1ststudio-game/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/HanbitGaram-1ststudio-game/index.html",
+    "cover": "https://yx.ecy.al/HanbitGaram-1ststudio-game/cover.png",
+    "publication": {
+      "commit": "fc2e0956c761c0206ed6f3b21ee329a7beb4ef9b",
+      "checkedAt": "2026-11-09T09:27:37.637Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -17976,15 +18000,15 @@
     "owner": "hanr61",
     "name": "Creative-Journey-New",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:12:18.808Z",
+    "checkedAt": "2026-11-09T09:25:26.271Z",
     "forkName": "hanr61-Creative-Journey-New",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 25664,
     "dataSize": 756725,
     "sourceRepo": "hanr61/Creative-Journey-New",
@@ -18010,7 +18034,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/hanr61-Creative-Journey-New/",
     "upstreamCover": "https://webrpg.org/hanr61-Creative-Journey-New/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/hanr61-Creative-Journey-New/index.html",
+    "cover": "https://yx.ecy.al/hanr61-Creative-Journey-New/cover.png",
+    "publication": {
+      "commit": "2ecde8300c73e1eee1786eb00dabd46f30655105",
+      "checkedAt": "2026-11-09T09:27:47.790Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "happyfp-dreamsdestiny",
@@ -18122,15 +18154,15 @@
     "owner": "Harleythetech",
     "name": "Jovellano_ACT1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-08T18:27:22.707Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T01:29:32.205Z",
+    "checkedAt": "2026-11-09T09:27:49.174Z",
     "forkName": "Harleythetech-Jovellano_ACT1",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388546,
     "dataSize": 732324,
     "sourceRepo": "Harleythetech/Jovellano_ACT1",
@@ -18154,7 +18186,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Harleythetech-Jovellano_ACT1/",
     "upstreamCover": "https://webrpg.org/Harleythetech-Jovellano_ACT1/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Harleythetech-Jovellano_ACT1/index.html",
+    "cover": "https://yx.ecy.al/Harleythetech-Jovellano_ACT1/cover.png",
+    "publication": {
+      "commit": "c81ae935783179095d39c1bdda71c883f8b502f9",
+      "checkedAt": "2026-11-09T09:30:31.926Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "harleythetech-jovellano-act2",
