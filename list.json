@@ -27874,11 +27874,11 @@
     "owner": "miegithub",
     "name": "Scholars_Journey",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:28:45.616Z",
+    "checkedAt": "2026-11-09T18:55:54.588Z",
     "forkName": "miegithub-Scholars_Journey",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -27908,7 +27908,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/miegithub-Scholars_Journey/",
     "upstreamCover": "https://webrpg.org/miegithub-Scholars_Journey/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/miegithub-Scholars_Journey/index.html",
+    "cover": "https://yx.ecy.al/miegithub-Scholars_Journey/cover.png",
+    "publication": {
+      "commit": "cfa6edbe51147d8168058a240b9fa640b4b38be5",
+      "checkedAt": "2026-11-09T18:59:19.116Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "miguelarcjr-lucys-hotel",
