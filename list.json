@@ -30897,14 +30897,14 @@
     "owner": "ojoh1993",
     "name": "SCP_OOPArt",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Project2/index.html",
-    "checkedAt": "2026-06-18T01:30:48.881Z",
+    "checkedAt": "2026-11-09T21:55:23.962Z",
     "forkName": "ojoh1993-SCP_OOPArt",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 405634,
     "dataSize": 6134093,
     "sourceRepo": "ojoh1993/SCP_OOPArt",
@@ -30916,7 +30916,15 @@
     "reachabilityDetail": "https://webrpg.org/ojoh1993-SCP_OOPArt/ served an RPG Maker entry point and its startup resources",
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/ojoh1993-SCP_OOPArt/",
-    "upstreamCover": "https://webrpg.org/ojoh1993-SCP_OOPArt/cover.png"
+    "upstreamCover": "https://webrpg.org/ojoh1993-SCP_OOPArt/cover.png",
+    "pagesUrl": "https://yx.ecy.al/ojoh1993-SCP_OOPArt/index.html",
+    "cover": "https://yx.ecy.al/ojoh1993-SCP_OOPArt/cover.png",
+    "publication": {
+      "commit": "62cecb932fb8f83fa4a2fe1c803c74e954ebfcac",
+      "checkedAt": "2026-11-09T22:00:44.305Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "okshaone-kiki-s-adventure-v1",
@@ -30925,14 +30933,14 @@
     "owner": "okshaone",
     "name": "Kiki-s-adventure-v1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-18T01:30:55.271Z",
+    "checkedAt": "2026-11-09T21:55:43.521Z",
     "forkName": "okshaone-Kiki-s-adventure-v1",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 382140,
     "dataSize": 1663433,
     "sourceRepo": "okshaone/Kiki-s-adventure-v1",
@@ -30957,7 +30965,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/",
-    "upstreamCover": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/cover.png"
+    "upstreamCover": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/cover.png",
+    "pagesUrl": "https://yx.ecy.al/okshaone-Kiki-s-adventure-v1/index.html",
+    "cover": "https://yx.ecy.al/okshaone-Kiki-s-adventure-v1/cover.png",
+    "publication": {
+      "commit": "26c90aee85398b41ed6f7c0ee0a02ede1ac7a3bb",
+      "checkedAt": "2026-11-09T22:00:43.944Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "okshaone-loop",
