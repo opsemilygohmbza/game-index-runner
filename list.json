@@ -30128,11 +30128,11 @@
     "owner": "nerdsonly",
     "name": "half-heroes",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-07T17:36:26.051Z",
+    "checkedAt": "2026-11-09T21:11:31.101Z",
     "forkName": "nerdsonly-half-heroes",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -30165,6 +30165,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/nerdsonly-half-heroes/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/nerdsonly-half-heroes/index.html",
+    "cover": "https://yx.ecy.al/nerdsonly-half-heroes/cover.png",
+    "publication": {
+      "commit": "a38e95dc98db3c16f8299f940509c608efc2e4ff",
+      "checkedAt": "2026-11-09T21:14:36.619Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
