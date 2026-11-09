@@ -24775,14 +24775,14 @@
     "owner": "leeashlee",
     "name": "what-happened-here",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-27T00:14:32.450Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T19:33:31.433Z",
+    "checkedAt": "2026-11-09T15:53:44.936Z",
     "forkName": "leeashlee-what-happened-here",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 86839,
     "dataSize": 1770382,
     "sourceRepo": "leeashlee/what-happened-here",
@@ -24792,7 +24792,15 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/leeashlee-what-happened-here/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/leeashlee-what-happened-here/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/leeashlee-what-happened-here/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "83362cd2cc88f20a15e8b28af661c203bb0fa3be",
+      "checkedAt": "2026-11-09T15:59:21.684Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "leejh10003-preproduction-foglands",
@@ -24893,15 +24901,15 @@
     "owner": "LeonardoRSS18",
     "name": "TesteAurora",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Documents/Aurora/index.html",
-    "checkedAt": "2026-11-03T13:50:37.819Z",
+    "checkedAt": "2026-11-09T15:55:58.585Z",
     "forkName": "LeonardoRSS18-TesteAurora",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 25602,
     "dataSize": 2231986,
     "sourceRepo": "LeonardoRSS18/TesteAurora",
@@ -24926,7 +24934,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/LeonardoRSS18-TesteAurora/",
     "upstreamCover": "https://webrpg.org/LeonardoRSS18-TesteAurora/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/LeonardoRSS18-TesteAurora/index.html",
+    "cover": "https://yx.ecy.al/LeonardoRSS18-TesteAurora/cover.png",
+    "publication": {
+      "commit": "49f901a634ed6bdc42d2647efa6a255d4a7ef430",
+      "checkedAt": "2026-11-09T16:00:56.381Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "leowolf26-d-1",
