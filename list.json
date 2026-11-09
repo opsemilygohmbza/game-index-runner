@@ -16596,15 +16596,15 @@
     "owner": "Giltry",
     "name": "Lamento-de-las-Flores",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-20T11:22:49.827Z",
+    "checkedAt": "2026-11-09T08:00:05.875Z",
     "forkName": "Giltry-Lamento-de-las-Flores",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 576599,
+    "totalSize": 576600,
     "dataSize": 3872661,
     "sourceRepo": "Giltry/Lamento-de-las-Flores",
     "sourceDefaultBranch": "main",
@@ -16626,7 +16626,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/Giltry-Lamento-de-las-Flores/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Giltry-Lamento-de-las-Flores/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "f001ab09fcacee42c6b7309d588b63fdcf0979cd",
+      "checkedAt": "2026-11-09T08:03:02.002Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gitgui26-first-cool-ads",
