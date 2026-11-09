@@ -19327,15 +19327,15 @@
     "owner": "huangxinyi2626-byte",
     "name": "github_teaching_experiment",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-11-03T20:57:05.025Z",
+    "checkedAt": "2026-11-09T10:16:47.579Z",
     "forkName": "huangxinyi2626-byte-github_teaching_experiment",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 32096,
     "dataSize": 1218733,
     "sourceRepo": "huangxinyi2626-byte/github_teaching_experiment",
@@ -19360,7 +19360,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/",
     "upstreamCover": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/huangxinyi2626-byte-github_teaching_experiment/index.html",
+    "cover": "https://yx.ecy.al/huangxinyi2626-byte-github_teaching_experiment/cover.png",
+    "publication": {
+      "commit": "a07498c79f7af6476761655d0a869a319ce9fb19",
+      "checkedAt": "2026-11-09T10:22:26.802Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hydra-network-hydra-assets",
@@ -19433,12 +19441,12 @@
     "owner": "hzj199710",
     "name": "rpgMakerP1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-26T10:49:48.462Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "hzj199710-rpgMakerP1",
-    "checkedAt": "2026-11-01T12:52:54.543Z",
+    "checkedAt": "2026-11-09T10:17:55.892Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -19457,7 +19465,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/hzj199710-rpgMakerP1/",
-    "upstreamCover": "https://webrpg.org/hzj199710-rpgMakerP1/cover.png"
+    "upstreamCover": "https://webrpg.org/hzj199710-rpgMakerP1/cover.png",
+    "pagesUrl": "https://yx.ecy.al/hzj199710-rpgMakerP1/index.html",
+    "cover": "https://yx.ecy.al/hzj199710-rpgMakerP1/cover.png",
+    "publication": {
+      "commit": "cc9b6baa2966f0075d8d7f69a2207a5e01777e1a",
+      "checkedAt": "2026-11-09T10:22:27.191Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "iamthegamesofsprunk-iamthegamesofsprunk-github-io",
