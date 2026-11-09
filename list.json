@@ -16009,15 +16009,15 @@
     "owner": "gary31136",
     "name": "github_rpg_exGroup_v1",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-11-03T05:36:49.761Z",
+    "checkedAt": "2026-11-09T07:18:29.997Z",
     "forkName": "gary31136-github_rpg_exGroup_v1",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 32224,
     "dataSize": 1229034,
     "sourceRepo": "gary31136/github_rpg_exGroup_v1",
@@ -16042,7 +16042,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/gary31136-github_rpg_exGroup_v1/",
     "upstreamCover": "https://webrpg.org/gary31136-github_rpg_exGroup_v1/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/gary31136-github_rpg_exGroup_v1/index.html",
+    "cover": "https://yx.ecy.al/gary31136-github_rpg_exGroup_v1/cover.png",
+    "publication": {
+      "commit": "dd024c36445c16105a8632461fc7443f6c0f1e48",
+      "checkedAt": "2026-11-09T07:21:48.795Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gcascalese-tfg-uoc",
@@ -16051,15 +16059,15 @@
     "owner": "gcascalese",
     "name": "TFG_UOC",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T15:29:11.705Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:19.262Z",
+    "checkedAt": "2026-11-09T07:18:40.649Z",
     "forkName": "gcascalese-TFG_UOC",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 428417,
+    "totalSize": 429091,
     "dataSize": 2689457,
     "sourceRepo": "gcascalese/TFG_UOC",
     "sourceDefaultBranch": "master",
@@ -16084,7 +16092,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/gcascalese-TFG_UOC/",
     "upstreamCover": "https://webrpg.org/gcascalese-TFG_UOC/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/gcascalese-TFG_UOC/index.html",
+    "cover": "https://yx.ecy.al/gcascalese-TFG_UOC/cover.png",
+    "publication": {
+      "commit": "ee7e59be244a807e978fb9b1dafe2a07c2982852",
+      "checkedAt": "2026-11-09T07:22:09.439Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gelatolabs-catachresis",
@@ -16093,11 +16109,11 @@
     "owner": "gelatolabs",
     "name": "catachresis",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:52:22.418Z",
+    "checkedAt": "2026-11-09T07:21:31.370Z",
     "forkName": "gelatolabs-catachresis",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -16131,6 +16147,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/gelatolabs-catachresis/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/gelatolabs-catachresis/index.html",
+    "cover": "https://yx.ecy.al/gelatolabs-catachresis/cover.png",
+    "publication": {
+      "commit": "c881a77c7006269fdad2b239fa93e21c2ee46c5c",
+      "checkedAt": "2026-11-09T07:23:39.185Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
