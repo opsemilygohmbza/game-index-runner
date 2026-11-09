@@ -17583,11 +17583,11 @@
     "owner": "h0ngliangli",
     "name": "Game-Name",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:48.044Z",
+    "checkedAt": "2026-11-09T08:46:37.901Z",
     "forkName": "h0ngliangli-Game-Name",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -17620,7 +17620,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/h0ngliangli-Game-Name/",
-    "upstreamCover": "https://webrpg.org/h0ngliangli-Game-Name/cover.png"
+    "upstreamCover": "https://webrpg.org/h0ngliangli-Game-Name/cover.png",
+    "pagesUrl": "https://yx.ecy.al/h0ngliangli-Game-Name/index.html",
+    "cover": "https://yx.ecy.al/h0ngliangli-Game-Name/cover.png",
+    "publication": {
+      "commit": "a40dc8cb84b6e6189092b5bfdeee1176e9f15ee2",
+      "checkedAt": "2026-11-09T08:49:29.044Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "h3yko-loop-medieval",
