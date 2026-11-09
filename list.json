@@ -16659,11 +16659,11 @@
     "owner": "gitsets",
     "name": "madogigua",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:52:39.393Z",
+    "checkedAt": "2026-11-09T08:01:57.451Z",
     "forkName": "gitsets-madogigua",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -16696,6 +16696,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/gitsets-madogigua/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/gitsets-madogigua/index.html",
+    "cover": "https://yx.ecy.al/gitsets-madogigua/cover.png",
+    "publication": {
+      "commit": "3fc64a365620ba7e6698c1c3654e8575b303bb0e",
+      "checkedAt": "2026-11-09T08:04:48.805Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -16705,11 +16713,11 @@
     "owner": "givanilddo",
     "name": "SkullSeeker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:52:57.870Z",
+    "checkedAt": "2026-11-09T08:02:07.457Z",
     "forkName": "givanilddo-SkullSeeker",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -16729,6 +16737,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/givanilddo-SkullSeeker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/givanilddo-SkullSeeker/index.html",
+    "cover": "https://yx.ecy.al/givanilddo-SkullSeeker/cover.png",
+    "publication": {
+      "commit": "3ae938368adf9f454f06aacbb3f4c2882fc3491d",
+      "checkedAt": "2026-11-09T08:05:00.514Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
