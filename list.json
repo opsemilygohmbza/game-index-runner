@@ -22643,15 +22643,15 @@
     "owner": "katai5plate",
     "name": "rpgmz-newgame-lite",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:43:39.038Z",
+    "checkedAt": "2026-11-09T13:49:28.999Z",
     "forkName": "katai5plate-rpgmz-newgame-lite",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 39271,
     "dataSize": 538432,
     "sourceRepo": "katai5plate/rpgmz-newgame-lite",
@@ -22670,7 +22670,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/",
     "upstreamCover": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/katai5plate-rpgmz-newgame-lite/index.html",
+    "cover": "https://yx.ecy.al/katai5plate-rpgmz-newgame-lite/cover.png",
+    "publication": {
+      "commit": "a827cb78b895f6d360ce2b1429932d71196fdd40",
+      "checkedAt": "2026-11-09T13:52:03.364Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "katblackcoder-hoshi2star",
