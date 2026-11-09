@@ -26920,14 +26920,14 @@
     "owner": "MartinBenes",
     "name": "Demo-Taborska",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T13:50:25.859Z",
+    "checkedAt": "2026-11-09T17:27:58.342Z",
     "forkName": "MartinBenes-Demo-Taborska",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 17122,
     "dataSize": 726070,
     "sourceRepo": "MartinBenes/Demo-Taborska",
@@ -26947,7 +26947,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/MartinBenes-Demo-Taborska/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/MartinBenes-Demo-Taborska/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "0772c8d1b86d0fd7aa92b48640287432c8af34f2",
+      "checkedAt": "2026-11-09T17:31:22.273Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "martinetto33-to-glory",
