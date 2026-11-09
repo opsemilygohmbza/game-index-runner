@@ -18211,15 +18211,15 @@
     "owner": "Harleythetech",
     "name": "Jovellano_ACT2",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-08T18:27:22.707Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T01:29:31.105Z",
+    "checkedAt": "2026-11-09T09:29:52.939Z",
     "forkName": "Harleythetech-Jovellano_ACT2",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 85397,
     "dataSize": 744235,
     "sourceRepo": "Harleythetech/Jovellano_ACT2",
@@ -18243,7 +18243,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Harleythetech-Jovellano_ACT2/",
     "upstreamCover": "https://webrpg.org/Harleythetech-Jovellano_ACT2/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Harleythetech-Jovellano_ACT2/index.html",
+    "cover": "https://yx.ecy.al/Harleythetech-Jovellano_ACT2/cover.png",
+    "publication": {
+      "commit": "92e442092cd86cab3e52eae0661b5e04de9c4a95",
+      "checkedAt": "2026-11-09T09:32:28.916Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "harleythetech-jovellano-act3",
@@ -18252,15 +18260,15 @@
     "owner": "Harleythetech",
     "name": "Jovellano_ACT3",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-08T18:27:22.707Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-05T01:29:27.244Z",
+    "checkedAt": "2026-11-09T09:30:02.962Z",
     "forkName": "Harleythetech-Jovellano_ACT3",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 85725,
     "dataSize": 747001,
     "sourceRepo": "Harleythetech/Jovellano_ACT3",
@@ -18284,7 +18292,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Harleythetech-Jovellano_ACT3/",
     "upstreamCover": "https://webrpg.org/Harleythetech-Jovellano_ACT3/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Harleythetech-Jovellano_ACT3/index.html",
+    "cover": "https://yx.ecy.al/Harleythetech-Jovellano_ACT3/cover.png",
+    "publication": {
+      "commit": "9972115fdb3af1b98b1507485d1d959bdefc3b79",
+      "checkedAt": "2026-11-09T09:32:49.693Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "harleythetech-palarongpanlipunan",
@@ -18293,14 +18309,14 @@
     "owner": "Harleythetech",
     "name": "PalarongPanlipunan",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-10T15:52:23.615Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:52:04.399Z",
-    "forkName": "Harleythetech-CAPSTONE_PPV2",
+    "checkedAt": "2026-11-09T09:32:16.796Z",
+    "forkName": "Harleythetech-PalarongPanlipunan",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 391679,
     "dataSize": 1253982,
     "sourceRepo": "Harleythetech/PalarongPanlipunan",
@@ -18327,7 +18343,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/",
     "upstreamCover": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Harleythetech-PalarongPanlipunan/index.html",
+    "cover": "https://yx.ecy.al/Harleythetech-PalarongPanlipunan/cover.png",
+    "publication": {
+      "commit": "d1dda53819d875462d49c9137e6c31717dcbb3e6",
+      "checkedAt": "2026-11-09T09:35:10.413Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "harshulmoon-harshulmoon-github-io",
