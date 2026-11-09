@@ -16164,17 +16164,17 @@
     "owner": "GenGames",
     "name": "66JamSubmissions",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Bagelocalypse - Brothers of Einstein/www/index.html",
-    "checkedAt": "2026-11-01T12:51:24.072Z",
+    "checkedAt": "2026-11-09T07:21:41.491Z",
     "forkName": "GenGames-66JamSubmissions",
-    "entryPath": "Bagelocalypse - Brothers of Einstein/www/index.html",
+    "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 115,
     "totalSize": 168375,
-    "dataSize": 0,
+    "dataSize": 882804,
     "sourceRepo": "GenGames/66JamSubmissions",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "b361fe1a6b5311e3d6604fbd68ce5bf76d4f75ae",
@@ -16202,7 +16202,15 @@
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/GenGames-66JamSubmissions/",
-    "upstreamCover": "https://webrpg.org/GenGames-66JamSubmissions/cover.png"
+    "upstreamCover": "https://webrpg.org/GenGames-66JamSubmissions/cover.png",
+    "pagesUrl": "https://yx.ecy.al/GenGames-66JamSubmissions/index.html",
+    "cover": "https://yx.ecy.al/GenGames-66JamSubmissions/cover.png",
+    "publication": {
+      "commit": "3a82cd046f74d04c682a52462c4cad7f6c372adb",
+      "checkedAt": "2026-11-09T07:26:33.120Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "genizy-web-port",
