@@ -30217,15 +30217,15 @@
     "owner": "newtranslator007-rgb",
     "name": "Trench-Face-Thai-patch",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-21T16:39:57.879Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-11-05T10:33:24.777Z",
+    "checkedAt": "2026-11-09T21:11:51.893Z",
     "forkName": "newtranslator007-rgb-Trench-Face-Thai-patch",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 100396,
     "dataSize": 10189422,
     "sourceRepo": "newtranslator007-rgb/Trench-Face-Thai-patch",
@@ -30236,7 +30236,15 @@
     "reachabilityDetail": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/",
     "upstreamCover": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/newtranslator007-rgb-Trench-Face-Thai-patch/index.html",
+    "cover": "https://yx.ecy.al/newtranslator007-rgb-Trench-Face-Thai-patch/cover.png",
+    "publication": {
+      "commit": "5c7342c49428318fb639fbabf30aeba7158c67b4",
+      "checkedAt": "2026-11-09T21:17:34.264Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "nguyendacliem-monad",
