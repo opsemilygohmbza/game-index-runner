@@ -24951,12 +24951,12 @@
     "owner": "LeoWolf26",
     "name": "D-1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "LeoWolf26-D-1",
-    "checkedAt": "2026-11-01T19:31:50.567Z",
+    "checkedAt": "2026-11-09T15:58:12.673Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -24988,7 +24988,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/LeoWolf26-D-1/",
-    "upstreamCover": "https://webrpg.org/LeoWolf26-D-1/cover.png"
+    "upstreamCover": "https://webrpg.org/LeoWolf26-D-1/cover.png",
+    "pagesUrl": "https://yx.ecy.al/LeoWolf26-D-1/index.html",
+    "cover": "https://yx.ecy.al/LeoWolf26-D-1/cover.png",
+    "publication": {
+      "commit": "08d9ac2ef8ead0fd53595f3c51b1d06be0315504",
+      "checkedAt": "2026-11-09T16:05:47.733Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "lfkdsk-pocketjs-rpgkit",
@@ -25284,15 +25292,15 @@
     "owner": "Liuyikui",
     "name": "RPGMAKER-FD1.1",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T05:37:03.601Z",
+    "checkedAt": "2026-11-09T16:01:07.635Z",
     "forkName": "Liuyikui-RPGMAKER-FD1.1",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 21065,
     "dataSize": 1080152,
     "sourceRepo": "Liuyikui/RPGMAKER-FD1.1",
@@ -25316,7 +25324,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/",
     "upstreamCover": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Liuyikui-RPGMAKER-FD1.1/index.html",
+    "cover": "https://yx.ecy.al/Liuyikui-RPGMAKER-FD1.1/cover.png",
+    "publication": {
+      "commit": "53c5a38e53140b09a211e8881fd76bcda4ba42eb",
+      "checkedAt": "2026-11-09T16:05:48.059Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "livebacteria-gptales-interactivenpc",
