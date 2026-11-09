@@ -12759,11 +12759,11 @@
     "owner": "ELGHINN2512",
     "name": "testGame",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:21:50.444Z",
+    "checkedAt": "2026-11-09T03:47:28.447Z",
     "forkName": "ELGHINN2512-testGame",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -12796,6 +12796,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/ELGHINN2512-testGame/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/ELGHINN2512-testGame/index.html",
+    "cover": "https://yx.ecy.al/ELGHINN2512-testGame/cover.png",
+    "publication": {
+      "commit": "2ef2c1f098ca9a5a58a38f1685a2f44d45cd6aba",
+      "checkedAt": "2026-11-09T03:51:59.748Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
