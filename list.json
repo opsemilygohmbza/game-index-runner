@@ -14679,11 +14679,11 @@
     "owner": "feilongproject",
     "name": "Fubuki-H-Game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:24:13.731Z",
+    "checkedAt": "2026-11-09T05:53:48.944Z",
     "forkName": "feilongproject-Fubuki-H-Game",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14716,6 +14716,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/feilongproject-Fubuki-H-Game/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/feilongproject-Fubuki-H-Game/index.html",
+    "cover": "https://yx.ecy.al/feilongproject-Fubuki-H-Game/cover.png",
+    "publication": {
+      "commit": "3054fb7ff922749433dea383989d18bdca1451d4",
+      "checkedAt": "2026-11-09T05:58:27.955Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -14747,11 +14755,11 @@
     "owner": "Fernando-Simaoo",
     "name": "The_Legend_of_Brick",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-11T05:39:04.866Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:51:01.524Z",
+    "checkedAt": "2026-11-09T05:53:59.276Z",
     "forkName": "Fernando-Simaoo-The_Legend_of_Brick",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -14783,7 +14791,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/Fernando-Simaoo-The_Legend_of_Brick/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
-    "upstreamPagesUrl": "https://webrpg.org/Fernando-Simaoo-The_Legend_of_Brick/"
+    "upstreamPagesUrl": "https://webrpg.org/Fernando-Simaoo-The_Legend_of_Brick/",
+    "pagesUrl": "https://yx.ecy.al/Fernando-Simaoo-The_Legend_of_Brick/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "5c13182d84152462dc366ca4da953e07933b5e01",
+      "checkedAt": "2026-11-09T05:58:28.320Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "fernandopedridodev-rpgmakeracevx",
