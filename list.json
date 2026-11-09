@@ -27974,12 +27974,12 @@
     "owner": "miguelarcjr",
     "name": "sombradalua",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "miguelarcjr-sombradalua",
-    "checkedAt": "2026-11-02T00:24:15.689Z",
+    "checkedAt": "2026-11-09T18:58:07.998Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "validationScore": 118,
@@ -27998,7 +27998,15 @@
       "recoveredAt": "2026-11-08T03:52:23.460Z"
     },
     "upstreamPagesUrl": "https://webrpg.org/miguelarcjr-sombradalua/",
-    "upstreamCover": "https://webrpg.org/miguelarcjr-sombradalua/cover.png"
+    "upstreamCover": "https://webrpg.org/miguelarcjr-sombradalua/cover.png",
+    "pagesUrl": "https://yx.ecy.al/miguelarcjr-sombradalua/index.html",
+    "cover": "https://yx.ecy.al/miguelarcjr-sombradalua/cover.png",
+    "publication": {
+      "commit": "6f9ee1c7b2af8164f8b7ff3a77c167e8610b1515",
+      "checkedAt": "2026-11-09T19:01:24.865Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "miguelc5172-the-tower",
@@ -28007,16 +28015,16 @@
     "owner": "miguelc5172",
     "name": "The-Tower",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "The Tower/index.html",
-    "checkedAt": "2026-06-19T06:29:06.396Z",
+    "checkedAt": "2026-11-09T18:58:18.164Z",
     "forkName": "miguelc5172-The-Tower",
-    "entryPath": "The Tower/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
     "totalSize": 388609,
-    "dataSize": 0,
+    "dataSize": 886569,
     "sourceRepo": "miguelc5172/The-Tower",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "b4825424994a6a51339c2c79d88d7cbf9b080777",
@@ -28026,7 +28034,15 @@
     "reachabilityDetail": "https://webrpg.org/miguelc5172-The-Tower/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/miguelc5172-The-Tower/",
     "upstreamCover": "https://webrpg.org/miguelc5172-The-Tower/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/miguelc5172-The-Tower/index.html",
+    "cover": "https://yx.ecy.al/miguelc5172-The-Tower/cover.png",
+    "publication": {
+      "commit": "34dddeb02cb01909861ad615dd9570fcb0fb28d7",
+      "checkedAt": "2026-11-09T19:01:50.977Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "mik-kaewwichian-rpg-game-mv-maker",
