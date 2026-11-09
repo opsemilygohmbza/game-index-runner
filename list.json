@@ -16293,11 +16293,11 @@
     "owner": "GeorgeChen-666",
     "name": "sgmud",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T11:52:49.697Z",
+    "checkedAt": "2026-11-09T07:55:16.960Z",
     "forkName": "GeorgeChen-666-sgmud",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -16330,6 +16330,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/GeorgeChen-666-sgmud/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/GeorgeChen-666-sgmud/index.html",
+    "cover": "https://yx.ecy.al/GeorgeChen-666-sgmud/cover.png",
+    "publication": {
+      "commit": "b0ef19758ef3daf47b32bf2498e5c273dcc3483b",
+      "checkedAt": "2026-11-09T07:58:21.994Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -16339,15 +16347,15 @@
     "owner": "getsentry",
     "name": "hackweek-trialbytriage",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-01T12:52:21.444Z",
+    "checkedAt": "2026-11-09T07:55:25.359Z",
     "forkName": "getsentry-hackweek-trialbytriage",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 98782,
     "dataSize": 868780,
     "sourceRepo": "getsentry/hackweek-trialbytriage",
@@ -16358,7 +16366,15 @@
     "reachabilityDetail": "https://webrpg.org/getsentry-hackweek-trialbytriage/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/getsentry-hackweek-trialbytriage/",
     "upstreamCover": "https://webrpg.org/getsentry-hackweek-trialbytriage/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/getsentry-hackweek-trialbytriage/index.html",
+    "cover": "https://yx.ecy.al/getsentry-hackweek-trialbytriage/cover.png",
+    "publication": {
+      "commit": "46afa572d79c521d27d27df676d2d2a60f291d3a",
+      "checkedAt": "2026-11-09T07:57:44.560Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gfdgd-xi-siyemuxu-online",
@@ -16435,15 +16451,15 @@
     "owner": "GideonMire",
     "name": "LOST-AMONG-THE-STARS",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "LOST AMONG THE STARS/index.html",
-    "checkedAt": "2026-11-03T20:57:02.978Z",
+    "checkedAt": "2026-11-09T07:57:27.012Z",
     "forkName": "GideonMire-LOST-AMONG-THE-STARS",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 143051,
     "dataSize": 1426298,
     "sourceRepo": "GideonMire/LOST-AMONG-THE-STARS",
@@ -16468,7 +16484,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/",
     "upstreamCover": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/GideonMire-LOST-AMONG-THE-STARS/index.html",
+    "cover": "https://yx.ecy.al/GideonMire-LOST-AMONG-THE-STARS/cover.png",
+    "publication": {
+      "commit": "f78016baa5490e970331c0db9c5ea03800103bc5",
+      "checkedAt": "2026-11-09T08:00:29.422Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gil9red-rpg-maker-mz-foo",
@@ -16477,16 +16501,16 @@
     "owner": "gil9red",
     "name": "RPG-Maker-MZ-Foo",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-30T17:44:06.818Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-30T22:05:09.755Z",
+    "checkedAt": "2026-11-09T07:57:36.640Z",
     "forkName": "gil9red-RPG-Maker-MZ-Foo",
     "entryPath": "index.html",
     "coverPath": "cover.png",
     "verificationDeferred": true,
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 95995,
     "dataSize": 3765519,
     "sourceRepo": "gil9red/RPG-Maker-MZ-Foo",
@@ -16503,7 +16527,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/gil9red-RPG-Maker-MZ-Foo/",
     "upstreamCover": "https://webrpg.org/gil9red-RPG-Maker-MZ-Foo/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/gil9red-RPG-Maker-MZ-Foo/index.html",
+    "cover": "https://yx.ecy.al/gil9red-RPG-Maker-MZ-Foo/cover.png",
+    "publication": {
+      "commit": "7f33224b1e1d4fe6b806c4920684ef5625b525ce",
+      "checkedAt": "2026-11-09T08:00:04.126Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gilloo-lab-rpg-beta01",
@@ -16512,15 +16544,15 @@
     "owner": "Gilloo-Lab",
     "name": "RPG_Beta01",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T05:36:49.465Z",
+    "checkedAt": "2026-11-09T07:59:56.107Z",
     "forkName": "Gilloo-Lab-RPG_Beta01",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 21218,
     "dataSize": 621342,
     "sourceRepo": "Gilloo-Lab/RPG_Beta01",
@@ -16547,7 +16579,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Gilloo-Lab-RPG_Beta01/",
     "upstreamCover": "https://webrpg.org/Gilloo-Lab-RPG_Beta01/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Gilloo-Lab-RPG_Beta01/index.html",
+    "cover": "https://yx.ecy.al/Gilloo-Lab-RPG_Beta01/cover.png",
+    "publication": {
+      "commit": "8c313dfd32749a03d94cc8e45d46d31c9baa760e",
+      "checkedAt": "2026-11-09T08:02:05.474Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "giltry-lamento-de-las-flores",
