@@ -13301,11 +13301,11 @@
     "owner": "EnigmaDragons",
     "name": "TheShutdown",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T04:22:47.724Z",
+    "checkedAt": "2026-11-09T04:28:34.864Z",
     "forkName": "EnigmaDragons-TheShutdown",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -13325,6 +13325,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/EnigmaDragons-TheShutdown/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/EnigmaDragons-TheShutdown/index.html",
+    "cover": "https://yx.ecy.al/EnigmaDragons-TheShutdown/cover.png",
+    "publication": {
+      "commit": "3f347a0644fa01b421dfbf2ece08c3fe81d312b0",
+      "checkedAt": "2026-11-09T04:31:04.232Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
