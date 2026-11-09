@@ -11437,15 +11437,15 @@
     "owner": "drclcomputers",
     "name": "The-Curse-of-The-Sceptrum",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-10-30T22:07:15.653Z",
+    "checkedAt": "2026-11-09T02:19:53.199Z",
     "forkName": "drclcomputers-The-Curse-of-The-Sceptrum",
     "entryPath": "index.html",
-    "validationScore": 118,
-    "totalSize": 381058,
+    "validationScore": 115,
+    "totalSize": 381051,
     "dataSize": 1265928,
     "sourceRepo": "drclcomputers/The-Curse-of-The-Sceptrum",
     "sourceDefaultBranch": "main",
@@ -11461,6 +11461,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/drclcomputers-The-Curse-of-The-Sceptrum/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/drclcomputers-The-Curse-of-The-Sceptrum/index.html",
+    "cover": "https://yx.ecy.al/drclcomputers-The-Curse-of-The-Sceptrum/cover.png",
+    "publication": {
+      "commit": "b81022e0d30f52758bec2e98ad465c6346257bb1",
+      "checkedAt": "2026-11-09T02:24:45.807Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
