@@ -19049,15 +19049,15 @@
     "owner": "horke-root",
     "name": "EchoOfDespire",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:42:55.598Z",
+    "checkedAt": "2026-11-09T10:11:53.978Z",
     "forkName": "horke-root-EchoOfDespire",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 187694,
     "dataSize": 1478693,
     "sourceRepo": "horke-root/EchoOfDespire",
@@ -19082,7 +19082,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/horke-root-EchoOfDespire/",
     "upstreamCover": "https://webrpg.org/horke-root-EchoOfDespire/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/horke-root-EchoOfDespire/index.html",
+    "cover": "https://yx.ecy.al/horke-root-EchoOfDespire/cover.png",
+    "publication": {
+      "commit": "445f4159d8cf56245bd0bbfcc18809631f88bf21",
+      "checkedAt": "2026-11-09T10:14:29.689Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "hoshino-yumetsuki-rmgaf",
