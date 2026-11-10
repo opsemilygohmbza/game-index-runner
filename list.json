@@ -46251,15 +46251,15 @@
     "owner": "yutom3",
     "name": "UCI-CKI-RPGMMO",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:18.918Z",
+    "checkedAt": "2026-11-10T14:33:17.647Z",
     "forkName": "yutom3-UCI-CKI-RPGMMO",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 397875,
+    "totalSize": 397911,
     "dataSize": 2171845,
     "sourceRepo": "yutom3/UCI-CKI-RPGMMO",
     "sourceDefaultBranch": "master",
@@ -46284,7 +46284,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/yutom3-UCI-CKI-RPGMMO/",
     "upstreamCover": "https://webrpg.org/yutom3-UCI-CKI-RPGMMO/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/yutom3-UCI-CKI-RPGMMO/index.html",
+    "cover": "https://yx.ecy.al/yutom3-UCI-CKI-RPGMMO/cover.png",
+    "publication": {
+      "commit": "c3206f6b7505cec0609a6beaee70e95c0050fd5b",
+      "checkedAt": "2026-11-10T14:36:42.924Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "yuukiogino-projecttogebutraial",
@@ -46341,15 +46349,15 @@
     "owner": "z9z9z9z9z9z9",
     "name": "tt",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "z9z9z9z9z9z9-tt",
-    "checkedAt": "2026-11-04T19:34:56.570Z",
+    "checkedAt": "2026-11-10T14:33:27.932Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 93657,
     "dataSize": 593380,
     "sourceRepo": "z9z9z9z9z9z9/tt",
@@ -46371,7 +46379,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/z9z9z9z9z9z9-tt/",
     "upstreamCover": "https://webrpg.org/z9z9z9z9z9z9-tt/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/z9z9z9z9z9z9-tt/index.html",
+    "cover": "https://yx.ecy.al/z9z9z9z9z9z9-tt/cover.png",
+    "publication": {
+      "commit": "d7ddf0b45a37596e2ba55179a388be4f99b5bf93",
+      "checkedAt": "2026-11-10T14:36:20.353Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "zaka13alt-history",
@@ -46552,15 +46568,15 @@
     "owner": "zhuobinggang",
     "name": "dirt-rpg",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:08.837Z",
+    "checkedAt": "2026-11-10T14:36:43.242Z",
     "forkName": "zhuobinggang-dirt-rpg",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 2271,
+    "totalSize": 2268,
     "dataSize": 1610945,
     "sourceRepo": "zhuobinggang/dirt-rpg",
     "sourceDefaultBranch": "main",
@@ -46581,7 +46597,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/zhuobinggang-dirt-rpg/",
     "upstreamCover": "https://webrpg.org/zhuobinggang-dirt-rpg/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/zhuobinggang-dirt-rpg/index.html",
+    "cover": "https://yx.ecy.al/zhuobinggang-dirt-rpg/cover.png",
+    "publication": {
+      "commit": "d442ed0ac68cbb081abe941378df7aa1cd050ec5",
+      "checkedAt": "2026-11-10T14:41:41.002Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "zhuobinggang-flower-of-evil",
