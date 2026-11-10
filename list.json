@@ -4277,15 +4277,15 @@
     "owner": "Apress",
     "name": "make-a-2d-rpg-in-a-weekend-15",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Make a 2D RPG in a Weekend/index.html",
-    "checkedAt": "2026-09-20T20:32:20.933Z",
+    "checkedAt": "2026-11-10T17:53:05.800Z",
     "forkName": "Apress-make-a-2d-rpg-in-a-weekend-15",
     "validationScore": 115,
     "totalSize": 400581,
-    "dataSize": 0,
+    "dataSize": 2024315,
     "sourceRepo": "Apress/make-a-2d-rpg-in-a-weekend-15",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "11d34efa6ef8ad118048a34292cc59430f4d6c92",
@@ -4293,7 +4293,7 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-20T20:32:22.520Z",
-    "entryPath": "Make a 2D RPG in a Weekend/index.html",
+    "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/Apress-make-a-2d-rpg-in-a-weekend-15/",
     "upstreamCover": "https://webrpg.org/Apress-make-a-2d-rpg-in-a-weekend-15/cover.png",
     "upstreamStatus": "invalid_structure",
@@ -4301,6 +4301,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Apress-make-a-2d-rpg-in-a-weekend-15/Make%20a%202D%20RPG%20in%20a%20Weekend/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Apress-make-a-2d-rpg-in-a-weekend-15/index.html",
+    "cover": "https://yx.ecy.al/Apress-make-a-2d-rpg-in-a-weekend-15/cover.png",
+    "publication": {
+      "commit": "a0742fd77f512cc6db2d73b0d862157436471a80",
+      "checkedAt": "2026-11-10T17:57:39.859Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4709,13 +4717,13 @@
     "owner": "Ashton20271",
     "name": "unblockedgames",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "cldeadplate.html",
-    "checkedAt": "2026-09-16T11:01:06.277Z",
+    "checkedAt": "2026-11-10T17:56:25.186Z",
     "forkName": "Ashton20271-unblockedgames",
-    "invalidReason": "Repository has 2776 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -4782,9 +4790,11 @@
     "owner": "askq5-sys",
     "name": "Purgatory-NARAKU-PSP",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:32.979Z"
+    "discoveredAt": "2026-11-08T04:06:32.979Z",
+    "checkedAt": "2026-11-10T17:56:57.119Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "aslated-jstesting",
