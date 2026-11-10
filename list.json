@@ -10114,9 +10114,11 @@
     "owner": "dazacode",
     "name": "openomori",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T20:26:33.357Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "dazedanon-dazedtl",
@@ -10125,9 +10127,11 @@
     "owner": "dazedanon",
     "name": "DazedTL",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T20:27:53.437Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "dcarlin-devil-king-rpgmaker-mv-game",
@@ -10263,9 +10267,11 @@
     "owner": "deckyfx",
     "name": "rmmv-animation-workspace",
     "engine": "RPG Maker",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:42.836Z"
+    "discoveredAt": "2026-11-08T04:06:42.836Z",
+    "checkedAt": "2026-11-10T20:28:13.779Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "deeeland0ohio-sigma-games",
