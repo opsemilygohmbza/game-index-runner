@@ -33654,15 +33654,15 @@
     "owner": "REALmyenemy",
     "name": "MEMZ_InstanceActors",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "REALmyenemy-MEMZ_InstanceActors",
-    "checkedAt": "2026-11-02T10:44:35.903Z",
+    "checkedAt": "2026-11-10T01:23:18.826Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 93938,
     "dataSize": 735297,
     "sourceRepo": "REALmyenemy/MEMZ_InstanceActors",
@@ -33681,7 +33681,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/REALmyenemy-MEMZ_InstanceActors/",
     "upstreamCover": "https://webrpg.org/REALmyenemy-MEMZ_InstanceActors/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/REALmyenemy-MEMZ_InstanceActors/index.html",
+    "cover": "https://yx.ecy.al/REALmyenemy-MEMZ_InstanceActors/cover.png",
+    "publication": {
+      "commit": "265b7b9652c3c5ba9ec1f33c7796b62141e9fa5f",
+      "checkedAt": "2026-11-10T01:25:53.370Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "realquantumcookie-wulinwaizhuan",
@@ -33779,15 +33787,15 @@
     "owner": "RedPillPhil",
     "name": "Emberchain",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-03T20:32:40.722Z",
     "source": "github-code-search",
     "sourcePath": "artifacts/embermon/game/index.html",
     "forkName": "RedPillPhil-Emberchain",
-    "checkedAt": "2026-11-02T10:44:52.825Z",
+    "checkedAt": "2026-11-10T01:25:29.875Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 144354,
     "dataSize": 886465,
     "sourceRepo": "RedPillPhil/Emberchain",
@@ -33812,7 +33820,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/RedPillPhil-Emberchain/",
     "upstreamCover": "https://webrpg.org/RedPillPhil-Emberchain/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/RedPillPhil-Emberchain/index.html",
+    "cover": "https://yx.ecy.al/RedPillPhil-Emberchain/cover.png",
+    "publication": {
+      "commit": "c85a742a1d43f0afe0ca2771969561f388f60c64",
+      "checkedAt": "2026-11-10T01:28:50.046Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "redpillphil-testeroni",
@@ -33821,15 +33837,15 @@
     "owner": "RedPillPhil",
     "name": "testeroni",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:53:25.859Z",
+    "checkedAt": "2026-11-10T01:25:40.037Z",
     "forkName": "RedPillPhil-testeroni",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 1664,
+    "totalSize": 1663,
     "dataSize": 669716,
     "sourceRepo": "RedPillPhil/testeroni",
     "sourceDefaultBranch": "main",
@@ -33846,7 +33862,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/RedPillPhil-testeroni/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/RedPillPhil-testeroni/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "d0a85a19fe3f31d55fabcf60c7150821dcd92307",
+      "checkedAt": "2026-11-10T01:28:24.120Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "redseb-rpgmaker-mz-mcp",
@@ -34028,14 +34052,14 @@
     "owner": "renrender0209",
     "name": "Aaaao",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GameDataFiles/index.html",
-    "checkedAt": "2026-11-03T13:51:11.753Z",
+    "checkedAt": "2026-11-10T01:28:20.091Z",
     "forkName": "renrender0209-Aaaao",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 91739,
     "dataSize": 1011408,
     "sourceRepo": "renrender0209/Aaaao",
@@ -34063,7 +34087,15 @@
       "title": "メンヘラちゃん家からの脱出"
     },
     "upstreamPagesUrl": "https://webrpg.org/renrender0209-Aaaao/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/renrender0209-Aaaao/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "46f45d044feb91234274c0b6211f9dbef6b39b63",
+      "checkedAt": "2026-11-10T01:31:23.929Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "renrender0209-aooni",
@@ -34126,15 +34158,15 @@
     "owner": "renrender0209",
     "name": "kankin",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-30T05:01:43.738Z",
     "source": "github-code-search",
     "sourcePath": "Win_game/www/index.html",
     "forkName": "renrender0209-kankin",
-    "checkedAt": "2026-11-02T10:45:11.532Z",
+    "checkedAt": "2026-11-10T01:30:50.314Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 84189,
     "dataSize": 2830334,
     "sourceRepo": "renrender0209/kankin",
@@ -34164,7 +34196,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/renrender0209-kankin/",
-    "upstreamCover": "https://webrpg.org/renrender0209-kankin/cover.png"
+    "upstreamCover": "https://webrpg.org/renrender0209-kankin/cover.png",
+    "pagesUrl": "https://yx.ecy.al/renrender0209-kankin/index.html",
+    "cover": "https://yx.ecy.al/renrender0209-kankin/cover.png",
+    "publication": {
+      "commit": "4a57963f0077e6d502aacafa1d2a08963b7df6cf",
+      "checkedAt": "2026-11-10T01:34:31.627Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "renrender0209-kawaiihakowaseru",
