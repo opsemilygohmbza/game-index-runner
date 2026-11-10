@@ -39145,15 +39145,15 @@
     "owner": "syberorange",
     "name": "dsefv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
     "forkName": "syberorange-dsefv",
-    "checkedAt": "2026-11-04T10:40:29.903Z",
+    "checkedAt": "2026-11-10T07:19:59.411Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 79109,
     "dataSize": 2411666,
     "sourceRepo": "syberorange/dsefv",
@@ -39172,7 +39172,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/syberorange-dsefv/",
-    "upstreamCover": "https://webrpg.org/syberorange-dsefv/cover.png"
+    "upstreamCover": "https://webrpg.org/syberorange-dsefv/cover.png",
+    "pagesUrl": "https://yx.ecy.al/syberorange-dsefv/index.html",
+    "cover": "https://yx.ecy.al/syberorange-dsefv/cover.png",
+    "publication": {
+      "commit": "438b6f5f25143b53f6e8df39c32cbac250af0534",
+      "checkedAt": "2026-11-10T07:23:27.535Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sydomo-miyoipluginstestdemo",
@@ -39215,15 +39223,15 @@
     "owner": "Synrec",
     "name": "Monster-Capture-MZ",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "Synrec-Monster-Capture-MZ",
-    "checkedAt": "2026-11-04T01:14:32.061Z",
+    "checkedAt": "2026-11-10T07:20:09.600Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 122224,
     "dataSize": 548306,
     "sourceRepo": "Synrec/Monster-Capture-MZ",
@@ -39242,7 +39250,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Synrec-Monster-Capture-MZ/",
     "upstreamCover": "https://webrpg.org/Synrec-Monster-Capture-MZ/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Synrec-Monster-Capture-MZ/index.html",
+    "cover": "https://yx.ecy.al/Synrec-Monster-Capture-MZ/cover.png",
+    "publication": {
+      "commit": "ae2dad0078de0123839c7df8d5528f86f4edad33",
+      "checkedAt": "2026-11-10T07:22:41.687Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "synystercola-ldjam44",
@@ -39297,15 +39313,15 @@
     "owner": "szatkus",
     "name": "wachaj_pale_kajdaniarzu",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:24:18.555Z",
+    "checkedAt": "2026-11-10T07:23:21.907Z",
     "forkName": "szatkus-wachaj_pale_kajdaniarzu",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 388735,
+    "totalSize": 388734,
     "dataSize": 669894,
     "sourceRepo": "szatkus/wachaj_pale_kajdaniarzu",
     "sourceDefaultBranch": "master",
@@ -39326,7 +39342,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/szatkus-wachaj_pale_kajdaniarzu/",
     "upstreamCover": "https://webrpg.org/szatkus-wachaj_pale_kajdaniarzu/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/szatkus-wachaj_pale_kajdaniarzu/index.html",
+    "cover": "https://yx.ecy.al/szatkus-wachaj_pale_kajdaniarzu/cover.png",
+    "publication": {
+      "commit": "8576a213ffb46b4a97cab1ac296cff390786f04f",
+      "checkedAt": "2026-11-10T07:25:39.968Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "szymor-elemental-saga",
