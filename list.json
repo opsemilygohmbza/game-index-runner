@@ -35146,15 +35146,15 @@
     "owner": "rravenorr",
     "name": "El_Fili",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "El Fili/index.html",
-    "checkedAt": "2026-11-03T05:38:38.534Z",
+    "checkedAt": "2026-11-10T02:53:59.781Z",
     "forkName": "rravenorr-El_Fili",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 111404,
     "dataSize": 1533579,
     "sourceRepo": "rravenorr/El_Fili",
@@ -35185,7 +35185,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/rravenorr-El_Fili/",
     "upstreamCover": "https://webrpg.org/rravenorr-El_Fili/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/rravenorr-El_Fili/index.html",
+    "cover": "https://yx.ecy.al/rravenorr-El_Fili/cover.png",
+    "publication": {
+      "commit": "d83427bfab0132c2ae444efda43e2027ec5b91a0",
+      "checkedAt": "2026-11-10T02:58:24.262Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "rtlh0-marcarpg",
@@ -35596,15 +35604,15 @@
     "owner": "Safmica",
     "name": "rpg_maker_test",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "Safmica-rpg_maker_test",
-    "checkedAt": "2026-11-03T13:51:49.572Z",
+    "checkedAt": "2026-11-10T03:04:06.569Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 17111,
     "dataSize": 532643,
     "sourceRepo": "Safmica/rpg_maker_test",
@@ -35623,7 +35631,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Safmica-rpg_maker_test/",
     "upstreamCover": "https://webrpg.org/Safmica-rpg_maker_test/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Safmica-rpg_maker_test/index.html",
+    "cover": "https://yx.ecy.al/Safmica-rpg_maker_test/cover.png",
+    "publication": {
+      "commit": "cf8c73c2ec38ea1e63738cdcb7090180e387be00",
+      "checkedAt": "2026-11-10T03:05:50.041Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "saigurunagula-ik2",
