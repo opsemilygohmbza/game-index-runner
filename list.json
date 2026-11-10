@@ -3083,15 +3083,15 @@
     "owner": "Altoc",
     "name": "rpg_maker_jam",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "The RPG Maker/index.html",
-    "checkedAt": "2026-09-20T20:31:17.189Z",
+    "checkedAt": "2026-11-10T17:16:53.998Z",
     "forkName": "Altoc-rpg_maker_jam",
     "validationScore": 115,
     "totalSize": 390764,
-    "dataSize": 0,
+    "dataSize": 849898,
     "sourceRepo": "Altoc/rpg_maker_jam",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "e4667b5584d2fc1eefc501f930f3133aa263f0b7",
@@ -3099,7 +3099,7 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-20T20:31:18.655Z",
-    "entryPath": "The RPG Maker/index.html",
+    "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/Altoc-rpg_maker_jam/",
     "upstreamCover": "https://webrpg.org/Altoc-rpg_maker_jam/cover.png",
     "upstreamStatus": "invalid_structure",
@@ -3107,6 +3107,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Altoc-rpg_maker_jam/The%20RPG%20Maker/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Altoc-rpg_maker_jam/index.html",
+    "cover": "https://yx.ecy.al/Altoc-rpg_maker_jam/cover.png",
+    "publication": {
+      "commit": "4719b13b9927a9ac144dd7912b4d8dbe92bb0450",
+      "checkedAt": "2026-11-10T17:21:19.844Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
