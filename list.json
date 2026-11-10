@@ -36659,15 +36659,15 @@
     "owner": "scringly",
     "name": "TestQuest",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:54:30.144Z",
+    "checkedAt": "2026-11-10T04:27:07.417Z",
     "forkName": "scringly-TestQuest",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 393429,
+    "totalSize": 393422,
     "dataSize": 889970,
     "sourceRepo": "scringly/TestQuest",
     "sourceDefaultBranch": "main",
@@ -36691,7 +36691,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/scringly-TestQuest/",
     "upstreamCover": "https://webrpg.org/scringly-TestQuest/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/scringly-TestQuest/index.html",
+    "cover": "https://yx.ecy.al/scringly-TestQuest/cover.png",
+    "publication": {
+      "commit": "0637ef01a05b954fcfccfb8a4a2af3ece7ad523d",
+      "checkedAt": "2026-11-10T04:30:30.559Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "seanstonator-lang-ugs-web-hub",
