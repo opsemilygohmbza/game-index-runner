@@ -10000,15 +10000,15 @@
     "owner": "davidlopez3D",
     "name": "project_darkestvalley",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "DarkestValley/index.html",
-    "checkedAt": "2026-09-21T03:36:24.924Z",
+    "checkedAt": "2026-11-10T20:25:34.372Z",
     "forkName": "davidlopez3D-project_darkestvalley",
     "validationScore": 115,
     "totalSize": 764940,
-    "dataSize": 0,
+    "dataSize": 877176,
     "sourceRepo": "davidlopez3D/project_darkestvalley",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "64a3bbecc0c2411609e9617be32c1af993703187",
@@ -10016,7 +10016,7 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-21T03:36:26.502Z",
-    "entryPath": "DarkestValley/index.html",
+    "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/davidlopez3D-project_darkestvalley/",
     "upstreamCover": "https://webrpg.org/davidlopez3D-project_darkestvalley/cover.png",
     "upstreamStatus": "invalid_structure",
@@ -10024,6 +10024,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/davidlopez3D-project_darkestvalley/DarkestValley/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/davidlopez3D-project_darkestvalley/index.html",
+    "cover": "https://yx.ecy.al/davidlopez3D-project_darkestvalley/cover.png",
+    "publication": {
+      "commit": "91efadcb83b1223d6bb410462edfa9faee6e3c32",
+      "checkedAt": "2026-11-10T20:30:52.501Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
