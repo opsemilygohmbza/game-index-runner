@@ -38123,15 +38123,15 @@
     "owner": "songsongxxx",
     "name": "dream",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "intro/index.html",
     "forkName": "songsongxxx-dream",
-    "checkedAt": "2026-11-04T01:13:58.165Z",
+    "checkedAt": "2026-11-10T06:31:07.595Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 210498,
     "dataSize": 409819,
     "sourceRepo": "songsongxxx/dream",
@@ -38142,7 +38142,15 @@
     "reachabilityDetail": "https://webrpg.org/songsongxxx-dream/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/songsongxxx-dream/",
     "upstreamCover": "https://webrpg.org/songsongxxx-dream/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/songsongxxx-dream/index.html",
+    "cover": "https://yx.ecy.al/songsongxxx-dream/cover.png",
+    "publication": {
+      "commit": "d82675f9c8c7ace545cc0bbc73d7bf7eef561326",
+      "checkedAt": "2026-11-10T06:31:53.906Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "soupcanubg-yesterdays-meat",
@@ -38301,14 +38309,14 @@
     "owner": "SpriteStudio",
     "name": "SS6PlayerForWeb",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "docs/mz/SampleProject/index.html",
     "forkName": "SpriteStudio-SS6PlayerForWeb",
-    "checkedAt": "2026-11-04T01:14:25.281Z",
+    "checkedAt": "2026-11-10T06:31:36.185Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 47638,
     "dataSize": 544759,
     "sourceRepo": "SpriteStudio/SS6PlayerForWeb",
@@ -38326,7 +38334,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/SpriteStudio-SS6PlayerForWeb/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SpriteStudio-SS6PlayerForWeb/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "44e5bbbd7528bf978142f967f7599c64b9d2d714",
+      "checkedAt": "2026-11-10T06:35:17.071Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "squanky1372-squanky1372-github-io",
@@ -38358,15 +38374,15 @@
     "owner": "st651102064101-design",
     "name": "The-game--The-Late-Riser",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:55:18.113Z",
+    "checkedAt": "2026-11-10T06:33:09.639Z",
     "forkName": "st651102064101-design-The-game-The-Late-Riser",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 476814,
+    "totalSize": 476811,
     "dataSize": 1225941,
     "sourceRepo": "st651102064101-design/The-game--The-Late-Riser",
     "sourceDefaultBranch": "main",
@@ -38377,7 +38393,15 @@
     "reachabilityDetail": "https://webrpg.org/st651102064101-design-The-game-The-Late-Riser/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/st651102064101-design-The-game-The-Late-Riser/",
     "upstreamCover": "https://webrpg.org/st651102064101-design-The-game-The-Late-Riser/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/st651102064101-design-The-game-The-Late-Riser/index.html",
+    "cover": "https://yx.ecy.al/st651102064101-design-The-game-The-Late-Riser/cover.png",
+    "publication": {
+      "commit": "fc77615e02742e244d3a529f5f831a0d98144e4c",
+      "checkedAt": "2026-11-10T06:35:56.289Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "starktomy-tunshi",
@@ -38481,16 +38505,16 @@
     "owner": "StebPleb",
     "name": "ThisIsNiceGame",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "MV Project Folder/index.html",
-    "checkedAt": "2026-06-17T23:55:31.139Z",
+    "checkedAt": "2026-11-10T06:35:18.918Z",
     "forkName": "StebPleb-ThisIsNiceGame",
-    "entryPath": "MV Project Folder/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 461264,
-    "dataSize": 0,
+    "totalSize": 461283,
+    "dataSize": 658401,
     "sourceRepo": "StebPleb/ThisIsNiceGame",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "c8f40c62af58cff21d326dbeb06f400cba5ab474",
@@ -38500,7 +38524,15 @@
     "reachabilityDetail": "https://webrpg.org/StebPleb-ThisIsNiceGame/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/StebPleb-ThisIsNiceGame/",
     "upstreamCover": "https://webrpg.org/StebPleb-ThisIsNiceGame/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/StebPleb-ThisIsNiceGame/index.html",
+    "cover": "https://yx.ecy.al/StebPleb-ThisIsNiceGame/cover.png",
+    "publication": {
+      "commit": "911bff18ab4e1f09930d1e69f3b543e87c52da61",
+      "checkedAt": "2026-11-10T06:38:38.898Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "stevanusandika-game",
@@ -38520,15 +38552,15 @@
     "owner": "StevenRomero98",
     "name": "ConceptGameDeployment",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:55:23.174Z",
+    "checkedAt": "2026-11-10T06:35:28.884Z",
     "forkName": "StevenRomero98-ConceptGameDeployment",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 397056,
+    "totalSize": 397055,
     "dataSize": 724468,
     "sourceRepo": "StevenRomero98/ConceptGameDeployment",
     "sourceDefaultBranch": "master",
@@ -38550,7 +38582,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/StevenRomero98-ConceptGameDeployment/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/StevenRomero98-ConceptGameDeployment/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "1407b068fb3b3766ae74cde5604b19a9ac754734",
+      "checkedAt": "2026-11-10T06:37:37.975Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sticky1705-gradproject",
