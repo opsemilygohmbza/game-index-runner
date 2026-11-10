@@ -35656,15 +35656,15 @@
     "owner": "SaiguruNagula",
     "name": "ik2",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T01:13:18.189Z",
+    "checkedAt": "2026-11-10T03:37:35.804Z",
     "forkName": "SaiguruNagula-ik2",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 23434,
     "dataSize": 868824,
     "sourceRepo": "SaiguruNagula/ik2",
@@ -35689,7 +35689,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/SaiguruNagula-ik2/",
     "upstreamCover": "https://webrpg.org/SaiguruNagula-ik2/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SaiguruNagula-ik2/index.html",
+    "cover": "https://yx.ecy.al/SaiguruNagula-ik2/cover.png",
+    "publication": {
+      "commit": "a1855d58c6bf08ceccc43a5ccca787e206680503",
+      "checkedAt": "2026-11-10T03:38:22.208Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "saigurunagula-ik5",
@@ -35698,14 +35706,14 @@
     "owner": "SaiguruNagula",
     "name": "ik5",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "SaiguruNagula-ik5",
-    "checkedAt": "2026-11-03T13:51:32.007Z",
+    "checkedAt": "2026-11-10T03:37:44.295Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 1437,
     "dataSize": 673851,
     "sourceRepo": "SaiguruNagula/ik5",
@@ -35725,7 +35733,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamStatus": "verified",
-    "upstreamPagesUrl": "https://webrpg.org/SaiguruNagula-ik5/"
+    "upstreamPagesUrl": "https://webrpg.org/SaiguruNagula-ik5/",
+    "pagesUrl": "https://yx.ecy.al/SaiguruNagula-ik5/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "742c0c2d0b2beece632b20e9165c401a0f7518f6",
+      "checkedAt": "2026-11-10T03:39:17.094Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sailorshulk9-test",
@@ -35753,15 +35769,15 @@
     "owner": "saintclairlima",
     "name": "ReachUp",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:54:04.745Z",
+    "checkedAt": "2026-11-10T03:38:40.405Z",
     "forkName": "saintclairlima-ReachUp",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 75553,
+    "totalSize": 75554,
     "dataSize": 996038,
     "sourceRepo": "saintclairlima/ReachUp",
     "sourceDefaultBranch": "main",
@@ -35783,7 +35799,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/saintclairlima-ReachUp/",
     "upstreamCover": "https://webrpg.org/saintclairlima-ReachUp/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/saintclairlima-ReachUp/index.html",
+    "cover": "https://yx.ecy.al/saintclairlima-ReachUp/cover.png",
+    "publication": {
+      "commit": "102545dc96867402e58c5aedfb1afb1b9236c058",
+      "checkedAt": "2026-11-10T03:41:13.318Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "saitsuki-gamedesign",
@@ -35792,16 +35816,16 @@
     "owner": "SaiTsuki",
     "name": "GameDesign",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Planescaper Quest/index.html",
-    "checkedAt": "2026-06-17T23:54:13.312Z",
+    "checkedAt": "2026-11-10T03:39:00.303Z",
     "forkName": "SaiTsuki-GameDesign",
-    "entryPath": "Planescaper Quest/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 423213,
-    "dataSize": 0,
+    "totalSize": 423210,
+    "dataSize": 721702,
     "sourceRepo": "SaiTsuki/GameDesign",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "b537ec85b55aaabd1a15820b22a7d11a1d2fd764",
@@ -35824,7 +35848,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/SaiTsuki-GameDesign/",
     "upstreamCover": "https://webrpg.org/SaiTsuki-GameDesign/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SaiTsuki-GameDesign/index.html",
+    "cover": "https://yx.ecy.al/SaiTsuki-GameDesign/cover.png",
+    "publication": {
+      "commit": "02f06eed467505f5741b2dcfea28e831116d24d9",
+      "checkedAt": "2026-11-10T03:42:20.392Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "salaxios-sonar-js",
@@ -35833,15 +35865,15 @@
     "owner": "salaxios",
     "name": "Sonar.js",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "src/Project1/index.html",
     "forkName": "salaxios-Sonar.js",
-    "checkedAt": "2026-11-03T13:51:54.291Z",
+    "checkedAt": "2026-11-10T03:41:12.373Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 33633,
     "dataSize": 258952,
     "sourceRepo": "salaxios/Sonar.js",
@@ -35863,7 +35895,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/salaxios-Sonar.js/",
     "upstreamCover": "https://webrpg.org/salaxios-Sonar.js/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/salaxios-Sonar.js/index.html",
+    "cover": "https://yx.ecy.al/salaxios-Sonar.js/cover.png",
+    "publication": {
+      "commit": "99ac471231a7f289958ebc298085d0c06be37efb",
+      "checkedAt": "2026-11-10T03:44:18.458Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "salsabilazhaqqi-rpgriris",
@@ -35872,15 +35912,15 @@
     "owner": "SalsabilaZhaqqi",
     "name": "rpgRIRIS",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "SalsabilaZhaqqi-rpgRIRIS",
-    "checkedAt": "2026-11-03T13:51:27.622Z",
+    "checkedAt": "2026-11-10T03:41:32.443Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 41501,
     "dataSize": 766228,
     "sourceRepo": "SalsabilaZhaqqi/rpgRIRIS",
@@ -35904,7 +35944,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/",
     "upstreamCover": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SalsabilaZhaqqi-rpgRIRIS/index.html",
+    "cover": "https://yx.ecy.al/SalsabilaZhaqqi-rpgRIRIS/cover.png",
+    "publication": {
+      "commit": "915435b069247e9b98cc52d96e14d5a6232ec6cd",
+      "checkedAt": "2026-11-10T03:44:08.529Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "saluji-tsot",
