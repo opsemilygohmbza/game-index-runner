@@ -8858,7 +8858,7 @@
     "owner": "complex-arcade",
     "name": "complex-arcade.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-21T11:46:59.282Z",
     "source": "github-code-search",
     "sourcePath": "gxmes/storage/bloodmoney/index.html",
@@ -8872,7 +8872,9 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/complex-arcade-complex-arcade.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
-    }
+    },
+    "checkedAt": "2026-11-10T19:49:49.881Z",
+    "invalidReason": "RPG Maker structure is incomplete near pages/src/embed/heavenfordeath/index.html."
   },
   {
     "id": "complex-arcade-complex-arcade-github-io-9f7a7621e1a5",
@@ -8948,9 +8950,11 @@
     "owner": "Cona2512",
     "name": "construct-3-desktop",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T19:51:04.527Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "copperchihuahua-coppers-touhou-game-jam",
