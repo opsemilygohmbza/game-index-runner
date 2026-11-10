@@ -37853,16 +37853,16 @@
     "owner": "soapstain22",
     "name": "crimpoquestMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:55:10.952Z",
+    "checkedAt": "2026-11-10T05:50:50.316Z",
     "forkName": "soapstain22-crimpoquestMV",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 914264,
-    "dataSize": 2519865,
+    "totalSize": 947724,
+    "dataSize": 2835694,
     "sourceRepo": "soapstain22/crimpoquestMV",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ad588084227ecd8d492d7e63203b1724e068f8e6",
@@ -37886,7 +37886,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/soapstain22-crimpoquestMV/",
     "upstreamCover": "https://webrpg.org/soapstain22-crimpoquestMV/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/soapstain22-crimpoquestMV/index.html",
+    "cover": "https://yx.ecy.al/soapstain22-crimpoquestMV/cover.png",
+    "publication": {
+      "commit": "14e265c5dcb52136670c1b4ccd195962ab848950",
+      "checkedAt": "2026-11-10T05:53:34.240Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "soapstain22-soapstain22-github-io",
