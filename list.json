@@ -16156,9 +16156,23 @@
     "owner": "Games-for-Idiots",
     "name": "Life-1-6-Hours-Source-Code",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:32.979Z"
+    "discoveredAt": "2026-11-08T04:06:32.979Z",
+    "checkedAt": "2026-11-10T22:52:10.685Z",
+    "forkName": "Games-for-Idiots-Life-1-6-Hours-Source-Code",
+    "pagesUrl": "https://yx.ecy.al/Games-for-Idiots-Life-1-6-Hours-Source-Code/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/Games-for-Idiots-Life-1-6-Hours-Source-Code/cover.png",
+    "totalSize": 104151,
+    "dataSize": 2119470,
+    "validationScore": 93,
+    "publication": {
+      "commit": "e1f3070a8bdf7e938f67b2f556e9fd14f43ae4ca",
+      "checkedAt": "2026-11-10T22:52:56.222Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "games-for-idiots-life-1-source-code",
@@ -16167,9 +16181,23 @@
     "owner": "Games-for-Idiots",
     "name": "Life-1-Source-Code",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:32.979Z"
+    "discoveredAt": "2026-11-08T04:06:32.979Z",
+    "checkedAt": "2026-11-10T22:52:19.183Z",
+    "forkName": "Games-for-Idiots-Life-1-Source-Code",
+    "pagesUrl": "https://yx.ecy.al/Games-for-Idiots-Life-1-Source-Code/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/Games-for-Idiots-Life-1-Source-Code/cover.png",
+    "totalSize": 121611,
+    "dataSize": 1106253,
+    "validationScore": 93,
+    "publication": {
+      "commit": "2f59f5ed1c14e375972c6cd117c16fede4e9bf24",
+      "checkedAt": "2026-11-10T22:54:35.918Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gannixyt-games-gannix",
@@ -16503,17 +16531,17 @@
     "owner": "geodmeeeeee",
     "name": "forksnspoons",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/Blood Money/index.html",
-    "checkedAt": "2026-09-13T11:15:30.226Z",
+    "checkedAt": "2026-11-10T22:54:49.168Z",
     "forkName": "geodmeeeeee-forksnspoons",
     "validationScore": 115,
     "totalSize": 10386135,
     "dataSize": 224887,
     "sourceRepo": "geodmeeeeee/forksnspoons",
-    "invalidReason": "Upstream repository size 10386135 KB exceeds the 8388608 KB limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/geodmeeeeee-forksnspoons/",
     "upstreamCover": "https://webrpg.org/geodmeeeeee-forksnspoons/cover.png",
@@ -16678,9 +16706,11 @@
     "owner": "GhostW1ng-Work",
     "name": "Fear-And-Hunger-4-Player-Coop",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T22:55:09.152Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "gideonmire-lost-among-the-stars",
@@ -16992,9 +17022,11 @@
     "owner": "glynn568-glitch",
     "name": "fear-and-hunger-together",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T22:55:29.542Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "gmshelf-ckv",
