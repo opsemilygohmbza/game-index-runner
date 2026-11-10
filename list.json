@@ -34812,17 +34812,17 @@
     "owner": "Rockinraven",
     "name": "daniRaven",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
     "forkName": "Rockinraven-daniRaven",
-    "checkedAt": "2026-11-03T05:38:11.119Z",
+    "checkedAt": "2026-11-10T02:17:21.170Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 96671,
-    "dataSize": 544785,
+    "dataSize": 676347,
     "sourceRepo": "Rockinraven/daniRaven",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "6e1914c748dc41a84ac26de661fbec780a09410a",
@@ -34844,7 +34844,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Rockinraven-daniRaven/",
     "upstreamCover": "https://webrpg.org/Rockinraven-daniRaven/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Rockinraven-daniRaven/index.html",
+    "cover": "https://yx.ecy.al/Rockinraven-daniRaven/cover.png",
+    "publication": {
+      "commit": "54c8140d3a741c7b2eb379623ee72a6fd5bc97b1",
+      "checkedAt": "2026-11-10T02:26:54.597Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "rorythegame-roryrpg",
