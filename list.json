@@ -45563,9 +45563,9 @@
     "owner": "xjzsq",
     "name": "1",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:46:39.841Z",
+    "checkedAt": "2026-11-10T16:41:14.327Z",
     "forkName": "xjzsq-1",
-    "status": "indexed",
+    "status": "verified",
     "sourceRepo": "xjzsq/1",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "7789fadfba19e3131ebf5c0e18f509ef178f470c",
@@ -45575,7 +45575,19 @@
     "lastFailedAt": "2026-09-20T15:37:26.125Z",
     "invalidReason": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub.",
     "source": "upstream-webrpg-index",
-    "upstreamStatus": "unavailable"
+    "upstreamStatus": "unavailable",
+    "pagesUrl": "https://yx.ecy.al/xjzsq-1/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/xjzsq-1/cover.png",
+    "totalSize": 625420,
+    "dataSize": 3362053,
+    "validationScore": 115,
+    "publication": {
+      "commit": "261528a71229c13597cd2d4e3d7d42979ea9c64e",
+      "checkedAt": "2026-11-10T16:45:26.836Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "xlanwux-travelindoomwithyou",
