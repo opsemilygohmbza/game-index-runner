@@ -39076,15 +39076,15 @@
     "owner": "susobhang70",
     "name": "rpg_maze_runner",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:24:20.552Z",
+    "checkedAt": "2026-11-10T07:17:29.237Z",
     "forkName": "susobhang70-rpg_maze_runner",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 452404,
+    "totalSize": 452403,
     "dataSize": 995925,
     "sourceRepo": "susobhang70/rpg_maze_runner",
     "sourceDefaultBranch": "master",
@@ -39109,7 +39109,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/susobhang70-rpg_maze_runner/",
     "upstreamCover": "https://webrpg.org/susobhang70-rpg_maze_runner/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/susobhang70-rpg_maze_runner/index.html",
+    "cover": "https://yx.ecy.al/susobhang70-rpg_maze_runner/cover.png",
+    "publication": {
+      "commit": "2a84d7e79eeed4f0e86abb50ccce7cbed1191d94",
+      "checkedAt": "2026-11-10T07:20:54.747Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sussyboi01-truffledgames",
