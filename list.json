@@ -7567,13 +7567,13 @@
     "owner": "caughtwitlean",
     "name": "Lowkey-Chopped-Elite",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-08-09T01:28:15.474Z",
     "source": "github-code-search",
     "sourcePath": "n/clbloodmoney.html",
-    "checkedAt": "2026-09-14T03:38:56.118Z",
+    "checkedAt": "2026-11-10T19:13:13.570Z",
     "forkName": "caughtwitlean-Lowkey-Chopped-Elite",
-    "invalidReason": "Repository tree has 29685 entries, exceeding the 20000 entry limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
