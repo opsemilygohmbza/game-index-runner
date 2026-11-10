@@ -43062,15 +43062,15 @@
     "owner": "UnboundStudios",
     "name": "colours-missing",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:22:29.487Z",
+    "checkedAt": "2026-11-10T11:00:12.615Z",
     "forkName": "UnboundStudios-colours-missing",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 518010,
+    "totalSize": 518074,
     "dataSize": 3356959,
     "sourceRepo": "UnboundStudios/colours-missing",
     "sourceDefaultBranch": "master",
@@ -43095,7 +43095,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/UnboundStudios-colours-missing/",
     "upstreamCover": "https://webrpg.org/UnboundStudios-colours-missing/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/UnboundStudios-colours-missing/index.html",
+    "cover": "https://yx.ecy.al/UnboundStudios-colours-missing/cover.png",
+    "publication": {
+      "commit": "dc4675655cd1bf45cea6c21d1482d34ed04bbe41",
+      "checkedAt": "2026-11-10T11:03:35.356Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "unboxingvideoreal-bambi-civ",
@@ -43104,15 +43112,15 @@
     "owner": "UnboxingVideoReal",
     "name": "bambi-civ",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "UnboxingVideoReal-bambi-civ",
-    "checkedAt": "2026-11-04T10:42:07.299Z",
+    "checkedAt": "2026-11-10T11:00:22.576Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 631282,
     "dataSize": 9022514,
     "sourceRepo": "UnboxingVideoReal/bambi-civ",
@@ -43136,7 +43144,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/UnboxingVideoReal-bambi-civ/",
-    "upstreamCover": "https://webrpg.org/UnboxingVideoReal-bambi-civ/cover.png"
+    "upstreamCover": "https://webrpg.org/UnboxingVideoReal-bambi-civ/cover.png",
+    "pagesUrl": "https://yx.ecy.al/UnboxingVideoReal-bambi-civ/index.html",
+    "cover": "https://yx.ecy.al/UnboxingVideoReal-bambi-civ/cover.png",
+    "publication": {
+      "commit": "ab7fcd4a61c93f018a4889edef6c307636a685ed",
+      "checkedAt": "2026-11-10T11:03:43.898Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "unboxingvideoreal-bambi-civ-fangame-pc",
