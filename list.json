@@ -43649,12 +43649,12 @@
     "owner": "valkyrieproject001",
     "name": "test01",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-07-20T06:21:59.526Z",
+    "status": "verified",
+    "checkedAt": "2026-11-10T11:45:12.272Z",
     "forkName": "valkyrieproject001-test01",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 5352,
+    "totalSize": 5351,
     "dataSize": 481921,
     "sourceRepo": "valkyrieproject001/test01",
     "sourceDefaultBranch": "master",
@@ -43672,7 +43672,15 @@
     },
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/valkyrieproject001-test01/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/valkyrieproject001-test01/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "8e64cde595923f386449c6610c2eec99165ebc82",
+      "checkedAt": "2026-11-10T11:46:55.018Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "vamyvamizy-vamyvamizy-github-io",
@@ -43681,15 +43689,15 @@
     "owner": "VamyVamizy",
     "name": "VamyVamizy.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GoToSchool/index.html",
     "forkName": "VamyVamizy-VamyVamizy.github.io",
-    "checkedAt": "2026-11-04T10:42:23.771Z",
+    "checkedAt": "2026-11-10T11:45:22.574Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 20190,
     "dataSize": 1319191,
     "sourceRepo": "VamyVamizy/VamyVamizy.github.io",
@@ -43713,7 +43721,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/",
     "upstreamCover": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/VamyVamizy-VamyVamizy.github.io/index.html",
+    "cover": "https://yx.ecy.al/VamyVamizy-VamyVamizy.github.io/cover.png",
+    "publication": {
+      "commit": "2262b3c2e4b8a60de83faf7cf557b3ef3cc6b7f5",
+      "checkedAt": "2026-11-10T11:48:12.037Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "vanilanya-journey-of-the-shit",
