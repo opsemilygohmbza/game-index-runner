@@ -70,13 +70,13 @@
     "owner": "0neByte-Ctrl",
     "name": "googleslides1234",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-10-16T03:16:31.377Z",
     "source": "github-code-search",
     "sourcePath": "iframe/462.html",
-    "checkedAt": "2026-10-16T03:24:22.511Z",
+    "checkedAt": "2026-11-10T16:41:32.950Z",
     "forkName": "0neByte-Ctrl-googleslides1234",
-    "invalidReason": "Repository has 991 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -44622,12 +44622,24 @@
     "owner": "waycrosspublicmedia",
     "name": "whatver",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:46:37.066Z",
+    "checkedAt": "2026-11-10T16:36:58.282Z",
     "forkName": "waycrosspublicmedia-whatver",
-    "status": "indexed",
+    "status": "verified",
     "invalidReason": "Repository tree has 30370 entries, exceeding the 20000 entry limit.",
     "source": "upstream-webrpg-index",
-    "upstreamStatus": "skipped_large"
+    "upstreamStatus": "skipped_large",
+    "pagesUrl": "https://yx.ecy.al/waycrosspublicmedia-whatver/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/waycrosspublicmedia-whatver/cover.png",
+    "totalSize": 4940929,
+    "dataSize": 224887,
+    "validationScore": 115,
+    "publication": {
+      "commit": "de591e27202fb789c13a0982f401cda64e19a261",
+      "checkedAt": "2026-11-10T16:41:36.902Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "web-ports-fear-and-hunger-2",
@@ -44725,11 +44737,25 @@
     "owner": "WebRPG-Translations",
     "name": "Spectoria-Eng-CN",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T03:10:15.000Z",
     "source": "manual-add",
     "sourcePath": "index.html",
-    "upstreamStatus": "indexed"
+    "upstreamStatus": "indexed",
+    "checkedAt": "2026-11-10T16:38:27.576Z",
+    "forkName": "WebRPG-Translations-Spectoria-Eng-CN",
+    "pagesUrl": "https://yx.ecy.al/WebRPG-Translations-Spectoria-Eng-CN/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/WebRPG-Translations-Spectoria-Eng-CN/cover.png",
+    "totalSize": 154594,
+    "dataSize": 7065663,
+    "validationScore": 118,
+    "publication": {
+      "commit": "03c28b637ae2ff2dd973231fb39bf41d2cea3861",
+      "checkedAt": "2026-11-10T16:41:46.569Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "webservicesjarm-juego1",
