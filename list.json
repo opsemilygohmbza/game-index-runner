@@ -5026,11 +5026,11 @@
     "owner": "axlan",
     "name": "fatal_core_dump",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "site/rpg_maker/index.html",
-    "checkedAt": "2026-11-01T12:52:03.935Z",
+    "checkedAt": "2026-11-10T18:29:07.762Z",
     "forkName": "axlan-fatal_core_dump",
     "sourceRepo": "axlan/fatal_core_dump",
     "sourceDefaultBranch": "master",
@@ -5038,7 +5038,19 @@
     "processedHeadSha": "ba40752ed940ed59798b73b4b6180ebc8b7d205e",
     "consecutiveFailures": 7,
     "lastFailedAt": "2026-11-01T12:52:03.935Z",
-    "upstreamStatus": "check_error"
+    "upstreamStatus": "check_error",
+    "pagesUrl": "https://yx.ecy.al/axlan-fatal_core_dump/index.html",
+    "entryPath": "index.html",
+    "cover": null,
+    "totalSize": 12721,
+    "dataSize": 139259,
+    "validationScore": 90,
+    "publication": {
+      "commit": "fa96765a5f71a7da509cfd557c101e6c06274e16",
+      "checkedAt": "2026-11-10T18:31:12.565Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "azelme-star-destiny",
@@ -5195,9 +5207,11 @@
     "owner": "b1ackT",
     "name": "karryns-prison-trainer",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T18:29:16.514Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "b4936955-hue-g4m3s123",
@@ -5224,9 +5238,11 @@
     "owner": "bakustarver",
     "name": "rpgmakermlinux-cicpoffs",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T18:30:33.835Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "balensmatheo-balensmatheo-github-io",
@@ -5362,15 +5378,15 @@
     "owner": "battousairurik",
     "name": "RPGMakerCollabProject",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "RPGMakerMVCollabProject/index.html",
-    "checkedAt": "2026-09-20T23:07:49.550Z",
+    "checkedAt": "2026-11-10T18:30:55.131Z",
     "forkName": "battousairurik-RPGMakerCollabProject",
     "validationScore": 115,
     "totalSize": 389608,
-    "dataSize": 0,
+    "dataSize": 1018125,
     "sourceRepo": "battousairurik/RPGMakerCollabProject",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "2b69268a1fd5fbe3f0a2e0f85e883554cdb1de37",
@@ -5378,7 +5394,7 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-20T23:07:51.953Z",
-    "entryPath": "RPGMakerMVCollabProject/index.html",
+    "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/battousairurik-RPGMakerCollabProject/",
     "upstreamCover": "https://webrpg.org/battousairurik-RPGMakerCollabProject/cover.png",
     "upstreamStatus": "invalid_structure",
@@ -5386,6 +5402,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/battousairurik-RPGMakerCollabProject/RPGMakerMVCollabProject/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/battousairurik-RPGMakerCollabProject/index.html",
+    "cover": "https://yx.ecy.al/battousairurik-RPGMakerCollabProject/cover.png",
+    "publication": {
+      "commit": "ab77c56573570eb2f90165394b25467cd13c1aa6",
+      "checkedAt": "2026-11-10T18:33:58.457Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -5395,9 +5419,11 @@
     "owner": "bbbreaddd",
     "name": "pmjs",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T18:31:05.953Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "bearcattt-lunar-assets",
