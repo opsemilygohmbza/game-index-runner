@@ -38693,15 +38693,15 @@
     "owner": "strelokhalfer",
     "name": "HGHU",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-07-18T18:04:06.387Z",
+    "checkedAt": "2026-11-10T06:37:50.329Z",
     "forkName": "strelokhalfer-HGHU",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 99408,
+    "totalSize": 99444,
     "dataSize": 673378,
     "sourceRepo": "strelokhalfer/HGHU",
     "coverPath": "cover.png",
@@ -38725,7 +38725,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/strelokhalfer-HGHU/",
     "upstreamCover": "https://webrpg.org/strelokhalfer-HGHU/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/strelokhalfer-HGHU/index.html",
+    "cover": "https://yx.ecy.al/strelokhalfer-HGHU/cover.png",
+    "publication": {
+      "commit": "e7fa74513e772d6927e62fb05dbdd272b820251b",
+      "checkedAt": "2026-11-10T06:40:25.401Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "stuartmrwong-stuartmrwong-github-io",
@@ -38734,12 +38742,12 @@
     "owner": "stuartmrwong",
     "name": "stuartmrwong.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/LAKE.html",
     "forkName": "stuartmrwong-stuartmrwong.github.io",
-    "checkedAt": "2026-11-04T01:14:03.953Z",
+    "checkedAt": "2026-11-10T06:40:55.982Z",
     "entryPath": "CISA.html",
     "coverPath": "cover.png",
     "validationScore": 100,
@@ -38764,7 +38772,8 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/CISA.html",
     "upstreamCover": "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "stuocs-pequejrpg",
