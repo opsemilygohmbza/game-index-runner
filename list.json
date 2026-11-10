@@ -5623,9 +5623,11 @@
     "owner": "BGLuis",
     "name": "save-maker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T18:33:56.487Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "bigren0615-rpgmakermv-custommainmenulearning",
