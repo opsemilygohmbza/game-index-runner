@@ -43161,15 +43161,15 @@
     "owner": "UnboxingVideoReal",
     "name": "bambi-civ-fangame-pc",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "forkName": "UnboxingVideoReal-bambi-civ-fangame-pc",
-    "checkedAt": "2026-11-04T10:41:58.318Z",
+    "checkedAt": "2026-11-10T11:02:34.849Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 610364,
     "dataSize": 9022514,
     "sourceRepo": "UnboxingVideoReal/bambi-civ-fangame-pc",
@@ -43193,7 +43193,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/UnboxingVideoReal-bambi-civ-fangame-pc/",
-    "upstreamCover": "https://webrpg.org/UnboxingVideoReal-bambi-civ-fangame-pc/cover.png"
+    "upstreamCover": "https://webrpg.org/UnboxingVideoReal-bambi-civ-fangame-pc/cover.png",
+    "pagesUrl": "https://yx.ecy.al/UnboxingVideoReal-bambi-civ-fangame-pc/index.html",
+    "cover": "https://yx.ecy.al/UnboxingVideoReal-bambi-civ-fangame-pc/cover.png",
+    "publication": {
+      "commit": "547bedff48a1fb6d00595e09d516a96df7d33d29",
+      "checkedAt": "2026-11-10T11:07:52.677Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "unitybtw-sirac-portfolio",
@@ -43238,15 +43246,15 @@
     "owner": "unofficialsquaregames",
     "name": "DISSIDIA-TACTICS-FANTASY-",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:22:28.299Z",
+    "checkedAt": "2026-11-10T11:02:55.744Z",
     "forkName": "unofficialsquaregames-DISSIDIA-TACTICS-FANTASY",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 1140986,
+    "totalSize": 1140983,
     "dataSize": 5141485,
     "sourceRepo": "unofficialsquaregames/DISSIDIA-TACTICS-FANTASY-",
     "sourceDefaultBranch": "master",
@@ -43271,7 +43279,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/",
     "upstreamCover": "https://webrpg.org/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/index.html",
+    "cover": "https://yx.ecy.al/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/cover.png",
+    "publication": {
+      "commit": "8da8b26acc3c9149c984ea7e4496d980a91b2857",
+      "checkedAt": "2026-11-10T11:07:52.825Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "uppteam-uppteam-github-io",
