@@ -2031,13 +2031,13 @@
     "owner": "aCrazyQuasar",
     "name": "ugs-games",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-22T20:55:07.801Z",
     "source": "github-code-search",
     "sourcePath": "html5-games/clcoldfront.html",
-    "checkedAt": "2026-09-22T21:03:00.652Z",
+    "checkedAt": "2026-11-10T17:16:09.448Z",
     "forkName": "aCrazyQuasar-ugs-games",
-    "invalidReason": "Repository has 1228 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -2228,9 +2228,11 @@
     "owner": "AgeoPlayer",
     "name": "LRPGM",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:32.980Z"
+    "discoveredAt": "2026-11-08T04:06:32.980Z",
+    "checkedAt": "2026-11-10T17:16:41.464Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "agjimenez-ra-s-quest",
@@ -3396,13 +3398,13 @@
     "owner": "amogus0471",
     "name": "classroom",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-07T21:08:44.923Z",
     "source": "github-code-search",
     "sourcePath": "games/deadplate/index.html",
-    "checkedAt": "2026-09-14T03:37:43.831Z",
+    "checkedAt": "2026-11-10T17:17:34.622Z",
     "forkName": "amogus0471-classroom",
-    "invalidReason": "Repository has 2762 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
