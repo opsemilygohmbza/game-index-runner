@@ -37542,16 +37542,16 @@
     "owner": "sin-hu",
     "name": "study",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "05_Rpg_maker/practice/test/index.html",
-    "checkedAt": "2026-06-17T23:55:00.885Z",
+    "checkedAt": "2026-11-10T05:11:09.850Z",
     "forkName": "sin-hu-study",
-    "entryPath": "05_Rpg_maker/practice/test/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 560494,
-    "dataSize": 0,
+    "totalSize": 560505,
+    "dataSize": 675348,
     "sourceRepo": "sin-hu/study",
     "coverPath": "cover.png",
     "sourceDefaultBranch": "main",
@@ -37575,7 +37575,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/sin-hu-study/",
     "upstreamCover": "https://webrpg.org/sin-hu-study/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sin-hu-study/index.html",
+    "cover": "https://yx.ecy.al/sin-hu-study/cover.png",
+    "publication": {
+      "commit": "d62399d3ff50bbf66c947d650711e1572d5fa71b",
+      "checkedAt": "2026-11-10T05:16:44.208Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sinonymousx-rpgmakertest",
