@@ -32478,15 +32478,15 @@
     "owner": "pipakin",
     "name": "GDG-GCF-Talk",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T01:32:11.422Z",
+    "checkedAt": "2026-11-09T23:58:30.293Z",
     "forkName": "pipakin-GDG-GCF-Talk",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 392214,
+    "totalSize": 392213,
     "dataSize": 704066,
     "sourceRepo": "pipakin/GDG-GCF-Talk",
     "sourceDefaultBranch": "master",
@@ -32508,7 +32508,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/pipakin-GDG-GCF-Talk/",
     "upstreamCover": "https://webrpg.org/pipakin-GDG-GCF-Talk/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/pipakin-GDG-GCF-Talk/index.html",
+    "cover": "https://yx.ecy.al/pipakin-GDG-GCF-Talk/cover.png",
+    "publication": {
+      "commit": "2ba623c66d886fff4461a1188fd02295a66b42c8",
+      "checkedAt": "2026-11-10T00:01:04.045Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pixelwelt-deepspacemainzgamevault",
@@ -32517,15 +32525,15 @@
     "owner": "PixelWelt",
     "name": "DeepSpaceMainzGameVault",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "games/Das_Land_mit_den_Löchern/index.html",
-    "checkedAt": "2026-11-03T20:58:14.629Z",
+    "checkedAt": "2026-11-09T23:58:50.349Z",
     "forkName": "PixelWelt-DeepSpaceMainzGameVault",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 17606,
     "dataSize": 1007797,
     "sourceRepo": "PixelWelt/DeepSpaceMainzGameVault",
@@ -32549,7 +32557,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/",
     "upstreamCover": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/PixelWelt-DeepSpaceMainzGameVault/index.html",
+    "cover": "https://yx.ecy.al/PixelWelt-DeepSpaceMainzGameVault/cover.png",
+    "publication": {
+      "commit": "943e5226b541747ac2e4b3e3867a1cf7ac508f70",
+      "checkedAt": "2026-11-10T00:01:38.724Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pixonetwork-galactic-lite-storage",
@@ -32595,15 +32611,15 @@
     "owner": "PlumeLumyn",
     "name": "In-the-hall-of-the-King-Kong",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-03T13:51:05.716Z",
+    "checkedAt": "2026-11-10T00:01:01.704Z",
     "forkName": "PlumeLumyn-In-the-hall-of-the-King-Kong",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 230229,
     "dataSize": 3387237,
     "sourceRepo": "PlumeLumyn/In-the-hall-of-the-King-Kong",
@@ -32628,7 +32644,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/",
     "upstreamCover": "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/PlumeLumyn-In-the-hall-of-the-King-Kong/index.html",
+    "cover": "https://yx.ecy.al/PlumeLumyn-In-the-hall-of-the-King-Kong/cover.png",
+    "publication": {
+      "commit": "0b774a2889f915fe51eee370306381a585a2f802",
+      "checkedAt": "2026-11-10T00:03:47.236Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "plumelumyn-welcome-to-red-zone",
@@ -32693,15 +32717,15 @@
     "owner": "PlumeLumyn",
     "name": "You-gonna-have-a-Genophobia",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-02T10:44:52.283Z",
+    "checkedAt": "2026-11-10T00:03:35.642Z",
     "forkName": "PlumeLumyn-You-gonna-have-a-Genophobia",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 171626,
     "dataSize": 3384967,
     "sourceRepo": "PlumeLumyn/You-gonna-have-a-Genophobia",
@@ -32712,7 +32736,15 @@
     "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/",
     "upstreamCover": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/PlumeLumyn-You-gonna-have-a-Genophobia/index.html",
+    "cover": "https://yx.ecy.al/PlumeLumyn-You-gonna-have-a-Genophobia/cover.png",
+    "publication": {
+      "commit": "3020430cc94655fa538381c55c7f4d70329b20df",
+      "checkedAt": "2026-11-10T00:06:27.311Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "pokemon-essentials-pokemon-essentials",
