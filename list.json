@@ -39822,15 +39822,15 @@
     "owner": "tcc-Iago-Lucas",
     "name": "game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "forkName": "tcc-Iago-Lucas-game",
-    "checkedAt": "2026-11-04T10:41:10.053Z",
+    "checkedAt": "2026-11-10T08:02:16.667Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 450085,
     "dataSize": 1129873,
     "sourceRepo": "tcc-Iago-Lucas/game",
@@ -39841,7 +39841,15 @@
     "reachabilityDetail": "https://webrpg.org/tcc-Iago-Lucas-game/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/tcc-Iago-Lucas-game/",
     "upstreamCover": "https://webrpg.org/tcc-Iago-Lucas-game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tcc-Iago-Lucas-game/index.html",
+    "cover": "https://yx.ecy.al/tcc-Iago-Lucas-game/cover.png",
+    "publication": {
+      "commit": "e9557346c6d91ca55757c3a2a8a87f77afabec96",
+      "checkedAt": "2026-11-10T08:06:17.232Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "teamcstudios-mastersofahs",
