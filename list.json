@@ -38819,15 +38819,15 @@
     "owner": "Suhukk",
     "name": "bbb",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-07-18T17:04:01.234Z",
+    "checkedAt": "2026-11-10T07:12:49.548Z",
     "forkName": "Suhukk-bbb",
     "entryPath": "index.html",
-    "validationScore": 115,
-    "totalSize": 198999,
+    "validationScore": 118,
+    "totalSize": 198997,
     "dataSize": 5224993,
     "sourceRepo": "Suhukk/bbb",
     "coverPath": "cover.png",
@@ -38852,7 +38852,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Suhukk-bbb/",
     "upstreamCover": "https://webrpg.org/Suhukk-bbb/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Suhukk-bbb/index.html",
+    "cover": "https://yx.ecy.al/Suhukk-bbb/cover.png",
+    "publication": {
+      "commit": "477566d3bc8f0865fce4e75f71ed77f4f19d1707",
+      "checkedAt": "2026-11-10T07:15:21.974Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sunset513-ncu-fresh-map-draft",
@@ -38861,15 +38869,15 @@
     "owner": "sunset513",
     "name": "ncu-fresh-map-draft",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:24:23.789Z",
+    "checkedAt": "2026-11-10T07:12:58.001Z",
     "forkName": "sunset513-ncu-fresh-map-draft",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 388996,
+    "totalSize": 388994,
     "dataSize": 1914395,
     "sourceRepo": "sunset513/ncu-fresh-map-draft",
     "sourceDefaultBranch": "main",
@@ -38892,7 +38900,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/sunset513-ncu-fresh-map-draft/",
     "upstreamCover": "https://webrpg.org/sunset513-ncu-fresh-map-draft/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sunset513-ncu-fresh-map-draft/index.html",
+    "cover": "https://yx.ecy.al/sunset513-ncu-fresh-map-draft/cover.png",
+    "publication": {
+      "commit": "4a383831f46777f1bf9ba2105e165146e34f8de6",
+      "checkedAt": "2026-11-10T07:15:47.302Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "supersonic187-culinary-combat",
@@ -38901,17 +38917,17 @@
     "owner": "Supersonic187",
     "name": "Culinary-Combat",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Documents/RMMZ/Culinary Combat/index.html",
     "forkName": "Supersonic187-Culinary-Combat",
-    "checkedAt": "2026-11-04T01:14:17.406Z",
+    "checkedAt": "2026-11-10T07:14:58.601Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 135483,
-    "dataSize": 577024,
+    "dataSize": 577111,
     "sourceRepo": "Supersonic187/Culinary-Combat",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "4f23f15140a36942ff1a363b9d77154159b2e30c",
@@ -38934,7 +38950,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Supersonic187-Culinary-Combat/",
     "upstreamCover": "https://webrpg.org/Supersonic187-Culinary-Combat/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Supersonic187-Culinary-Combat/index.html",
+    "cover": "https://yx.ecy.al/Supersonic187-Culinary-Combat/cover.png",
+    "publication": {
+      "commit": "0598f7eb55031f61c876c1d36de448d8c4f689b0",
+      "checkedAt": "2026-11-10T07:17:05.616Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "suppayami-yami-engine-delta",
@@ -38943,14 +38967,14 @@
     "owner": "suppayami",
     "name": "yami-engine-delta",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-02T15:15:54.129Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
     "forkName": "suppayami-yami-engine-delta",
-    "checkedAt": "2026-11-04T01:14:25.076Z",
+    "checkedAt": "2026-11-10T07:15:08.328Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 3543,
     "dataSize": 876424,
     "sourceRepo": "suppayami/yami-engine-delta",
@@ -38968,7 +38992,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamStatus": "verified",
-    "upstreamPagesUrl": "https://webrpg.org/suppayami-yami-engine-delta/"
+    "upstreamPagesUrl": "https://webrpg.org/suppayami-yami-engine-delta/",
+    "pagesUrl": "https://yx.ecy.al/suppayami-yami-engine-delta/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "ff0e4f95a1d5e0c33806094e589b4cdfac80c9f2",
+      "checkedAt": "2026-11-10T07:17:46.565Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "supshag-yaxnlw",
@@ -38977,15 +39009,15 @@
     "owner": "supShag",
     "name": "YaXNLW",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-07-12T16:07:09.581Z",
+    "checkedAt": "2026-11-10T07:17:08.859Z",
     "forkName": "supShag-YaXNLW",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 425970,
+    "totalSize": 425966,
     "dataSize": 1286161,
     "sourceRepo": "supShag/YaXNLW",
     "coverPath": "cover.png",
@@ -39009,7 +39041,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/supShag-YaXNLW/",
     "upstreamCover": "https://webrpg.org/supShag-YaXNLW/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/supShag-YaXNLW/index.html",
+    "cover": "https://yx.ecy.al/supShag-YaXNLW/cover.png",
+    "publication": {
+      "commit": "b09a6b901944e593857f8ca96eea0158a6053348",
+      "checkedAt": "2026-11-10T07:20:48.947Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "susk3y-slay3r123-games",
