@@ -33000,15 +33000,15 @@
     "owner": "professor-eggs",
     "name": "Mighty-Game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:53:06.175Z",
+    "checkedAt": "2026-11-10T00:41:23.444Z",
     "forkName": "professor-eggs-Mighty-Game",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 388858,
+    "totalSize": 388857,
     "dataSize": 711564,
     "sourceRepo": "professor-eggs/Mighty-Game",
     "sourceDefaultBranch": "master",
@@ -33032,7 +33032,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/professor-eggs-Mighty-Game/",
     "upstreamCover": "https://webrpg.org/professor-eggs-Mighty-Game/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/professor-eggs-Mighty-Game/index.html",
+    "cover": "https://yx.ecy.al/professor-eggs-Mighty-Game/cover.png",
+    "publication": {
+      "commit": "254e7821f2729ca0dc8099a92c4966a788d8883c",
+      "checkedAt": "2026-11-10T00:48:08.964Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "proximitigames-frayedsystem",
@@ -33178,15 +33186,15 @@
     "owner": "pzahutdwg",
     "name": "pzahutdwg.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "gettoschool5/index.html",
-    "checkedAt": "2026-11-04T01:12:59.134Z",
+    "checkedAt": "2026-11-10T00:46:33.752Z",
     "forkName": "pzahutdwg-pzahutdwg.github.io",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 25771,
     "dataSize": 1739143,
     "sourceRepo": "pzahutdwg/pzahutdwg.github.io",
@@ -33210,7 +33218,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/",
     "upstreamCover": "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/pzahutdwg-pzahutdwg.github.io/index.html",
+    "cover": "https://yx.ecy.al/pzahutdwg-pzahutdwg.github.io/cover.png",
+    "publication": {
+      "commit": "5e357bd3602c2f0741c9c79964794547c918c44e",
+      "checkedAt": "2026-11-10T00:48:26.118Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "q3226257-rpg-game",
@@ -33446,14 +33462,14 @@
     "owner": "raihlima",
     "name": "Gerente-Projetos-Web-MZ",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
     "forkName": "raihlima-Gerente-Projetos-Web-MZ",
-    "checkedAt": "2026-11-02T10:45:06.859Z",
+    "checkedAt": "2026-11-10T00:49:17.039Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 167280,
     "dataSize": 6392846,
     "sourceRepo": "raihlima/Gerente-Projetos-Web-MZ",
@@ -33478,7 +33494,15 @@
       "title": "Odisseia de Jevain"
     },
     "upstreamPagesUrl": "https://webrpg.org/raihlima-Gerente-Projetos-Web-MZ/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/raihlima-Gerente-Projetos-Web-MZ/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "d38d8f516bb446209d0cac58e238492033a865e8",
+      "checkedAt": "2026-11-10T00:51:35.303Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "rains-im-brightpath",
