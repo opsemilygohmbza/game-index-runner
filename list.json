@@ -5549,11 +5549,11 @@
     "owner": "benjaminpants",
     "name": "benjaminpants.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "civ/index.html",
-    "checkedAt": "2026-09-20T23:08:08.719Z",
+    "checkedAt": "2026-11-10T18:31:35.905Z",
     "forkName": "benjaminpants-benjaminpants.github.io",
     "validationScore": 115,
     "totalSize": 475032,
@@ -5573,6 +5573,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/benjaminpants-benjaminpants.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/benjaminpants-benjaminpants.github.io/index.html",
+    "cover": "https://yx.ecy.al/benjaminpants-benjaminpants.github.io/cover.png",
+    "publication": {
+      "commit": "ffe0d682f4f29793a45c5378d112a89416dee9d9",
+      "checkedAt": "2026-11-10T18:35:05.014Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -5771,13 +5779,13 @@
     "owner": "bingletonbartos",
     "name": "bingletonbartos.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-10-22T16:40:46.144Z",
     "source": "github-code-search",
     "sourcePath": "gamefiles/DEAD PLATE.html",
-    "checkedAt": "2026-10-22T16:51:24.875Z",
+    "checkedAt": "2026-11-10T18:34:17.170Z",
     "forkName": "bingletonbartos-bingletonbartos.github.io",
-    "invalidReason": "Repository has 1701 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
