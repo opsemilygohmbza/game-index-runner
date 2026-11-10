@@ -45158,15 +45158,15 @@
     "owner": "wongcyrus",
     "name": "k8s-isekai",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "wongcyrus-k8s-isekai",
-    "checkedAt": "2026-11-04T19:33:58.855Z",
+    "checkedAt": "2026-11-10T13:47:33.696Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 390213,
     "dataSize": 1015522,
     "sourceRepo": "wongcyrus/k8s-isekai",
@@ -45192,7 +45192,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/wongcyrus-k8s-isekai/",
-    "upstreamCover": "https://webrpg.org/wongcyrus-k8s-isekai/cover.png"
+    "upstreamCover": "https://webrpg.org/wongcyrus-k8s-isekai/cover.png",
+    "pagesUrl": "https://yx.ecy.al/wongcyrus-k8s-isekai/index.html",
+    "cover": "https://yx.ecy.al/wongcyrus-k8s-isekai/cover.png",
+    "publication": {
+      "commit": "ba1dc912c7a66ddf3b0a0e8d52a5bb76b4be34ee",
+      "checkedAt": "2026-11-10T13:50:25.443Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "wookieematt-heirloom",
@@ -45201,15 +45209,15 @@
     "owner": "WookieeMatt",
     "name": "Heirloom",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "WookieeMatt-Heirloom",
-    "checkedAt": "2026-11-04T19:34:24.584Z",
+    "checkedAt": "2026-11-10T13:47:43.152Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 313180,
     "dataSize": 1154628,
     "sourceRepo": "WookieeMatt/Heirloom",
@@ -45230,7 +45238,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/WookieeMatt-Heirloom/",
     "upstreamCover": "https://webrpg.org/WookieeMatt-Heirloom/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/WookieeMatt-Heirloom/index.html",
+    "cover": "https://yx.ecy.al/WookieeMatt-Heirloom/cover.png",
+    "publication": {
+      "commit": "d802fee8ca7cd42e722a81817c8b231d738555ae",
+      "checkedAt": "2026-11-10T13:50:35.785Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "worickcosta2009-coder-rpg.maker.studio.editor.edition",
@@ -45279,16 +45295,16 @@
     "owner": "wvdsh",
     "name": "examples",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "example-rpgmaker/index.html",
     "forkName": "wvdsh-examples",
-    "checkedAt": "2026-11-04T19:34:18.349Z",
+    "checkedAt": "2026-11-10T13:49:47.299Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
-    "totalSize": 360073,
+    "validationScore": 90,
+    "totalSize": 360089,
     "dataSize": 532015,
     "sourceRepo": "wvdsh/examples",
     "sourceDefaultBranch": "main",
@@ -45306,7 +45322,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/wvdsh-examples/",
     "upstreamCover": "https://webrpg.org/wvdsh-examples/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/wvdsh-examples/index.html",
+    "cover": "https://yx.ecy.al/wvdsh-examples/cover.png",
+    "publication": {
+      "commit": "e9ffcdf11b0bd9268e982064d64543ff644d9766",
+      "checkedAt": "2026-11-10T13:53:37.549Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "x451f-campus-rpg",
@@ -45531,16 +45555,16 @@
     "owner": "XMandarava",
     "name": "Plugins4RMMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "tutorialsrc/LEARN_Teleport/index.html",
-    "checkedAt": "2026-07-20T06:22:22.685Z",
+    "checkedAt": "2026-11-10T13:50:06.023Z",
     "forkName": "XMandarava-Plugins4RMMV",
-    "entryPath": "tutorialsrc/LEARN_Teleport/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 9239,
-    "dataSize": 0,
+    "totalSize": 9237,
+    "dataSize": 705032,
     "sourceRepo": "XMandarava/Plugins4RMMV",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "c5909adbf237441da520122e975e4ce17d40727f",
@@ -45556,7 +45580,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/XMandarava-Plugins4RMMV/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/XMandarava-Plugins4RMMV/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "28a7a6865f4b1997635567ebae056a372b885175",
+      "checkedAt": "2026-11-10T13:52:54.602Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "xtoazt-iyf2b9",
@@ -45583,15 +45615,15 @@
     "owner": "xuyanwen2012",
     "name": "RMMV-Battle-System-JS",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:22:15.259Z",
+    "checkedAt": "2026-11-10T13:52:48.798Z",
     "forkName": "xuyanwen2012-RMMV-Battle-System-JS",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 165921,
+    "totalSize": 165920,
     "dataSize": 847793,
     "sourceRepo": "xuyanwen2012/RMMV-Battle-System-JS",
     "sourceDefaultBranch": "master",
@@ -45608,7 +45640,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/xuyanwen2012-RMMV-Battle-System-JS/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/xuyanwen2012-RMMV-Battle-System-JS/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "36a3b6856c590ec515773e34c3dd6ddb590097c5",
+      "checkedAt": "2026-11-10T13:58:55.574Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "xwilarg-19thrpgmakerhorrorjam",
