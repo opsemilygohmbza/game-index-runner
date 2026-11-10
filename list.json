@@ -316,11 +316,11 @@
     "owner": "24c49x",
     "name": "24c49x.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T16:29:52.776Z",
     "source": "github-code-search",
     "sourcePath": "aooni/index.html",
-    "checkedAt": "2026-09-21T12:13:41.999Z",
+    "checkedAt": "2026-11-10T15:14:00.993Z",
     "forkName": "24c49x-24c49x.github.io",
     "validationScore": 118,
     "totalSize": 134985,
@@ -338,6 +338,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/24c49x-24c49x.github.io/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/24c49x-24c49x.github.io/index.html",
+    "cover": "https://yx.ecy.al/24c49x-24c49x.github.io/cover.png",
+    "publication": {
+      "commit": "122f981007c7ee13b6d5159c7d23b0508edaa92d",
+      "checkedAt": "2026-11-10T15:16:43.861Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -3298,9 +3306,9 @@
     "owner": "Ambiwlans",
     "name": "TooFastRPG",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-09-19T03:26:25.874Z",
+    "checkedAt": "2026-11-10T15:14:10.169Z",
     "forkName": "Ambiwlans-TooFastRPG",
-    "status": "indexed",
+    "status": "verified",
     "validationScore": 115,
     "totalSize": 186413,
     "dataSize": 1485886,
@@ -3318,7 +3326,15 @@
       "previousPagesUrl": "https://777723-xyz.github.io/Ambiwlans-TooFastRPG/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
     },
-    "upstreamStatus": "invalid_structure"
+    "upstreamStatus": "invalid_structure",
+    "pagesUrl": "https://yx.ecy.al/Ambiwlans-TooFastRPG/index.html",
+    "cover": "https://yx.ecy.al/Ambiwlans-TooFastRPG/cover.png",
+    "publication": {
+      "commit": "c05e9cadc34438675b02ccc9c174ac46706a665e",
+      "checkedAt": "2026-11-10T15:21:33.542Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "aminegold0-ios-port-tcoaal",
@@ -12514,17 +12530,17 @@
     "owner": "eeg1412",
     "name": "wikimoe-blog-archive",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "web_demo/game_nazo/index.html",
-    "checkedAt": "2026-09-13T03:27:32.116Z",
+    "checkedAt": "2026-11-10T15:17:26.058Z",
     "forkName": "eeg1412-wikimoe-blog-archive",
     "validationScore": 115,
     "totalSize": 79709,
     "dataSize": 188030,
     "sourceRepo": "eeg1412/wikimoe-blog-archive",
-    "invalidReason": "Repository has 2042 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/eeg1412-wikimoe-blog-archive/",
     "upstreamCover": "https://webrpg.org/eeg1412-wikimoe-blog-archive/cover.png",
