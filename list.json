@@ -34273,11 +34273,11 @@
     "owner": "Retro-Muffins",
     "name": "Arcadia",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:53:30.401Z",
+    "checkedAt": "2026-11-10T01:33:37.123Z",
     "forkName": "Retro-Muffins-Arcadia",
     "entryPath": "index.html",
     "validationScore": 118,
@@ -34306,7 +34306,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Retro-Muffins-Arcadia/",
     "upstreamCover": "https://webrpg.org/Retro-Muffins-Arcadia/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Retro-Muffins-Arcadia/index.html",
+    "cover": "https://yx.ecy.al/Retro-Muffins-Arcadia/cover.png",
+    "publication": {
+      "commit": "81ceee26c540f53bd03568f591a213109df6163f",
+      "checkedAt": "2026-11-10T01:37:11.887Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "retrom-project-retrom",
