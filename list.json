@@ -86,13 +86,13 @@
     "owner": "0neByte-Ctrl",
     "name": "neon-vault",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-10-15T23:36:48.537Z",
     "source": "github-code-search",
     "sourcePath": "iframe/462.html",
-    "checkedAt": "2026-10-15T23:44:12.431Z",
+    "checkedAt": "2026-11-10T17:14:19.556Z",
     "forkName": "0neByte-Ctrl-neon-vault",
-    "invalidReason": "Repository has 991 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -300,13 +300,13 @@
     "owner": "1ucent",
     "name": "centauri",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-10T03:14:21.468Z",
     "source": "github-code-search",
     "sourcePath": "assets/UGS/cldeadplate.html",
-    "checkedAt": "2026-09-14T03:37:44.534Z",
+    "checkedAt": "2026-11-10T17:14:29.792Z",
     "forkName": "1ucent-centauri",
-    "invalidReason": "Repository has 2435 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -1236,9 +1236,11 @@
     "owner": "3nginius",
     "name": "RuneTranslatePublic",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T17:15:38.908Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "430230562-kerman-s-dream",
@@ -1732,9 +1734,11 @@
     "owner": "AAK581",
     "name": "MZ-MV-APK-Builder",
     "engine": "RPG Maker",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:42.836Z"
+    "discoveredAt": "2026-11-08T04:06:42.836Z",
+    "checkedAt": "2026-11-10T17:15:49.146Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "aak581-polkadot-cats-game",
@@ -1955,9 +1959,11 @@
     "owner": "AbdullahTrees",
     "name": "omori-pmjs",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T17:15:59.086Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "abner1710-goty-rpg",
