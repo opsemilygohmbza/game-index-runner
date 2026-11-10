@@ -36885,15 +36885,15 @@
     "owner": "shayderrr",
     "name": "idkugssuggestion",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-28T05:15:49.206Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "forkName": "shayderrr-idkugssuggestion",
-    "checkedAt": "2026-11-03T20:58:33.676Z",
+    "checkedAt": "2026-11-10T04:29:30.056Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 434456,
     "dataSize": 2081805,
     "sourceRepo": "shayderrr/idkugssuggestion",
@@ -36918,7 +36918,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/shayderrr-idkugssuggestion/",
-    "upstreamCover": "https://webrpg.org/shayderrr-idkugssuggestion/cover.png"
+    "upstreamCover": "https://webrpg.org/shayderrr-idkugssuggestion/cover.png",
+    "pagesUrl": "https://yx.ecy.al/shayderrr-idkugssuggestion/index.html",
+    "cover": "https://yx.ecy.al/shayderrr-idkugssuggestion/cover.png",
+    "publication": {
+      "commit": "c45f3ba30e6865d79a69f9acd039d3a1411c0b7b",
+      "checkedAt": "2026-11-10T04:34:39.835Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "shd101wyy-shd101wyy-github-io",
