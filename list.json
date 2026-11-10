@@ -35961,14 +35961,14 @@
     "owner": "saluji",
     "name": "tsot",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "TSOT/Assets/GameAssets/Environment/Pixel Fantasy RMMZ RTP Tiles/SAMPLE PROJECT/Pixel Fantasy Tiles/index.html",
-    "checkedAt": "2026-11-04T01:13:20.752Z",
+    "checkedAt": "2026-11-10T03:44:00.222Z",
     "forkName": "saluji-tsot",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 322143,
     "dataSize": 805160,
     "sourceRepo": "saluji/tsot",
@@ -35988,7 +35988,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/saluji-tsot/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/saluji-tsot/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "92a539d81467bfb574ceeb28fd845c042b9b77a9",
+      "checkedAt": "2026-11-10T03:46:37.633Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sammabel-87531",
@@ -36023,15 +36031,15 @@
     "owner": "samsam2310",
     "name": "Zatho",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:54:13.577Z",
+    "checkedAt": "2026-11-10T03:44:11.079Z",
     "forkName": "samsam2310-Zatho",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 9873,
+    "totalSize": 9898,
     "dataSize": 671361,
     "sourceRepo": "samsam2310/Zatho",
     "sourceDefaultBranch": "master",
@@ -36040,7 +36048,15 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/samsam2310-Zatho/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/samsam2310-Zatho/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/samsam2310-Zatho/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "d5c074f60cd822627772c730b2b305ef71078b7e",
+      "checkedAt": "2026-11-10T03:46:27.182Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sanmollp-sanmollp-github-io",
