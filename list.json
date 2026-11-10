@@ -17180,13 +17180,13 @@
     "owner": "GoatTech-42",
     "name": "NEBULACDN",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-18T20:26:38.152Z",
     "source": "github-code-search",
     "sourcePath": "games/deadplate.html",
-    "checkedAt": "2026-09-18T20:34:52.804Z",
+    "checkedAt": "2026-11-10T23:29:42.494Z",
     "forkName": "GoatTech-42-NEBULACDN",
-    "invalidReason": "Repository has 2997 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -17264,11 +17264,11 @@
     "owner": "goofmint",
     "name": "devrelcon-tokyo-2021",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "devrelcon-tokyo-quest/index.html",
-    "checkedAt": "2026-11-03T20:57:11.392Z",
+    "checkedAt": "2026-11-10T23:29:51.273Z",
     "forkName": "goofmint-devrelcon-tokyo-2021",
     "sourceRepo": "goofmint/devrelcon-tokyo-2021",
     "sourceDefaultBranch": "main",
@@ -17276,7 +17276,19 @@
     "processedHeadSha": "9ee9c0286cddc289c86753ea85d60f7fb7bce53c",
     "consecutiveFailures": 7,
     "lastFailedAt": "2026-11-03T20:57:11.392Z",
-    "upstreamStatus": "check_error"
+    "upstreamStatus": "check_error",
+    "pagesUrl": "https://yx.ecy.al/goofmint-devrelcon-tokyo-2021/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/goofmint-devrelcon-tokyo-2021/cover.png",
+    "totalSize": 259946,
+    "dataSize": 1015399,
+    "validationScore": 90,
+    "publication": {
+      "commit": "0731a9d9a3677e0a128ecdfd78c0923a3a0b1d96",
+      "checkedAt": "2026-11-10T23:32:04.270Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "googledrive123-googledrive123-github-io",
@@ -17342,11 +17354,11 @@
     "owner": "graveyardshiftpd",
     "name": "tcoaar-project",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-07-04T23:05:17.063Z",
+    "checkedAt": "2026-11-10T23:31:46.490Z",
     "forkName": "graveyardshiftpd-tcoaar-project",
     "sourceRepo": "graveyardshiftpd/tcoaar-project",
     "consecutiveFailures": 8,
@@ -17358,7 +17370,15 @@
     "dataSize": 6980086,
     "upstreamPagesUrl": "https://webrpg.org/graveyardshiftpd-tcoaar-project/",
     "upstreamCover": "https://webrpg.org/graveyardshiftpd-tcoaar-project/cover.png",
-    "upstreamStatus": "unavailable"
+    "upstreamStatus": "unavailable",
+    "pagesUrl": "https://yx.ecy.al/graveyardshiftpd-tcoaar-project/index.html",
+    "cover": "https://yx.ecy.al/graveyardshiftpd-tcoaar-project/cover.png",
+    "publication": {
+      "commit": "feb7a68da775f431b341f7ad6cc1e7f5134beb3f",
+      "checkedAt": "2026-11-10T23:34:08.760Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "grayblackannihilation-goldenmap",
@@ -17412,13 +17432,13 @@
     "owner": "GreenGru2",
     "name": "ugs-files",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "clbloodmoney.html",
-    "checkedAt": "2026-09-16T11:03:51.130Z",
+    "checkedAt": "2026-11-10T23:31:56.058Z",
     "forkName": "GreenGru2-ugs-files",
-    "invalidReason": "Repository has 1687 HTML files, exceeding the 500 file limit.",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "upstreamStatus": "skipped_large"
   },
   {
@@ -17665,10 +17685,24 @@
     "repo": "https://github.com/guobin6910-cell/medieval-monster-hunt",
     "owner": "guobin6910-cell",
     "name": "medieval-monster-hunt",
-    "engine": "RPG Maker",
-    "status": "indexed",
+    "engine": "RPG Maker MZ",
+    "status": "verified",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:42.836Z"
+    "discoveredAt": "2026-11-08T04:06:42.836Z",
+    "checkedAt": "2026-11-10T23:33:59.624Z",
+    "forkName": "guobin6910-cell-medieval-monster-hunt",
+    "pagesUrl": "https://yx.ecy.al/guobin6910-cell-medieval-monster-hunt/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/guobin6910-cell-medieval-monster-hunt/cover.png",
+    "totalSize": 62534,
+    "dataSize": 1037357,
+    "validationScore": 93,
+    "publication": {
+      "commit": "8972eceed68d2d3c253b123c5cbc23d9e137f6a8",
+      "checkedAt": "2026-11-10T23:36:11.323Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "gward2489-rpgmakermvonline",
