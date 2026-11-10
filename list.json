@@ -41496,15 +41496,15 @@
     "owner": "tomoshibi06",
     "name": "bathroom",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:37.848Z",
+    "checkedAt": "2026-11-10T09:34:12.435Z",
     "forkName": "tomoshibi06-bathroom",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 161216,
+    "totalSize": 161215,
     "dataSize": 1183761,
     "sourceRepo": "tomoshibi06/bathroom",
     "sourceDefaultBranch": "master",
@@ -41529,7 +41529,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/tomoshibi06-bathroom/",
     "upstreamCover": "https://webrpg.org/tomoshibi06-bathroom/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tomoshibi06-bathroom/index.html",
+    "cover": "https://yx.ecy.al/tomoshibi06-bathroom/cover.png",
+    "publication": {
+      "commit": "3feb112dadcf9dfcedf1b4ab81c8fe9f57086fdd",
+      "checkedAt": "2026-11-10T09:39:56.925Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tomoshibi06-divirtualdemo",
