@@ -3868,16 +3868,28 @@
     "owner": "Anqui3tas",
     "name": "Fiesta-RPG",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Fiesta-app/Fiesta/Game/index.html",
-    "checkedAt": "2026-11-03T13:52:18.885Z",
+    "checkedAt": "2026-11-10T17:50:06.688Z",
     "forkName": "Anqui3tas-Fiesta-RPG",
     "consecutiveFailures": 8,
     "lastFailedAt": "2026-11-03T13:52:18.885Z",
     "invalidReason": "Gave up after 8 consecutive failed checks.",
-    "upstreamStatus": "retry_exhausted"
+    "upstreamStatus": "retry_exhausted",
+    "pagesUrl": "https://yx.ecy.al/Anqui3tas-Fiesta-RPG/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/Anqui3tas-Fiesta-RPG/cover.png",
+    "totalSize": 532042,
+    "dataSize": 1099256,
+    "validationScore": 90,
+    "publication": {
+      "commit": "c4a6ffd8c27359060b4fe2d2674a7414b7d1b0af",
+      "checkedAt": "2026-11-10T17:53:34.094Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "anthonygit1-qhatulab-frontend",
@@ -3990,15 +4002,15 @@
     "owner": "antiperfectclub",
     "name": "codingforfun",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "RPG Maker/NewStarter/index.html",
-    "checkedAt": "2026-09-20T20:32:15.827Z",
+    "checkedAt": "2026-11-10T17:50:15.412Z",
     "forkName": "antiperfectclub-codingforfun",
     "validationScore": 115,
     "totalSize": 414231,
-    "dataSize": 0,
+    "dataSize": 723530,
     "sourceRepo": "antiperfectclub/codingforfun",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "785386a5669f628af5ff6002a501fafe5d4eec87",
@@ -4006,7 +4018,7 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-20T20:32:17.539Z",
-    "entryPath": "RPG Maker/NewStarter/index.html",
+    "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/antiperfectclub-codingforfun/",
     "upstreamCover": "https://webrpg.org/antiperfectclub-codingforfun/cover.png",
     "upstreamStatus": "invalid_structure",
@@ -4014,6 +4026,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/antiperfectclub-codingforfun/RPG%20Maker/NewStarter/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/antiperfectclub-codingforfun/index.html",
+    "cover": "https://yx.ecy.al/antiperfectclub-codingforfun/cover.png",
+    "publication": {
+      "commit": "d4caac58a6e5191581c2c00a1f7fb93d67dd515c",
+      "checkedAt": "2026-11-10T17:53:28.450Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4216,15 +4236,15 @@
     "owner": "Apress",
     "name": "beg-rpg-maker-mv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "9781484219669/9781484219669_Ch6/Chapter 6/index.html",
-    "checkedAt": "2026-09-20T20:32:35.331Z",
+    "checkedAt": "2026-11-10T17:52:55.903Z",
     "forkName": "Apress-beg-rpg-maker-mv",
     "validationScore": 115,
     "totalSize": 402126,
-    "dataSize": 0,
+    "dataSize": 669387,
     "sourceRepo": "Apress/beg-rpg-maker-mv",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "008e49db37e27b4da612c53fe2061bee09f2c28e",
@@ -4232,7 +4252,7 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-20T20:32:37.242Z",
-    "entryPath": "9781484219669/9781484219669_Ch1/Chapter 1/index.html",
+    "entryPath": "index.html",
     "upstreamPagesUrl": "https://webrpg.org/Apress-beg-rpg-maker-mv/",
     "upstreamCover": "https://webrpg.org/Apress-beg-rpg-maker-mv/cover.png",
     "upstreamStatus": "invalid_structure",
@@ -4240,6 +4260,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/Apress-beg-rpg-maker-mv/9781484219669/9781484219669_Ch1/Chapter%201/index.html",
       "recoveredAt": "2026-11-08T03:52:23.459Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/Apress-beg-rpg-maker-mv/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "2e4313858242df65140d265a2eaddeb74480b7c2",
+      "checkedAt": "2026-11-10T17:55:14.038Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -4312,9 +4340,11 @@
     "owner": "ar4yc",
     "name": "TCOAAL-IOS",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:23.735Z"
+    "discoveredAt": "2026-11-08T04:06:23.735Z",
+    "checkedAt": "2026-11-10T17:55:43.888Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "araragihoozuki-projectmaga",
@@ -4576,9 +4606,11 @@
     "owner": "ArkansasIo",
     "name": "rpgcrafter",
     "engine": "RPG Maker",
-    "status": "indexed",
+    "status": "invalid_structure",
     "source": "github-repository-search",
-    "discoveredAt": "2026-11-08T04:06:42.836Z"
+    "discoveredAt": "2026-11-08T04:06:42.836Z",
+    "checkedAt": "2026-11-10T17:56:15.016Z",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found."
   },
   {
     "id": "arqui-dev-projetocaminhoneiro",
