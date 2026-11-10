@@ -36065,15 +36065,15 @@
     "owner": "sanmollp",
     "name": "sanmollp.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "sanmollp-sanmollp.github.io",
-    "checkedAt": "2026-11-03T13:52:14.147Z",
+    "checkedAt": "2026-11-10T03:46:30.327Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 99919,
     "dataSize": 1204840,
     "sourceRepo": "sanmollp/sanmollp.github.io",
@@ -36099,7 +36099,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/sanmollp-sanmollp.github.io/",
     "upstreamCover": "https://webrpg.org/sanmollp-sanmollp.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sanmollp-sanmollp.github.io/index.html",
+    "cover": "https://yx.ecy.al/sanmollp-sanmollp.github.io/cover.png",
+    "publication": {
+      "commit": "52577351d4b7a730ce07f366d705bf88193c6469",
+      "checkedAt": "2026-11-10T03:51:21.684Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sasakimika487-chuyentausninhtu",
@@ -36108,15 +36116,15 @@
     "owner": "sasakimika487",
     "name": "chuyentausninhtu",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-17T23:54:14.256Z",
+    "checkedAt": "2026-11-10T03:46:51.837Z",
     "forkName": "sasakimika487-chuyentausninhtu",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 74291,
+    "totalSize": 74289,
     "dataSize": 436193,
     "sourceRepo": "sasakimika487/chuyentausninhtu",
     "sourceDefaultBranch": "master",
@@ -36145,7 +36153,15 @@
       "title": "CHUYẾN TÀU SINH TỬ"
     },
     "upstreamPagesUrl": "https://webrpg.org/sasakimika487-chuyentausninhtu/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sasakimika487-chuyentausninhtu/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "7170439b115addc2db91b7b631b75cb07f417265",
+      "checkedAt": "2026-11-10T03:51:21.663Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sausagemania-odd-of-eden-project",
