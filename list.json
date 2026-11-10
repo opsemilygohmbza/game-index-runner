@@ -17467,11 +17467,11 @@
     "owner": "grimelion",
     "name": "GameDev",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Windows/GameDev/www/index.html",
-    "checkedAt": "2026-09-21T20:00:12.170Z",
+    "checkedAt": "2026-11-10T23:33:20.551Z",
     "forkName": "grimelion-GameDev",
     "validationScore": 115,
     "totalSize": 434780,
@@ -17491,6 +17491,14 @@
       "previousStatus": "verified",
       "previousPagesUrl": "https://777723-xyz.github.io/grimelion-GameDev/index.html",
       "recoveredAt": "2026-11-08T03:52:23.460Z"
+    },
+    "pagesUrl": "https://yx.ecy.al/grimelion-GameDev/index.html",
+    "cover": "https://yx.ecy.al/grimelion-GameDev/cover.png",
+    "publication": {
+      "commit": "495f426713338364464cd6b5186a1af462f66621",
+      "checkedAt": "2026-11-10T23:36:32.214Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
     }
   },
   {
@@ -17729,13 +17737,13 @@
     "owner": "gx-gamescrack",
     "name": "GX-Gamescrack.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-08-25T06:43:48.287Z",
     "source": "github-code-search",
     "sourcePath": "semag/bloodmoney/index.html",
-    "checkedAt": "2026-09-16T11:04:09.683Z",
+    "checkedAt": "2026-11-10T23:35:53.393Z",
     "forkName": "gx-gamescrack-GX-Gamescrack.github.io",
-    "invalidReason": "Startup scripts exceed the inspection limits.",
+    "invalidReason": "RPG Maker structure is incomplete near semag/bloodmoney/index.html.",
     "upstreamStatus": "skipped_large"
   },
   {
