@@ -42201,14 +42201,14 @@
     "owner": "ttoonnaa",
     "name": "DQ3Remake",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "ttoonnaa-DQ3Remake",
-    "checkedAt": "2026-11-04T10:42:21.766Z",
+    "checkedAt": "2026-11-10T10:18:06.105Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 1711,
     "dataSize": 1239212,
     "sourceRepo": "ttoonnaa/DQ3Remake",
@@ -42229,7 +42229,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/ttoonnaa-DQ3Remake/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/ttoonnaa-DQ3Remake/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "ffcc612fc5cb8b29e1cbccb97013d0d17e553172",
+      "checkedAt": "2026-11-10T10:21:45.601Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tw123777tw-badstatusdr",
