@@ -46694,15 +46694,15 @@
     "owner": "zkrejcov",
     "name": "rmmv-plugins",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "secret_passage/SecretPassageDemo/index.html",
     "forkName": "zkrejcov-rmmv-plugins",
-    "checkedAt": "2026-11-04T19:35:26.265Z",
+    "checkedAt": "2026-11-10T14:39:05.834Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 23658,
     "dataSize": 67464,
     "sourceRepo": "zkrejcov/rmmv-plugins",
@@ -46721,7 +46721,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/zkrejcov-rmmv-plugins/",
-    "upstreamCover": "https://webrpg.org/zkrejcov-rmmv-plugins/cover.png"
+    "upstreamCover": "https://webrpg.org/zkrejcov-rmmv-plugins/cover.png",
+    "pagesUrl": "https://yx.ecy.al/zkrejcov-rmmv-plugins/index.html",
+    "cover": "https://yx.ecy.al/zkrejcov-rmmv-plugins/cover.png",
+    "publication": {
+      "commit": "33036f4ce019153782ff7fde09fe8e2f407ee855",
+      "checkedAt": "2026-11-10T14:45:01.074Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "zoujiahuan-thegame4muse",
