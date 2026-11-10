@@ -38638,16 +38638,16 @@
     "owner": "stl1988",
     "name": "stl1988.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "mvdemo/index.html",
-    "checkedAt": "2026-06-17T23:55:27.433Z",
+    "checkedAt": "2026-11-10T06:37:29.963Z",
     "forkName": "stl1988-stl1988.github.io",
-    "entryPath": "mvdemo/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 245502,
-    "dataSize": 0,
+    "totalSize": 245493,
+    "dataSize": 1258257,
     "sourceRepo": "stl1988/stl1988.github.io",
     "coverPath": "cover.png",
     "sourceDefaultBranch": "main",
@@ -38665,7 +38665,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/stl1988-stl1988.github.io/",
     "upstreamCover": "https://webrpg.org/stl1988-stl1988.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/stl1988-stl1988.github.io/index.html",
+    "cover": "https://yx.ecy.al/stl1988-stl1988.github.io/cover.png",
+    "publication": {
+      "commit": "da0b1e3ebc6a0808ef339501c35b9568f95c67cf",
+      "checkedAt": "2026-11-10T06:44:04.235Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "stratus-games-stratus",
