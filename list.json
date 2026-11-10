@@ -45829,15 +45829,15 @@
     "owner": "yancharkin",
     "name": "game_jams",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "[igmc_2017]_gamedev_the_beginning/index.html",
-    "checkedAt": "2026-07-09T19:00:05.323Z",
+    "checkedAt": "2026-11-10T13:55:00.978Z",
     "forkName": "yancharkin-game_jams",
     "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 93911,
+    "totalSize": 93906,
     "dataSize": 782164,
     "sourceRepo": "yancharkin/game_jams",
     "coverPath": "cover.png",
@@ -45860,7 +45860,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/yancharkin-game_jams/",
     "upstreamCover": "https://webrpg.org/yancharkin-game_jams/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/yancharkin-game_jams/index.html",
+    "cover": "https://yx.ecy.al/yancharkin-game_jams/cover.png",
+    "publication": {
+      "commit": "0797ea24d887908946c6cb091671ef2eb4bc9241",
+      "checkedAt": "2026-11-10T13:59:14.773Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "yellowdevelopment-sienna",
@@ -45885,15 +45893,15 @@
     "owner": "Yesenmidnight",
     "name": "2000sEscape",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "2000sEscape/index.html",
     "forkName": "Yesenmidnight-2000sEscape",
-    "checkedAt": "2026-11-04T19:33:58.854Z",
+    "checkedAt": "2026-11-10T13:57:20.819Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 256744,
     "dataSize": 764127,
     "sourceRepo": "Yesenmidnight/2000sEscape",
@@ -45922,7 +45930,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Yesenmidnight-2000sEscape/",
     "upstreamCover": "https://webrpg.org/Yesenmidnight-2000sEscape/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Yesenmidnight-2000sEscape/index.html",
+    "cover": "https://yx.ecy.al/Yesenmidnight-2000sEscape/cover.png",
+    "publication": {
+      "commit": "d5ff805da31a3e9e6dd4604294beb63072af6e18",
+      "checkedAt": "2026-11-10T13:59:30.731Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "yexi-by-att",
