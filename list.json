@@ -37628,16 +37628,16 @@
     "owner": "SirMcPotato",
     "name": "RMMV-MMO-webkit",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/game/index.html",
-    "checkedAt": "2026-06-17T23:55:05.529Z",
+    "checkedAt": "2026-11-10T05:45:42.243Z",
     "forkName": "SirMcPotato-RMMV-MMO-webkit",
-    "entryPath": "public/game/index.html",
+    "entryPath": "index.html",
     "validationScore": 115,
-    "totalSize": 400547,
-    "dataSize": 0,
+    "totalSize": 400544,
+    "dataSize": 671508,
     "sourceRepo": "SirMcPotato/RMMV-MMO-webkit",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "c6e40f72c86bb8e590edf1e1873285870bbb7629",
@@ -37655,7 +37655,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/SirMcPotato-RMMV-MMO-webkit/",
     "upstreamCover": "https://webrpg.org/SirMcPotato-RMMV-MMO-webkit/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/SirMcPotato-RMMV-MMO-webkit/index.html",
+    "cover": "https://yx.ecy.al/SirMcPotato-RMMV-MMO-webkit/cover.png",
+    "publication": {
+      "commit": "2385020e93263be2a6abb91148cf47f33918ee90",
+      "checkedAt": "2026-11-10T05:49:08.432Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sirpacings-isoislandrpg",
@@ -37664,15 +37672,15 @@
     "owner": "SirPacings",
     "name": "IsoIslandRpg",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-07-01T12:05:45.663Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "SirPacings-IsoIslandRpg",
-    "checkedAt": "2026-11-03T20:58:58.627Z",
+    "checkedAt": "2026-11-10T05:45:50.775Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388632,
     "dataSize": 786938,
     "sourceRepo": "SirPacings/IsoIslandRpg",
@@ -37696,7 +37704,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/SirPacings-IsoIslandRpg/",
-    "upstreamCover": "https://webrpg.org/SirPacings-IsoIslandRpg/cover.png"
+    "upstreamCover": "https://webrpg.org/SirPacings-IsoIslandRpg/cover.png",
+    "pagesUrl": "https://yx.ecy.al/SirPacings-IsoIslandRpg/index.html",
+    "cover": "https://yx.ecy.al/SirPacings-IsoIslandRpg/cover.png",
+    "publication": {
+      "commit": "25fee5e95e673f64d2ece754f3427483148457a8",
+      "checkedAt": "2026-11-10T05:48:58.604Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sity06-for-the-world-updated",
@@ -37705,14 +37721,14 @@
     "owner": "sity06",
     "name": "for-the-world-updated",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "sity06-for-the-world-updated",
-    "checkedAt": "2026-11-03T20:58:53.091Z",
+    "checkedAt": "2026-11-10T05:48:20.076Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 30676,
     "dataSize": 829327,
     "sourceRepo": "sity06/for-the-world-updated",
@@ -37735,7 +37751,15 @@
       "reviewedAt": "2026-11-07"
     },
     "upstreamPagesUrl": "https://webrpg.org/sity06-for-the-world-updated/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sity06-for-the-world-updated/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "150ed424feb9a69ba85be938573263a00f78f241",
+      "checkedAt": "2026-11-10T05:50:49.402Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "skypad123-ntu-cz3003-ultraregin-mono",
@@ -37744,15 +37768,15 @@
     "owner": "skypad123",
     "name": "ntu_cz3003-ultraregin-mono",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game_fe/Test Project/index.html",
-    "checkedAt": "2026-11-04T01:13:15.066Z",
+    "checkedAt": "2026-11-10T05:48:30.313Z",
     "forkName": "skypad123-ntu_cz3003-ultraregin-mono",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 527716,
     "dataSize": 1042884,
     "sourceRepo": "skypad123/ntu_cz3003-ultraregin-mono",
@@ -37763,7 +37787,15 @@
     "reachabilityDetail": "https://webrpg.org/skypad123-ntu_cz3003-ultraregin-mono/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/skypad123-ntu_cz3003-ultraregin-mono/",
     "upstreamCover": "https://webrpg.org/skypad123-ntu_cz3003-ultraregin-mono/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/skypad123-ntu_cz3003-ultraregin-mono/index.html",
+    "cover": "https://yx.ecy.al/skypad123-ntu_cz3003-ultraregin-mono/cover.png",
+    "publication": {
+      "commit": "6d4c217154b5d817da518143bc67dfb612569fc7",
+      "checkedAt": "2026-11-10T05:51:07.323Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sness128-sness128-github-io",
@@ -37772,15 +37804,15 @@
     "owner": "sness128",
     "name": "sness128.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-07T03:02:51.851Z",
     "source": "github-code-search",
     "sourcePath": "old/games/LongWalk/www/index.html",
     "forkName": "sness128-sness128.github.io",
-    "checkedAt": "2026-11-04T01:13:39.580Z",
+    "checkedAt": "2026-11-10T05:50:30.437Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 292275,
     "dataSize": 962542,
     "sourceRepo": "sness128/sness128.github.io",
@@ -37804,7 +37836,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/sness128-sness128.github.io/",
     "upstreamCover": "https://webrpg.org/sness128-sness128.github.io/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/sness128-sness128.github.io/index.html",
+    "cover": "https://yx.ecy.al/sness128-sness128.github.io/cover.png",
+    "publication": {
+      "commit": "b98af518d5cbd9c43eebe21ea4bef3ddd2272cc5",
+      "checkedAt": "2026-11-10T05:53:28.944Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "soapstain22-crimpoquestmv",
