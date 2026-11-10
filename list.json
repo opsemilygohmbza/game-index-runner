@@ -45785,15 +45785,15 @@
     "owner": "yan-0929-yyy",
     "name": "RPG-Maker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-27T00:14:32.450Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T10:40:09.904Z",
+    "checkedAt": "2026-11-10T13:54:51.111Z",
     "forkName": "yan-0929-yyy-RPG-Maker",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388560,
     "dataSize": 881187,
     "sourceRepo": "yan-0929-yyy/RPG-Maker",
@@ -45812,7 +45812,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/yan-0929-yyy-RPG-Maker/",
     "upstreamCover": "https://webrpg.org/yan-0929-yyy-RPG-Maker/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/yan-0929-yyy-RPG-Maker/index.html",
+    "cover": "https://yx.ecy.al/yan-0929-yyy-RPG-Maker/cover.png",
+    "publication": {
+      "commit": "472cd84d572837cfbd8b795320f0a3468841aea9",
+      "checkedAt": "2026-11-10T13:58:56.084Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "yancharkin-game-jams",
