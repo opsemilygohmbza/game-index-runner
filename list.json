@@ -45072,14 +45072,14 @@
     "owner": "Wolverinexxxxxz",
     "name": "Sat-Muhammed-Ali-Ture",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-10-31T21:11:07.151Z",
+    "checkedAt": "2026-11-10T13:13:57.368Z",
     "forkName": "Wolverinexxxxxz-Sat-Muhammed-Ali-Ture",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 118,
     "totalSize": 388598,
     "dataSize": 735321,
     "sourceRepo": "Wolverinexxxxxz/Sat-Muhammed-Ali-Ture",
@@ -45091,7 +45091,15 @@
     "reachabilityDetail": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/ served an RPG Maker entry point and its startup resources",
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/",
-    "upstreamCover": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/cover.png"
+    "upstreamCover": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/cover.png",
+    "pagesUrl": "https://yx.ecy.al/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/index.html",
+    "cover": "https://yx.ecy.al/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/cover.png",
+    "publication": {
+      "commit": "21c13fecc1195fff7149869a5669e92db9ebf392",
+      "checkedAt": "2026-11-10T13:18:47.917Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "wongcyrus-azure-isekai",
@@ -45100,15 +45108,15 @@
     "owner": "wongcyrus",
     "name": "azure-isekai",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:02.740Z",
+    "checkedAt": "2026-11-10T13:14:07.151Z",
     "forkName": "wongcyrus-azure-isekai",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 390616,
+    "totalSize": 390623,
     "dataSize": 1015517,
     "sourceRepo": "wongcyrus/azure-isekai",
     "sourceDefaultBranch": "main",
@@ -45133,7 +45141,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/wongcyrus-azure-isekai/",
     "upstreamCover": "https://webrpg.org/wongcyrus-azure-isekai/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/wongcyrus-azure-isekai/index.html",
+    "cover": "https://yx.ecy.al/wongcyrus-azure-isekai/cover.png",
+    "publication": {
+      "commit": "2c55342db9b8e360b107172c93ed9938eacd1069",
+      "checkedAt": "2026-11-10T13:18:48.353Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "wongcyrus-k8s-isekai",
