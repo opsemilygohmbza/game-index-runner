@@ -13912,16 +13912,28 @@
     "owner": "Escartem",
     "name": "TCOAALSource",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
     "forkName": "Escartem-TCOAALSource",
-    "checkedAt": "2026-07-20T06:22:09.975Z",
+    "checkedAt": "2026-11-10T21:43:47.343Z",
     "consecutiveFailures": 1,
     "lastFailedAt": "2026-09-16T11:02:51.408Z",
     "invalidReason": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub.",
-    "upstreamStatus": "unavailable"
+    "upstreamStatus": "unavailable",
+    "pagesUrl": "https://yx.ecy.al/Escartem-TCOAALSource/index.html",
+    "entryPath": "index.html",
+    "cover": "https://yx.ecy.al/Escartem-TCOAALSource/cover.png",
+    "totalSize": 486228,
+    "dataSize": 13888366,
+    "validationScore": 115,
+    "publication": {
+      "commit": "28c82aca119276e2542c430bbbad3af4b8ce6f33",
+      "checkedAt": "2026-11-10T21:48:25.515Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "eslym-rmmz-cordova",
