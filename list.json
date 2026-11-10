@@ -41462,12 +41462,12 @@
     "owner": "tomoshibi06",
     "name": "abcv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
-    "checkedAt": "2026-06-18T04:11:19.048Z",
+    "status": "verified",
+    "checkedAt": "2026-11-10T09:34:02.245Z",
     "forkName": "tomoshibi06-abcv",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 131782,
+    "totalSize": 131781,
     "dataSize": 5442220,
     "sourceRepo": "tomoshibi06/abcv",
     "sourceDefaultBranch": "master",
@@ -41479,7 +41479,15 @@
     "source": "upstream-webrpg-index",
     "upstreamPagesUrl": "https://webrpg.org/tomoshibi06-abcv/",
     "upstreamCover": "https://webrpg.org/tomoshibi06-abcv/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/tomoshibi06-abcv/index.html",
+    "cover": "https://yx.ecy.al/tomoshibi06-abcv/cover.png",
+    "publication": {
+      "commit": "c46e3d860869c078de24b886018af09ac4305f15",
+      "checkedAt": "2026-11-10T09:36:34.523Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "tomoshibi06-bathroom",
