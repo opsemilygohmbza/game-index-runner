@@ -43766,15 +43766,15 @@
     "owner": "VaultManCs",
     "name": "GaR_TheGame",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-10-27T00:14:32.450Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-04T19:33:35.753Z",
+    "checkedAt": "2026-11-10T11:47:55.523Z",
     "forkName": "VaultManCs-GaR_TheGame",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 93,
     "totalSize": 670159,
     "dataSize": 1288711,
     "sourceRepo": "VaultManCs/GaR_TheGame",
@@ -43798,7 +43798,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/VaultManCs-GaR_TheGame/",
     "upstreamCover": "https://webrpg.org/VaultManCs-GaR_TheGame/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/VaultManCs-GaR_TheGame/index.html",
+    "cover": "https://yx.ecy.al/VaultManCs-GaR_TheGame/cover.png",
+    "publication": {
+      "commit": "c4427dae7c13f1c52c9fa885fc55f8715dd917de",
+      "checkedAt": "2026-11-10T11:52:39.058Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "vehirus-kor-2026-capstone-design",
