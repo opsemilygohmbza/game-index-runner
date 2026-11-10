@@ -44600,15 +44600,15 @@
     "owner": "web-ports",
     "name": "in-stars-and-time",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:22:40.567Z",
+    "checkedAt": "2026-11-10T13:04:23.641Z",
     "forkName": "web-ports-in-stars-and-time",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 195790,
+    "totalSize": 195786,
     "dataSize": 14900517,
     "sourceRepo": "web-ports/in-stars-and-time",
     "sourceDefaultBranch": "main",
@@ -44633,7 +44633,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/web-ports-in-stars-and-time/",
     "upstreamCover": "https://webrpg.org/web-ports-in-stars-and-time/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/web-ports-in-stars-and-time/index.html",
+    "cover": "https://yx.ecy.al/web-ports-in-stars-and-time/cover.png",
+    "publication": {
+      "commit": "0cd458bbcce54b53b79b7757844e08006ab52d5e",
+      "checkedAt": "2026-11-10T13:08:48.511Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "webrpg-org-index",
@@ -44666,15 +44674,15 @@
     "owner": "webservicesjarm",
     "name": "Juego1",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-07-20T06:23:04.820Z",
+    "checkedAt": "2026-11-10T13:04:31.935Z",
     "forkName": "webservicesjarm-Juego1",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 292259,
+    "totalSize": 292256,
     "dataSize": 684779,
     "sourceRepo": "webservicesjarm/Juego1",
     "sourceDefaultBranch": "master",
@@ -44698,7 +44706,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/webservicesjarm-Juego1/",
     "upstreamCover": "https://webrpg.org/webservicesjarm-Juego1/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/webservicesjarm-Juego1/index.html",
+    "cover": "https://yx.ecy.al/webservicesjarm-Juego1/cover.png",
+    "publication": {
+      "commit": "9bc82f3238a5526d095bc41d7e23d4ea2947ed1d",
+      "checkedAt": "2026-11-10T13:07:04.779Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "weepingwitch-weepingwitch-github-io",
@@ -44707,14 +44723,14 @@
     "owner": "weepingwitch",
     "name": "weepingwitch.github.io",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "TrainRPG/index.html",
     "forkName": "weepingwitch-weepingwitch.github.io",
-    "checkedAt": "2026-11-04T19:33:33.533Z",
+    "checkedAt": "2026-11-10T13:04:52.348Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 349726,
     "dataSize": 1170651,
     "sourceRepo": "weepingwitch/weepingwitch.github.io",
@@ -44724,7 +44740,15 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/weepingwitch-weepingwitch.github.io/ served an RPG Maker entry point and its startup resources",
     "upstreamPagesUrl": "https://webrpg.org/weepingwitch-weepingwitch.github.io/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/weepingwitch-weepingwitch.github.io/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "c22e13d4f24c9000f8e2f3068aba4a0364f781ed",
+      "checkedAt": "2026-11-10T13:07:29.958Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "wfay42-enemy-corruption",
@@ -44733,14 +44757,14 @@
     "owner": "wfay42",
     "name": "enemy-corruption",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
     "forkName": "wfay42-enemy-corruption",
-    "checkedAt": "2026-11-04T19:33:08.933Z",
+    "checkedAt": "2026-11-10T13:06:52.482Z",
     "entryPath": "index.html",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 1051,
     "dataSize": 615411,
     "sourceRepo": "wfay42/enemy-corruption",
@@ -44757,7 +44781,15 @@
       "reviewedAt": "2026-11-08"
     },
     "upstreamPagesUrl": "https://webrpg.org/wfay42-enemy-corruption/",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/wfay42-enemy-corruption/index.html",
+    "cover": null,
+    "publication": {
+      "commit": "517bc62e418ba224298cd3fef7333e5ef1dc1d62",
+      "checkedAt": "2026-11-10T13:09:01.837Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "whiterrabbit3672-touhou-ghostfairy-do-people",
@@ -44831,15 +44863,15 @@
     "owner": "Wiktoryk",
     "name": "MaciektheGame",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "maciekworld/index.html",
     "forkName": "Wiktoryk-MaciektheGame",
-    "checkedAt": "2026-11-04T19:33:35.143Z",
+    "checkedAt": "2026-11-10T13:07:30.672Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 90,
     "totalSize": 93841,
     "dataSize": 541253,
     "sourceRepo": "Wiktoryk/MaciektheGame",
@@ -44860,7 +44892,15 @@
     },
     "upstreamPagesUrl": "https://webrpg.org/Wiktoryk-MaciektheGame/",
     "upstreamCover": "https://webrpg.org/Wiktoryk-MaciektheGame/cover.png",
-    "upstreamStatus": "verified"
+    "upstreamStatus": "verified",
+    "pagesUrl": "https://yx.ecy.al/Wiktoryk-MaciektheGame/index.html",
+    "cover": "https://yx.ecy.al/Wiktoryk-MaciektheGame/cover.png",
+    "publication": {
+      "commit": "8e36d3d7a4a90a138b826604bac69305c5baa1a7",
+      "checkedAt": "2026-11-10T13:10:42.263Z",
+      "entryType": "dynamic-main",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "wildcodeschool-2022-03-js-laloupe-quadri-force-p2",
