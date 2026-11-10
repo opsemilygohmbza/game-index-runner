@@ -35484,15 +35484,15 @@
     "owner": "sabakan03",
     "name": "mv",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Project/index.html",
     "forkName": "sabakan03-mv",
-    "checkedAt": "2026-11-03T13:51:31.365Z",
+    "checkedAt": "2026-11-10T03:00:00.412Z",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "validationScore": 108,
+    "validationScore": 115,
     "totalSize": 24894,
     "dataSize": 702027,
     "sourceRepo": "sabakan03/mv",
@@ -35516,7 +35516,15 @@
     },
     "upstreamStatus": "verified",
     "upstreamPagesUrl": "https://webrpg.org/sabakan03-mv/",
-    "upstreamCover": "https://webrpg.org/sabakan03-mv/cover.png"
+    "upstreamCover": "https://webrpg.org/sabakan03-mv/cover.png",
+    "pagesUrl": "https://yx.ecy.al/sabakan03-mv/index.html",
+    "cover": "https://yx.ecy.al/sabakan03-mv/cover.png",
+    "publication": {
+      "commit": "d6d2d0ad8fc8eee2206cd73551ff6cd2a6518c76",
+      "checkedAt": "2026-11-10T03:08:37.021Z",
+      "entryType": "direct-core",
+      "check": "Pages built + HTML entry, not a full browser playthrough"
+    }
   },
   {
     "id": "sabotai-sabotai-github-io",
